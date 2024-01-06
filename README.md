@@ -54,6 +54,13 @@ http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/540
 #EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ UHD" tvg-logo="" group-title="TV SBT",SBT RJ UHD
 http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/537
 
+#EXTM3U url-tvg=" http://grade-de-TV BAND.xml "
+ ############## TV BAND  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV BAND" group-title="
+
+#EXTINF:-1 tvg-id="TV BAND" tvg-logo="https://leobalsalobre.files.wordpress.com/2015/05/band-1.jpg" group-title="TV BAND",TV BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
 #EXTM3U url-tvg=" http://grade-de-CANAIS WEB TV FAX.xml "
  ############## CANAIS WEB TV FAX  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS WEB TV FAX" group-title="
@@ -231,8 +238,6 @@ http://streaming.jornalmn.com.br/live/tvmn.m3u8
  ############## CANAIS ABERTOS TV FAX  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS ABERTOS TV FAX" group-title="
 
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="CANAIS ABERTOS TV FAX",RBATV (720p)
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RBTV.br" tvg-logo="https://i.imgur.com/m7JDxXJ.png" group-title="CANAIS ABERTOS TV FAX",RBTV (720p)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RDCTV.br" tvg-logo="https://i.imgur.com/vMpiSwG.png" group-title="CANAIS ABERTOS TV FAX",RDC TV (720p)
