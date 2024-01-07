@@ -286,8 +286,6 @@ https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual0
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeWebTV.br" tvg-logo="https://i.imgur.com/C1wZa7x.png" group-title="CANAIS ABERTOS TV FAX",Rede Web TV (720p)
 https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS ABERTOS TV FAX",RedeTV! Tocantins (720p) [Not 24/7]
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="CANAIS ABERTOS TV FAX",RedeTV Tocantins (720p) [Not 24/7]
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="CANAIS ABERTOS TV FAX",Retrô Cartoon (480p) [Not 24/7]
@@ -958,6 +956,21 @@ http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/1149
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 8 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 8 HD
 http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/1150
 
+#EXTM3U url-tvg=" http://grade-de-FILMES 2023 tv fax.xml "
+ ############## FILMES 2023 tv fax ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES 2023 tv fax" group-title="
+
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="Aquaman 2: O Reino Perdido" tvg-logo="https://www.cinesystem.com.br/filmes/images/poster/aquaman-2-o-reino-perdido.jpg" group-title="FILMES 2023 tv fax",Aquaman 2: O Reino Perdido 
+https://s-delivery33.mxdcontent.net/v/5fe7d0b73be756114cc3a2ebc813fcc7.mp4?s=sbzZ-WuALRURDVoifltMfw&e=1704613239&_t=1704593641
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes" tvg-logo="https://br.web.img3.acsta.net/pictures/23/09/20/17/54/4013241.jpg" group-title="FILMES 2023 tv fax",Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes
+https://s-delivery43.mxdcontent.net/v/ba14aa74f9bb1288d882f5cdffd68084.mp4?s=CLJ14MzRXvfstLcqzNfxwA&e=1704613575&_t=1704601096
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="Feriado Sangrento" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/23/10/04/22/04/2117619.jpg" group-title="FILMES 2023 tv fax",Feriado Sangrento
+https://s-delivery45.mxdcontent.net/v/e83f46eef4cde298c3dcaa0f66b212a3.mp4?s=_a2_D3zZcEK_bdK_CGJPlA&e=1704613705&_t=1704593410
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="Resistência" tvg-logo="https://www.oeste360.com/images/noticias/114489/74381acacccf204d8c69a14e54c67b8f.jpeg" group-title="FILMES 2023 tv fax",Resistência
+https://s-delivery33.mxdcontent.net/v/02e244473f64c33a47e5f950104cb92f.mp4?s=rH5DiGtMjfs4HNP5j-sevw&e=1704613728&_t=1704597143
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="Rebel Moon - Parte 1: A Menina do Fogo" tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2023/12/rebel-moon-parte-1-poster.jpg" group-title="FILMES 2023 tv fax",Rebel Moon - Parte 1: A Menina do Fogo
+https://s-delivery43.mxdcontent.net/v/4f2f78d0aad53412b778a0c5ed85d184.mp4?s=uedPae0LbnFqh3d-MshtWQ&e=1704613935&_t=1704596301
+
 #EXTM3U url-tvg=" http://grade-de-24HS FILMES.xml "
  ############## 24HS FILMES ############## ### 
 #EXTINF:-1 tvg-id=" iddocanalde24HS FILMES" group-title="
@@ -1261,6 +1274,10 @@ https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u
 https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="FILMES TV FAX GOSPEL",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outra Vida"tvg-logo="https://i.pinimg.com/736x/dd/fb/02/ddfb0255eaad5ceb4279de0dbb1bd569.jpg"group-title="group-title="FILMES TV FAX GOSPEL",Outra Vida
+https://play.prod.gcp.vix.services/other-life_pt/other-life_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ao Lado de Cristo"tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/27/18/31/3723018.jpg"group-title="group-title="FILMES TV FAX GOSPEL",Ao Lado de Cristo
+https://play.prod.gcp.vix.services/penitent-thief_pt/penitent-thief_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILME TV e Radio FAX archive.xml"
 ############## FILME TV e Radio FAX archive ################# 
@@ -1533,16 +1550,12 @@ https://seig.tv/19/1/f54405aa348cee5b40125e989bf8f9f6/720p/720p.m3u8
 https://seig.tv/19/1/1eede5057cbc4f8259e95cfc49b395c3/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Abril Despedaçado"tvg-logo="https://image.tmdb.org/t/p/w185/9GVEX1VC4iEh5t5T7YNDU9P8zKQ.jpg"group-title="FILME TV FAX |  ONLINE",Abril Despedaçado 
 https://seig.tv/19/1/8af63f3f1acd16a92310f8b42a9ed54c/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ao Lado de Cristo"tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/27/18/31/3723018.jpg"group-title="group-title="FILME TV FAX |  ONLINE",Ao Lado de Cristo
-https://play.prod.gcp.vix.services/penitent-thief_pt/penitent-thief_pt_1-1/play_v1_hls_1080p.m3u8   
 #EXTINF:-1 tvg-id="" tvg-name="Balas em Fúria"tvg-logo="https://i.ytimg.com/vi/KB4fVdzciV0/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",Balas em Fúria
 https://play.prod.gcp.vix.services/let-bullets-fly_pt/let-bullets-fly_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Correndo Contra o Vento"tvg-logo="https://i.ytimg.com/vi/T1oH1y_J3pg/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",Correndo Contra o Vento
 https://play.prod.gcp.vix.services/running-against-wind_pt/running-against-wind_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Última Jornada"tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2020/11/a-ultima-jornada-poster.jpg"group-title="FILME TV FAX |  ONLINE",A Última Jornada
 https://play.prod.gcp.vix.services/last-boy_pt/last-boy_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Outra Vida"tvg-logo="https://i.pinimg.com/736x/dd/fb/02/ddfb0255eaad5ceb4279de0dbb1bd569.jpg"group-title="group-title="FILME TV FAX |  ONLINE",Outra Vida
-https://play.prod.gcp.vix.services/other-life_pt/other-life_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fim dos Tempos"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d3696d59afc1b8a949d663f68d41d68f9753cd1734d541454902a4a98395fe9e._RI_TTW_.jpg"group-title="FILME TV FAX |  ONLINE",Fim dos Tempos
 https://play.prod.gcp.vix.services/the-end-time_en/the-end-time_en_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zumbido" tvg-logo="https://img.ev01.to/xxrz/250x400/183/26/b5/26b5df3a2777ff48f73d243b3aff7fd1/26b5df3a2777ff48f73d243b3aff7fd1.jpg"group-title="FILME TV FAX |  ONLINE",Zumbido
@@ -2087,8 +2100,6 @@ https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
 https://bss1.neterra.tv/magictv/stream_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Euro Indie Music Chart TV   "  tvg-logo="https://media.tenor.com/vZmvwhNvRWgAAAAM/blood-on-the-dance-floor-michael-jackson.gif" group-title="FAX | CLIPS AO VIVO",Euro Indie Music Chart TV
 https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist_w1532875374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="  Europa Plus TV  "  tvg-logo="https://media0.giphy.com/media/W2uoviFkO7Sk9ksrxu/giphy.gif" group-title="FAX | CLIPS AO VIVO",Europa Plus TV
-https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=0shVXypvNxBS1bCtrIQRsQ&e=1680215243&hls_proxy_host=71e1d3e72fe15dcd96c31e96e15d216a&zoid=sharing
 #EXTINF:-1 tvg-id="" tvg-name=" Den Haag TV   " tvg-logo="https://media.tenor.com/-O93HXVrsYYAAAAC/grooving-pulling-up.gif" group-title="FAX | CLIPS AO VIVO",Den Haag TV
 https://wowza2.videostreamingwowza.com/denhaag/denhaag/chunklist_w881915846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  Dance TV  "  tvg-logo="https://64.media.tumblr.com/dc23c6fa24519f6e94d582c768b8ae60/cd389cda20ee9043-43/s400x600/ba870a1ea0a1213f036c9a5ed3fb92a528c1564f.gif" group-title="FAX | CLIPS AO VIVO",Dance TV 
@@ -2109,8 +2120,6 @@ https://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
 http://168.205.87.198:8555/live/antony/1234/74.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Radio 51 TV   "  tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="FAX | CLIPS AO VIVO",Radio 51 TV
 http://178.32.140.155/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Radio Bellla&Monella TV    " tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vnjj8cnpentp.png" group-title="FAX | CLIPS AO VIVO",Radio Bellla&Monella TV 
-https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Radio Company TV   "  tvg-logo="https://www.retedeldono.it/sites/default/files/radio-company-logo.png" group-title="FAX | CLIPS AO VIVO",Radio Company TV 
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  Radio Ibiza TV (360p)   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw26HNM7jmQYczY58faYX3DZ_at4cOJhkJQdTBxEK5rIfitlm-fgaT4Xbz55qquhCGCo&usqp=CAU" group-title="FAX | CLIPS AO VIVO",Radio Ibiza TV (360p) 
