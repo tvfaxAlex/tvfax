@@ -254,64 +254,111 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
  ############## CANAIS ABERTOS TV FAX  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS ABERTOS TV FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="SBT Rede Massa (PR)"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="CANAIS ABERTOS TV FAX",SBT Rede Massa (PR)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="CANAIS ABERTOS TV FAX",SBT 4K
-https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="CANAIS ABERTOS TV FAX",SBT 4K
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705300481/ei/oX2kZcGhE66P-LAPtISh0Ag/ip/200.152.27.1/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf_nrc05JnFsMu6qua2o5wczllwpgDUdAuPcadMVhnPMCIQDxMPOaVc6UQHnQoGUIRpqKW5ihfKeVtEnpEb15i1stug%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ 4K"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="CANAIS ABERTOS TV FAX",RECORD RJ 4K
-https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=V5AKVJ_88YTjqT0kt7v1WQ&3U1G7qaTxrPbalZnEx=1705309616
-#EXTINF:-1 tvg-id="" tvg-name="RECORD News"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="CANAIS ABERTOS TV FAX",RECORD News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w245748952.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil Ao Vivo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSaDt3ENMoe1IA7EDN-75IbsYqY81GDyndR5qTewM0ujnt2cIDDBLvxK9rgsXlMgOKpc&usqp=CAU"group-title="CANAIS ABERTOS TV FAX",TV Brasil Ao Vivo
 https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/Chespirito.png" group-title="CANAIS ABERTOS TV FAX", Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
-#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",BAND MINAS UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/481
-#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",BAND NEWS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/482
-#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="BAND NEWS HD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",BAND NEWS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/432
-#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",BAND NORDESTE UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/483
-#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",BAND SP 4k
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/484
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",BAND SP HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/485
 #EXTINF:-1 tvg-id="6e57d77806b180634ba62a9c1d5dbc8b" tvg-name="CANAL BOI HD" tvg-logo="http://185.53.90.49:41001/logos/canal boi.png" group-title="CANAIS ABERTOS TV FAX",CANAL BOI HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/486
-#EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="CANAIS ABERTOS TV FAX",GLOBO BAHIA 4K
+#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="" group-title="TV ABERTA",REDE BRASIL HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/531
+#EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="" group-title="TV ABERTA",REDE TV HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/532
+
+#EXTM3U url-tvg=" http://grade-de-TV RECORD.xml "
+ ############## TV RECORD ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV RECORD" group-title="
+
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="" group-title="TV RECORD",RECORD PARANA HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/526
+#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ 4K" tvg-logo="" group-title="TV RECORD",RECORD RJ 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/766
+#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ HD" tvg-logo="" group-title="TV RECORD",RECORD RJ HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/527
+#EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP HD" tvg-logo="" group-title="TV RECORD",RECORD SP HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/529
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD SP INTERIOR HD" tvg-logo="" group-title="TV RECORD",RECORD SP INTERIOR HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/528
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ 4K"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="TV RECORD",RECORD RJ 4K
+https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=V5AKVJ_88YTjqT0kt7v1WQ&3U1G7qaTxrPbalZnEx=1705309616
+#EXTINF:-1 tvg-id="" tvg-name="RECORD News"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="TV RECORD",RECORD News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w245748952.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-TV SBT.xml "
+ ############## TV SBT ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV SBT" group-title="
+
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="" group-title="TV SBT",SBT 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/534
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="" group-title="TV SBT",SBT HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/540
+#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ UHD" tvg-logo="" group-title="TV SBT",SBT RJ UHD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/537
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT SERRA DOURADA 4K" tvg-logo="" group-title="TV SBT",SBT SERRA DOURADA 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/538
+#EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="" group-title="TV SBT",TV DIARIO HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/548
+#EXTINF:-1 tvg-id="" tvg-name="SBT Rede Massa (PR)"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="TV SBT",SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="TV SBT",SBT 4K
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="TV SBT",SBT 4K
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705300481/ei/oX2kZcGhE66P-LAPtISh0Ag/ip/200.152.27.1/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf_nrc05JnFsMu6qua2o5wczllwpgDUdAuPcadMVhnPMCIQDxMPOaVc6UQHnQoGUIRpqKW5ihfKeVtEnpEb15i1stug%3D%3D/file/index.m3u8
+
+
+#EXTM3U url-tvg=" http://grade-de-TV GLOBO.xml "
+ ############## TV GLOBO ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV GLOBO" group-title="
+
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV GLOBO",GLOBO BAHIA 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/488
-#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="CANAIS ABERTOS TV FAX",GLOBO BRASILIA 4K
+#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV GLOBO",GLOBO BRASILIA 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/490
-#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",GLOBO EPTV CAMPINAS 4K
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="" group-title="TV GLOBO",GLOBO EPTV CAMPINAS 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/780
-#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",GLOBO EPTV CAMPINAS HD
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="" group-title="TV GLOBO",GLOBO EPTV CAMPINAS HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/491
-#EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/67/20210422110721%21EPTV.png" group-title="CANAIS ABERTOS TV FAX",GLOBO EPTV SUL DE MINAS HD
+#EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/67/20210422110721%21EPTV.png" group-title="TV GLOBO",GLOBO EPTV SUL DE MINAS HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1012
-#EXTINF:-1 tvg-id="8fce20fba553e998b00add259a9d5ca7" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-integrac-o-uberaba_m.png" group-title="CANAIS ABERTOS TV FAX",GLOBO INTEGRAÇÃO JUIZ DE FORA
+#EXTINF:-1 tvg-id="8fce20fba553e998b00add259a9d5ca7" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-integrac-o-uberaba_m.png" group-title="TV GLOBO",GLOBO INTEGRAÇÃO JUIZ DE FORA
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/494
-#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="CANAIS ABERTOS TV FAX",GLOBO RJ 4K
+#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV GLOBO",GLOBO RJ 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/504
-#EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",GLOBO RPC CURITIBA 4K
+#EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="" group-title="TV GLOBO",GLOBO RPC CURITIBA 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/505
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="CANAIS ABERTOS TV FAX",GLOBO RPC FOZ DO IGUAÇU 4K
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV GLOBO",GLOBO RPC FOZ DO IGUAÇU 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/506
-#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",GLOBO RPC MARINGA 4K
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="" group-title="TV GLOBO",GLOBO RPC MARINGA 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/507
-#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",GLOBO RPC MARINGA HD
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="" group-title="TV GLOBO",GLOBO RPC MARINGA HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/817
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE 4K" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",GLOBO SERGIPE 4K
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE 4K" tvg-logo="" group-title="TV GLOBO",GLOBO SERGIPE 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1160
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="CANAIS ABERTOS TV FAX",GLOBO SP 4K
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV GLOBO",GLOBO SP 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/511
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE 4K" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",GLOBO NORDESTE 4K
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE 4K" tvg-logo="" group-title="TV GLOBO",GLOBO NORDESTE 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1248
-#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="GLOBO TV TEM SOROCABA 4K" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",GLOBO TV TEM SOROCABA 4K
+#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="GLOBO TV TEM SOROCABA 4K" tvg-logo="" group-title="TV GLOBO",GLOBO TV TEM SOROCABA 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/563
+#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="TV TEM SOROCABA HD" tvg-logo="" group-title="TV GLOBO",TV TEM SOROCABA HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/562
+
+#EXTM3U url-tvg=" http://grade-de-TV BAND.xml "
+ ############## TV BAND ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV BAND" group-title="
+
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="" group-title="TV BAND",BAND MINAS UHD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/481
+#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="" group-title="TV BAND",BAND NEWS 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/482
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="BAND NEWS HD" tvg-logo="" group-title="TV BAND",BAND NEWS HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/432
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" tvg-logo="" group-title="TV BAND",BAND NORDESTE UHD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/483
+#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" tvg-logo="" group-title="TV BAND",BAND SP 4k
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/484
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="" group-title="TV BAND",BAND SP HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/485
 
 #EXTM3U url-tvg=" http://grade-de-FILMES & SERIES.xml "
  ############## FILMES & SERIES ############## ### 
@@ -449,6 +496,538 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/783
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/320
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/319
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="FILMES & SERIES",AMC
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2047
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC Alternativo" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="FILMES & SERIES",AMC Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1176
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC Alternativo HD" tvg-logo="http://prinplay.com.br/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1329
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC FHD" tvg-logo="http://prinplay.com.br/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1807
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC HD" tvg-logo="http://prinplay.com.br/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2048
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="http://prinplay.com.br/server/AXN.png" group-title="FILMES & SERIES",AXN
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2053
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN Alternativo" tvg-logo="http://prinplay.com.br/server/AXN.png" group-title="FILMES & SERIES",AXN Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1119
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN Alternativo HD" tvg-logo="http://prinplay.com.br/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1308
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://prinplay.com.br/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1810
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://prinplay.com.br/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2054
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="FILMES & SERIES",Cinecanal
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/902337
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="FILMES & SERIES",Cinecanal FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/902335
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="FILMES & SERIES",Cinecanal HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/902336
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2073
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax Alternativo" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1185
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1816
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2074
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts" tvg-logo="http://prinplay.com.br/server/Film%26Arts.png" group-title="FILMES & SERIES",Film & Arts
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2280
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="http://prinplay.com.br/server/FX.png" group-title="FILMES & SERIES",FX
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2127
+#EXTINF:-1 tvg-id="fx.br" tvg-name="Fx Alternativo" tvg-logo="http://prinplay.com.br/server/FX.png" group-title="FILMES & SERIES",Fx Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1137
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX Alternativo HD" tvg-logo="http://prinplay.com.br/server/FX%20HD.png" group-title="FILMES & SERIES",FX Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1315
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="http://prinplay.com.br/server/FX%20HD.png" group-title="FILMES & SERIES",FX FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1835
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://prinplay.com.br/server/FX%20HD.png" group-title="FILMES & SERIES",FX HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2128
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Alternativo HD" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1300
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2184
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1859
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2185
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="Filmes & Series",Paramount Network
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/901883
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network FHD" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="Filmes & Series",Paramount Network FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/901881
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network HD" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="Filmes & Series",Paramount Network HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/901882
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2068
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel Alternativo" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1172
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel Alternativo HD" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1325
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel FHD" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1814
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel HD" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2069
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space" tvg-logo="http://prinplay.com.br/server/Space.png" group-title="Filmes & Series",Space
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2216
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space Alternativo" tvg-logo="http://prinplay.com.br/server/Space.png" group-title="Filmes & Series",Space Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1220
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space Alternativo HD" tvg-logo="http://prinplay.com.br/server/Space%20HD.png" group-title="Filmes & Series",Space Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1287
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="http://prinplay.com.br/server/Space%20HD.png" group-title="Filmes & Series",Space FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1862
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://prinplay.com.br/server/Space%20HD.png" group-title="Filmes & Series",Space HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2217
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="Filmes & Series",Star Channel
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2113
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel Alternativo" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="Filmes & Series",Star Channel Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1133
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel Alternativo HD" tvg-logo="http://prinplay.com.br/server/Fox%20HD.png" group-title="Filmes & Series",Star Channel Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1313
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel FHD" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="Filmes & Series",Star Channel FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1885
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel HD" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="Filmes & Series",Star Channel HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2114
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal" tvg-logo="http://prinplay.com.br/server/Studio%20Universal.png" group-title="Filmes & Series",Studio Universal
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2221
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal Alternativo" tvg-logo="http://prinplay.com.br/server/Studio%20Universal.png" group-title="Filmes & Series",Studio Universal Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1222
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal Alternativo HD" tvg-logo="http://prinplay.com.br/server/Studio%20Universal%20HD.png" group-title="Filmes & Series",Studio Universal Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1266
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="http://prinplay.com.br/server/Studio%20Universal%20HD.png" group-title="Filmes & Series",Studio Universal FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1863
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="http://prinplay.com.br/server/Studio%20Universal%20HD.png" group-title="Filmes & Series",Studio Universal HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2222
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="Filmes & Series",TBS
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2223
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS Alternativo" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="Filmes & Series",TBS Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1224
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS Alternativo HD" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="Filmes & Series",TBS Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1304
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="Filmes & Series",TBS FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1865
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="Filmes & Series",TBS HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2224
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Filmes & Series",TCM
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2225
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD " tvg-logo="http://prinplay.com.br/server/TCM.png" group-title="Filmes & Series",TCM FHD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/47726
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD " tvg-logo="http://prinplay.com.br/server/TCM.png" group-title="Filmes & Series",TCM HD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/47727
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="http://prinplay.com.br/server/TNT.png" group-title="Filmes & Series",TNT
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2241
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo" tvg-logo="http://prinplay.com.br/server/TNT.png" group-title="Filmes & Series",TNT Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1234
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo HD" tvg-logo="http://prinplay.com.br/server/TNT%20HD.png" group-title="Filmes & Series",TNT Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1283
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="http://prinplay.com.br/server/TNT%20HD.png" group-title="Filmes & Series",TNT FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1868
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://prinplay.com.br/server/TNT%20HD.png" group-title="Filmes & Series",TNT HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2242
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas " tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/908274
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD " tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas FHD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/908272
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/908273
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries.png" group-title="Filmes & Series",TNT Series
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2243
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series Alternativo" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries.png" group-title="Filmes & Series",TNT Series Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1235
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series Alternativo HD" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries%20HD.png" group-title="Filmes & Series",TNT Series Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1305
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries%20HD.png" group-title="Filmes & Series",TNT Series FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1869
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries%20HD.png" group-title="Filmes & Series",TNT Series HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2244
+#EXTINF:-1 tvg-id="" tvg-name="Urban Movies " tvg-logo="http://prinplay.com.br/server/Urban%20Movies.png" group-title="Filmes & Series",Urban Movies 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/71264
+#EXTINF:-1 tvg-id="" tvg-name="Urban Series" tvg-logo="http://prinplay.com.br/server/Urban%20Series.png" group-title="Filmes & Series",Urban Series
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/71266
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel" tvg-logo="http://prinplay.com.br/server/Warner%20Channel.png" group-title="Filmes & Series",Warner Channel
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2264
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel Alternativo" tvg-logo="http://prinplay.com.br/server/Warner%20Channel.png" group-title="Filmes & Series",Warner Channel Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1244
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel Alternativo HD" tvg-logo="http://prinplay.com.br/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1284
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel FHD" tvg-logo="http://prinplay.com.br/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1874
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="http://prinplay.com.br/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2265
+
+#EXTM3U url-tvg=" http://grade-de-Especiais 24hs .xml "
+ ############## Especiais 24hs  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeEspeciais 24hs " group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bake Off Brasil – Celebridades " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9cXiG4FOd4qOutQmAU4Xn4ytqsO.jpg" group-title="Especiais 24hs ",[24h] Bake Off Brasil – Celebridades 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60674
+#EXTINF:-1 tvg-id="" tvg-name="[24h] De Férias com o Ex Brasil" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9aBYWnwd86ejV4ic36z188ZiGu4.jpg" group-title="Especiais 24hs ",[24h] De Férias com o Ex Brasil
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59775
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Game dos Clones" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qVJB4EbYfRPB2UsHiGeVCzIZZrj.jpg" group-title="Especiais 24hs ",[24h] Game dos Clones
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59881
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ilha Record" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43pX5G2eL4H6EppxVcirMxdkcGN.jpg" group-title="Especiais 24hs ",[24h] Ilha Record
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/62361
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Irmãos à Obra" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/TX1Db47fS1DF2QBiWAXsNq7kGd.jpg" group-title="Especiais 24hs ",[24h] Irmãos à Obra
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56854
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Largados e Pelados" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="Especiais 24hs ",[24h] Largados e Pelados
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59776
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Largados e Pelados: A Tribo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="Especiais 24hs ",[24h] Largados e Pelados: A Tribo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59876
+#EXTINF:-1 tvg-id="" tvg-name="[24h] MasterChef Brasil" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/84Ku5P8ISu3zQG0hC315WPjjsBx.jpg" group-title="Especiais 24hs ",[24h] MasterChef Brasil
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59778
+#EXTINF:-1 tvg-id="" tvg-name="[24h] MasterChef Profissionais" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bdhxX5grtSerAwbyz01feXgQjhZ.jpg" group-title="Especiais 24hs ",[24h] MasterChef Profissionais
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59777
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mestre do Sabor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ywyZ3kiFXwrE7fzsYkPVyazL1jY.jpg" group-title="Especiais 24hs ",[24h] Mestre do Sabor
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59882
+#EXTINF:-1 tvg-id="" tvg-name="[24h] No Limite" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oT2qnoGedxlO7Z3qar3uojMZoBY.jpg" group-title="Especiais 24hs ",[24h] No Limite
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60675
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Crush Perfeito" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9QC4M8h3xpvslpMcHm0CNzPb7SX.jpg" group-title="Especiais 24hs ",[24h] O Crush Perfeito
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60672
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Pesadelo na Cozinha" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KA33hJQ8jCnjcs6bK6gjVTUUoj.jpg" group-title="Especiais 24hs ",[24h] Pesadelo na Cozinha
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56853
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Se Sobreviver, Case" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="Especiais 24hs ",[24h] Se Sobreviver, Case
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59877
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Soltos em Floripa" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jonZazRkT6Lfz3SLT4gBxdCILUs.jpg" group-title="Especiais 24hs ",[24h] Soltos em Floripa
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59878
+#EXTINF:-1 tvg-id="" tvg-name="[24h] The Circle Brazil" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w0SInlIR3VS7MNVBVdh8J17S3od.jpg" group-title="Especiais 24hs ",[24h] The Circle Brazil
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59879
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Top Chef Brasil" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hQIaICWRNBfzOLru0cGZJMiI1Yk.jpg" group-title="Especiais 24hs ",[24h] Top Chef Brasil
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59880
+
+#EXTM3U url-tvg=" http://grade-de-Star & HBO Max.xml "
+ ############## Star & HBO Max ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeStar & HBO Max" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 FHD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 1 FHD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915108
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2 FHD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 2 FHD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915109
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 FHD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 3 FHD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915110
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 FHD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 4 FHD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915111
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 FHD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 5 FHD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915112
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 FHD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 6 FHD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915113
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 HD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 1 HD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915114
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2 HD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 2 HD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915115
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 HD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 3 HD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915116
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 HD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 4 HD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915117
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 HD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 5 HD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915118
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 HD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 6 HD¹
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915119
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 SD" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 1 SD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915120
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2 SD" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 2 SD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915121
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 SD" tvg-logo="" group-title="Star & HBO Max",HBO Max 3 SD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915122
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 SD" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 4 SD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915123
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 SD" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 5 SD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915124
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 SD" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 6 SD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915125
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 " tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 1 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/71943
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 Alternativo " tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 1 Alternativo 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/898915
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 2
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/64038
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2 Alternativo " tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 2 Alternativo 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/898916
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 3
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/64039
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 Alternativo " tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 3 Alternativo 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/898917
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 4
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/64040
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 Alternativo " tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 4 Alternativo 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/898918
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 5
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/64041
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 1 FHD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 1 FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/902434
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 1 HD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 1 HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/902435
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 1" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 1
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/63979
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 1 Alternativo " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 1 Alternativo 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/71852
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 2 FHD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 2 FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/902436
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 2 HD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 2 HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/902437
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 2" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 2
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/64557
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 2 Alternativo" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 2 Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/71853
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 3 FHD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 3 FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/914838
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 3" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 3
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/64558
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 3 Alternativo " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 3 Alternativo 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/71854
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 4" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 4
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/66580
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 5 " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 5 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/66581
+
+#EXTM3U url-tvg=" http://grade-de-HBO .xml "
+ ############## HBO  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeHBO " group-title="
+
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="HBO ",HBO FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1891
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="HBO ",HBO HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2144
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="HBO ",HBO
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2139
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20HD.png" group-title="HBO ",HBO Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1271
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO Alternativo" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="HBO ",HBO Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1140
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="http://prinplay.com.br/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1890
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://prinplay.com.br/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2141
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2" tvg-logo="http://prinplay.com.br/server/HBO%202.png" group-title="HBO ",HBO 2
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2140
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1405
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%202.png" group-title="HBO ",HBO 2 Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1141
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="HBO ",HBO Plus FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1840
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus HD" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="HBO ",HBO Plus HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2146
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="HBO ",HBO Plus
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2145
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="HBO ",HBO Plus Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1318
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="HBO ",HBO Plus Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1142
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Family%20HD.png" group-title="HBO ",HBO Family FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1839
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family HD" tvg-logo="http://prinplay.com.br/server/HBO%20Family%20HD.png" group-title="HBO ",HBO Family HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2143
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family" tvg-logo="http://prinplay.com.br/server/HBO%20Family.png" group-title="HBO ",HBO Family
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2142
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Family%20HD.png" group-title="HBO ",HBO Family Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1317
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Family.png" group-title="HBO ",HBO Family Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1198
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Signature%20HD.png" group-title="HBO ",HBO Signature FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1841
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature HD" tvg-logo="http://prinplay.com.br/server/HBO%20Signature%20HD.png" group-title="HBO ",HBO Signature HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2148
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature" tvg-logo="http://prinplay.com.br/server/HBO%20Signature.png" group-title="HBO ",HBO Signature
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2147
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Signature%20HD.png" group-title="HBO ",HBO Signature Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1319
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Signature.png" group-title="HBO ",HBO Signature Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1143
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1845
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2158
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2157
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1477
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1202
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="HBO ",HBO POP FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1847
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="HBO ",HBO POP HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2162
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="HBO ",HBO POP
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2161
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="HBO ",HBO POP Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1478
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="HBO ",HBO POP Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1149
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1846
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2160
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2159
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1265
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1203
+
+#EXTM3U url-tvg=" http://grade-de-Cineflix 24hs.xml "
+ ############## Cineflix 24hs  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCineflix 24hs" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animação" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Animação
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56996
+#EXTINF:-1 tvg-id="" tvg-name="Cine Aventura & Familia" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Aventura & Familia
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56858
+#EXTINF:-1 tvg-id="" tvg-name="Cine Brasileiro" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Brasileiro
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/58710
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Comédia
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56859
+#EXTINF:-1 tvg-id="" tvg-name="Cine Dc's Comics Nutella" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Dc's Comics Nutella
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60677
+#EXTINF:-1 tvg-id="" tvg-name="Cine Dc's Comics Raiz" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Dc's Comics Raiz
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60676
+#EXTINF:-1 tvg-id="" tvg-name="Cine Drama" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Drama
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56780
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fantasia" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Fantasia
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56781
+#EXTINF:-1 tvg-id="" tvg-name="Cine Faroeste" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Faroeste
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56761
+#EXTINF:-1 tvg-id="" tvg-name="Cine Ficção" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Ficção
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/59609
+#EXTINF:-1 tvg-id="" tvg-name="Cine Guerra" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Guerra
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56778
+#EXTINF:-1 tvg-id="" tvg-name="Cine Marvel Nutella" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Marvel Nutella
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60679
+#EXTINF:-1 tvg-id="" tvg-name="Cine Marvel Raiz" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Marvel Raiz
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60678
+#EXTINF:-1 tvg-id="" tvg-name="Cine Policial" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Policial
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56773
+#EXTINF:-1 tvg-id="" tvg-name="Cine Religioso" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Religioso
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56855
+#EXTINF:-1 tvg-id="" tvg-name="Cine Terror" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Terror
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56999
+
+#EXTM3U url-tvg=" http://grade-de-Cine Sky.xml "
+ ############## Cine Sky  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCine Sky" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 1" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 1
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/40623
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 2" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 2
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/40624
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 3" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 3
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/40625
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 4" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 4
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/40626
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 5
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/40627
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 6" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 6
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/40628
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 7" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 7
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/40629
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 8" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 8
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/40630
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 9" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 9
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/896436
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 10
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/896437
+
+#EXTM3U url-tvg=" http://grade-de-Rede Globosat .xml "
+ ############## Rede Globosat  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeRede Globosat " group-title="
+
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="Rede Globosat ",Telecine Premium FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1904
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="Rede Globosat ",Telecine Premium HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2235
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="Rede Globosat ",Telecine Premium
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2234
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium Alternativo HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="Rede Globosat ",Telecine Premium Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1282
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="Rede Globosat ",Telecine Premium Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1230
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="Rede Globosat ",Telecine Pipoca FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1903
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="Rede Globosat ",Telecine Pipoca HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2233
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="Rede Globosat ",Telecine Pipoca
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2232
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca Alternativo HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="Rede Globosat ",Telecine Pipoca Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1281
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="Rede Globosat ",Telecine Pipoca Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1229
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="Rede Globosat ",Telecine Action FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1901
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="Rede Globosat ",Telecine Action HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2227
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="Rede Globosat ",Telecine Action
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2226
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action Alternativo HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="Rede Globosat ",Telecine Action Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1279
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="Rede Globosat ",Telecine Action Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1225
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="Rede Globosat ",Telecine Touch FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1905
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="Rede Globosat ",Telecine Touch HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2237
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="Rede Globosat ",Telecine Touch
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2236
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch Alternativo HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="Rede Globosat ",Telecine Touch Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1326
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="Rede Globosat ",Telecine Touch Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1231
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="Rede Globosat ",Telecine Fun FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1902
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="Rede Globosat ",Telecine Fun HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2231
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="Rede Globosat ",Telecine Fun
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2230
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun Alternativo HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="Rede Globosat ",Telecine Fun Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1280
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="Rede Globosat ",Telecine Fun Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1227
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Cult.png" group-title="Rede Globosat ",Telecine Cult FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1866
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Cult.png" group-title="Rede Globosat ",Telecine Cult HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2229
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult" tvg-logo="http://prinplay.com.br/server/Telecine%20Cult.png" group-title="Rede Globosat ",Telecine Cult
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2228
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Alternativo Cult HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Cult.png" group-title="Rede Globosat ",Telecine Alternativo Cult HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1347
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Cult.png" group-title="Rede Globosat ",Telecine Cult Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1226
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="http://prinplay.com.br/server/Megapix%20HD.png" group-title="Rede Globosat ",Megapix FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1848
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://prinplay.com.br/server/Megapix%20HD.png" group-title="Rede Globosat ",Megapix HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2164
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix" tvg-logo="http://prinplay.com.br/server/Megapix.png" group-title="Rede Globosat ",Megapix
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2163
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix Alternativo HD" tvg-logo="http://prinplay.com.br/server/Megapix%20HD.png" group-title="Rede Globosat ",MegaPix Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1321
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix Alternativo" tvg-logo="http://prinplay.com.br/server/Megapix.png" group-title="Rede Globosat ",MegaPix Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1205
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy FHD" tvg-logo="http://prinplay.com.br/server/Syfy%20HD.png" group-title="Rede Globosat ",Syfy FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1864
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="http://prinplay.com.br/server/Syfy%20HD.png" group-title="Rede Globosat ",Syfy HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2215
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy" tvg-logo="http://prinplay.com.br/server/Syfy.png" group-title="Rede Globosat ",Syfy
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2214
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SyFy Alternativo HD" tvg-logo="http://prinplay.com.br/server/Syfy%20HD.png" group-title="Rede Globosat ",SyFy Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1267
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy Alternativo" tvg-logo="http://prinplay.com.br/server/Syfy.png" group-title="Rede Globosat ",Syfy Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1223
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD" tvg-logo="http://prinplay.com.br/server/Universal%20TV.png" group-title="Rede Globosat ",Universal TV FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1872
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV HD" tvg-logo="http://prinplay.com.br/server/Universal%20TV.png" group-title="Rede Globosat ",Universal TV HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2258
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV " tvg-logo="http://prinplay.com.br/server/Universal%20TV.png" group-title="Rede Globosat ",Universal TV 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2257
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV Alternativo HD" tvg-logo="http://prinplay.com.br/server/Universal%20TV.png" group-title="Rede Globosat ",Universal TV Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1327
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV Alternativo" tvg-logo="http://prinplay.com.br/server/Universal%20TV.png" group-title="Rede Globosat ",Universal TV Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1240
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD" tvg-logo="http://prinplay.com.br/server/Canal%20Brasil.png" group-title="Rede Globosat ",Canal Brasil FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1908
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://prinplay.com.br/server/Canal%20Brasil.png" group-title="Rede Globosat ",Canal Brasil HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2067
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil" tvg-logo="http://prinplay.com.br/server/Canal%20Brasil.png" group-title="Rede Globosat ",Canal Brasil
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2066
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil Alternativo HD" tvg-logo="http://prinplay.com.br/server/Canal%20Brasil.png" group-title="Rede Globosat ",Canal Brasil Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1331
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil Alternativo " tvg-logo="http://prinplay.com.br/server/Canal%20Brasil.png" group-title="Rede Globosat ",Canal Brasil Alternativo 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1123
 
 #EXTM3U url-tvg=" http://grade-de-DOCUMENTARIOS.xml "
  ############## DOCUMENTARIOS ############## ### 
@@ -633,6 +1212,127 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/165
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="ESPORTES",PREMIERE CLUBES HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/164
 
+#EXTM3U url-tvg=" http://grade-de-Esportes.xml "
+ ############## Esportes ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeEsportes" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 1 FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/902438
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 1 HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/896939
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 1
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/897945
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 2 HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/902439
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 2
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/896842
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass Alternativo 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass Alternativo 2
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/897944
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzY3zZ5p0NUAUZhB3-Az1po9k9CFoQSyQfwg&usqp=CAU" group-title="Esportes PPV",CazeTV HD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/899771
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzY3zZ5p0NUAUZhB3-Az1po9k9CFoQSyQfwg&usqp=CAU" group-title="Esportes PPV",CazeTV 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/899770
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHDR" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="Esportes",SporTV FHDR
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/901869
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="Esportes",SporTV FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2035
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="Esportes",SporTV HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2038
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="Esportes",SporTV
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2218
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD²" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="Esportes",SporTV FHD²
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/13069
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV Alternativo HD" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="Esportes",SporTV Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1303
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV Alternativo" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="Esportes",SporTV Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1221
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="Esportes",SporTV 2 FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1917
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="Esportes",SporTV 2 HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2036
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="Esportes",SporTV 2
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2219
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD²" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="Esportes",SporTV 2 FHD²
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/13072
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 Alternativo HD" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="Esportes",SporTV 2 Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1301
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 Alternativo" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="Esportes",SporTV 2 Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1173
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="Esportes",SporTV 3 FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1918
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="Esportes",SporTV 3 HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2037
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="Esportes",SporTV 3
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2220
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD²" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="Esportes",SporTV 3 FHD²
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/13075
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 Alternativo  HD" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="Esportes",SporTV 3 Alternativo  HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1302
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 Alternativo" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="Esportes",SporTV 3 Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1174
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHDR" tvg-logo="http://prinplay.com.br/server/ESPN%20Brasil%20HD.png" group-title="Esportes",ESPN FHDR
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/905381
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD " tvg-logo="http://prinplay.com.br/server/ESPN%20Brasil%20HD.png" group-title="Esportes",ESPN FHD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1883
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD" tvg-logo="http://prinplay.com.br/server/ESPN%20Brasil%20HD.png" group-title="Esportes",ESPN HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2105
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN" tvg-logo="http://prinplay.com.br/server/ESPN%20Brasil.png" group-title="Esportes",ESPN
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2104
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD²" tvg-logo="http://prinplay.com.br/server/ESPN%20HD.png" group-title="Esportes",ESPN FHD²
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/13087
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Alternativo HD" tvg-logo="http://prinplay.com.br/server/ESPN%20Brasil%20HD.png" group-title="Esportes",ESPN Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1294
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Alternativo " tvg-logo="http://prinplay.com.br/server/ESPN%20Brasil.png" group-title="Esportes",ESPN Alternativo 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1193
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD " tvg-logo="http://prinplay.com.br/server/ESPN%20HD.png" group-title="Esportes",ESPN 4 FHD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1887
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD " tvg-logo="http://prinplay.com.br/server/ESPN%20HD.png" group-title="Esportes",ESPN 4 HD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2122
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4" tvg-logo="http://prinplay.com.br/server/ESPN%20HD.png" group-title="Esportes",ESPN 4
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2121
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD²" tvg-logo="http://prinplay.com.br/server/ESPN%20HD.png" group-title="Esportes",ESPN 4 FHD²
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/13078
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 Alternativo HD" tvg-logo="http://prinplay.com.br/server/ESPN%20HD.png" group-title="Esportes",ESPN 4 Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1295
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 Alternativo" tvg-logo="http://prinplay.com.br/server/ESPN%20HD.png" group-title="Esportes",ESPN 4 Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1136
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD" tvg-logo="http://prinplay.com.br/server/ESPN.png" group-title="Esportes",ESPN 2 FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1884
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="http://prinplay.com.br/server/ESPN.png" group-title="Esportes",ESPN 2 HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2108
+#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn 2" tvg-logo="http://prinplay.com.br/server/ESPN.png" group-title="Esportes",Espn 2
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2101
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://prinplay.com.br/server/ESPN%202.png" group-title="Esportes",ESPN 2 FHD²
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/13090
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 Alternativo HD" tvg-logo="http://prinplay.com.br/server/ESPN.png" group-title="Esportes",ESPN 2 Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1311
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo" tvg-logo="http://prinplay.com.br/server/ESPN.png" group-title="Esportes",ESPN 3 Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1130
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 FHD" tvg-logo="http://prinplay.com.br/server/ESPN.png" group-title="Esportes",ESPN 3 FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1827
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 HD" tvg-logo="http://prinplay.com.br/server/ESPN.png" group-title="Esportes",ESPN 3 HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2103
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3" tvg-logo="http://prinplay.com.br/server/ESPN.png" group-title="Esportes",ESPN 3
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2102
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 3 FHD²" tvg-logo="http://prinplay.com.br/server/ESPN%20Brasil%20HD.png" group-title="Esportes",ESPN 3 FHD²
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/13084
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo HD" tvg-logo="http://prinplay.com.br/server/ESPN.png" group-title="Esportes",ESPN 3 Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1293
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo" tvg-logo="http://prinplay.com.br/server/ESPN.png" group-title="Esportes",ESPN 3 Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1192
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 FHD" tvg-logo="http://prinplay.com.br/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1886
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://prinplay.com.br/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2124
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2" tvg-logo="http://prinplay.com.br/server/Fox%20Sports%202.png" group-title="Esportes",Fox Sports 2
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2123
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 FHD²" tvg-logo="http://prinplay.com.br/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 FHD²
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/13081
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX Sports 2 Alternativo HD" tvg-logo="http://prinplay.com.br/server/Fox%20Sports%202%20HD.png" group-title="Esportes",FOX Sports 2 Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1314
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 Alternativo" tvg-logo="http://prinplay.com.br/server/Fox%20Sports%202.png" group-title="Esportes",Fox Sports 2 Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1135
+
 #EXTM3U url-tvg=" http://grade-de-ESPORTES ONLINE.xml "
  ############## ESPORTES ONLINE ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeESPORTES ONLINE" group-title="
@@ -699,7 +1399,6 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/822
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/823
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 4 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/824
-
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS FAX 2024.xml "
  ############## CANAIS FAX 2024 ############## ### 
@@ -975,156 +1674,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS FAX 2024",Tokusato | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTM3U url-tvg=" http://grade-de-Brasil: maratona de ficção.xml "
- ############## Brasil: maratona de ficção ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeBrasil: maratona de ficção" group-title="
-
-#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="Brasil: maratona de ficção",A Feiticeira | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="Brasil: maratona de ficção",A Feiticeira - link 2 | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Arnold - Diff'rent Strokes | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Arnold - Diff'rent Strokes | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="648776bf536e0c0008b49aef" tvg-logo="https://images.pluto.tv/channels/648776bf536e0c0008b49aef/colorLogoPNG.png" group-title="Brasil: maratona de ficção",As Panteras | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="648776bf536e0c0008b49aef" tvg-logo="https://images.pluto.tv/channels/648776bf536e0c0008b49aef/colorLogoPNG.png" group-title="Brasil: maratona de ficção",As Panteras | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Barrados no Baile | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Barrados no Baile | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Being Mary Jane | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Being Mary Jane | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",CSI Miami | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",CSI Miami | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Death Note | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Death Note | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Inferno Sobre Rodas | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Inferno Sobre Rodas | Pluto TV Brasil - link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Jeannie é um Gênio | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Jeannie é um Gênio | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Kenan e Kel | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Kenan e Kel | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="Brasil: maratona de ficção",La otra cara del Alma | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="Brasil: maratona de ficção",La otra cara del Alma | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Mad About You | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Mad About You | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção",NCIS | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção",NCIS | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Brasil: maratona de ficção",O homem que veio do céu | Pluto TV Brasil
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Brasil: maratona de ficção",O homem que veio do céu | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1eed3c29b39600073e2ec0" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Os Três Patetas | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f1eed3c29b39600073e2ec0" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Os Três Patetas | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Plantão Noturno - The Night Shift | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Plantão Noturno - The Night Shift | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Rookie Blue | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Rookie Blue | Pluto TV Brasil - link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Schitt's Creek | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Schitt's Creek | Pluto TV Brasil - link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Star Trek | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Star Trek | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6489c4a066e48500083ccf97" tvg-logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Starsky & Hutch: Justiça em Dobro | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6489c4a066e48500083ccf97" tvg-logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Starsky & Hutch: Justiça em Dobro | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/a505127c-angermanagement_runtime_channeltitle_1080x1080.jpg" group-title="Brasil: maratona de ficção",Tratamento de Choque | RunTime
-https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
-#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Younger | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Younger | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTM3U url-tvg=" http://grade-de-INFANTIS.xml "
- ############## INFANTIS ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeINFANTIS" group-title="
-
-#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/348
-#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/349
-#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL  4K" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL  4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/351
-#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/352
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST 4K" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="INFANTIS",TOONCAST 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/367
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="INFANTIS",TOONCAST HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/368
-#EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="http://185.53.90.49:41001/logos/zoomoo.png" group-title="INFANTIS",ZOOMOO 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/370
-#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/369
-#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/557
-#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS",NICK JR 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/363
-#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS",NICK JR HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/364
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS",NICKELODEON 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/365
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS",NICKELODEON HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/768
-#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="GLOOB 4K" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS",GLOOB 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/357
-#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS",GLOOB HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/358
-#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO 4K" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/359
-#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO HD" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS",GLOOBINHO HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/360
-#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/346
-#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/347
-#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/344
-#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/345
-#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV 4K" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/767
-#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/342
 
 #EXTM3U url-tvg=" http://grade-de-FILMES TV FAX GOSPEL.xml "
  ############## FILMES TV FAX GOSPEL ############## ### 
@@ -1630,6 +2179,407 @@ https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Remexe
 https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
+
+#EXTM3U url-tvg=" http://grade-de-Brasil: maratona de ficção.xml "
+ ############## Brasil: maratona de ficção ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeBrasil: maratona de ficção" group-title="
+
+#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="Brasil: maratona de ficção",A Feiticeira | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="Brasil: maratona de ficção",A Feiticeira - link 2 | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Arnold - Diff'rent Strokes | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Arnold - Diff'rent Strokes | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="648776bf536e0c0008b49aef" tvg-logo="https://images.pluto.tv/channels/648776bf536e0c0008b49aef/colorLogoPNG.png" group-title="Brasil: maratona de ficção",As Panteras | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="648776bf536e0c0008b49aef" tvg-logo="https://images.pluto.tv/channels/648776bf536e0c0008b49aef/colorLogoPNG.png" group-title="Brasil: maratona de ficção",As Panteras | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Barrados no Baile | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Barrados no Baile | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Being Mary Jane | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Being Mary Jane | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",CSI Miami | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",CSI Miami | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Death Note | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Death Note | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Inferno Sobre Rodas | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Inferno Sobre Rodas | Pluto TV Brasil - link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Jeannie é um Gênio | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Jeannie é um Gênio | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Kenan e Kel | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Kenan e Kel | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="Brasil: maratona de ficção",La otra cara del Alma | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="Brasil: maratona de ficção",La otra cara del Alma | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Mad About You | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Mad About You | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção",NCIS | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção",NCIS | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Brasil: maratona de ficção",O homem que veio do céu | Pluto TV Brasil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Brasil: maratona de ficção",O homem que veio do céu | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f1eed3c29b39600073e2ec0" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Os Três Patetas | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f1eed3c29b39600073e2ec0" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Os Três Patetas | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Plantão Noturno - The Night Shift | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Plantão Noturno - The Night Shift | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Rookie Blue | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Rookie Blue | Pluto TV Brasil - link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Schitt's Creek | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Schitt's Creek | Pluto TV Brasil - link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Star Trek | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Star Trek | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6489c4a066e48500083ccf97" tvg-logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Starsky & Hutch: Justiça em Dobro | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6489c4a066e48500083ccf97" tvg-logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Starsky & Hutch: Justiça em Dobro | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/a505127c-angermanagement_runtime_channeltitle_1080x1080.jpg" group-title="Brasil: maratona de ficção",Tratamento de Choque | RunTime
+https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Younger | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Younger | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTM3U url-tvg=" http://grade-de-INFANTIS.xml "
+ ############## INFANTIS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeINFANTIS" group-title="
+
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/348
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/349
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL  4K" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL  4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/351
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/352
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST 4K" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="INFANTIS",TOONCAST 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/367
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="INFANTIS",TOONCAST HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/368
+#EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="http://185.53.90.49:41001/logos/zoomoo.png" group-title="INFANTIS",ZOOMOO 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/370
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/369
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/557
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS",NICK JR 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/363
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS",NICK JR HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/364
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS",NICKELODEON 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/365
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS",NICKELODEON HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/768
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="GLOOB 4K" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS",GLOOB 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/357
+#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS",GLOOB HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/358
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO 4K" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/359
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO HD" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS",GLOOBINHO HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/360
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/346
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/347
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/344
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/345
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV 4K" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/767
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/342
+
+#EXTM3U url-tvg=" http://grade-de-Infantis.xml "
+ ############## Infantis ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeInfantis" group-title="]
+
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="Infantis",Cartoon Network FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1815
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Netowork HD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="Infantis",Cartoon Netowork HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2072
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Netowork" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network.png" group-title="Infantis",Cartoon Netowork
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2071
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network Alternativo HD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="Infantis",Cartoon Network Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1332
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network Alternativo" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network.png" group-title="Infantis",Cartoon Network Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1124
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="Infantis",Discovery Kids FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1821
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="Infantis",Discovery Kids HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2088
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids.png" group-title="Infantis",Discovery Kids
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2087
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids Alternativo HD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="Infantis",Discovery Kids Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1334
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids Alternativo" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids.png" group-title="Infantis",Discovery Kids Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1128
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel FHD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="Infantis",Disney Channel FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1882
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="Infantis",Disney Channel HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2096
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel" tvg-logo="http://prinplay.com.br/server/Disney%20Channel.png" group-title="Infantis",Disney Channel
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2095
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel Alternativo HD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="Infantis",Disney Channel Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1336
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel Alternativo" tvg-logo="http://prinplay.com.br/server/Disney%20Channel.png" group-title="Infantis",Disney Channel Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1189
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang  FHD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="Infantis",Boomerang  FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1813
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="Infantis",Boomerang HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2065
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang" tvg-logo="http://prinplay.com.br/server/Boomerang.png" group-title="Infantis",Boomerang
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2064
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang Alternativo HD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="Infantis",Boomerang Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1330
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang Alternativo" tvg-logo="http://prinplay.com.br/server/Boomerang.png" group-title="Infantis",Boomerang Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1182
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1857
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2181
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2180
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1345
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1153
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="Infantis",Nick Jr FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1856
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="Infantis",Nick Jr HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2179
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr" tvg-logo="http://prinplay.com.br/server/Nick%20Jr..png" group-title="Infantis",Nick Jr
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2178
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick JR Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="Infantis",Nick JR Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1346
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr Alternativo" tvg-logo="http://prinplay.com.br/server/Nick%20Jr..png" group-title="Infantis",Nick Jr Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1211
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="Infantis",Gloobinho FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1836
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="Infantis",Gloobinho HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2133
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="Infantis",Gloobinho
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2134
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="Infantis",Gloob FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1889
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="Infantis",Gloob HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2132
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="Infantis",Gloob
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2131
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob Alternativo HD" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="Infantis",Gloob Alternativo HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1342
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob Alternativo" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="Infantis",Gloob Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1139
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1871
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2254
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2253
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum Alternativo" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1215
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV FHD " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="Infantis",Baby TV FHD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/45263
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV HD " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="Infantis",Baby TV HD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/45262
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="Infantis",Baby TV 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1120
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="Infantis",Cartoonito FHD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/901866
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="Infantis",Cartoonito HD
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/901867
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="Infantis",Cartoonito
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/901868
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD " tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="Infantis",Tooncast HD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/45261
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="Infantis",Tooncast
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2245
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast Alternativo" tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="Infantis",Tooncast Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1236
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo HD " tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="Infantis",Zoomoo HD 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/45260
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="Infantis",Zoomoo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/2293
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo Alternativo" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="Infantis",ZooMoo Alternativo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/1246
+#EXTINF:-1 tvg-id="" tvg-name="Urban Kids " tvg-logo="http://prinplay.com.br/server/Urban%20Kids.png" group-title="Infantis",Urban Kids 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/71263
+#EXTINF:-1 tvg-id="" tvg-name="Box Kids TV" tvg-logo="https://i.postimg.cc/XJnkC3HQ/images-35.jpg" group-title="Infantis",Box Kids TV
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/83810
+
+
+#EXTM3U url-tvg=" http://grade-de-Desenhos 24hs.xml "
+ ############## Desenhos 24hs ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeDesenhos 24hs" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja Kamp Koral" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/peZYB3aFOBoZbpFhOZogrTHVlqX.jpg" group-title="Desenhos 24hs",[24H] Bob Esponja Kamp Koral
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84580
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S01 E S02" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S01 E S02
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/12452
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S03 E S04" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S03 E S04
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/12453
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S05 E S06" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S05 E S06
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/12454
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Zoom" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yr83vGcXQmSfzEEOVj44nOrS3oP.jpg" group-title="Desenhos 24hs",[24h] Bob Zoom
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/908476
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bom Dia, Verônica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbyZ84DuLJGgxdMnC7bjHlcjJ3e.jpg" group-title="Series 24hs",[24h] Bom Dia, Verônica
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/896441
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bananas de Pijamas Desenho" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAOv5rXl74n70BteqYDVHFhMfSc.jpg" group-title="Desenhos 24hs",[24h] Bananas de Pijamas Desenho
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84566
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Blaze e os Monster Machines" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDTuk6TxOzjzHzrcOw0w27nwHa6.jpg" group-title="Desenhos 24hs",[24h] Blaze e os Monster Machines
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84567
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bubbles Guppies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxZOTFDGsvQ7YD2zxWrWVInqBxw.jpg" group-title="Desenhos 24hs",[24h] Bubbles Guppies
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84568
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Faisca e Fumaça " tvg-logo="http://d3ugyf2ht6aenh.cloudfront.net/stores/842/420/products/faisca-500x5001-822a9d19b543653ccf15376338970104-640-0.jpg" group-title="Desenhos 24hs",[24h] Faisca e Fumaça 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84570
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Megaman Clássico " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lATtzpRx8MW1JisBb70s9N2y0wI.jpg" group-title="Desenhos 24hs",[24h] Megaman Clássico 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84582
+#EXTINF:-1 tvg-id="" tvg-name="[24h ]Animaniacs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYHu47S3yBPbWvlh4YbIYJ5e8X1.jpg" group-title="Desenhos 24hs",[24h ]Animaniacs
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/62798
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 1 Contra Todos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3o7f2Xjwl5hcoiioR9eGdD9ezHt.jpg" group-title="Series 24hs",[24h] 1 Contra Todos
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/896626
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 220 Volts" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPX7V19ME8y6qjuu1Uj1txrhnSY.jpg" group-title="Especiais 24hs ",[24h] 220 Volts
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56850
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 3 Palavrinhas" tvg-logo="https://imgur.com/8AHg0m5.jpg" group-title="Desenhos 24hs",[24h] 3 Palavrinhas
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/93444
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 44 Gatos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6UxiKbdcPJr15eTZWiEbldAzlS.jpg" group-title="Desenhos 24hs",[24H] 44 Gatos 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84502
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 9-1-1 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg" group-title="Especiais 24hs ",[24H] 9-1-1 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84628
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa do Mickey S01" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa do Mickey S01
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/82739
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa Do Mickey S02" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa Do Mickey S02
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/82740
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa Do Mickey S03 S04 S05" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa Do Mickey S03 S04 S05
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/82741
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Diarista" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oZBczD3fofoUlQZILHPz5FJ366L.jpg" group-title="Especiais 24hs ",[24h] A Diarista
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/56845
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Familia Hathaway " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUhGlPZVWf8KCt4xMZtG1cymHRZ.jpg" group-title="Especiais 24hs ",[24h] A Familia Hathaway 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/61321
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Família Hathaways" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dUhGlPZVWf8KCt4xMZtG1cymHRZ.jpg" group-title="Especiais 24hs ",[24H] A Família Hathaways
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84588
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Formiga Atômica" tvg-logo="https://imgur.com/J7mfM5G.jpg" group-title="Desenhos 24hs",[24h] A Formiga Atômica
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/12333
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Grande Família" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/draJzGrnfB8gEqCGJrPhNORu0nz.jpg" group-title="Especiais 24hs ",[24h] A Grande Família
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/908690
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Mansão Foster para Amigos Imaginários" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aerZJVODYwji4BnyWrHFmF3JxhX.jpg" group-title="Desenhos 24hs",[24h] A Mansão Foster para Amigos Imaginários
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60294
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Pequena Sereia" tvg-logo="https://imgur.com/BMqQwBQ.jpg" group-title="Desenhos 24hs",[24H] A Pequena Sereia
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/82964
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma do Charlie Brown e Snoopy " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3wAaBg4eIrMi8yeMf79tVXY8KfT.jpg" group-title="Desenhos 24hs",[24h] A Turma do Charlie Brown e Snoopy 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/908691
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma do Charlie Brown e Snopy" tvg-logo="https://imgur.com/YkKUgZW.jpg" group-title="Desenhos 24hs",[24h] A Turma do Charlie Brown e Snopy
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915627
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma do Manda Chuva" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/749DnZBTmaLKf8BOm8Lq5W1LLgE.jpg" group-title="Desenhos 24hs",[24h] A Turma do Manda Chuva
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/908692
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Vaca e o Frango  " tvg-logo="https://imgur.com/HaW86Y7.jpg" group-title="Desenhos 24hs",[24H] A Vaca e o Frango  
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/82782
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Vida Como Ela é" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wjoPxAbzidwPcuzJ4TTJVL7xo6N.jpg" group-title="Especiais 24hs ",[24H] A Vida Como Ela é
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84589
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Vida e As Aventuras de Juniper Lee" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tf5oQ2VTHS46ykMfFH6DeIjrfHp.jpg" group-title="Desenhos 24hs",[24h] A Vida e As Aventuras de Juniper Lee
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60302
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A.I.C.O.: Incarnation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kZKj6x6Wa8xyfj2VWoLDq0Or6OC.jpg" group-title="Animes 24hs",[24h] A.I.C.O.: Incarnation
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/87564
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Acampamento De Verão" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63nHPbKbroWostjpq4WLjjmhma7.jpg" group-title="Desenhos 24hs",[24h] Acampamento De Verão
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60303
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Acorrentada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DD1WVGrjSEVDWpKaDBrVjLvCC8.jpg" group-title="Novelas 24hs",[24h] Acorrentada
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/897603
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Afro Samurai " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1wif9a57obZA5N1UujiluoUahkI.jpg" group-title="Animes 24hs",[24h] Afro Samurai 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/87569
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ALF o E. Teimoso" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg" group-title="Especiais 24hs ",[24H] ALF o E. Teimoso
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/84590
+#EXTINF:-1 tvg-id="" tvg-name="[24h] ALF o ET Teimoso " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg" group-title="Especiais 24hs ",[24h] ALF o ET Teimoso 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/61319
+#EXTINF:-1 tvg-id="" tvg-name="[24h] American Dad!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC1q422YhQR7k82GB8gW4KoD91p.jpg" group-title="Desenhos 24hs",[24h] American Dad!
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/898166
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Amor Secreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNjOaIcJO9SzBpZTVz3cmtXP4Xt.jpg" group-title="Novelas 24hs",[24h] Amor Secreto
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/897604
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Amphibia" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bFCgv9iWZECWSDxNQYc9soqvwjx.jpg" group-title="Desenhos 24hs",[24h] Amphibia
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/908477
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ana Pimentinha" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4WWdPyBI7EdpH873sV9voLdCFr9.jpg" group-title="Desenhos 24hs",[24h] Ana Pimentinha
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/916668
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Andy e seu Esquilo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xxRUjFtXxkeVFW66MOBDkBP56qP.jpg" group-title="Desenhos 24hs",[24h] Andy e seu Esquilo
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60309
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Animaniacs - Parte 1" tvg-logo="https://imgur.com/Qkumqas.jpg" group-title="Desenhos 24hs",[24h] Animaniacs - Parte 1
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/12556
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Animaniacs - Parte 2" tvg-logo="https://imgur.com/Qkumqas.jpg" group-title="Desenhos 24hs",[24h] Animaniacs - Parte 2
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/12557
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Apenas um Show S01" tvg-logo="https://imgur.com/vG8SZv3.jpg" group-title="Desenhos 24hs",[24h] Apenas um Show S01
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/82742
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Apenas um Show S02 " tvg-logo="https://imgur.com/vG8SZv3.jpg" group-title="Desenhos 24hs",[24h] Apenas um Show S02 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/82743
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Arcanjo Renegado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Series 24hs",[24h] Arcanjo Renegado
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/896629
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras de Jackie Chan" tvg-logo="https://media.fstatic.com/XC0COApitHa1fRkhTnQlB9GCdVc=/fit-in/290x478/smart/media/movies/covers/2010/07/f1ab14b3c3125ccdd001bae4e3aedaa0.jpg" group-title="Desenhos 24hs",[24H] As Aventuras de Jackie Chan
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/11509
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Aventuras de Tintim" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hnd61YaafVOfP0iYg9tZj3gYcaB.jpg" group-title="Desenhos 24hs",[24h] As Aventuras de Tintim
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/82744
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Super Poderosas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftFTY3EZTTAP5RKfRijD8Q8PNQX.jpg" group-title="Desenhos 24hs",[24H] As Meninas Super Poderosas
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/897967
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Meninas Superpoderosas Geração Z" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eyma9skDvtn6drk7sFtfmbTV3Vb.jpg" group-title="Desenhos 24hs",[24h] As Meninas Superpoderosas Geração Z
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60312
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Tartarugas Ninja" tvg-logo="https://media.fstatic.com/BjNcbc_mKW-CyX9aw_aaOZqwYgM=/fit-in/290x478/smart/media/movies/covers/2011/12/122154e9da4f8c31e5cc2ca9ec21f205.jpg" group-title="Desenhos 24hs",[24h] As Tartarugas Ninja
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/11828
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Terríveis Aventuras de Billy e Mandy" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxdTn5UwvriN1EzDSNnWr5AAQN7.jpg" group-title="Desenhos 24hs",[24h] As Terríveis Aventuras de Billy e Mandy
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60310
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Trapalhadas de Flapjack" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n2nywQCi0SxyBjlNrYHKkI9tgod.jpg" group-title="Desenhos 24hs",[24h] As Trapalhadas de Flapjack
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60311
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Batwheels" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2BY0gFzJfVMAJkYameynkOkHcA1.jpg" group-title="Desenhos 24hs",[24h] Batwheels
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/915628
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10 " tvg-logo="https://imgur.com/PbAhK0I.jpg" group-title="Desenhos 24hs",[24h] Ben 10 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/82783
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10 Reboot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4H0UR7aUkGZlT6Q9r9grBrjJWR.jpg" group-title="Desenhos 24hs",[24h] Ben 10 Reboot
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60315
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Força Alienígena " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Força Alienígena 
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60313
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Omniverse" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Re9I5tauOspaJxYCIqRqavKT4F.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Omniverse
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60314
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Supremacia Alienígena" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YgXSWdHpRU3KzlK47tD6a3E6nY.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Supremacia Alienígena
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60316
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Beyblade Burst" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg" group-title="Desenhos 24hs",[24h] Beyblade Burst
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/60368
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Billy Dilley" tvg-logo="https://imgur.com/rJ4mSII.jpg" group-title="Desenhos 24hs",[24h] Billy Dilley
+http://dns.acaidopara.net:8080/Claudio6431/11987416431/82968
 
 #EXTM3U url-tvg="http://grade-de-MUSICA.xml"
 ############## MUSICA  ################# 
@@ -2190,207 +3140,69 @@ https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="RADIOS",Blog do Léo Lima
 https://player.painelvox.com/player-ssl/8340/;
 
-#EXTM3U url-tvg="http://grade-de-PORNOBOX.xml"
-############## PORNOBOX  ################# 
-#EXTINF:-1 tvg-id=" iddocanaldePORNOBOX" group-title="
+#EXTM3U url-tvg="http://grade-de-[Séries da Semana].xml"
+############## [Séries da Semana]  ################# 
+#EXTINF:-1 tvg-id=" iddocanalde[Séries da Semana]" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 1" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 1
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/567
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 10" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 10
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/576
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 100" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 100
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/666
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 11" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 11
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/577
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 12" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 12
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/578
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 13" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 13
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/579
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 14" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 14
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/580
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 15" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 15
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/581
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 16" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 16
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/582
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 17" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 17
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/583
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 18" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 18
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/584
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 19" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 19
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/585
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 2" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 2
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/568
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 20" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 20
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/586
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 21" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 21
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/587
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 22" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 22
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/588
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 23" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 23
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/589
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 24" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 24
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/590
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 25" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 25
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/591
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 26" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 26
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/592
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 27" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 27
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/593
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 28" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 28
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/594
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 29" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 29
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/595
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 3" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 3
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/569
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 30" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 30
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/596
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 31" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 31
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/597
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 32" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 32
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/598
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 33" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 33
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/599
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 34" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 34
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/600
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 35" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 35
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/601
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 36" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 36
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/602
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 37" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 37
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/603
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 38" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 38
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/604
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 39" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 39
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/605
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 4" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 4
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/570
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 40" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 40
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/606
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 41" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 41
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/607
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 42" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 42
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/608
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 43" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 43
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/609
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 44" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 44
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/610
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 45" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 45
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/611
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 46" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 46
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/612
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 47" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 47
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/613
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 48" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 48
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/614
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 49" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 49
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/615
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 5" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 5
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/571
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 50" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 50
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/616
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 51" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 51
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/617
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 52" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 52
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/618
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 53" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 53
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/619
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 54" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 54
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/620
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 55" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 55
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/621
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 56" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 56
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/622
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 57" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 57
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/623
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 58" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 58
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/624
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 59" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 59
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/625
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 6" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 6
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/572
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 60" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 60
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/626
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 61" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 61
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/627
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 62" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 62
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/628
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 63" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 63
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/629
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 64" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 64
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/630
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 65" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 65
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/631
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 66" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 66
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/632
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 67" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 67
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/633
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 68" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 68
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/634
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 69" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 69
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/635
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 7" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 7
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/573
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 70" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 70
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/636
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 71" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 71
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/637
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 72" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 72
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/638
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 73" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 73
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/639
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 74" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 74
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/640
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 75" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 75
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/641
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 76" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 76
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/642
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 77" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 77
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/643
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 78" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 78
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/644
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 79" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 79
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/645
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 8" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 8
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/574
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 80" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 80
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/646
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 81" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 81
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/647
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 82" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 82
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/648
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 83" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 83
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/649
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 84" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 84
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/650
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 85" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 85
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/651
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 86" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 86
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/652
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 87" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 87
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/653
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 88" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 88
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/654
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 89" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 89
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/655
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 9" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 9
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/575
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 90" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 90
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/656
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 91" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 91
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/657
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 92" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 92
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/658
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 93" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 93
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/659
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 94" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 94
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/660
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 95" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 95
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/661
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 96" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 96
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/662
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 97" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 97
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/663
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 98" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 98
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/664
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 99" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 99
-http://78.159.119.122:2082/LIST-MIGIRATION-iNbal6p69Z/y6K5KH3DZR/665
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbovhZ4L3PD0KW0bm9ZHbrZFPgh.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E01
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqriIpD224gZlTgWp9AxoB8cjel.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E02
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yC5AEjBqD9NNNJGYH1m3JNUH3M.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E03
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srPg6rNRQmT9G4FD2TARF5C5i8T.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E04
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzILwAsl3mao6pNv30IUY0FVPxS.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E05
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1zEEPscsT4nhOxUwBUb2IkNBvH.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E06
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiQYuv5VnN1KZf47g6QsYlF8ocz.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E07
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BNDvGw9gOpnUoxXcKPIT2X84dM.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E08
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UUAQr5gD5JAceawFR7yE9wOquz.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E09
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1W1j3SDtKAD5u0QG8hJFYI7mglf.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E10
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsw4PMM4BtfqJYT27WHmJKrQMMp.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E01
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhCTljq8OzlWYW3C5paAr2YvOhf.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E02
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYJrYTR0RpBlp0fw0UfNaAZO7nP.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E03
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CSLPkJwJZjZnfv69M7lIrIxTIc.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E04
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyzPZRlQAeCgHs1LVg51IEK5eqG.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E05
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC6itufcH31L6E7HLg4oNo1kaD7.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E06
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2eCFJmoQoJ0elmN7IDiAwPd3CN.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E07
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywT1CJ4kzxKBhbJnkekQtdMaqqy.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E08
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUlTcgHvgfyUlN40BwdVjcUtSpz.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E09
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVWvsiDk1AkWERrswokkkBc3AzB.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E10
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zET6xdzBXcZsEfSSAyYaXmgYdg.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E11
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAfwzp5gUwI6yeOa1QOcE5jdL4R.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E12
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qg0dtx1tn0MyWZ3fhOwkBemlHj5.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E13
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVHOdqAmd2rJBDgLFmYhdG6whF3.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E14
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpDO78DR5NHAv8rUUtNd040mzcN.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E15
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5tuf4S9IJury7qZixvSlh0egHz.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E16
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ooXok5vvyL9r9pHuWUXsJhsrX5.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E17
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HfEYpTcoSlO1VapSX8PuK9bVZ4.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E18
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4GHGmOs260c1yRjcwFBatoymxf.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E19
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN1O0ytfgJebsPRAKVHGlQ45UT6.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E20
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kkUXAxBjSi42YRXYtwCz4eaRjJ.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E21
+http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914220.mp4
