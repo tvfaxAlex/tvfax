@@ -260,9 +260,9 @@ https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-id="6e57d77806b180634ba62a9c1d5dbc8b" tvg-name="CANAL BOI HD" tvg-logo="http://185.53.90.49:41001/logos/canal boi.png" group-title="CANAIS ABERTOS TV FAX",CANAL BOI HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/486
-#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="" group-title="TV ABERTA",REDE BRASIL HD
+#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",REDE BRASIL HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/531
-#EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="" group-title="TV ABERTA",REDE TV HD
+#EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",REDE TV HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/532
 
 #EXTM3U url-tvg=" http://grade-de-TV RECORD.xml "
@@ -304,7 +304,6 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="TV SBT",SBT 4K
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705300481/ei/oX2kZcGhE66P-LAPtISh0Ag/ip/200.152.27.1/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf_nrc05JnFsMu6qua2o5wczllwpgDUdAuPcadMVhnPMCIQDxMPOaVc6UQHnQoGUIRpqKW5ihfKeVtEnpEb15i1stug%3D%3D/file/index.m3u8
-
 
 #EXTM3U url-tvg=" http://grade-de-TV GLOBO.xml "
  ############## TV GLOBO ############## ### 
@@ -1759,9 +1758,9 @@ https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u
 https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="FILMES TV FAX GOSPEL",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Outra Vida"tvg-logo="https://i.pinimg.com/736x/dd/fb/02/ddfb0255eaad5ceb4279de0dbb1bd569.jpg"group-title="group-title="FILMES TV FAX GOSPEL",Outra Vida
+#EXTINF:-1 tvg-id="" tvg-name="Outra Vida" tvg-logo="https://i.pinimg.com/736x/dd/fb/02/ddfb0255eaad5ceb4279de0dbb1bd569.jpg"group-title=" group-title="FILMES TV FAX GOSPEL",Outra Vida
 https://play.prod.gcp.vix.services/other-life_pt/other-life_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ao Lado de Cristo"tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/27/18/31/3723018.jpg"group-title="group-title="FILMES TV FAX GOSPEL",Ao Lado de Cristo
+#EXTINF:-1 tvg-id="" tvg-name="Ao Lado de Cristo" tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/27/18/31/3723018.jpg"group-title=" group-title="FILMES TV FAX GOSPEL",Ao Lado de Cristo
 https://play.prod.gcp.vix.services/penitent-thief_pt/penitent-thief_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILME TV e Radio FAX archive.xml"
@@ -1854,6 +1853,47 @@ https://ia601207.us.archive.org/5/items/terra-das-oportunidades-tv-fax/Terra%20d
 https://ia601209.us.archive.org/6/items/seven-os-sete-crimes-capitais-tv-fax/Seven%20Os%20Sete%20Crimes%20Capitais%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Som Da Liberdade Sound Of Freedom"tvg-logo="https://jpimg.com.br/uploads/2023/08/soundfreedom_hiperionblog-700x450.jpg"group-title="FILME TV e Radio FAX archive",Som Da Liberdade Sound Of Freedom
 https://ia601200.us.archive.org/24/items/som-da-liberdade-sound-of-freedom-tv-fax/Som%20da%20Liberdade%20-%20Sound%20of%20Freedom%20TV%20FAX.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX VIX .xml"
+############## FILME TV FAX VIX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX VIX " group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="72 Horas Depois"tvg-logo="https://i.ytimg.com/vi/23BMO_0Nmqg/maxresdefault.jpg"group-title="FILME TV FAX VIX",72 Horas Depois 
+https://play.prod.gcp.vix.services/last-three-days_pt/last-three-days_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Caçadora: Ruína dos Mortos"tvg-logo="https://i.ytimg.com/vi/WwktYJbyLCs/sddefault.jpg"group-title="FILME TV FAX VIX",A Caçadora: Ruína dos Mortos
+https://play.prod.gcp.vix.services/huntress-rune-dead_pt/huntress-rune-dead_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Era da Escuridão"tvg-logo="https://i.ytimg.com/vi/mUD1YeIph7w/maxresdefault.jpg"group-title="FILME TV FAX VIX",A Era da Escuridão
+https://play.prod.gcp.vix.services/age-of-shadows_pt/age-of-shadows_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Fera"tvg-logo="https://filmes.band.uol.com.br/wp-content/uploads/2019/12/A-FERA-4.jpg"group-title="FILME TV FAX VIX",A Fera 
+https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alta Velocidade"tvg-logo="https://i.ytimg.com/vi/Tbdy978tsAY/maxresdefault.jpg"group-title="FILME TV FAX VIX",Alta Velocidade
+https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caçada Sangrenta"tvg-logo="https://ottvsimg.ottvs.com.br/cov/nef.066696/0066696_335.jpg"group-title="FILME TV FAX VIX",Caçada Sangrenta
+https://play.prod.gcp.vix.services/killing-down_pt/killing-down_pt_1-1/play_hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lua Cheia"tvg-logo="https://i.ytimg.com/vi/hgdNEpSWMAQ/maxresdefault.jpg"group-title="FILME TV FAX VIX",Lua Cheia
+https://play.prod.gcp.vix.services/howlers_pt/howlers_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sobreviventes"tvg-logo="https://br.web.img2.acsta.net/pictures/15/08/04/21/37/556902.jpg"group-title="FILME TV FAX VIX",Sobreviventes 
+https://play.prod.gcp.vix.services/backcountry_pt/backcountry_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vingança"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/35/46/27/18394832.jpg"group-title="FILME TV FAX VIX",Vingança
+https://play.prod.gcp.vix.services/wake-of-death_pt/wake-of-death_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Assassina Perfeita "tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8de90cb0a94c5579a2b787bc0c456f9f243947d53f0baa47bb173064c1f1abaf.jpg"group-title="FILME TV FAX VIX",A Assassina Perfeita 
+
+#EXTM3U url-tvg="http://grade-de-CANAIS TV FAX RUMTIME.xml"
+############## CANAIS TV FAX RUMTIME ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS TV FAX RUMTIME" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="AÇAO"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp"group-title="CANAIS TV FAX RUMTIME",AÇAO
+https://stream.ads.ottera.tv/cl/240117cmji4n5am069ekndjtd0/1280x720_3071200_0_f.m3u8?i=728_6128
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YrTJ0HvK0JReIs7_osZ3Io7Z3mQ1yra9oYNVmJkzmztWAioaNlyixzzyCoS5uretiIg&usqp=CAU"group-title="CANAIS TV FAX RUMTIME",FAMILIA
+https://stream.ads.ottera.tv/cl/240117cmji6qn6s3it5mvaoqm0/1280x720_3071200_0_f.m3u8?i=728_5589
+#EXTINF:-1 tvg-id="" tvg-name="CINESPANTO"tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/RuntimeCinEspanto_b__circle.png"group-title="CANAIS TV FAX RUMTIME",CINESPANTO
+https://stream.ads.ottera.tv/cl/240117cmji7i0qmssav5p4pk50/1280x720_3071200_0_f.m3u8?i=728_4865
+#EXTINF:-1 tvg-id="" tvg-name="CRIME"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp"group-title="CANAIS TV FAX RUMTIME",CRIME
+https://stream.ads.ottera.tv/cl/240117cmji8aovsaavnfqasbsg/1280x720_3071200_0_f.m3u8?i=728_4864
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJ8LWuQRjr-DORHCFSPIbEwYLNeK0hUB6FSRFJ4zIHJf736aX97YPnwi5OULafvDBH64&usqp=CAU"group-title="CANAIS TV FAX RUMTIME",COMEDIA
+https://stream.ads.ottera.tv/cl/240117cmji8t8pc25k0skm1a50/1280x720_3071200_0_f.m3u8?i=728_2553
+#EXTINF:-1 tvg-id="" tvg-name="ROMANCE"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp"group-title="CANAIS TV FAX RUMTIME",ROMANCE
+https://stream.ads.ottera.tv/cl/240117cmji9d69ldp7ibpa0mqg/1280x720_3071200_0_f.m3u8?i=728_6133
 
 #EXTM3U url-tvg="http://grade-de-O Gordo E O Magro.xml"
 ############## O Gordo E O Magro ################# 
