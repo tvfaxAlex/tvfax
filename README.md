@@ -6,6 +6,17 @@
 #EXTINF:-1 tvg-id="" tvg-name=" ALEX Radio FAX Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX Rádio FAX Deus Sempre Presente",Rádio FAX Deus Sempre Presente",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/uhoa45pks0vvv.m3u
 
+#EXTM3U url-tvg=" http://grade-de-ALEX RADIO FAX.xml "
+ ############## ALEX RADIO FAX  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeALEX RADIO FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
+https://stream-51.zeno.fm/hu70hmkcu68uv
+
+#EXTM3U url-tvg=" http://grade-de-BBB 24.xml "
+ ############## BBB 24  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeBBB 24" group-title="
+
 #EXTINF:-1 tvg-id="" tvg-name="BBB 24 4K" tvg-logo="" group-title="BBB 24",BBB 24 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1250
 #EXTINF:-1 tvg-id="" tvg-name="BBB 24 HD" tvg-logo="" group-title="BBB 24",BBB 24 HD
@@ -25,6 +36,10 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1253
 #EXTINF:-1 tvg-id="" tvg-name="SALA" tvg-logo="" group-title="BBB 24",SALA
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1255
 
+#EXTM3U url-tvg=" http://grade-de-TV RECORD.xml "
+ ############## TV RECORD  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV RECORD" group-title="
+
 #EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="" group-title="TV RECORD",RECORD PARANA HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/526
 #EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ 4K" tvg-logo="" group-title="TV RECORD",RECORD RJ 4K
@@ -39,6 +54,10 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/528
 https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=V5AKVJ_88YTjqT0kt7v1WQ&3U1G7qaTxrPbalZnEx=1705309616
 #EXTINF:-1 tvg-id="" tvg-name="RECORD News"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="TV RECORD",RECORD News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w245748952.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-TV SBT.xml "
+ ############## TV SBT  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV SBT" group-title="
 
 #EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="" group-title="TV SBT",SBT 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/534
@@ -56,6 +75,10 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="TV SBT",SBT 4K
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705300481/ei/oX2kZcGhE66P-LAPtISh0Ag/ip/200.152.27.1/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf_nrc05JnFsMu6qua2o5wczllwpgDUdAuPcadMVhnPMCIQDxMPOaVc6UQHnQoGUIRpqKW5ihfKeVtEnpEb15i1stug%3D%3D/file/index.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-TV GLOBO.xml "
+ ############## TV GLOBO  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV GLOBO" group-title="
 
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV GLOBO",GLOBO BAHIA 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/488
@@ -89,6 +112,10 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1248
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/563
 #EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="TV TEM SOROCABA HD" tvg-logo="" group-title="TV GLOBO",TV TEM SOROCABA HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/562
+
+#EXTM3U url-tvg=" http://grade-de-Rede Globosat .xml "
+ ############## Rede Globosat  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeRede Globosat " group-title="
 
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="Rede Globosat ",Telecine Premium FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1904
@@ -191,6 +218,9 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/1331
 #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil Alternativo " tvg-logo="http://prinplay.com.br/server/Canal%20Brasil.png" group-title="Rede Globosat ",Canal Brasil Alternativo 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1123
 
+#EXTM3U url-tvg=" http://grade-de-TV BAND.xml "
+ ############## TV BAND ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV BAND" group-title="
 
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="" group-title="TV BAND",BAND MINAS UHD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/481
@@ -205,6 +235,9 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/484
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="" group-title="TV BAND",BAND SP HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/485
 
+#EXTM3U url-tvg=" http://grade-de-TV ABERTA.xml "
+ ############## TV ABERTA ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV ABERTA" group-title="
 
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO BAHIA 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/488
@@ -351,6 +384,10 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/551
 #EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="TRU TV HD" tvg-logo="" group-title="FILMES & SERIES",TRU TV HD
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/541#EXTINF:-1 tvg-id="0d37b9bd23514b5da7d9096bf6b71a5d" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="" group-title="TV ABERTA",EPTV RIBEIRAO PRETO
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1011
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS WEB TV FAX.xml "
+ ############## CANAIS WEB TV FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS WEB TV FAX" group-title="
 
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="CANAIS WEB TV FAX",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
@@ -565,6 +602,10 @@ https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 #EXTINF:-1 tvg-id="WebTVAguaBoa.br" tvg-logo="https://i.imgur.com/XrFoTDv.png" group-title="CANAIS WEB TV FAX",Web TV Água Boa (720p)
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS ABERTOS TV FAX.xml "
+ ############## CANAIS ABERTOS TV FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS ABERTOS TV FAX" group-title="
+
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil Ao Vivo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSaDt3ENMoe1IA7EDN-75IbsYqY81GDyndR5qTewM0ujnt2cIDDBLvxK9rgsXlMgOKpc&usqp=CAU"group-title="CANAIS ABERTOS TV FAX",TV Brasil Ao Vivo
 https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/Chespirito.png" group-title="CANAIS ABERTOS TV FAX", Chespirito
@@ -575,6 +616,10 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/486
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/531
 #EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",REDE TV HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/532
+
+#EXTM3U url-tvg=" http://grade-de-FILMES & SERIES.xml "
+ ############## FILMES & SERIES ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES & SERIES" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
@@ -711,6 +756,10 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/783
 #EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="FILMES & SERIES",WARNER CHANNEL HD
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/320
 
+#EXTM3U url-tvg=" http://grade-de-Especiais 24hs .xml "
+ ############## Especiais 24hs  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeEspeciais 24hs " group-title="
+
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Bake Off Brasil – Celebridades " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9cXiG4FOd4qOutQmAU4Xn4ytqsO.jpg" group-title="Especiais 24hs ",[24h] Bake Off Brasil – Celebridades 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/60674
 #EXTINF:-1 tvg-id="" tvg-name="[24h] De Férias com o Ex Brasil" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9aBYWnwd86ejV4ic36z188ZiGu4.jpg" group-title="Especiais 24hs ",[24h] De Férias com o Ex Brasil
@@ -745,6 +794,10 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/59878
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/59879
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Top Chef Brasil" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hQIaICWRNBfzOLru0cGZJMiI1Yk.jpg" group-title="Especiais 24hs ",[24h] Top Chef Brasil
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/59880
+
+#EXTM3U url-tvg=" http://grade-de-Star & HBO Max.xml "
+ ############## Star & HBO Max  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeStar & HBO Max" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 FHD¹" tvg-logo="https://cdn.vox-cdn.com/uploads/chorus_image/image/66848287/HBO_Max_Press_On_White_Horiz_300dpi_0.0.jpg" group-title="Star & HBO Max",HBO Max 1 FHD¹
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/915108
@@ -827,6 +880,10 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/66580
 #EXTINF:-1 tvg-id="" tvg-name="Star+ 5 " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 5 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/66581
 
+#EXTM3U url-tvg=" http://grade-de-HBO .xml "
+ ############## HBO   ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeHBO " group-title="
+
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="HBO ",HBO FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1891
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="HBO ",HBO HD
@@ -908,6 +965,10 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/1265
 #EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1203
 
+#EXTM3U url-tvg=" http://grade-de-Cineflix 24hs.xml "
+ ############## Cineflix 24hs  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCineflix 24hs" group-titl
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Animação" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Animação
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/56996
 #EXTINF:-1 tvg-id="" tvg-name="Cine Aventura & Familia" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Aventura & Familia
@@ -941,6 +1002,10 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/56855
 #EXTINF:-1 tvg-id="" tvg-name="Cine Terror" tvg-logo="https://i.postimg.cc/4yxzNQpQ/acao.png" group-title="Cineflix 24hs",Cine Terror
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/56999
 
+#EXTM3U url-tvg=" http://grade-de-Cine Sky.xml "
+ ############## Cine Sky ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCine Sky" group-titl
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 1" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 1
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/40623
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 2" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 2
@@ -961,6 +1026,10 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/40630
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/896436
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="Cine Sky",Cine Sky 10
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/896437
+
+#EXTM3U url-tvg=" http://grade-de-NOTICIAS.xml "
+ ############## NOTICIAS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeNOTICIAS" group-titl
 
 #EXTINF:-1 tvg-id="238c688748855e63046d6e54b0f9278f" tvg-name="TVE HD" tvg-logo="" group-title="NOTICIAS",TVE HD
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/455
@@ -989,6 +1058,9 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/428
 #EXTINF:-1 tvg-id="c0879c01cbcfdfe09899bd8a756722aa" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="" group-title="NOTICIAS",CNN INTERNACIONAL 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/438
 
+#EXTM3U url-tvg=" http://grade-de-ENTRETENIMENTO.xml "
+ ############## ENTRETENIMENTO ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeENTRETENIMENTO" group-titl
 
 #EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA HD" tvg-logo="" group-title="ENTRETENIMENTO",CURTA HD
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/100
@@ -1021,6 +1093,10 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/117
 #EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="" group-title="ENTRETENIMENTO",VIVA 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/114
 
+#EXTM3U url-tvg=" http://grade-de-DOCUMENTARIOS.xml "
+ ############## DOCUMENTARIOS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeDOCUMENTARIOS" group-titl
+
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC 4K" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/91
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC HD
@@ -1051,7 +1127,6 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/87
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/88
 #EXTINF:-1 tvg-id="9620278066c852f4fc8025f928289614" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="DOCUMENTARIOS",TRAVEL BOX BRASIL 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/848
-
 #EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/65
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS",DISCOVERY H&H 4K
@@ -1077,6 +1152,11 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/77
 #EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/78
 
+
+#EXTM3U url-tvg=" http://grade-de-BEIN SPORTS.xml "
+ ############## BEIN SPORTS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeBEIN SPORTS" group-titl
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/901
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 2
@@ -1092,6 +1172,9 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/906
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 7
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/907
 
+#EXTM3U url-tvg=" http://grade-de-ESPORTES ONLINE.xml "
+ ############## ESPORTES ONLINE ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeESPORTES ONLINE" group-titl
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="" group-title="ESPORTES ONLINE",CAZE TV
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1145
@@ -1186,6 +1269,9 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1149
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 8 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 8 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1150
 
+#EXTM3U url-tvg=" http://grade-de-ESPORTES.xml "
+ ############## ESPORTES ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeESPORTES" group-titl
 
 #EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 4K" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="ESPORTES",SPORTV 1 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/183
@@ -1264,6 +1350,9 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/120
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="ESPORTES",BAND SPORTS HD
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/121
 
+#EXTM3U url-tvg=" http://grade-de-INFANTIS.xml "
+ ############## INFANTIS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeINFANTIS" group-titl
 
 #EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/369
@@ -1310,6 +1399,10 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/344
 #EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO HD
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/345
 
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS FAX 2024.xml "
+ ############## CANAIS FAX 2024 ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS FAX 2024" group-titl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="CANAIS FAX 2024",Canal Libras
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
@@ -1582,6 +1675,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de5
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS FAX 2024",Tokusato | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTM3U url-tvg=" http://grade-de-FILMES TV FAX GOSPEL.xml "
+ ############## FILMES TV FAX GOSPEL ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX GOSPEL" group-titl
+
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="Todo-Poderoso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMopGFWrwiLAptLUk2XLCj0fNjtew87d8avA&usqp=CAU" group-title="FILMES TV FAX GOSPEL",Todo-Poderoso
 https://ia802604.us.archive.org/2/items/filme-gospel-dublado-o-misterio-da-divindade-a-continuacao-o-senhor-jesus-retornou-a-carne_202306/Document%C3%A1rio%20de%20Igreja%20de%20Deus%20Todo-Poderoso%20_A%20apari%C3%A7%C3%A3o%20e%20obra%20de%20Deus%20Todo-Poderoso_%20Parte%20um.mp4
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="A Paixao Sanguenta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMopGFWrwiLAptLUk2XLCj0fNjtew87d8avA&usqp=CAU" group-title="FILMES TV FAX GOSPEL",A Paixao Sanguenta
@@ -1667,6 +1764,9 @@ https://play.prod.gcp.vix.services/other-life_pt/other-life_pt_1-1/play_v1_hls_1
 #EXTINF:-1 tvg-id="" tvg-name="Ao Lado de Cristo" tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/27/18/31/3723018.jpg"group-title=" group-title="FILMES TV FAX GOSPEL",Ao Lado de Cristo
 https://play.prod.gcp.vix.services/penitent-thief_pt/penitent-thief_pt_1-1/play_v1_hls_1080p.m3u8
 
+#EXTM3U url-tvg=" http://grade-de-FILME TV e Radio FAX archive.xml "
+ ############## FILME TV e Radio FAX archive ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV e Radio FAX archive" group-titl
 
 #EXTINF:-1 tvg-id="" tvg-name="O CAMINHO DIFÍ CIL THE HARD WAY"tvg-logo="https://images.justwatch.com/poster/116903385/s592/the-hard-way-2019"group-title="FILME TV e Radio FAX archive",O CAMINHO DIFÍ CIL THE HARD WAY
 https://ia601209.us.archive.org/31/items/o-caminho-difi-cil-the-hard-way-tv-fax/O%20CAMINHO%20DIF%C3%8DCIL%20-%20THE%20HARD%20WAY%20TV%20FAX.mp4
@@ -1741,6 +1841,9 @@ https://ia601209.us.archive.org/6/items/seven-os-sete-crimes-capitais-tv-fax/Sev
 #EXTINF:-1 tvg-id="" tvg-name="Som Da Liberdade Sound Of Freedom"tvg-logo="https://jpimg.com.br/uploads/2023/08/soundfreedom_hiperionblog-700x450.jpg"group-title="FILME TV e Radio FAX archive",Som Da Liberdade Sound Of Freedom
 https://ia601200.us.archive.org/24/items/som-da-liberdade-sound-of-freedom-tv-fax/Som%20da%20Liberdade%20-%20Sound%20of%20Freedom%20TV%20FAX.mp4
 
+#EXTM3U url-tvg=" http://grade-de-FILME TV FAX VIX.xml "
+ ############## FILME TV FAX VIX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX VIX" group-titl
 
 #EXTINF:-1 tvg-id="" tvg-name="72 Horas Depois"tvg-logo="https://i.ytimg.com/vi/23BMO_0Nmqg/maxresdefault.jpg"group-title="FILME TV FAX VIX",72 Horas Depois 
 https://play.prod.gcp.vix.services/last-three-days_pt/last-three-days_pt_1-1/play_v1_hls_1080p.m3u8
@@ -1762,6 +1865,10 @@ https://play.prod.gcp.vix.services/backcountry_pt/backcountry_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/wake-of-death_pt/wake-of-death_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Assassina Perfeita "tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8de90cb0a94c5579a2b787bc0c456f9f243947d53f0baa47bb173064c1f1abaf.jpg"group-title="FILME TV FAX VIX",A Assassina Perfeita 
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS TV FAX RUMTIME.xml "
+ ############## CANAIS TV FAX RUMTIME ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS TV FAX RUMTIME" group-titl
+
 #EXTINF:-1 tvg-id="" tvg-name="AÇAO"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp"group-title="CANAIS TV FAX RUMTIME",AÇAO
 https://stream.ads.ottera.tv/cl/240117cmji4n5am069ekndjtd0/1280x720_3071200_0_f.m3u8?i=728_6128
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YrTJ0HvK0JReIs7_osZ3Io7Z3mQ1yra9oYNVmJkzmztWAioaNlyixzzyCoS5uretiIg&usqp=CAU"group-title="CANAIS TV FAX RUMTIME",FAMILIA
@@ -1775,6 +1882,9 @@ https://stream.ads.ottera.tv/cl/240117cmji8t8pc25k0skm1a50/1280x720_3071200_0_f.
 #EXTINF:-1 tvg-id="" tvg-name="ROMANCE"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp"group-title="CANAIS TV FAX RUMTIME",ROMANCE
 https://stream.ads.ottera.tv/cl/240117cmji9d69ldp7ibpa0mqg/1280x720_3071200_0_f.m3u8?i=728_6133
 
+#EXTM3U url-tvg="http://grade-de-O Gordo E O Magro.xml"
+############## O Gordo E O Magro ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeO Gordo E O Magro" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Os Mestres Do Baile"tvg-logo="https://i.pinimg.com/736x/dd/14/0a/dd140a311e7fa56e82f302cdbb49e4a2.jpg"group-title="O Gordo E O Magro",Os Mestres Do Baile
 https://ia601600.us.archive.org/6/items/dancing-masters-the/Dancing%20Masters%20The.ia.mp4
@@ -1837,6 +1947,9 @@ https://ia903203.us.archive.org/25/items/o-gordo-e-o-magro-o-capitao-e-seu-maruj
 #EXTINF:-1 tvg-id="" tvg-name="Uma boa ação nem sempre dá bom resultado"tvg-logo="https://i.ytimg.com/vi/UMOYzCalGwE/mqdefault.jpg"group-title="O Gordo E O Magro",Uma boa ação nem sempre dá bom resultado
 https://ia903202.us.archive.org/30/items/o-gordo-e-o-magro-uma-boa-acao-nem-sempre-da-bom-resultado-colorido-1931/O%20Gordo%20e%20o%20Magro%20-%20Uma%20boa%20a%C3%A7%C3%A3o%20nem%20sempre%20d%C3%A1%20bom%20resultado%21%20%5BColorido%281931%29%5D.ia.mp4
 
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX |  ONLINE.xml"
+############## FILME TV FAX |  ONLINE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  ONLINE" group-title="
 
 #EXTINF:5265,O Albergue 3 2011 (Hostel Part III) PT-BR - https://archive.org/details/o-albergue-3-2011-hostel-part-iii
 https://ia801609.us.archive.org/25/items/o-albergue-3-2011-hostel-part-iii/O%20Albergue%203%202011%20%28Hostel%20Part%20III%29.mp4
@@ -1898,6 +2011,9 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-8/play_v1_hls_1080p.m
 #EXTINF:-1 tvg-id="" tvg-name="Jiraiya:A Emboscada"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:A Emboscada
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m3u8
 
+#EXTM3U url-tvg="http://grade-de-FILMES  COLETANEA JACKIE CHAN.xml"
+############## FILMES  COLETANEA JACKIE CHAN ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES  COLETANEA JACKIE CHAN" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga"tvg-logo="https://m.media-amazon.com/images/I/91NSQEWHmsL._AC_SL1500_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Kung Fu Yoga
 https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_720p.m3u8
@@ -1920,6 +2036,10 @@ https://play.prod.gcp.vix.services/armour-of-god-2_pt/armour-of-god-2_pt_1-1/pla
 #EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê"tvg-logo="http://s2.glbimg.com/5UnBdhvFJuxXwXuYMUzVD9fM__s=/s.glbimg.com/og/rg/f/original/2016/04/20/jackie.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Três Ladrões e um Bebê
 https://play.prod.gcp.vix.services/robin-b-hood_pt/robin-b-hood_pt_1-1/play_v1_hls_1080p.m3u8
 
+#EXTM3U url-tvg="http://grade-de-FE  ESPIRITUAIS.xml"
+############## FE  ESPIRITUAIS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFE  ESPIRITUAIS" group-title="
+
 #EXTINF:-1 tvg-id="" tvg-name=" A Fé que Nos Une"tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="FÉ | ESPIRITUAIS",A Fé que Nos Une
 https://play.prod.gcp.vix.services/faith-fathers_pt/faith-fathers_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  Provas de Fé"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/790178d11b377c656879aeb99188455993741c43f479baa3038fee694dc07ae2._RI_V_TTW_.png" group-title="FÉ | ESPIRITUAIS",Provas de Fé - Santo Agostinho
@@ -1937,6 +2057,9 @@ https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1
 #EXTINF:-1 tvg-id="" tvg-name="  Em Busca de um Milagre"tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÉ | ESPIRITUAIS",Em Busca de um Milagre
 https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
 
+#EXTM3U url-tvg="http://grade-de-SERIE TV FAX As Canções da Minha Vida.xml"
+############## SERIE TV FAX As Canções da Minha Vida ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIE TV FAX As Canções da Minha Vida" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Maria Gadú S01E01"tvg-logo="https://agendadorecife.com.br/files/wp-content/uploads/2011/08/maria-gad%C3%BA.jpg"group-title="SERIE TV FAX As Canções da Minha Vida",Maria Gadú S01E01
 https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-1/play_v1_hls_1080p.m3u8
@@ -1952,6 +2075,10 @@ https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1
 https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-11/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Leo Jaime S01E07"tvg-logo="https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/06/11085623/WhatsApp-Image-2023-06-11-at-00.03.17.jpeg"group-title="SERIE TV FAX As Canções da Minha Vida",Leo Jaime S01E07
 https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-13/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-Infantil Car City.xml"
+############## Infantil Car City ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeInfantil Car City" group-title="
 
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7DnjpXJ6J2U/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x1
 https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-1/play_v1_hls_540p.m3u8
@@ -2030,6 +2157,89 @@ https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/wd0Yk9h2LYk/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 5x2
 https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-17/play_v1_hls_1080p.m3u8
 
+#EXTM3U url-tvg=" http://grade-de-INFANTIS.xml "
+ ############## INFANTIS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeINFANTIS" group-title="
+
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/348
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/349
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL  4K" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL  4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/351
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/352
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST 4K" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="INFANTIS",TOONCAST 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/367
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="INFANTIS",TOONCAST HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/368
+#EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="http://185.53.90.49:41001/logos/zoomoo.png" group-title="INFANTIS",ZOOMOO 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/370
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/369
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/557
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS",NICK JR 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/363
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS",NICK JR HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/364
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS",NICKELODEON 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/365
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS",NICKELODEON HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/768
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="GLOOB 4K" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS",GLOOB 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/357
+#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS",GLOOB HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/358
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO 4K" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/359
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO HD" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS",GLOOBINHO HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/360
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/346
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/347
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/344
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/345
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV 4K" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/767
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/342
+
+#EXTM3U url-tvg="http://grade-de-FILMES | INFANTIL CINEMA.xml"
+############## FILMES | INFANTIL CINEMA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | INFANTIL CINEMAA" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Agente Mirim"tvg-id="https://imagens.ebc.com.br/RAZnjCXPVV4KFuv6wnG3r0APh7I=/365x0/smart/https://tvbrasil.ebc.com.br/sites/default/files/thumbnails/image/agente_mirim_cartaz.jpg?itok=CfgJjlTW" group-title="FILMES | INFANTIL CINEMA",Agente Mirim
+https://play.prod.gcp.vix.services/ace-the-case_pt/ace-the-case_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 Porquinhos e um Bebê"tvg-id="https://i.ytimg.com/vi/K7hPlWWoVCw/maxresdefault.jpg" group-title="FILMES | INFANTIL CINEMA",3 Porquinhos e um Bebê
+https://play.prod.gcp.vix.services/unstable-pigs-baby_pt/unstable-pigs-baby_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Pé Grande"tvg-id="https://hbomax-images.warnermediacdn.com/images/GYnQeTwZqjnJuwwEAAAC3/tileburnedin?size=1280x720&partner=hbomaxcom&v=2145b0250e1f951118647b7ac998b682&host=art-gallery.api.hbo.com&language=pt-br&w=1280" group-title="FILMES | INFANTIL CINEMA",Biduzidos
+https://play.prod.gcp.vix.services/biduzidos_pt/biduzidos_pt_1-1/play_v1_hls_540p.m3u8
+##EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="FILMES | INFANTIL CINEMA",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gato Felix e a Pata dos Ovos de Ouro"tvg-logo="https://pa1.narvii.com/6773/ca51df0db245c3f7711ea8cb663d984013b0c088_hq.gif" group-title="FILMES | INFANTIL CINEMA",Gato Felix e a Pata dos Ovos de Ouro
+https://play.prod.gcp.vix.services/felix-golden-egg_pt/felix-golden-egg_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Travessuras de Uma Sereia"tvg-logo="https://acheicinema.com/wp-content/uploads/2021/01/vaGGurhNCRtlgJQ5hREAiO8fskX-185x278.jpg" group-title="FILMES | INFANTIL CINEMA",As Travessuras de Uma Sereia
+https://play.prod.gcp.vix.services/the-mermaid_pt/the-mermaid_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Um conto de sereia"tvg-logo="https://br.web.img3.acsta.net/pictures/17/11/24/16/00/5072460.jpg" group-title="FILMES | INFANTIL CINEMA",Um conto de sereia
+https://play.prod.gcp.vix.services/mermaid-tale_pt/mermaid-tale_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turma Da Monica"tvg-logo="https://media.tenor.com/8POLqSLpa8cAAAAC/monica-susto.gif"group-title="FILMES | INFANTIL CINEMA",Turma Da Monica
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="moranguinho"tvg-logo="https://media.tenor.com/JSe-kOJJd2IAAAAC/strawberry-shortcake.gif"group-title="FILMES | INFANTIL CINEMA",moranguinho
+https://play.prod.gcp.vix.services/moranguinho_pt/moranguinho_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="car patrol"tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5OTkxN2EtOWU0MC00NjUzLWJjYWItYmY1MTFiYTIzZjU0XkEyXkFqcGdeQXVyODg1Njg2Njc@._V1_.jpg"group-title="FILMES | INFANTIL CINEMA",car patrol
+https://play.prod.gcp.vix.services/car-patrol_pt/car-patrol_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO KIDS SD"tvg-logo="https://media.tenor.com/ebDsb4OasR8AAAAM/mundokidsigarape.gif"group-title="FILMES | INFANTIL CINEMA",MUNDO KIDS SD
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O BICHO VAI PEGAR 3"tvg-logo="https://image.tmdb.org/t/p/w342/gxh80YqyRcxOnFsmsEOXhkO6Qwx.jpg"group-title="FILMES | INFANTIL CINEMA",O BICHO VAI PEGAR 3
+https://video.wixstatic.com/video/834009_a3ece7d11c0949689f53dda20d7bd8c8/720p/mp4/file.mp4
+
+#EXTM3U url-tvg="http://grade-de-Patati Patata .xml"
+############## Patati Patata ################# 
+#EXTINF:-1 tvg-id=" iddocanaldePatati Patata" group-title="
 
 #EXTINF:-1 tvg-logo="https://bologuarana.com.br/wp-content/uploads/sites/3/2022/06/gif-patati-patata-festa-infantil.gif" group-title="Patati Patatá | Patati Patatá",Patatoons
 https://play.prod.gcp.vix.services/patatoons/patatoons_1-1/play_v1_hls_720p.m3u8
@@ -2046,6 +2256,10 @@ https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Remexe
 https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
+
+#EXTM3U url-tvg="http://grade-de-Desenhos 24hs.xml"
+############## Desenhos 24hs ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeDesenhos 24hs" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja Kamp Koral" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/peZYB3aFOBoZbpFhOZogrTHVlqX.jpg" group-title="Desenhos 24hs",[24H] Bob Esponja Kamp Koral
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/84580
@@ -2176,6 +2390,108 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/60368
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Billy Dilley" tvg-logo="https://imgur.com/rJ4mSII.jpg" group-title="Desenhos 24hs",[24h] Billy Dilley
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/82968
 
+#EXTM3U url-tvg=" http://grade-de-Brasil: maratona de ficção.xml "
+ ############## Brasil: maratona de ficção ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeBrasil: maratona de ficção" group-title="
+
+#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="Brasil: maratona de ficção",A Feiticeira | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="Brasil: maratona de ficção",A Feiticeira - link 2 | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Arnold - Diff'rent Strokes | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Arnold - Diff'rent Strokes | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="648776bf536e0c0008b49aef" tvg-logo="https://images.pluto.tv/channels/648776bf536e0c0008b49aef/colorLogoPNG.png" group-title="Brasil: maratona de ficção",As Panteras | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="648776bf536e0c0008b49aef" tvg-logo="https://images.pluto.tv/channels/648776bf536e0c0008b49aef/colorLogoPNG.png" group-title="Brasil: maratona de ficção",As Panteras | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Barrados no Baile | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Barrados no Baile | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Being Mary Jane | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Being Mary Jane | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",CSI Miami | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",CSI Miami | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Death Note | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Death Note | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Inferno Sobre Rodas | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Inferno Sobre Rodas | Pluto TV Brasil - link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Jeannie é um Gênio | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Jeannie é um Gênio | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Kenan e Kel | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Kenan e Kel | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="Brasil: maratona de ficção",La otra cara del Alma | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="Brasil: maratona de ficção",La otra cara del Alma | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Mad About You | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Mad About You | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção",NCIS | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção",NCIS | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Brasil: maratona de ficção",O homem que veio do céu | Pluto TV Brasil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Brasil: maratona de ficção",O homem que veio do céu | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f1eed3c29b39600073e2ec0" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Os Três Patetas | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f1eed3c29b39600073e2ec0" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Os Três Patetas | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Plantão Noturno - The Night Shift | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Plantão Noturno - The Night Shift | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Rookie Blue | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Rookie Blue | Pluto TV Brasil - link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Schitt's Creek | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Schitt's Creek | Pluto TV Brasil - link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Star Trek | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Star Trek | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6489c4a066e48500083ccf97" tvg-logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Starsky & Hutch: Justiça em Dobro | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6489c4a066e48500083ccf97" tvg-logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Starsky & Hutch: Justiça em Dobro | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/a505127c-angermanagement_runtime_channeltitle_1080x1080.jpg" group-title="Brasil: maratona de ficção",Tratamento de Choque | RunTime
+https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Younger | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Younger | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTM3U url-tvg="http://grade-de-FAX | CLIPS AO VIVO.xml"
+############## FAX | CLIPS AO VIVO  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFAX | CLIPS AO VIVO" group-title="
 
 #EXTINF:-1 tvg-name="tv camocim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Pt5E3sJLRHK6r1oJWtgF-SDoDdFSoCp37VaEJgSx0MghVW2gJNAz9DTnHES5871kFiM&usqp=CAU" group-title="FAX | CLIPS AO VIVO",tv camocim
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w177496967.m3u8
@@ -2433,6 +2749,10 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" tvmax   "  tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/3f875c3fc74f0b3a0b73ac11ac425a46/374000-multimedia-canales-tv-mundo-panama-tvmax.gif"group-title="FAX | CLIPS AO VIVO",tvmax
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+
+#EXTM3U url-tvg="http://grade-de-RADIOS.xml"
+############## RADIOS  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRADIOS" group-title="
 
 
 #EXTINF:1 tvg-logo="https://img.radios.com.br/radio/lg/radio19243_1668191196.jpg" group-title="RADIOS",Rádio Viola de Ouro Ribeirão Preto / SP - Brasil
@@ -2710,6 +3030,10 @@ https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="RADIOS",Blog do Léo Lima
 https://player.painelvox.com/player-ssl/8340/;
 
+#EXTM3U url-tvg="http://grade-de-[Séries da Semana].xml"
+############## [Séries da Semana] ################# 
+#EXTINF:-1 tvg-id=" iddocanalde[Séries da Semana]" group-title="
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbovhZ4L3PD0KW0bm9ZHbrZFPgh.jpg" group-title="[Séries da Semana]",CSI: Vegas S01 E01
 http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914190.mp4
@@ -2774,6 +3098,9 @@ http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914219.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kkUXAxBjSi42YRXYtwCz4eaRjJ.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E21
 http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914220.mp4
 
+#EXTM3U url-tvg="http://grade-de-RELIGIOSO.xml"
+############## RELIGIOSO ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRELIGIOSO" group-title="
 
 #EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="" group-title="RELIGIOSO",NOVO TEMPO HD
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/556
@@ -2795,6 +3122,10 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/542
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1051
 #EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="TV NOVO TEMPO" tvg-logo="http://xplussport.com:8080/images/cdc70908008a205cf43dd0c1ed95ad4e.png" group-title="RELIGIOSO",TV NOVO TEMPO
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1053
+
+#EXTM3U url-tvg="http://grade-de-MUSICA.xml"
+############## MUSICA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeMUSICA" group-title="
 
 #EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="PLAY TV" tvg-logo="http://185.53.90.49:41001/logos/play tv.png" group-title="MUSICA",PLAY TV
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/426
@@ -2818,4 +3149,3 @@ http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/424
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/419
 #EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS HD" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS HD
 http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/420
-
