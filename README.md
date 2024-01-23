@@ -53,6 +53,705 @@ https://g4.baladag4.com.br/file/baladag4/musicas/dinho-santos-arrocha-2.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Nao quero Nao"tvg-logo="https://scontent-gru1-2.xx.fbcdn.net/v/t1.6435-9/83566189_1814675221996158_8915556386495004672_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7f8c78&_nc_eui2=AeGyiIiM1VanGVFvmIUc0E_xgbxtRArnJ_6BvG1ECucn_rjdp8gmBx9VX81Z_FbfKHQ5p11i2Y2Z4Wp2OYdK_2iJ&_nc_ohc=Uz4MOq9adpEAX_wu8PN&_nc_ht=scontent-gru1-2.xx&oh=00_AfBBMer2UAqbhAdhZjAT8sm4yfEJOaldF4QRIg6_KndouA&oe=65D14039" group-title="Dinho Santos Radio FAX",Nao quero Nao
 https://g4.baladag4.com.br/file/baladag4/musicas/dinho-santos-arrocha.mp3
 
+#EXTM3U url-tvg=" http://grade-de-A FAZENDA.xml "
+ ############## A FAZENDA  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeA FAZENDA" group-title="
+
+#EXTINF:-1,A FAZENDA - 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/254730
+#EXTINF:-1,A FAZENDA - 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/254731
+#EXTINF:-1,A FAZENDA - 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/254732
+#EXTINF:-1,A FAZENDA - 04
+http://voz.one:80/alexfnt/vTFBGKdUYq/258180
+#EXTINF:-1,A FAZENDA - 05
+http://voz.one:80/alexfnt/vTFBGKdUYq/258181
+#EXTINF:-1,A FAZENDA - 06
+http://voz.one:80/alexfnt/vTFBGKdUYq/258182
+
+#EXTM3U url-tvg=" http://grade-de-A&E.xml "
+ ############## A&E  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeA&E" group-title="
+
+#EXTINF:-1,A&E (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13848
+#EXTINF:-1,A&E FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/418
+#EXTINF:-1,A&E HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/419
+#EXTINF:-1,A&E SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/420
+
+#EXTM3U url-tvg=" http://grade-de-AMAZON PRIME JOGO.xml "
+ ############## AMAZON PRIME JOGO  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeAMAZON PRIME JOGO" group-title="
+
+#EXTINF:-1,AMAZON PRIME JOGO 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/84336
+#EXTINF:-1,AMAZON PRIME JOGO 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/84337
+#EXTINF:-1,AMAZON PRIME JOGO 3
+http://voz.one:80/alexfnt/vTFBGKdUYq/84338
+#EXTINF:-1,AMAZON PRIME JOGO 4
+http://voz.one:80/alexfnt/vTFBGKdUYq/84339
+
+#EXTM3U url-tvg=" http://grade-de-AMC.xml "
+ ############## AMC  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeAMC" group-title="
+
+#EXTINF:-1,AMC (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13849
+#EXTINF:-1,AMC FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/421
+#EXTINF:-1,AMC HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/422
+#EXTINF:-1,AMC SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/423
+
+#EXTM3U url-tvg=" http://grade-de-Animal Planet.xml "
+ ############## Animal Planet  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeAnimal Planet" group-title="
+
+
+#EXTINF:-1,Animal Planet (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13850
+#EXTINF:-1,Animal Planet 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/225
+#EXTINF:-1,ANIMAL PLANET FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/1
+#EXTINF:-1,ANIMAL PLANET HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/2
+#EXTINF:-1,ANIMAL PLANET SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/3
+
+#EXTM3U url-tvg=" http://grade-de-Apple TV.xml "
+ ############## Apple TV  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeApple TV" group-title="
+
+#EXTINF:-1,Apple TV - LIVE
+http://voz.one:80/alexfnt/vTFBGKdUYq/250997
+#EXTINF:-1,Apple TV - LIVE 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/250998
+
+#EXTM3U url-tvg=" http://grade-de-ARTE 1.xml "
+ ############## ARTE 1  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeARTE 1" group-title="
+
+#EXTINF:-1,ARTE 1 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/787
+#EXTINF:-1,ARTE 1 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/788
+#EXTINF:-1,ARTE 1 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/789
+
+#EXTM3U url-tvg=" http://grade-de-AXN.xml "
+ ############## AXN  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeAXN" group-title="
+
+#EXTINF:-1,AXN (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13851
+#EXTINF:-1,AXN 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89347
+#EXTINF:-1,AXN FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/424
+#EXTINF:-1,AXN HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/425
+#EXTINF:-1,AXN SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/426
+
+#EXTM3U url-tvg=" http://grade-de-BAND.xml "
+ ############## BAND  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeBAND" group-title="
+
+#EXTINF:-1,BAND Band FM 99.1
+http://voz.one:80/alexfnt/vTFBGKdUYq/34013
+#EXTINF:-1BAND Feliz FM 92.3
+http://voz.one:80/alexfnt/vTFBGKdUYq/34014
+#EXTINF:-1,BAND GFM 90.1
+http://voz.one:80/alexfnt/vTFBGKdUYq/34012
+#EXTINF:-1,BAND
+http://voz.one:80/alexfnt/vTFBGKdUYq/65271
+#EXTINF:-1,BAND 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/218
+#EXTINF:-1,BAND BAHIA
+http://voz.one:80/alexfnt/vTFBGKdUYq/93635
+#EXTINF:-1,BAND BRASILIA
+http://voz.one:80/alexfnt/vTFBGKdUYq/96148
+#EXTINF:-1,BAND CAMPINAS
+http://voz.one:80/alexfnt/vTFBGKdUYq/96149
+#EXTINF:-1,BAND CAMPINAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/242
+#EXTINF:-1,BAND CAMPINAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/241
+#EXTINF:-1,BAND CURITIBA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/244
+#EXTINF:-1,BAND GOIANIA
+http://voz.one:80/alexfnt/vTFBGKdUYq/247
+#EXTINF:-1,BAND MG 
+http://voz.one:80/alexfnt/vTFBGKdUYq/95808
+#EXTINF:-1,BAND MG FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56237
+#EXTINF:-1,BAND MG HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56236
+#EXTINF:-1,Band News (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13852
+#EXTINF:-1,BAND NEWS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/682
+#EXTINF:-1,BAND NEWS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/683
+#EXTINF:-1,BAND NEWS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/687
+#EXTINF:-1,BAND RJ
+http://voz.one:80/alexfnt/vTFBGKdUYq/249
+#EXTINF:-1,BAND RJ HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/248
+#EXTINF:-1,BAND RS
+http://voz.one:80/alexfnt/vTFBGKdUYq/96147
+#EXTINF:-1,BAND SP
+http://voz.one:80/alexfnt/vTFBGKdUYq/252
+#EXTINF:-1,BAND SP FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/250
+#EXTINF:-1,BAND SP HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/251
+#EXTINF:-1,BAND SPORTS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/385
+#EXTINF:-1,BAND SPORTS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/387
+#EXTINF:-1,BAND SPORTS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/386
+#EXTINF:-1,BandSports (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13853
+
+#EXTM3U url-tvg=" http://grade-de-BIS.xml "
+ ############## BIS  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeBIS" group-title="
+
+#EXTINF:-1,BIS (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13854
+#EXTINF:-1,BIS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/754
+#EXTINF:-1,BIS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/755
+#EXTINF:-1,BIS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/756
+
+#EXTM3U url-tvg=" http://grade-de-Brasileirão Série D.xml "
+ ############## Brasileirão Série D ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeBrasileirão Série D" group-title="
+
+
+#EXTINF:-1,Brasileirão Série D - 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/156032
+#EXTINF:-1,Brasileirão Série D - 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/156033
+#EXTINF:-1,Brasileirão Série D - 03 
+http://voz.one:80/alexfnt/vTFBGKdUYq/156034
+#EXTINF:-1,Brasileirão Série D - 04 
+http://voz.one:80/alexfnt/vTFBGKdUYq/156035
+#EXTINF:-1,Brasileirão Série D - 05 
+http://voz.one:80/alexfnt/vTFBGKdUYq/156036
+#EXTINF:-1,Brasileirão Série D - 06
+http://voz.one:80/alexfnt/vTFBGKdUYq/156037
+
+#EXTM3U url-tvg=" http://grade-de-Campeonato Brasileiro Série C.xml "
+ ############## Campeonato Brasileiro Série C ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCampeonato Brasileiro Série C" group-title="
+
+#EXTINF:-1,Campeonato Brasileiro Série C  (JOGO 3)
+http://voz.one:80/alexfnt/vTFBGKdUYq/156052
+#EXTINF:-1,Campeonato Brasileiro Série C (JOGO 1)
+http://voz.one:80/alexfnt/vTFBGKdUYq/156050
+#EXTINF:-1,Campeonato Brasileiro Série C (JOGO 2)
+http://voz.one:80/alexfnt/vTFBGKdUYq/156051
+
+#EXTM3U url-tvg=" http://grade-de-Canal Brasil.xml "
+ ############## Canal Brasil ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanal Brasil" group-title="
+
+#EXTINF:-1,Canal Brasil (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13856
+#EXTINF:-1,CANAL BRASIL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45893
+#EXTINF:-1,CANAL BRASIL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45880
+#EXTINF:-1,CANAL BRASIL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/123637
+#EXTINF:-1,CANAL DO BOI
+http://voz.one:80/alexfnt/vTFBGKdUYq/45887
+#EXTINF:-1,CANAL RURAL
+http://voz.one:80/alexfnt/vTFBGKdUYq/56166
+#EXTINF:-1,Canal Sony (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13857
+#EXTINF:-1,CANÇÃO NOVA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56241
+
+#EXTM3U url-tvg=" http://grade-de-Cartoon Network.xml "
+ ############## Cartoon Network ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCartoon Network" group-title="
+
+#EXTINF:-1,Cartoon Network 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/226
+#EXTINF:-1,CARTOON NETWORK FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/625
+#EXTINF:-1,CARTOON NETWORK HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/626
+#EXTINF:-1,CARTOON NETWORK SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/627
+
+#EXTM3U url-tvg=" http://grade-de-Cartoonito.xml "
+ ############## Cartoonito ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCartoonito" group-title="
+
+#EXTINF:-1,Cartoonito (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13855
+#EXTINF:-1,Cartoonito FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/622
+#EXTINF:-1,Cartoonito HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/623
+#EXTINF:-1,Cartoonito SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/624
+#EXTINF:-1,CartoonNetwork (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13858
+
+#EXTM3U url-tvg=" http://grade-de-CBN.xml "
+ ############## CBN ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCBN" group-title="
+
+#EXTINF:-1,CBN SÃO PAULO
+http://voz.one:80/alexfnt/vTFBGKdUYq/64386
+#EXTINF:-1,CHEF TV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/796
+#EXTINF:-1,CHEF TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/746
+#EXTINF:-1,Chef TV SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65350
+
+#EXTM3U url-tvg=" http://grade-de-CINE CANAL.xml "
+ ############## CINE CANAL ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCINE CANAL" group-title="
+
+#EXTINF:-1,CINE CANAL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/432
+#EXTINF:-1,CINE CANAL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/433
+#EXTINF:-1,CINE CANAL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/434
+
+#EXTM3U url-tvg=" http://grade-de-Cinemax.xml "
+ ############## Cinemax ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCinemax" group-title="
+
+#EXTINF:-1,Cinemax (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13859
+#EXTINF:-1,CINEMAX FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/427
+#EXTINF:-1,CINEMAX HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/428
+#EXTINF:-1,CINEMAX SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/429
+
+#EXTM3U url-tvg=" http://grade-de-CNN Brasil.xml "
+ ############## CNN Brasil ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCNN Brasil" group-title="
+
+#EXTINF:-1,CNN Brasil 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89346
+#EXTINF:-1,CNN BRASIL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/684
+#EXTINF:-1,CNN BRASIL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/685
+#EXTINF:-1,CNN BRASIL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/688
+#EXTINF:-1,CNN ESPANHOL
+http://voz.one:80/alexfnt/vTFBGKdUYq/130688
+#EXTINF:-1,CNN INTERNACIONAL
+http://voz.one:80/alexfnt/vTFBGKdUYq/130690
+
+#EXTM3U url-tvg=" http://grade-de-Combate.xml "
+ ############## Combate ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCombate" group-title="
+
+#EXTINF:-1,Combate (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13860
+#EXTINF:-1,Combate 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/227
+#EXTINF:-1,COMBATE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/351
+#EXTINF:-1,COMBATE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/352
+#EXTINF:-1,COMBATE SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/353
+
+#EXTM3U url-tvg=" http://grade-de-Comedy Central.xml "
+ ############## Comedy Central ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeComedy Central" group-title="
+
+#EXTINF:-1,Comedy Central (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13861
+#EXTINF:-1,Comedy Central 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89348
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/757
+#EXTINF:-1,COMEDY CENTRAL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/758
+#EXTINF:-1,COMEDY CENTRAL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/759
+
+#EXTM3U url-tvg=" http://grade-de-Discovery Channel.xml "
+ ############## Discovery Channel ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeDiscovery Channel" group-title="
+
+#EXTINF:-1,Discovery Channel (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13862
+#EXTINF:-1,Discovery Channel 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/228
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/4
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/5
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/6
+#EXTINF:-1,Discovery H&H 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89349
+#EXTINF:-1,Discovery Home & Health (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13864
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/7
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/8
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/9
+#EXTINF:-1,Discovery Kids (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13865
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/628
+#EXTINF:-1,DISCOVERY KIDS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/629
+#EXTINF:-1,DISCOVERY KIDS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/662
+#EXTINF:-1,Discovery Science (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13866
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/10
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/11
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/12
+#EXTINF:-1,Discovery Theater (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13867
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/13
+#EXTINF:-1,DISCOVERY THEATER HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/14
+#EXTINF:-1,DISCOVERY THEATER SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/15
+#EXTINF:-1,DISCOVERY TLC FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/16
+#EXTINF:-1,DISCOVERY TLC HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/17
+#EXTINF:-1,DISCOVERY TLC SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/18
+#EXTINF:-1,Discovery Turbo (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13868
+#EXTINF:-1,Discovery Turbo 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89350
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/19
+#EXTINF:-1,DISCOVERY TURBO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/20
+#EXTINF:-1,DISCOVERY TURBO SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/21
+#EXTINF:-1,Discovery World (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13869
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/22
+#EXTINF:-1,DISCOVERY WORLD HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/23
+#EXTINF:-1,DISCOVERY WORLD SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/24
+
+#EXTM3U url-tvg=" http://grade-de-Disney Channel.xml "
+ ############## Disney Channel ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeDisney Channel" group-title="
+
+#EXTINF:-1,Disney Channel (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13870
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/630
+#EXTINF:-1,DISNEY CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/631
+#EXTINF:-1,DISNEY CHANNEL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/632
+
+#EXTM3U url-tvg=" http://grade-de-E.xml "
+ ##############E ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeE" group-title="
+
+#EXTINF:-1,E (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13872
+#EXTINF:-1,E FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/762
+#EXTINF:-1,E HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/763
+
+#EXTM3U url-tvg=" http://grade-de-ELEVEN SPORTS.xml "
+ ############## ELEVEN SPORTS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeELEVEN SPORTS" group-title="
+
+#EXTINF:-1,ELEVEN SPORTS 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/49793
+#EXTINF:-1,ELEVEN SPORTS 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/49794
+#EXTINF:-1,ELEVEN SPORTS 3
+http://voz.one:80/alexfnt/vTFBGKdUYq/49795
+#EXTINF:-1,ELEVEN SPORTS 4
+http://voz.one:80/alexfnt/vTFBGKdUYq/49796
+#EXTINF:-1,ELEVEN SPORTS 5
+http://voz.one:80/alexfnt/vTFBGKdUYq/49797
+
+#EXTM3U url-tvg=" http://grade-de-ESPN.xml "
+ ############## ESPN ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeESPN" group-title="
+
+#EXTINF:-1,ESPN (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13874
+#EXTINF:-1,ESPN 2 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13875
+#EXTINF:-1,ESPN 2 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/368
+#EXTINF:-1,ESPN 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/367
+#EXTINF:-1,ESPN 2 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/369
+#EXTINF:-1,ESPN 3 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13876
+#EXTINF:-1,ESPN 3 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/361
+#EXTINF:-1,ESPN 3 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/360
+#EXTINF:-1,ESPN 3 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/362
+#EXTINF:-1,ESPN 4 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13882
+#EXTINF:-1,ESPN 4 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/230
+#EXTINF:-1,ESPN 4 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/374
+#EXTINF:-1,ESPN 4 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/375
+#EXTINF:-1,ESPN 4 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/376
+#EXTINF:-1,ESPN 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89351
+#EXTINF:-1,ESPN Extra (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13873
+#EXTINF:-1,ESPN EXTRA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/388
+#EXTINF:-1,ESPN EXTRA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/366
+#EXTINF:-1,ESPN EXTRA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/370
+#EXTINF:-1,ESPN FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/363
+#EXTINF:-1,ESPN HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/364
+#EXTINF:-1,ESPN SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/365
+
+#EXTM3U url-tvg=" http://grade-de-FILM & ART.xml "
+ ############## FILM & ART ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFILM & ART" group-title="
+
+#EXTINF:-1,FILM & ART FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45891
+#EXTINF:-1,FILM & ART HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45878
+#EXTINF:-1,Fish TV (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13877
+#EXTINF:-1,FISH TV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/25
+#EXTINF:-1,FISH TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/26
+#EXTINF:-1,FISH TV SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/27]
+
+#EXTM3U url-tvg=" http://grade-Fox Sports 2 .xml "
+ ############## Fox Sports 2 ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFox Sports 2 " group-title="
+
+#EXTINF:-1,Fox Sports 2 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13883
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/371
+#EXTINF:-1,FOX SPORTS 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/372
+#EXTINF:-1,FOX SPORTS 2 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/373
+
+#EXTM3U url-tvg=" http://grade-de-FX.xml "
+ ############## FX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFX" group-title="
+
+#EXTINF:-1,FX (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13884
+#EXTINF:-1,FX FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/442
+#EXTINF:-1,FX HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/443
+#EXTINF:-1,FX SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/444
+
+#EXTM3U url-tvg=" http://grade-de-GNT.xml "
+ ############## GNT ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeGNT" group-title="
+
+#EXTINF:-1,GNT (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13887
+#EXTINF:-1,GNT 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89353
+#EXTINF:-1,GNT FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/766
+#EXTINF:-1,GNT HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/765
+#EXTINF:-1,GNT SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/767
+#EXTINF:-1,GOAT - HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/252460
+
+#EXTM3U url-tvg=" http://grade-de-H2.xml "
+ ############## H2 ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeH2" group-title="
+
+#EXTINF:-1,H2 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13894
+#EXTINF:-1,H2 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/29
+#EXTINF:-1,H2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/30
+#EXTINF:-1,H2 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/31
+
+#EXTM3U url-tvg=" http://grade-de-HBO.xml "
+ ############## HBO ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeHBO" group-title="
+
+#EXTINF:-1,HBO (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13889
+#EXTINF:-1,HBO 2 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/594
+#EXTINF:-1,HBO 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/595
+#EXTINF:-1,HBO 2 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/596
+#EXTINF:-1,HBO 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/232
+#EXTINF:-1,HBO Familly (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13888
+#EXTINF:-1,HBO FAMILY FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/597
+#EXTINF:-1,HBO FAMILY HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/598
+#EXTINF:-1,HBO FAMILY SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/599
+#EXTINF:-1,HBO FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/600
+#EXTINF:-1,HBO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/601
+#EXTINF:-1,HBO MAX 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/57702
+#EXTINF:-1,HBO MAX 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/57703
+#EXTINF:-1,HBO MAX 3
+http://voz.one:80/alexfnt/vTFBGKdUYq/57704
+#EXTINF:-1,HBO MAX 4
+http://voz.one:80/alexfnt/vTFBGKdUYq/66044
+#EXTINF:-1,HBO MAX 5
+http://voz.one:80/alexfnt/vTFBGKdUYq/124780
+#EXTINF:-1,HBO MUNDI (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13898
+#EXTINF:-1,HBO MUNDI FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/602
+#EXTINF:-1,HBO MUNDI HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/603
+#EXTINF:-1,HBO MUNDI SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/604
+#EXTINF:-1,HBO PLUS (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13890
+#EXTINF:-1,HBO PLUS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/605
+#EXTINF:-1,HBO PLUS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/606
+#EXTINF:-1,HBO PLUS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/607
+#EXTINF:-1,HBO POP (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13900
+#EXTINF:-1,HBO POP FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/608
+#EXTINF:-1,HBO POP HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/609
+#EXTINF:-1,HBO POP SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/610
+#EXTINF:-1,HBO SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/611
+#EXTINF:-1,HBO Signature (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13891
+#EXTINF:-1,HBO SIGNATURE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/612
+#EXTINF:-1,HBO SIGNATURE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/613
+#EXTINF:-1,HBO SIGNATURE SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/614
+#EXTINF:-1,HBO XTREME (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13899
+#EXTINF:-1,HBO Xtreme FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/615
+#EXTINF:-1,HBO Xtreme HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/616
+#EXTINF:-1,HBO Xtreme SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/617
+
+#EXTM3U url-tvg=" http://grade-de-HGTV.xml "
+ ############## HGTV  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeHGTV" group-title="
+
+#EXTINF:-1,HGTV  SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/768
+#EXTINF:-1,HGTV (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13863
+#EXTINF:-1,HGTV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/769
+#EXTINF:-1,HGTV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/770
+
+#EXTM3U url-tvg=" http://grade-de-Lifetime.xml "
+ ############## Lifetime ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeLifetime" group-title="
+
+#EXTINF:-1,Lifetime (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13896
+#EXTINF:-1,LIFETIME FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/445
+#EXTINF:-1,LIFETIME HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/446
+#EXTINF:-1,LIFETIME SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/447
+
+#EXTM3U url-tvg=" http://grade-de-Megapix.xml "
+ ############## Megapix ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeMegapix" group-title="
+
+#EXTINF:-1,Megapix (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13901
+#EXTINF:-1,Megapix 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/233
+#EXTINF:-1,MEGAPIX FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/448
+#EXTINF:-1,MEGAPIX HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/449
+#EXTINF:-1,MEGAPIX SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/450
+
 #EXTM3U url-tvg=" http://grade-de-BBB 24.xml "
  ############## BBB 24  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeBBB 24" group-title="
