@@ -1203,173 +1203,173 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/660
 #EXTI#EXTINF:-1 tvg-id="" tvg-name="ZOOMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCx3pzV4uDgGnpNkhvVA8MnwwLesa_JmGp5A8ge2zsKawXfLkGV6yW5J9evrabfNIo8g&usqp=CAU"group-title="ZOOMO  TV e Radio FAX",ZOOMOO SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/661
 
-#EXTM3U url-tvg=" http://grade-de-[24H] TV e Radio FAX.xml "
- ############## [24H] TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanalde[24H] TV e Radio FAX" group-title="
+#EXTM3U url-tvg=" http://grade-de-24H TV e Radio FAX.xml "
+ ############## 24H TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanalde24H TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] 3 Palavrinhas
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H 3 Palavrinhas
 http://voz.one:80/alexfnt/vTFBGKdUYq/95650
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Alladin
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Alladin
 http://voz.one:80/alexfnt/vTFBGKdUYq/95718
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] As Meninas Super poderosas
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H As Meninas Super poderosas
 http://voz.one:80/alexfnt/vTFBGKdUYq/95653
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] As Meninas Superpoderosas
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H As Meninas Superpoderosas
 http://voz.one:80/alexfnt/vTFBGKdUYq/95719
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Ben 10
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Ben 10
 http://voz.one:80/alexfnt/vTFBGKdUYq/95720
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] BOB
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H BOB
 http://voz.one:80/alexfnt/vTFBGKdUYq/95748
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Bob esponja
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Bob esponja
 http://voz.one:80/alexfnt/vTFBGKdUYq/95721
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Capitão Caverna
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Capitão Caverna
 http://voz.one:80/alexfnt/vTFBGKdUYq/95712
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Caverna do Dragão
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Caverna do Dragão
 http://voz.one:80/alexfnt/vTFBGKdUYq/95660
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Caverna do dragão
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Caverna do dragão
 http://voz.one:80/alexfnt/vTFBGKdUYq/95723
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Central Kids
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Central Kids
 http://voz.one:80/alexfnt/vTFBGKdUYq/95724
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Chapolin colorado
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chapolin colorado
 http://voz.one:80/alexfnt/vTFBGKdUYq/95725
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Chapolin Colorado 2
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chapolin Colorado 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/126146
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Chaves
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chaves
 http://voz.one:80/alexfnt/vTFBGKdUYq/95662
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Chaves Cartoon
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chaves Cartoon
 http://voz.one:80/alexfnt/vTFBGKdUYq/95726
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Cine kids
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Cine kids
 http://voz.one:80/alexfnt/vTFBGKdUYq/95727
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Desenhos disney
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Desenhos disney
 http://voz.one:80/alexfnt/vTFBGKdUYq/95731
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Digimon
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon
 http://voz.one:80/alexfnt/vTFBGKdUYq/95665
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Digimon
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon
 http://voz.one:80/alexfnt/vTFBGKdUYq/95732
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Digimon 15º Aniversário
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon 15º Aniversário
 http://voz.one:80/alexfnt/vTFBGKdUYq/95666
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball
 http://voz.one:80/alexfnt/vTFBGKdUYq/95734
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball 1
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95668
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball 2
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95669
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball Heroes
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Heroes
 http://voz.one:80/alexfnt/vTFBGKdUYq/95670
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball Super
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super
 http://voz.one:80/alexfnt/vTFBGKdUYq/95735
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball Super 1
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95671
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball Super 2
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95672
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball Super 3
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 3
 http://voz.one:80/alexfnt/vTFBGKdUYq/95673
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball Z
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z
 http://voz.one:80/alexfnt/vTFBGKdUYq/95736
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball Z 1
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95674
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Dragon Ball Z 2
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95675
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Eu a Patroa e as Crianças 1
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Eu a Patroa e as Crianças 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95676
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Eu a Patroa e as Crianças 2
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Eu a Patroa e as Crianças 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95677
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Flinstones
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Flinstones
 http://voz.one:80/alexfnt/vTFBGKdUYq/95759
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24h] Galinha Pintadinha
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Galinha Pintadinha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95681
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Galinha pintadinha
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Galinha pintadinha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95737
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Game of Thrones
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Game of Thrones
 http://voz.one:80/alexfnt/vTFBGKdUYq/95682
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] He-Man
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H He-Man
 http://voz.one:80/alexfnt/vTFBGKdUYq/95738
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Hercules
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Hercules
 http://voz.one:80/alexfnt/vTFBGKdUYq/95742
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Homem aranha
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Homem aranha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95740
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Igreja Universal
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Igreja Universal
 http://voz.one:80/alexfnt/vTFBGKdUYq/95730
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Jack Chan
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jack Chan
 http://voz.one:80/alexfnt/vTFBGKdUYq/95743
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Jaclkie Chan 2
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jaclkie Chan 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95739
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Jaspion
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jaspion
 http://voz.one:80/alexfnt/vTFBGKdUYq/95744
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] JIRAYA O Incrível Ninja
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H JIRAYA O Incrível Ninja
 http://voz.one:80/alexfnt/vTFBGKdUYq/95745
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Kenan e Kel
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Kenan e Kel
 http://voz.one:80/alexfnt/vTFBGKdUYq/95746
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] KPOP TV
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H KPOP TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/95747
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Luluzinha
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Luluzinha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95749
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] MASCARA
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H MASCARA
 http://voz.one:80/alexfnt/vTFBGKdUYq/95698
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Mortal Kombat
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Mortal Kombat
 http://voz.one:80/alexfnt/vTFBGKdUYq/95752
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Mr.Ben
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Mr.Ben
 http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Naruto
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Naruto
 http://voz.one:80/alexfnt/vTFBGKdUYq/95686
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Naruto
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Naruto
 http://voz.one:80/alexfnt/vTFBGKdUYq/95754
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] O Maskara
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H O Maskara
 http://voz.one:80/alexfnt/vTFBGKdUYq/95756
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Os Flinstones
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Flinstones
 http://voz.one:80/alexfnt/vTFBGKdUYq/95688
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Os Simpsons 01
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 01
 http://voz.one:80/alexfnt/vTFBGKdUYq/95691
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Os Simpsons 02
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 02
 http://voz.one:80/alexfnt/vTFBGKdUYq/95692
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Os Simpsons 03
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 03
 http://voz.one:80/alexfnt/vTFBGKdUYq/95693
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Os Simpsons 04
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/95694
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Os Vingadores
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Vingadores
 http://voz.one:80/alexfnt/vTFBGKdUYq/95761
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Peeppa Pig
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peeppa Pig
 http://voz.one:80/alexfnt/vTFBGKdUYq/95717
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Peixonautas
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peixonautas
 http://voz.one:80/alexfnt/vTFBGKdUYq/95763
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Peppa Pig
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peppa Pig
 http://voz.one:80/alexfnt/vTFBGKdUYq/95715
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Pernalonga
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pernalonga
 http://voz.one:80/alexfnt/vTFBGKdUYq/95764
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Pink-e-Cerebro
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pink-e-Cerebro
 http://voz.one:80/alexfnt/vTFBGKdUYq/95697
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Pinky e o Cérebro
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pinky e o Cérebro
 http://voz.one:80/alexfnt/vTFBGKdUYq/95765
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Scooby-Doo
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Scooby-Doo
 http://voz.one:80/alexfnt/vTFBGKdUYq/95771
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] South Park
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H South Park
 http://voz.one:80/alexfnt/vTFBGKdUYq/95701
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] South Park
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H South Park
 http://voz.one:80/alexfnt/vTFBGKdUYq/95772
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Thundercats
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Thundercats
 http://voz.one:80/alexfnt/vTFBGKdUYq/95774
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Thundercats
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Thundercats
 http://voz.one:80/alexfnt/vTFBGKdUYq/95776
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Timao e Pumba
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Timao e Pumba
 http://voz.one:80/alexfnt/vTFBGKdUYq/95777
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Todo Mundo Odeia o Chris 1
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Todo Mundo Odeia o Chris 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95702
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Todo Mundo Odeia o Chris 2
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Todo Mundo Odeia o Chris 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95703
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Tom & Jerry
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Tom & Jerry
 http://voz.one:80/alexfnt/vTFBGKdUYq/95704
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Tres Espias Demais
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Tres Espias Demais
 http://voz.one:80/alexfnt/vTFBGKdUYq/95778
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Um Maluco no Pedaço 1
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Um Maluco no Pedaço 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95705
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Um Maluco no Pedaço 2
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Um Maluco no Pedaço 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95706
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24h] Ursinhos Carinhos
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Ursinhos Carinhos
 http://voz.one:80/alexfnt/vTFBGKdUYq/95707
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Vai que Cola 1
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Vai que Cola 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95708
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] Vai que Cola 2
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Vai que Cola 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95709
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="[24H]"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",[24H] X-MEN
+#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H X-MEN
 http://voz.one:80/alexfnt/vTFBGKdUYq/95780
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS WEB TV FAX.xml "
