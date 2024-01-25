@@ -103,6 +103,25 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/531
 #EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",REDE TV HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/532
 
+#EXTM3U url-tvg=" http://grade-de-Record TV e Radio FAX.xml "
+ ############## Record TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeRecord TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD SP FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/294
+#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD SP HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/295
+#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD SP SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/296
+#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",Record 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/219
+#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD BRASILIA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/273
+#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD CAMPINAS
+http://voz.one:80/alexfnt/vTFBGKdUYq/275
+#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD CAMPINAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/276
+
 #EXTM3U url-tvg=" http://grade-de-TV RECORD.xml "
  ############## TV RECORD ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTV RECORD" group-title="
@@ -121,6 +140,21 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/528
 https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=V5AKVJ_88YTjqT0kt7v1WQ&3U1G7qaTxrPbalZnEx=1705309616
 #EXTINF:-1 tvg-id="" tvg-name="RECORD News"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="TV RECORD",RECORD News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w245748952.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-SBT TV e Radio FAX.xml "
+ ############## SBT TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeSBT TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SD²
+http://voz.one:80/alexfnt/vTFBGKdUYq/65259
+#EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SP FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/315
+#EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SP HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/311
+#EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SP HD²
+http://voz.one:80/alexfnt/vTFBGKdUYq/65256
+#EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SP SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/310
 
 #EXTM3U url-tvg=" http://grade-de-TV SBT.xml "
  ############## TV SBT ############## ### 
