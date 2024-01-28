@@ -1,18 +1,22 @@
 #EXTM3U 
 
-#EXTM3U url-tvg=" http://grade-de-ALEX Radio FAX Deus Sempre Presente.xml "
- ############## ALEX Radio FAX Deus Sempre Presente ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeALEX Radio FAX Deus Sempre Presente" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name=" ALEX Radio FAX Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX Rádio FAX Deus Sempre Presente",Rádio FAX Deus Sempre Presente",Alex Silva Produtor 11 941386627
-http://stream.zeno.fm/uhoa45pks0vvv.m3u
-
 #EXTM3U url-tvg=" http://grade-de-ALEX RADIO FAX .xml "
  ############## ALEX RADIO FAX  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeALEX RADIO FAX " group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
+#EXTINF:-1 tvg-id="" tvg-name="Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX Rádio FAX Deus Sempre Presente",ALEX RADIO FAX",Deus Sempre Presente
+http://stream.zeno.fm/uhoa45pks0vvv.m3u
+
+#EXTM3U url-tvg=" http://grade-de-Mamonas assassinas 2024 TV FAX.xml "
+ ############## Mamonas assassinas 2024 TV FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeMamonas assassinas 2024 TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Mamonas assassinas 2024 TV FAX"tvg-logo="https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/421879031_345685115051539_139630611457746242_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGtADegqFDsG2xRBc-UU-vWQIypAwPE-nVAjKkDA8T6df52g5_fDY68PIAoKerljYRzTBQZ984LcCxYSdqWOIOO&_nc_ohc=9naX8GLEtI4AX9thtT0&_nc_ht=scontent-gru1-2.xx&oh=00_AfC_4tDTD9afFck-r2DvMgacGxiRSH-VsGCJuUpXr1WHvA&oe=65B9DE4B" group-title="Mamonas assassinas 2024 TV FAX",Mamonas assassinas 2024 TV FAX
+https://archive.org/serve/mamonas-assassinas-2024-tv-fax/Mamonas%20assassinas%202024%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamonas assassinas 2024 TV FAX"tvg-logo="https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/421879031_345685115051539_139630611457746242_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGtADegqFDsG2xRBc-UU-vWQIypAwPE-nVAjKkDA8T6df52g5_fDY68PIAoKerljYRzTBQZ984LcCxYSdqWOIOO&_nc_ohc=9naX8GLEtI4AX9thtT0&_nc_ht=scontent-gru1-2.xx&oh=00_AfC_4tDTD9afFck-r2DvMgacGxiRSH-VsGCJuUpXr1WHvA&oe=65B9DE4B" group-title="Mamonas assassinas 2024 TV FAX",Mamonas assassinas 2024 TV FAX
+https://ia801309.us.archive.org/9/items/mamonas-assassinas-2024-tv-fax/Mamonas%20assassinas%202024%20TV%20FAX.mp4?cnt=0
 
 #EXTM3U url-tvg=" http://grade-de-Dinho Santos Radio FAX.xml "
  ############## Dinho Santos Radio FAX ############## ### 
@@ -348,7 +352,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/423
  ############## Animal PlanetTV e Radio FAX  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeAnimal Planet TV e Radio FAX" group-title="
 
-
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="Animal Planet (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Animal Planet TV e Radio FAX",Animal Planet (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13850
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="Animal Planet (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Animal Planet TV e Radio FAX",Animal Planet (H265)
@@ -604,7 +607,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/130688
 ##EXTINF:-1 tvg-id="" tvg-name="CNN Brasil"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3zygLlUYpbBZPNEPIDjgoq_UpN6oF0I9YH5lsVm7PDc7gaG2bD5RI-kmBHSUB7no0ds&usqp=CAU"group-title="CNN Brasil TV e Radio FAX",CNN INTERNACIONAL
 http://voz.one:80/alexfnt/vTFBGKdUYq/130690
 
-
 #EXTM3U url-tvg=" http://grade-de-Comedy Central TV e Radio FAX.xml "
  ############## Comedy Central TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeComedy Central TV e Radio FAX" group-title="
@@ -858,16 +860,11 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/13904
 http://voz.one:80/alexfnt/vTFBGKdUYq/39
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4MtlcwTw8K072SsHMiY_D6rYLTUN1K3t-N-xCs8iAr2srx3mu32FRnoQH54nccod3UE&usqp=CAU"group-title="NatGeo TV e Radio FAX",NatGeo Wild (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13905
-
-#EXTM3U url-tvg=" http://grade-de-NATIONAL GEOGRAPHIC TV e Radio FAX.xml "
- ############## NATIONAL GEOGRAPHIC TV e Radio FAX  ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeNATIONAL GEOGRAPHIC TV e Radio FAX" group-title="
-
-#EX#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuKuhkgGu-QPl2OzGQH4FeLlNBuaUrcartzmVDE6wz5OX9pc4roNGPX7Od6xM058LtFiA&usqp=CAU"group-title="NATIONAL GEOGRAPHIC TV e Radio FAX",NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4MtlcwTw8K072SsHMiY_D6rYLTUN1K3t-N-xCs8iAr2srx3mu32FRnoQH54nccod3UE&usqp=CAU"group-title="NatGeo TV e Radio FAX",NatGeo
 http://voz.one:80/alexfnt/vTFBGKdUYq/41
-#EX#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuKuhkgGu-QPl2OzGQH4FeLlNBuaUrcartzmVDE6wz5OX9pc4roNGPX7Od6xM058LtFiA&usqp=CAU"group-title="NATIONAL GEOGRAPHIC TV e Radio FAX",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4MtlcwTw8K072SsHMiY_D6rYLTUN1K3t-N-xCs8iAr2srx3mu32FRnoQH54nccod3UE&usqp=CAU"group-title="NatGeo TV e Radio FAX",NatGeo
 http://voz.one:80/alexfnt/vTFBGKdUYq/42
-#EX#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuKuhkgGu-QPl2OzGQH4FeLlNBuaUrcartzmVDE6wz5OX9pc4roNGPX7Od6xM058LtFiA&usqp=CAU"group-title="NATIONAL GEOGRAPHIC TV e Radio FAX",NATIONAL GEOGRAPHIC SD
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4MtlcwTw8K072SsHMiY_D6rYLTUN1K3t-N-xCs8iAr2srx3mu32FRnoQH54nccod3UE&usqp=CAU"group-title="NatGeo TV e Radio FAX",NatGeo
 http://voz.one:80/alexfnt/vTFBGKdUYq/43
 
 #EXTM3U url-tvg=" http://grade-de-Paramount TV e Radio FAX.xml "
@@ -1070,341 +1067,366 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/462
  ############## SYFY TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeSYFY TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY (H265)
+#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13925
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY FHD
+#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/463
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY HD
+#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/464
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY SD
+#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/465
 
 #EXTM3U url-tvg=" http://grade-de-TCM TV e Radio FAX.xml "
  ############## TCM TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTCM TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TCM"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxZGh8IokeH5NO_qfHAN9UYH9u4h4OqOuKXNDwaAwmI14VKXinQXSbf_VB4RxPVnVMds&usqp=CAU"group-title="TCM TV e Radio FAX",TCM HD
+#EXTINF:-1 tvg-id="" tvg-name="TCM"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxZGh8IokeH5NO_qfHAN9UYH9u4h4OqOuKXNDwaAwmI14VKXinQXSbf_VB4RxPVnVMds&usqp=CAU"group-title="TCM TV e Radio FAX",TCM HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/467
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TCM"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxZGh8IokeH5NO_qfHAN9UYH9u4h4OqOuKXNDwaAwmI14VKXinQXSbf_VB4RxPVnVMds&usqp=CAU"group-title="TCM TV e Radio FAX",TCM SD
+#EXTINF:-1 tvg-id="" tvg-name="TCM"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxZGh8IokeH5NO_qfHAN9UYH9u4h4OqOuKXNDwaAwmI14VKXinQXSbf_VB4RxPVnVMds&usqp=CAU"group-title="TCM TV e Radio FAX",TCM SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/468
 
 #EXTM3U url-tvg=" http://grade-de-TELECINE TV e Radio FAX.xml "
  ############## TELECINE TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTELECINE TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE Action (H265)
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE Action (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13927
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE Action 4K
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE Action 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/89354
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE ACTION FHD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE ACTION FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/798
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE ACTION HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/799
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE ACTION SD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE ACTION SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/800
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Cult (H265)
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Cult (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13928
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE CULT FHD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE CULT FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/801
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE CULT HD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE CULT HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/802
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE CULT SD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE CULT SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/803
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Fun (H265)
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Fun (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13929
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE FUN FHD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE FUN FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/804
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE FUN HD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE FUN HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/805
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE FUN SD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE FUN SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/797
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Pipoca (H265)
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Pipoca (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13930
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Pipoca 4K
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Pipoca 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/238
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA FHD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/806
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/807
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA SD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/808
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Premium (H265)
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Premium (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13931
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Premium 4K
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Premium 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/221
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM FHD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/809
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/810
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM SD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/811
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Touch (H265)
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Touch (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13932
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE TOUCH FHD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE TOUCH FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/812
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE TOUCH HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/813
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE TOUCH SD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE TOUCH SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/814
 
 #EXTM3U url-tvg=" http://grade-de-Universal Channel TV e Radio FAX.xml "
  ############## Universal Channel TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeUniversal Channel TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Universal Channel TV e Radio FAX",Universal Channel 4K
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Universal Channel TV e Radio FAX",Universal Channel 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/89355
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Universal Channel TV e Radio FAX",UNIVERSAL TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Universal Channel TV e Radio FAX",UNIVERSAL TV FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/475
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Universal Channel TV e Radio FAX",UNIVERSAL TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Universal Channel TV e Radio FAX",UNIVERSAL TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/476
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Universal Channel TV e Radio FAX",UNIVERSAL TV SD
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Universal Channel TV e Radio FAX",UNIVERSAL TV SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/477
 
 #EXTM3U url-tvg=" http://grade-de-Warner  TV e Radio FAX.xml "
  ############## Warner  TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeWarner  TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",Warner (H265)
+#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",Warner (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13941
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",WARNER CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",WARNER CHANNEL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/478
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",WARNER CHANNEL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/479
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",WARNER CHANNEL SD
+#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",WARNER CHANNEL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/480
 
 #EXTM3U url-tvg=" http://grade-de-TNT TV e Radio FAX.xml "
  ############## TNT TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTNT TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT (H265)
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13934
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT 4K
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/223
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT FHD
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/469
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/470
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT NOVELAS (H265)
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT NOVELAS (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13926
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT NOVELAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT NOVELAS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/487
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT NOVELAS HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT NOVELAS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/466
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SD
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/471
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT Series 4K
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT Series 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/224
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SERIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SERIES FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/472
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SERIES HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/473
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SERIES SD
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SERIES SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/474
 
 #EXTM3U url-tvg=" http://grade-de-TOONCAST TV e Radio FAX.xml "
  ############## TOONCAST TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTOONCAST TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TOONCAST"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtXK0LWHX0TsXRzGG7L0-ItUq0yFaapNa3WnGUEnYTPLLng6JG8tS1yvqDkTTYqiJdy0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",TOONCAST FHD
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtXK0LWHX0TsXRzGG7L0-ItUq0yFaapNa3WnGUEnYTPLLng6JG8tS1yvqDkTTYqiJdy0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",TOONCAST FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/653
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TOONCAST"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtXK0LWHX0TsXRzGG7L0-ItUq0yFaapNa3WnGUEnYTPLLng6JG8tS1yvqDkTTYqiJdy0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",TOONCAST HD
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtXK0LWHX0TsXRzGG7L0-ItUq0yFaapNa3WnGUEnYTPLLng6JG8tS1yvqDkTTYqiJdy0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",TOONCAST HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/664
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="TOONCAST"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtXK0LWHX0TsXRzGG7L0-ItUq0yFaapNa3WnGUEnYTPLLng6JG8tS1yvqDkTTYqiJdy0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",TOONCAST SD
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtXK0LWHX0TsXRzGG7L0-ItUq0yFaapNa3WnGUEnYTPLLng6JG8tS1yvqDkTTYqiJdy0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",TOONCAST SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/654
 
 #EXTM3U url-tvg=" http://grade-de-Woohoo TV e Radio FAX.xml "
  ############## Woohoo TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeWoohoo TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",Woohoo (H265)
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",Woohoo (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13942
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",WOOHOO FHD
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",WOOHOO FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/656
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",WOOHOO HD
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",WOOHOO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/657
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",WOOHOO SD
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",WOOHOO SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/658
 
 #EXTM3U url-tvg=" http://grade-de-ZOOMO TV e Radio FAX.xml "
  ############## ZOOMO TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeZOOMO TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="ZOOMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCx3pzV4uDgGnpNkhvVA8MnwwLesa_JmGp5A8ge2zsKawXfLkGV6yW5J9evrabfNIo8g&usqp=CAU"group-title="ZOOMO  TV e Radio FAX",ZOOMO FHD
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCx3pzV4uDgGnpNkhvVA8MnwwLesa_JmGp5A8ge2zsKawXfLkGV6yW5J9evrabfNIo8g&usqp=CAU"group-title="ZOOMO  TV e Radio FAX",ZOOMO FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/659
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="ZOOMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCx3pzV4uDgGnpNkhvVA8MnwwLesa_JmGp5A8ge2zsKawXfLkGV6yW5J9evrabfNIo8g&usqp=CAU"group-title="ZOOMO  TV e Radio FAX",ZOOMOO HD
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCx3pzV4uDgGnpNkhvVA8MnwwLesa_JmGp5A8ge2zsKawXfLkGV6yW5J9evrabfNIo8g&usqp=CAU"group-title="ZOOMO  TV e Radio FAX",ZOOMOO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/660
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="ZOOMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCx3pzV4uDgGnpNkhvVA8MnwwLesa_JmGp5A8ge2zsKawXfLkGV6yW5J9evrabfNIo8g&usqp=CAU"group-title="ZOOMO  TV e Radio FAX",ZOOMOO SD
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCx3pzV4uDgGnpNkhvVA8MnwwLesa_JmGp5A8ge2zsKawXfLkGV6yW5J9evrabfNIo8g&usqp=CAU"group-title="ZOOMO  TV e Radio FAX",ZOOMOO SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/661
 
 #EXTM3U url-tvg=" http://grade-de-24H TV e Radio FAX.xml "
  ############## 24H TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanalde24H TV e Radio FAX" group-title="
 
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H 3 Palavrinhas
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H 3 Palavrinhas
 http://voz.one:80/alexfnt/vTFBGKdUYq/95650
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Alladin
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Alladin
 http://voz.one:80/alexfnt/vTFBGKdUYq/95718
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H As Meninas Super poderosas
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H As Meninas Super poderosas
 http://voz.one:80/alexfnt/vTFBGKdUYq/95653
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H As Meninas Superpoderosas
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H As Meninas Superpoderosas
 http://voz.one:80/alexfnt/vTFBGKdUYq/95719
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Ben 10
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Ben 10
 http://voz.one:80/alexfnt/vTFBGKdUYq/95720
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H BOB
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H BOB
 http://voz.one:80/alexfnt/vTFBGKdUYq/95748
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Bob esponja
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Bob esponja
 http://voz.one:80/alexfnt/vTFBGKdUYq/95721
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Capitão Caverna
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Capitão Caverna
 http://voz.one:80/alexfnt/vTFBGKdUYq/95712
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Caverna do Dragão
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Caverna do Dragão
 http://voz.one:80/alexfnt/vTFBGKdUYq/95660
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Caverna do dragão
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Caverna do dragão
 http://voz.one:80/alexfnt/vTFBGKdUYq/95723
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Central Kids
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Central Kids
 http://voz.one:80/alexfnt/vTFBGKdUYq/95724
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chapolin colorado
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chapolin colorado
 http://voz.one:80/alexfnt/vTFBGKdUYq/95725
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chapolin Colorado 2
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chapolin Colorado 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/126146
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chaves
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chaves
 http://voz.one:80/alexfnt/vTFBGKdUYq/95662
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chaves Cartoon
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chaves Cartoon
 http://voz.one:80/alexfnt/vTFBGKdUYq/95726
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Cine kids
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Cine kids
 http://voz.one:80/alexfnt/vTFBGKdUYq/95727
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Desenhos disney
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Desenhos disney
 http://voz.one:80/alexfnt/vTFBGKdUYq/95731
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon
 http://voz.one:80/alexfnt/vTFBGKdUYq/95665
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon
 http://voz.one:80/alexfnt/vTFBGKdUYq/95732
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon 15º Aniversário
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon 15º Aniversário
 http://voz.one:80/alexfnt/vTFBGKdUYq/95666
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball
 http://voz.one:80/alexfnt/vTFBGKdUYq/95734
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball 1
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95668
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball 2
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95669
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Heroes
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Heroes
 http://voz.one:80/alexfnt/vTFBGKdUYq/95670
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super
 http://voz.one:80/alexfnt/vTFBGKdUYq/95735
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 1
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95671
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 2
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95672
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 3
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 3
 http://voz.one:80/alexfnt/vTFBGKdUYq/95673
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z
 http://voz.one:80/alexfnt/vTFBGKdUYq/95736
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z 1
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95674
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z 2
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95675
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Eu a Patroa e as Crianças 1
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Eu a Patroa e as Crianças 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95676
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Eu a Patroa e as Crianças 2
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Eu a Patroa e as Crianças 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95677
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Flinstones
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Flinstones
 http://voz.one:80/alexfnt/vTFBGKdUYq/95759
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Galinha Pintadinha
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Galinha Pintadinha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95681
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Galinha pintadinha
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Galinha pintadinha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95737
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Game of Thrones
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Game of Thrones
 http://voz.one:80/alexfnt/vTFBGKdUYq/95682
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H He-Man
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H He-Man
 http://voz.one:80/alexfnt/vTFBGKdUYq/95738
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Hercules
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Hercules
 http://voz.one:80/alexfnt/vTFBGKdUYq/95742
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Homem aranha
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Homem aranha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95740
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Igreja Universal
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Igreja Universal
 http://voz.one:80/alexfnt/vTFBGKdUYq/95730
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jack Chan
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jack Chan
 http://voz.one:80/alexfnt/vTFBGKdUYq/95743
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jaclkie Chan 2
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jaclkie Chan 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95739
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jaspion
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jaspion
 http://voz.one:80/alexfnt/vTFBGKdUYq/95744
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H JIRAYA O Incrível Ninja
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H JIRAYA O Incrível Ninja
 http://voz.one:80/alexfnt/vTFBGKdUYq/95745
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Kenan e Kel
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Kenan e Kel
 http://voz.one:80/alexfnt/vTFBGKdUYq/95746
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H KPOP TV
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H KPOP TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/95747
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Luluzinha
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Luluzinha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95749
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H MASCARA
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H MASCARA
 http://voz.one:80/alexfnt/vTFBGKdUYq/95698
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Mortal Kombat
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Mortal Kombat
 http://voz.one:80/alexfnt/vTFBGKdUYq/95752
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Mr.Ben
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Mr.Ben
 http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Naruto
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Naruto
 http://voz.one:80/alexfnt/vTFBGKdUYq/95686
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Naruto
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Naruto
 http://voz.one:80/alexfnt/vTFBGKdUYq/95754
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H O Maskara
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H O Maskara
 http://voz.one:80/alexfnt/vTFBGKdUYq/95756
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Flinstones
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Flinstones
 http://voz.one:80/alexfnt/vTFBGKdUYq/95688
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 01
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 01
 http://voz.one:80/alexfnt/vTFBGKdUYq/95691
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 02
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 02
 http://voz.one:80/alexfnt/vTFBGKdUYq/95692
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 03
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 03
 http://voz.one:80/alexfnt/vTFBGKdUYq/95693
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 04
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/95694
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Vingadores
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Vingadores
 http://voz.one:80/alexfnt/vTFBGKdUYq/95761
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peeppa Pig
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peeppa Pig
 http://voz.one:80/alexfnt/vTFBGKdUYq/95717
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peixonautas
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peixonautas
 http://voz.one:80/alexfnt/vTFBGKdUYq/95763
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peppa Pig
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peppa Pig
 http://voz.one:80/alexfnt/vTFBGKdUYq/95715
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pernalonga
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pernalonga
 http://voz.one:80/alexfnt/vTFBGKdUYq/95764
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pink-e-Cerebro
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pink-e-Cerebro
 http://voz.one:80/alexfnt/vTFBGKdUYq/95697
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pinky e o Cérebro
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pinky e o Cérebro
 http://voz.one:80/alexfnt/vTFBGKdUYq/95765
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Scooby-Doo
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Scooby-Doo
 http://voz.one:80/alexfnt/vTFBGKdUYq/95771
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H South Park
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H South Park
 http://voz.one:80/alexfnt/vTFBGKdUYq/95701
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H South Park
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H South Park
 http://voz.one:80/alexfnt/vTFBGKdUYq/95772
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Thundercats
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Thundercats
 http://voz.one:80/alexfnt/vTFBGKdUYq/95774
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Thundercats
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Thundercats
 http://voz.one:80/alexfnt/vTFBGKdUYq/95776
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Timao e Pumba
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Timao e Pumba
 http://voz.one:80/alexfnt/vTFBGKdUYq/95777
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Todo Mundo Odeia o Chris 1
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Todo Mundo Odeia o Chris 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95702
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Todo Mundo Odeia o Chris 2
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Todo Mundo Odeia o Chris 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95703
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Tom & Jerry
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Tom & Jerry
 http://voz.one:80/alexfnt/vTFBGKdUYq/95704
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Tres Espias Demais
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Tres Espias Demais
 http://voz.one:80/alexfnt/vTFBGKdUYq/95778
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Um Maluco no Pedaço 1
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Um Maluco no Pedaço 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95705
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Um Maluco no Pedaço 2
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Um Maluco no Pedaço 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95706
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Ursinhos Carinhos
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Ursinhos Carinhos
 http://voz.one:80/alexfnt/vTFBGKdUYq/95707
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Vai que Cola 1
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Vai que Cola 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95708
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Vai que Cola 2
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Vai que Cola 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95709
-#EXTI#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H X-MEN
+#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H X-MEN
 http://voz.one:80/alexfnt/vTFBGKdUYq/95780
+
+#EXTM3U url-tvg="http://grade-de-TV FAX Pelo Mundo.xml"
+############## TV FAX Pelo Mundo ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeTV FAX Pelo Mundo" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=455
+#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  EUA"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=780
+#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  música"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  música
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=777
+#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  link 3"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  link 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=966
+#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  link 5"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  link 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=682
+#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  link 6 "tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  link 6 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=830
+#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  link 7"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  link 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=856
+#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  link 8"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  link 8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=922
+#EXTINF:-1 tvg-id="" tvg-name="Young Hollywood | EUA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS02rQ1G-VFTb26y8EGaZrG7net6nacvWQ9gjX2Jm_JsLqplHPomVzqdfooBqqieoX3nVk&usqp=CAU" group-title="TV FAX Pelo Mundo",Young Hollywood | EUA
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canela Cinema"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYaNbpSzhP17QWKxHNRGKbzA_4I6mEzCw9ib0fdw70k0w7mEIRyEJeS15r0IVMAoQS490&usqp=CAU" group-title="TV FAX Pelo Mundo",Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS WEB TV FAX.xml "
  ############## CANAIS WEB TV FAX  ############## ### 
@@ -3331,7 +3353,6 @@ https://stream.ads.ottera.tv/cl/240117cmji8t8pc25k0skm1a50/1280x720_3071200_0_f.
 #EXTINF:-1 tvg-id="" tvg-name="ROMANCE"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp"group-title="CANAIS TV FAX RUMTIME",ROMANCE
 https://stream.ads.ottera.tv/cl/240117cmji9d69ldp7ibpa0mqg/1280x720_3071200_0_f.m3u8?i=728_6133
 
-
 #EXTM3U url-tvg="http://grade-de-FILMES TV FAX RUMTIME.xml"
 ############## FILMES TV FAX RUMTIME ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX RUMTIME" group-title="
@@ -3344,12 +3365,10 @@ https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_mco
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9j8p4ms8/v/1/pv/1/ev/12/flavorId/1_321cfsj4/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85ajhwNG1zOC92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3MDg4MjF9fX1dfQ__&Signature=CIjUPLvuoVyJRHqvywQbiHXXHISEhsDXqjJrJr~zT~ne5Ft5CG0RKNThn5O1mrpU~tLtxEa48fVdvKxmEsGMXfB~wybUnTORqR-OpCCFrh3NXYPrVZM9Zsx~7Wp2G-MfXKlSis2tQoNt4~PJZRg7ukI2iTA6vcqZsLkw~ViBgT2E2nXvAosQ2LfpW-Y8L~JmaYsZ8pxfjkSnhn4xJM00h4v8-TPjz0rPq-NMKBax3gyF91U6SCzR-Tt-YNdcMFQ6qv0DS4seSlSkLHlfi6i9igCa6iyGuqhpgGiYdk8ry9vGUrOQNu~-Z0RyHuOndvOz6OKaRF5RL2UEfsSetZKHEA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 #EXTINF:-1 tvg-id="" tvg-name="Busca Desesperada"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYCyOlmOeJdkNtR-fHGaDqe_1eMnhFuLpwXuzvnk1dlYXyoYDM0h4jvGE-nKyWAF0TtxA&usqp=CAU"group-title="FILMES TV FAX RUMTIME",Busca Desesperada
 https://cfvod.kaltura.com/api_v3/index.php/service/caption_captionasset/action/serveWebVTT/captionAssetId/1_phe8wbng/segmentDuration/300/a.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Morrer ou Viver"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAr97ZZAr9qVB6375JJ-rA1Cgdrc6iwnmZsJeiv9_h-dapu06hd44X3AzHN8Cldnnzo4c&usqp=CAU"group-title="FILMES TV FAX RUMTIME",Morrer ou Viver
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_qtdhuso0/v/1/pv/1/ev/10/flavorId/1_0bb7ibvk/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9xdGRodXNvMC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3MDk1NzZ9fX1dfQ__&Signature=DFt4nBNcTOUroOCVLjqV7YSX8M1C1dIRrVIxmVkCYI1h6RFki~Obtg0aakFRX7Y8LM~uAa8CF3kXRyOA7Bo7gIK0b-gdqWXdtWeWpiptXT1RNvhyabmK7LLFovgzD9IxZS4lJg27VU0P6b~itKMfw9MPZvZo0ldBFiddb1jyttxJPXXV00Xgadrpv-1lyh1aVldKgMTqqiT4kaw2bGSMeHwu8AuVkcA-XKOtsDxmS7QHdxp0-VcjhKUPMclLUrxDpuLHr5CPEPS6~THAJKZH3NlMPnCxkL5IXcraefWJRaW2IcPy5CL1Htc0sJwMkWTpZ4IAqYtZJ-JPgLIiVmfs8g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 #EXTINF:-1 tvg-id="" tvg-name="Morrer ou Viver 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAr97ZZAr9qVB6375JJ-rA1Cgdrc6iwnmZsJeiv9_h-dapu06hd44X3AzHN8Cldnnzo4c&usqp=CAU"group-title="FILMES TV FAX RUMTIME",Morrer ou Viver 2
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9nxcptd0/v/1/pv/1/ev/10/flavorId/1_i56ace53/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85bnhjcHRkMC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3MDkzNzJ9fX1dfQ__&Signature=Havbo30nLo~GDONF3L0mjnSorLTxkr~G28J7nTN7HLKgEQpz1Phww3JnOzRhG6BmmsWE-VZOBPIVY4uGCfox7rM5Vr8q29zf1yrKsPmAjCoIdlgQR-kcl9bu~UWpaYJnCpMX8CS-QOVWVLR0szPUJOHulvPu8Ldt8G1u5ZEzceNIxumBU61qGyRVg2XxzGqnIwT0F~U8APsGcZCb29xTf0leZ0n-27IevaeRFlK0OOKjRfkDQ-ziAVDOLim0Bc6ohykT3rg52S2K9VGdBAUwGiZrWoTglSaBxeLZz6VT-Ym9ezu1lQ1BpPcMSpihB-vrxvjr4Gv12OaVGnOVHv1ASw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-
 
 #EXTM3U url-tvg="http://grade-de-O Gordo E O Magro.xml"
 ############## O Gordo E O Magro ################# 
@@ -3420,39 +3439,129 @@ https://ia903202.us.archive.org/30/items/o-gordo-e-o-magro-uma-boa-acao-nem-semp
 ############## FILME TV FAX |  ONLINE ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  ONLINE" group-title="
 
-#EXTINF:5265,O Albergue 3 2011 (Hostel Part III) PT-BR - https://archive.org/details/o-albergue-3-2011-hostel-part-iii
-https://ia801609.us.archive.org/25/items/o-albergue-3-2011-hostel-part-iii/O%20Albergue%203%202011%20%28Hostel%20Part%20III%29.mp4
-#EXTINF:5931,Arraste-me Para O Inferno 2009 (Drag Me To Hell) (Dual Audio) PT-BR - https://archive.org/details/arraste-me-para-o-inferno-2009-drag-me-to-hell-dual-audio
-https://ia601607.us.archive.org/28/items/arraste-me-para-o-inferno-2009-drag-me-to-hell-dual-audio/Arraste-me%20Para%20O%20Inferno%202009%20%28Drag%20Me%20To%20Hell%29%20%28Dual%20Audio%29.mp4
-#EXTINF:5380,Radio Rebel
-https://play.prod.gcp.vix.services/radio-rebel_pt/radio-rebel_pt_1-1/thumbs_320x180.m3u8
-#EXTINF:6489,O Último Suspeito 
-https://play.prod.gcp.vix.services/city-by-the-sea_pt/city-by-the-sea_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:6651,O Mestre Guerreiro
-https://play.prod.gcp.vix.services/pendekar-tongkat-emas_pt/pendekar-tongkat-emas_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:5122,O Último Resgate
-https://play.prod.gcp.vix.services/we-go-dawn_pt/we-go-dawn_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:7928,Balas em Fúria
-https://play.prod.gcp.vix.services/let-bullets-fly_pt/let-bullets-fly_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:6934,Correndo Contra o Vento
-https://play.prod.gcp.vix.services/running-against-wind_pt/running-against-wind_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:5225,A Última Jornada
+#EXTINF:-1 tvg-id="" tvg-name=Alta Velocidade"tvg-logo="https://media.fstatic.com/asWdTE36MWEyheG_3EIHp6d5YZs=/322x478/smart/filters:format(webp)/media/movies/covers/2021/02/3415_-_29x41-.jpg"group-title="FILME TV FAX |  ONLINE",Alta Velocidade
+https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Última Jornada"tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2020/11/a-ultima-jornada-poster.jpg"group-title="FILME TV FAX |  ONLINE",A Última Jornada
 https://play.prod.gcp.vix.services/last-boy_pt/last-boy_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:5676,Fim dos Tempos
+#EXTINF:-1 tvg-id="" tvg-name="Correndo Contra o Vento"tvg-logo="https://i.ytimg.com/vi/T1oH1y_J3pg/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",Correndo Contra o Vento
+https://play.prod.gcp.vix.services/running-against-wind_pt/running-against-wind_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Apimentadas  Entrar para Ganhar"tvg-logo="https://image.tmdb.org/t/p/w185/64BU3QqQEBtt5mJf1FjrCLBzzf5.jpg"group-title="FILME TV FAX |  ONLINE",As Apimentadas  Entrar para Ganhar
+https://seig.tv/19/1/f1fc04624212bae12f6375292862baaa/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Busca de Groot"tvg-logo="https://image.tmdb.org/t/p/w185/oV3mUWylNaRsBkbul7BGilaxE9k.jpg"group-title="FILME TV FAX |  ONLINE",A Busca de Groot
+https://seig.tv/16/1/007ddb883fd95bca3a9fb3d332d77894/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marmaduke"tvg-logo="https://image.tmdb.org/t/p/w185/cyNivzjzniErFkzq45ZEWOKQMgY.jpg"group-title="FILME TV FAX |  ONLINE",Marmaduke
+https://seig.tv/18/1/7d9ab2332e9579b52438c4a5e0f67edf/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Caras Malvados"tvg-logo="https://image.tmdb.org/t/p/w185/syKg3OmdtSYmkA7nNdtPUYdSFGL.jpg"group-title="FILME TV FAX |  ONLINE",Os Caras Malvados
+https://seig.tv/16/1/f9c010ad89c1a410e8ad36f70aab5d63/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Projeto Adam"tvg-logo="https://image.tmdb.org/t/p/w185/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg"group-title="FILME TV FAX |  ONLINE",O Projeto Adam
+https://seig.tv/16/1/fadfb9b8eb05c5cae5c14323604042e0/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yaksha Operação Implacável"tvg-logo="https://image.tmdb.org/t/p/w185/zL8KPd8Rw6KXgdcgytMbzNNrHmc.jpg"group-title="FILME TV FAX |  ONLINE",Yaksha Operação Implacável
+https://seig.tv/11/1/bcf086cab69f796f5b6f22f39169f15e/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy Apresenta Sao as Pequenas Coisas Charlie Brown"tvg-logo="https://image.tmdb.org/t/p/w185/q5gVKsYkWmz1pklu4JBmac1wr2.jpg"group-title="FILME TV FAX |  ONLINE",Snoopy Apresenta Sao as Pequenas Coisas Charlie Brown
+https://seig.tv/12/1/d82cd5cd24bb27c39d5aac4afb5601c0/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ambulancia Um Dia de Crime"tvg-logo="https://image.tmdb.org/t/p/w185/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg"group-title="FILME TV FAX |  ONLINE",Ambulancia Um Dia de Crime
+https://seig.tv/17/1/2ce15b3cc176cd70b154feda05f5946b/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2 O Filme"tvg-logo="https://www.themoviedb.org/t/p/original/8E7mIpEpSATxX5JEuw55GYx9hfk.jpg"group-title="FILME TV FAX |  ONLINE",Sonic 2 O Filme
+https://seig.tv/14/1/8e279f070861d52941202684414fa9fb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Acontecimento"tvg-logo="https://image.tmdb.org/t/p/w185/p4SEXbaIbQl9adB0qGlnEzLMahq.jpg"group-title="FILME TV FAX |  ONLINE",O Acontecimento
+https://seig.tv/17/1/2c0b1a651818e984c14bc698eb4548a9/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Verdadeira História do Roubo do Século"tvg-logo="https://image.tmdb.org/t/p/w185/xrYVZ5b0p0BKg6vZ3scU4iyOwC3.jpg"group-title="FILME TV FAX |  ONLINE",A Verdadeira História do Roubo do Século
+https://seig.tv/11/1/46382acfe475e803d9577240bfa5c7e3/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun Maverick"tvg-logo="https://image.tmdb.org/t/p/w185/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"group-title="FILME TV FAX |  ONLINE",Top Gun Maverick
+https://seig.tv/16/1/5881c5b2687ff5d6f72ccf032c56e4eb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De Férias da Família"tvg-logo="https://image.tmdb.org/t/p/w185/mGPFbEmWdaDVxO5V64xYwv6v8j.jpg"group-title="FILME TV FAX |  ONLINE",De Férias da Família
+https://seig.tv/14/1/9ffddca7cf55eb04b8efaca2d0ad40a3/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thor Amor e Trovão"tvg-logo="https://image.tmdb.org/t/p/w185/cOkx3uu5FVgC902Q6Y3MxLpBWbX.jpg"group-title="FILME TV FAX |  ONLINE",Thor Amor e Trovão
+https://seig.tv/11/1/3c967dd01776986fe3bcd8bb2a33df8e/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Obi Wan Kenobi O Retorno do Jedi"tvg-logo="https://image.tmdb.org/t/p/w185/gIFwT8iabcTrcufg8LwuX6aMf5m.jpg"group-title="FILME TV FAX |  ONLINE",Obi Wan Kenobi O Retorno do Jedi
+https://seig.tv/12/1/0385133e62b3bbecc4eb5ffbf15cdfdb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Secreto"tvg-logo="https://image.tmdb.org/t/p/w185/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg"group-title="FILME TV FAX |  ONLINE",Esquadrão Secreto
+https://seig.tv/15/1/77ff5947544db7954df7f181011d521c/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2"tvg-logo="https://image.tmdb.org/t/p/w185/8G7EaPTocE0ok3YNxo972woo9EP.jpg"group-title="FILME TV FAX |  ONLINE",Abracadabra 2
+https://seig.tv/11/1/c763927396999a43dde7bdd4a1958625/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rainbow"tvg-logo="https://image.tmdb.org/t/p/w185/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg"group-title="FILME TV FAX |  ONLINE",Rainbow
+https://seig.tv/15/1/40464eae2d403b931cc3f69fa7f9259d/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curtas dos Minions Volume 1"tvg-logo="https://image.tmdb.org/t/p/w185/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg"group-title="FILME TV FAX |  ONLINE",Curtas dos Minions Volume 1
+https://seig.tv/18/1/a231c43b7c1f103f11bec6051aaa653b/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conspiração Explosiva"tvg-logo="https://www.themoviedb.org/t/p/original/tuqYUmGpJTyu7pJzwz7pBpWfWR0.jpg"group-title="FILME TV FAX |  ONLINE",Conspiração Explosiva
+https://seig.tv/16/1/7862aad70e4542d4a5d1a51e3dfecf55/360p/360p7.png
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon As Crônicas de Arceus"tvg-logo="https://image.tmdb.org/t/p/w185/r9AxrlhBgmFfipnYZ3UNUpsM8JZ.jpg"group-title="FILME TV FAX |  ONLINE",Pokémon As Crônicas de Arceus
+https://seig.tv/17/1/3a7d36af40744937e48772558e7475d8/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panama"tvg-logo="https://image.tmdb.org/t/p/w185/82I3tDsGDTMy7lHar84Gz0jUuyW.jpg"group-title="FILME TV FAX |  ONLINE",Panama
+https://seig.tv/16/1/2e03ae21069b08a9c336cddbf316d113/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Terra dos Sonhos"tvg-logo="https://image.tmdb.org/t/p/w185/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg"group-title="FILME TV FAX |  ONLINE",Terra dos Sonhos
+https://seig.tv/17/1/02e3c3408d1499e1177816875c426cc9/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hawa"tvg-logo="https://image.tmdb.org/t/p/w185/p6DhbsX1EuSJMtuOGsENkIOx1tt.jpg"group-title="FILME TV FAX |  ONLINE",Hawa
+https://seig.tv/16/1/8cde8c817449d0e2c94ff175df11292f/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Vingança"tvg-logo="https://image.tmdb.org/t/p/w185/tlZGDi8anF7Fcs5HGVaTEMnv1hp.jpg"group-title="FILME TV FAX |  ONLINE",Meu Nome é Vingança
+https://seig.tv/14/1/f02c36fb002cb2e93e40e5dc5a0f7014/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desencantada"tvg-logo="https://image.tmdb.org/t/p/w185/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg"group-title="FILME TV FAX |  ONLINE",Desencantada
+https://seig.tv/17/1/69c088bac41ab9553ea5ed62e897b1d4/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Menino a Toupeira a Raposa e o Cavalo"tvg-logo="https://image.tmdb.org/t/p/w185/765XUik0cbyWHITgE22FhpA8elG.jpg"group-title="FILME TV FAX |  ONLINE",O Menino a Toupeira a Raposa e o Cavalo
+https://seig.tv/15/1/b425911631fca6bc4bdf77c4d0587f40/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Estranho"tvg-logo="https://image.tmdb.org/t/p/w185/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg"group-title="FILME TV FAX |  ONLINE",Mundo Estranho
+https://seig.tv/18/1/fc3c407880b162d4a8e1563703936d12/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Fabuloso Maurício"tvg-logo="https://image.tmdb.org/t/p/w185/qcCZnuFQv6faxbXUb9pa8Le5ujB.jpg"group-title="FILME TV FAX |  ONLINE",O Fabuloso Maurício
+https://seig.tv/19/1/cee9263b22e97d95812f07f1a0b9bc08/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight Independência"tvg-logo="https://image.tmdb.org/t/p/w185/wfFE22EpiBOtN4qpTpxRDTXNodb.jpg"group-title="FILME TV FAX |  ONLINE",Detetive Knight Independência
+https://seig.tv/19/1/80fac7c5f909b33fa2b907b74ffc69fb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Som do Caos"tvg-logo="https://image.tmdb.org/t/p/w185/yka6u5dbx1vWoMrNIHHutluaepp.jpg"group-title="FILME TV FAX |  ONLINE",O Som do Caos
+https://seig.tv/19/1/6f30f3c43a3409b7ccfc1ab962f0f649/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Já Era Hora"tvg-logo="https://image.tmdb.org/t/p/w185/a8Sg7wHxquACYe4IIKyH0rORMp9.jpg"group-title="FILME TV FAX |  ONLINE",Já Era Hora
+https://seig.tv/19/1/538be4e19755fd846839eda0b58fa5dd/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Rei das Sombras"tvg-logo="https://image.tmdb.org/t/p/w185/o0UxfLtPJ7rN1lKyBMFwbw5ngNU.jpg"group-title="FILME TV FAX |  ONLINE",O Rei das Sombras
+https://seig.tv/19/1/1d7a006af80911ce7f655937e22e8a64/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Padre Johnny"tvg-logo="https://image.tmdb.org/t/p/w185/zbzkNNViy1dH2jCLMok2DmHX8e9.jpg"group-title="FILME TV FAX |  ONLINE",Padre Johnny
+https://seig.tv/19/1/c6cca2cb396cd3b1e9477ac90c473f2a/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desapega"tvg-logo="https://image.tmdb.org/t/p/w185/b0aRBdFnIi1MZbsW7QTZvRHcpo3.jpg"group-title="FILME TV FAX |  ONLINE",Desapega
+https://seig.tv/19/1/e983c14cfdeef3c6a5a7575ff5efcd6d/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Múmias e o Anel Perdido"tvg-logo="https://image.tmdb.org/t/p/w185/w5uM8SZKWN9CwpFvzTnEZSkO8Ow.jpg"group-title="FILME TV FAX |  ONLINE",As Múmias e o Anel Perdido
+https://seig.tv/19/1/cfee4175fe97870cc75f77cbf827be53/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Lutcha"tvg-logo="https://image.tmdb.org/t/p/w185/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg"group-title="FILME TV FAX |  ONLINE",Meu Amigo Lutcha
+https://seig.tv/19/1/47b56a8ebd0ecc5e1ffebf2889206501/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TicTac A Maternidade do Mal"tvg-logo="https://image.tmdb.org/t/p/w185/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg"group-title="FILME TV FAX |  ONLINE",TicTac A Maternidade do Mal
+https://seig.tv/19/1/2da30667f9dfee2c8dc5d78be0afb053/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infiesto"tvg-logo="https://image.tmdb.org/t/p/w185/dmO2U0ckWkE6T5hyYY3rUtSH9X4.jpg"group-title="FILME TV FAX |  ONLINE",Infiesto
+https://seig.tv/19/1/f54405aa348cee5b40125e989bf8f9f6/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fanfic"tvg-logo="https://image.tmdb.org/t/p/w185/6qgkVtpVabAzjQaJTgx3Vmqnmyj.jpg"group-title="FILME TV FAX |  ONLINE",Fanfic
+https://seig.tv/19/1/1eede5057cbc4f8259e95cfc49b395c3/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abril Despedaçado"tvg-logo="https://image.tmdb.org/t/p/w185/9GVEX1VC4iEh5t5T7YNDU9P8zKQ.jpg"group-title="FILME TV FAX |  ONLINE",Abril Despedaçado 
+https://seig.tv/19/1/8af63f3f1acd16a92310f8b42a9ed54c/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balas em Fúria"tvg-logo="https://i.ytimg.com/vi/KB4fVdzciV0/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",Balas em Fúria
+https://play.prod.gcp.vix.services/let-bullets-fly_pt/let-bullets-fly_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Semente do mal"tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/appurushido_pt/appurushido_pt_200x300.jpg"group-title="FILME TV FAX |  ONLINE",Semente do mal
+https://play.prod.gcp.vix.services/appurushido_pt/appurushido_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Albergue 3 2011"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVP7_X9ufr25cYjBf_o4YjRPs5-QjcsD819sp-E7T_zlZJ3brPfwHB7-NIVW_MTQZL_5k&usqp=CAU"group-title="FILME TV FAX |  ONLINE",O Albergue 3 2011
+https://ia801609.us.archive.org/25/items/o-albergue-3-2011-hostel-part-iii/O%20Albergue%203%202011%20%28Hostel%20Part%20III%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arraste-me Para O Inferno 2009"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9kJ7OXT_9SeNgns3ysHriknl9G3ZT98Mq7DXsVpAwqshIJqxTJwt4vYY7ybUxk9igB4&usqp=CAU"group-title="FILME TV FAX |  ONLINE",Arraste-me Para O Inferno 2009
+https://ia601607.us.archive.org/28/items/arraste-me-para-o-inferno-2009-drag-me-to-hell-dual-audio/Arraste-me%20Para%20O%20Inferno%202009%20%28Drag%20Me%20To%20Hell%29%20%28Dual%20Audio%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Suspeito "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJaEVoMzuAqPnLcvkjoVUEilniLBKg8MDn9Zef_f6jVBF_2PcdWE27bI4FZw5UxC-77Wc&usqp=CAU"group-title="FILME TV FAX |  ONLINE",O Último Suspeito 
+https://play.prod.gcp.vix.services/city-by-the-sea_pt/city-by-the-sea_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre Guerreiro"tvg-logo="https://i.ytimg.com/vi/CDi1H1k84jU/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",O Mestre Guerreiro
+https://play.prod.gcp.vix.services/pendekar-tongkat-emas_pt/pendekar-tongkat-emas_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Último Resgate"tvg-logo="https://i.ytimg.com/vi/7BEwWgmfJgA/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",O Último Resgate
+https://play.prod.gcp.vix.services/we-go-dawn_pt/we-go-dawn_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balas em Fúria"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyzCiJneC746AjxgVYCnMReENSje6fUVXMGmDz9aoV95HjCQtcEdCkh0gjcssKGMojEdo&usqp=CAU"group-title="FILME TV FAX |  ONLINE",Balas em Fúria
+https://play.prod.gcp.vix.services/let-bullets-fly_pt/let-bullets-fly_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Correndo Contra o Vento"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6oJKK-exuFbMWFwPigEPW7iP1oyy4dOEdTxdAxj0oB4Y5L2-GYUTavpGmj-g7tK44wHM&usqp=CAU"group-title="FILME TV FAX |  ONLINE",Correndo Contra o Vento
+https://play.prod.gcp.vix.services/running-against-wind_pt/running-against-wind_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Última Jornada"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvi3eerTDs8v82l1-hTtBxDfxHlO2VFp66OTabMQ89nOWVjQSf4JuVOZB-LerDDMfX7VQ&usqp=CAU"group-title="FILME TV FAX |  ONLINE",A Última Jornada
+https://play.prod.gcp.vix.services/last-boy_pt/last-boy_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fim dos Tempos"tvg-logo="https://i.ytimg.com/vi/5tIPghHPN8E/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",Fim dos Tempos
 https://play.prod.gcp.vix.services/the-end-time_en/the-end-time_en_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:5463,Verônica
+#EXTINF:-1 tvg-id="" tvg-name="Verônica"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Veronica_poster.jpg"group-title="FILME TV FAX |  ONLINE",Verônica
 https://play.prod.gcp.vix.services/veronica_pt/veronica_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:5740,Além da Fronteira
+#EXTINF:-1 tvg-id="" tvg-name="Além da Fronteira"tvg-logo="https://br.web.img2.acsta.net/pictures/210/417/21041708_20130919131255498.jpg"group-title="FILME TV FAX |  ONLINE",Além da Fronteira
 https://play.prod.gcp.vix.services/out-in-the-dark_en/out-in-the-dark_en_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:6167,Sem Retorno
+#EXTINF:-1 tvg-id="" tvg-name="Sem Retorno"tvg-logo="https://i.ytimg.com/vi/WoOsB5gVs-o/mqdefault.jpg"group-title="FILME TV FAX |  ONLINE",Sem Retorno
 https://play.prod.gcp.vix.services/point-no-return_pt/point-no-return_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:5322,Alma de Guerreiro
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Guerreiro"tvg-logo="https://i.ytimg.com/vi/MjaoceszRjM/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",Alma de Guerreiro
 https://play.prod.gcp.vix.services/viking-blood_pt/viking-blood_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:5274,Natureza Selvagem
+#EXTINF:-1 tvg-id="" tvg-name="Natureza Selvagem"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdZ6zEfyjVi3vw95RcarHWBexlMgdFWacvMi2-keakb652iQoJh-a5B4dH-mF_6RGUokY&usqp=CAU"group-title="FILME TV FAX |  ONLINE",Natureza Selvagem
 https://play.prod.gcp.vix.services/werewolf_pt/werewolf_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:4981,Solo - A Ilha do Medo
+#EXTINF:-1 tvg-id="" tvg-name="Solo - A Ilha do Medo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMIgVh_nEzvGQLwp8-PqB0d6Yq-gORBQBZwRHcLmK2ZpNnQgMpJiM0dIJEWsfa3rn_gI&usqp=CAU"group-title="FILME TV FAX |  ONLINE",Solo - A Ilha do Medo
 https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:6561,estrada-47
+#EXTINF:-1 tvg-id="" tvg-name="estrada-47"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5osC3LfIEwAOwnwMWDeA06CdfIC8aRD9u0PbfvY3FYRjeLxf-8hlwXD1lSss73Fe2xkc&usqp=CAU"group-title="FILME TV FAX |  ONLINE",estrada-47
 https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILMES   ORIENTE.xml"
@@ -3526,6 +3635,2815 @@ https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1
 #EXTINF:-1 tvg-id="" tvg-name="  Em Busca de um Milagre"tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÉ | ESPIRITUAIS",Em Busca de um Milagre
 https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
 
+#EXTM3U url-tvg="http://grade-de-Canais Filmes Desenhos Tv FAX.xml"
+############## Canais Filmes Desenhos Tv FAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais Filmes Desenhos Tv FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="COMANDOTORRENTS"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaIb1RyrVJ7BEKb34SBgzhtX63LOfBkx7KBwRGmT_nw7s1TScOdDqWTc4fztpye6atG_c&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",COMANDOTORRENTS
+https://ia601504.us.archive.org/21/items/luaEuFicoLoko/luaEuFicoLoko.MP4
+#EXTINF:-1 tvg-id="" tvg-name="BLUDV"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmcZz-EYlvCS5T-YXLwUsRRyDUf69VhLdcFNqVR4tphGo0phzhUZu9S56snhwPpySi_kc&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",BLUDV
+https://ia601500.us.archive.org/35/items/luaSaara/luaSaara.MP4
+#EXTINF:-1 tvg-id="" tvg-name="Amor.com (2017)"tvg-id="https://www.sodapop.com.br/wp-content/uploads/2017/03/isis-valverde-390x205.jpg" group-title="Canais Filmes Desenhos Tv FAX",Amor.com (2017)
+https://ia601504.us.archive.org/32/items/luaAmor/luaAmor.MP4
+#EXTINF:-1 tvg-id="" tvg-name="Quatro Vidas de Um Cachorro (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReS_JFVzprrK2IRj5Zm0kYHbZeyjS630EIOc7W_i2rpmirrCbYf5TJepVQYT97XL7mHMI&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Quatro Vidas de Um Cachorro (2017)
+https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs e a Vila Perdida (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiZzjaywA3wsaYQgb46pqHtKEwjApeqyDh6AbjA08KwdA-a0HBAuV6-Y3JzpzIyaTUbDg&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Os Smurfs e a Vila Perdida (2017)
+https://ia601509.us.archive.org/1/items/luasmur/OsSmurfseaVilaPerdida.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMmcg8O8boHfn_jVd2zOuwaiYVY3G7mVteN1pyF179rxCkgO0wowX6FxQG0UwfEehwAg&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",A Cabana (2017)
+https://ia601507.us.archive.org/2/items/luacaba/ACabana.MP4
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThcsWOyh65PI4xeXQPMYaGeoNekjtiZ5iAJK2mxuKQya-W8kAk9rl7n2JVvQgGn8YAvw&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Power Rangers (2017)
+https://ia601502.us.archive.org/23/items/powerrangersfil/powerrangers.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Warrior's Gate (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQee7mds89eVFU4kURBpohNB7M0nEhBkfkVt8soZiZX6YL64XbZoUJShbGsbPPem3ghHP8&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",The Warrior's Gate (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/WRISGT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 6: O Capítulo Final (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwSqY8_MdQ_DaLJzAw6XUs96CxEq_0gu6Be4aoe89u1342X9RHdmmznHdC7Cxe4am2pwE&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Resident Evil 6: O Capítulo Final (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Max Steel (2017)"tvg-id="https://m.media-amazon.com/images/M/MV5BMTYzMGRkNGItOTY4Zi00NzU4LTk1ZmYtY2M0NWNhYjNmZjZiXkEyXkFqcGdeQXVyOTc5MDcyMzY@._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Canais Filmes Desenhos Tv FAX",Max Steel (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MXSTL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lavanda (2017)"tvg-id="https://i.ytimg.com/vi/YHLJtrOc8XY/sddefault.jpg" group-title="Canais Filmes Desenhos Tv FAX",Lavanda (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LVNDA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jovens Titãs: O Contrato de Judas (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEr0Upt5BMhbBtwyN5NXebxXBNqjpXl1DSsw6mNDQzu2La-ZkeHY7Y1GLpqzwDRSPOWMM&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Jovens Titãs: O Contrato de Judas (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JVNSTSOCTRTDJDS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Internet: O Filme (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1XoPek_Y-ZOoyGLRHlcv1OCJWUrqpFTW1pgNcvclxAlPcS1HRM3rPkru34SUItzsFA2E&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Internet: O Filme (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/INTNET.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandy Wexler (2017)"tvg-id="https://i.ytimg.com/vi/G8tYAO8-VbM/sddefault.jpg" group-title="Canais Filmes Desenhos Tv FAX",Sandy Wexler (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SNDYWXLR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peles (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCPuDHI2HWBsuZeGNTU_waDN_qIla9drSWhTPLwV5PTUhNjKBN9hHXJmUjElYL4Zhr9E&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Peles (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PLES.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nossos Amantes (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZn9aQkpKOoh_A6OxFgbm0rwzx31KWKRwusla5_zm0b7Pci-DD5gQT3KV-yPNIzNtmw8&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Nossos Amantes (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NOSAMNTS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manchester à Beira Mar (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV6EOdhv95O-6AkQfkvcOtzBkvRuoIe82skrcVlrSi8dhHrS3VYgQ4zzB3WT02hJixHzE&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Manchester à Beira Mar (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MACHABRMR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fazenda dos Cisnes (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72KHYb4eM-3YEBi-3oTEfiQSDzXrkTwfrdWQSRBkMpLyZ_vwzpL5iQqk7Yzy_LkNycHk&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Fazenda dos Cisnes (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FZNDSCSN.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coragem em Campo (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0qDmoz9-1CZC5rUlpO4ehrZwBVgch18I166-5YyFBEsjeoZqcucJo5vKp8VwPalAnOc&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Coragem em Campo (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CRGMEMCMP.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Último Homem (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyzDvotC--7jrm2AeCBDawZxmOs8ZK4nbhsvnG3ueSotw8hPMSAt4STWc_CFgBikBQdY&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Até o Último Homem (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ATOULHMN.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armas na Mesa (2017)"tvg-id="https://media.fstatic.com/OtHFTjWxPGzYrmUumH9oNlqwbQw=/210x312/smart/filters:format(webp)/media/movies/covers/2017/01/miss_sloane_ver2.jpg" group-title="Canais Filmes Desenhos Tv FAX",Armas na Mesa (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ARMSNMSA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bailarina (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHU8lLyj1hb_dWyjbKWYqgyRYNDLMpJuYs6PT_gyxoGUKGLCbOzfTn5cnK5xfbXGqThwc&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",A Bailarina (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster Trucks (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyAvzT-X8vVTqCWj7gg3Ck4dUAWZGtMKvfOGIqUyKjQ0ArlY_G7lNF7L6dYpZu1KlAGZk&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Monster Trucks (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MNSTRRCK.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate Suicida (2017)"tvg-id="https://i.ytimg.com/vi/vYlZCcC5ihc/maxresdefault.jpg" group-title="Canais Filmes Desenhos Tv FAX",Resgate Suicida (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RSGTSCD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Chamado 3 (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyaZV972F4Vgq5g9HuETejtUUtWiOG3V4FYJRzO3K5fhjFJKZpIVvinaBiQfixNpWPlog&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",O Chamado 3 (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Explosiva 5: Campo de Batalha (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTQZL9NcX7hSddOguDqone9xdaJIKKqEBe-wilekNw1A74uOVC6l4SkY021oIqRIdJ40Q&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Busca Explosiva 5: Campo de Batalha (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BSCEXPLSV5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deidra e Laney Assaltam um Trem (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxw0kwqO3Z-4Ee2kzZMicEwyHfobkyGlfvYgD4bzC4u351glBBaI5N9dydgQSQ-3LYE0E&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Deidra e Laney Assaltam um Trem (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DEDRELNYASTMUTRM.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apostando Tudo (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvceWba6UXYeFMNEsZF900ix8L7eEOQmkEeuv-iQEgf1COA3xrrNi8hpzxJ7eDL9J-Ck&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Apostando Tudo (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/APSTNDTD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fabulosa Gilly Hopkins (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSINK8SbVdH_F5nMXkpg_uWyX5QbFHF5M5GE_BR2T7OL1biW4fcZttDcnBFFQ7xmbMLM5g&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",A Fabulosa Gilly Hopkins (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AFBLSGLHP.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Descoberta (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnl7Okc6pcQE5qu7YL2OjcotL9WbcRFG1K0DO7i5p2c0Htf0urO_skmr6Nh1biUL7DHw&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",A Descoberta (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ADSCBRT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vizinhos Nada Secretos (2017)"tvg-id="https://1torrentpordia.files.wordpress.com/2017/02/91516-vizinhos2bnada2bsecretos.jpg" group-title="Canais Filmes Desenhos Tv FAX",Vizinhos Nada Secretos (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/VZNHSNDSCRTS.mp4
+
+
+
+#EXTINF:0,Um Limite Entre Nós (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMLMTENTNS.mp4
+#EXTINF:0,Pandora (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PNDRA.mp4
+#EXTINF:0,Passageiros (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PASGRIOS.mp4
+#EXTINF:0,O Monstro no Armário (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OMSNTNARMR.mp4
+#EXTINF:0,O Exorcismo de Anna Ecklund (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OEXCSMDANECKLN.mp4
+#EXTINF:0,Moana: Um Mar de Aventuras (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4
+#EXTINF:0,Assassin's Creed (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASINSCRD.mp4
+#EXTINF:0,Ouija: Origem Do Mal (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OUJORGMDML.mp4
+#EXTINF:0,Stereo (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STRO.mp4
+#EXTINF:0,Esquadrao de Elite (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDRDELT.mp4
+#EXTINF:0,Liga da Justica Sombria (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LGDJSTCSMBRA.mp4
+#EXTINF:0,Sacrifício (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SCRFC.mp4
+#EXTINF:0,iBoy (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/IBOY.mp4
+#EXTINF:0,Abril e o Mundo Extraordinario (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRLEOMSNEXTR.mp4
+#EXTINF:0,10000 Anos Depois (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/1000ANSDPS.mp4
+#EXTINF:0,Festa Da Salsicha (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FSTDSLSCHA.mp4
+#EXTINF:0,Amor em Sampa (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AMREMSP.mp4
+#EXTINF:0,Minha Mãe é Uma Peça 2 (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MNHMAEUMPC2.mp4
+#EXTINF:0,Horizonte Profundo:Desastre no Golfo (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HRZNTPRFNDSTRDGLF.mp4
+#EXTINF:0,Call to Duty:Fora de Alcance (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CLTDTY.mp4
+#EXTINF:0,A Última Ressaca Do Ano (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AULTMRSCDAN.mp4
+#EXTINF:0,O Shaolin do Sertão (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OSHLINDSRT.mp4
+#EXTINF:0,Como Eu Era Antes de Você (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CMEUERANTSDVC.mp4
+#EXTINF:0,Assassino a Preço Fixo 2: A Ressurreição (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASASINOAPRCFX2.mp4
+#EXTINF:0,Animais Fantásticos e Onde Habitam (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
+#EXTINF:0,Jack Reacher: Sem Retorno (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JCKRCHSRTN.mp4
+#EXTINF:0,Fugindo Do Inferno (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FGNDINFNO.mp4
+#EXTINF:0,Ouija: Exorcismo (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OUJEXRCMS.mp4
+#EXTINF:0,Meu Irmao Cego (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MEUIRMCG.mp4
+#EXTINF:0,Doutor Estranho (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
+#EXTINF:0,A Volta do Juizo Final (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AVLTDJZFNL.mp4
+#EXTINF:0,Anjos da Noite: Guerras De Sangue (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT5.mp4
+#EXTINF:0,Bruxa de Blair (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BRXDBLR.mp4
+#EXTINF:0,Mundo Cão (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MNDCA.mp4
+#EXTINF:0,Mãe Só Há Uma (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MASHUM.mp4
+#EXTINF:0,José do Egito: O Filme - (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JSDEGTOFLM.mp4
+#EXTINF:0,Sing: Quem Canta Seus Males Espanta (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
+#EXTINF:0,Jonas (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JNS.mp4
+#EXTINF:0,Um Suburbano Sortudo (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMSUBSRTDO.mp4
+#EXTINF:0,Sete Minutos Depois da Meia-Noite (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STMNDPSDMENTDUB.mp4
+#EXTINF:0,Reza a Lenda (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RZALND.mp4
+#EXTINF:0,Capitão Fantástico (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4
+#EXTINF:0,Porta dos Fundos: Contrato Vitalício (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PRTSDFNDCTRVIT.mp4
+#EXTINF:0,O Roubo da Taça (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OROBDTA.mp4
+#EXTINF:0,Rogue One: Uma História Star Wars (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RGONUHSTRWRS.mp4
+#EXTINF:0,12 Horas para Sobreviver:O Ano Da Eleição/Uma Noite de Crime 3 (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM3.mp4
+#EXTINF:0,A Lenda do Rei Macaco 2: Viagem ao Oeste (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ALNDRMC2.mp4
+#EXTINF:0,Além Da Realidade (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ALMDRLD.mp4
+#EXTINF:0,Amor & Amizade (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AMREAMZD.mp4
+#EXTINF:0,Inferno (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/INFRNO.mp4
+#EXTINF:0,Sete Homens e Um Destino (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SETHMNSEUDSTNO.mp4
+#EXTINF:0,O Lar das Crianças Peculiares (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OLRDSCRNPCLRS.mp4
+#EXTINF:0,O Contador (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCNTDR.mp4
+#EXTINF:0,Mais Forte que o Mundo: A História de José Aldo (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MSFRTQOMUND.mp4
+#EXTINF:0,Gênios do Crime (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/GNSDCRM.mp4
+#EXTINF:0,Spectral (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SPCTRL.mp4
+#EXTINF:0,O Programa (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OPRGMA.mp4
+#EXTINF:0,O Mestre dos Gênios (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OMSTRDSGNS.mp4
+#EXTINF:0,O Bom Gigante Amigo (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OBMGIGNTAMG.mp4
+#EXTINF:0,Nerve: Um Jogo Sem Regras (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NRVUJSR.mp4
+#EXTINF:0,Cegonhas: A História Que Não Te Contaram (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
+#EXTINF:0,Carrossel 2: O Sumiço de Maria Joaquina (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CARSL2.mp4
+#EXTINF:0,O Dragao do Natal (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ODRGODNTL.mp4
+#EXTINF:0,Nosso Fiel Traidor (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NOSSFILTRDR.mp4
+#EXTINF:0,Mercy (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MRCY.mp4
+#EXTINF:0,Jason Bourne (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JSONBRNE.mp4
+#EXTINF:0,Horas Decisivas (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HRSDCSVS.mp4
+#EXTINF:0,Honey 3: No Ritmo do Amor (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HONY3.mp4
+#EXTINF:0,Perfeita e a Mae (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PRFTEAMA.mp4
+#EXTINF:0,Agente Mirim (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AGNTMRIM.mp4
+#EXTINF:0,Cantando de Galo (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CATNDGL.mp4
+#EXTINF:0,Truque de Mestre: O Segundo Ato (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/TRQDMSTR2.mp4
+#EXTINF:0,Quando as Luzes se Apagam (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/QNDASLZSAPGM.mp4
+#EXTINF:0,Aguas Rasas (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AGUSRAS.mp4
+#EXTINF:0,Esquadrao Suicida (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDSUCDA.mp4
+#EXTINF:0,Tini: Depois de Violetta (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/TNDPSDVLTA.mp4
+#EXTINF:0,Star Trek: Sem Fronteiras (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STRTRK13.mp4
+#EXTINF:0,Elvis & Nixon (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELVSENIXN.mp4
+#EXTINF:0,Procurando Dory (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PRCNDRY.mp4
+#EXTINF:0,Os Cacadores (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OSCDRS.mp4
+#EXTINF:0,Caca-Fantasmas (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CACFNTSM2016.mp4
+#EXTINF:0,A Bruxa do Cabelo Branco do Reino Lunar (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDCBLBRNCRNLNR.mp4
+#EXTINF:0,Independence Day: O Ressurgimento (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/INDPNDAYORSGMNT.mp4
+#EXTINF:0,Assalto ao Poder (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASLTOAOPDR.mp4
+#EXTINF:0,A Era do Gelo: O Big Bang (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AERDGLOBB.mp4
+#EXTINF:0,Pets: A Vida Secreta dos Bichos (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
+#EXTINF:0,Invocacao do Mal 2 (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/INVCAODML2.mp4
+#EXTINF:0,Desnorteados (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DESNRTAD.mp4
+#EXTINF:0,Barbie: Aventura nas Estrelas (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
+#EXTINF:0,As Tartarugas Ninja: Fora das Sombras (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJSFRDSSMBRS.mp4
+#EXTINF:0,Mogli:O Menino Lobo (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MGLOMENLB.mp4
+#EXTINF:0,Mente Criminosa (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MENTCRMINSA.mp4
+#EXTINF:0,Hardcore:Missao Extrema (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HARDCRMSEXTRM.mp4
+#EXTINF:0,Frankenstein (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FRNKSTEN.mp4
+#EXTINF:0,Ele Nunca Morre (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELENCMRR.mp4
+#EXTINF:0,Deus Nao Esta Morto 2 (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DSNESTMRT2.mp4
+#EXTINF:0,Batman:A Piada Mortal (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMAPIDMRT.mp4
+#EXTINF:0,A Serie Divergente:Convergente (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4
+#EXTINF:0,A Procura da Liberdade (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/APRCURDLBRD.mp4
+#EXTINF:0,Triple 9 (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TRPL9.mp4
+#EXTINF:0,Angry Birds: O Filme (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
+#EXTINF:0,Batman Vs Superman: A Origem da Justiça (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
+#EXTINF:0,Warcraft: O Primeiro Encontro de Dois Mundos  (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/WARCRFT.mp4
+#EXTINF:0,DEADPOOL (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DEADP.mp4
+#EXTINF:0,Capitão América 3: Guerra Civil (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CAPTAMRC3.mp4
+#EXTINF:0,Múmia a Ressurreição(2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MUMARSRCAO.mp4
+#EXTINF:0,Os Dez Mandamentos: O Filme (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDZMANDMTS.mp4
+#EXTINF:0,Lego DC Comics Super Heróis: Liga da Justiça: Combate Cósmico(2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LEGLGDJSTCCMBTCSMCO.mp4
+#EXTINF:0,Cinquenta Tons de Preto (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CQNTATNSDPRT.mp4
+#EXTINF:0,X-Men: Apocalipse(2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/XMENAPCLPSE.mp4
+#EXTINF:0,A Ressurreição do Anticristo (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ARSRCAODANTCRST.mp4
+#EXTINF:0,Irmãs (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/IRMAS.mp4
+#EXTINF:0,Liga da Justiça vs. Jovens Titãs (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LIGDJSTVSTNTITNSUEA.mp4
+#EXTINF:0,O Grande Mestre 3 (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OGRNDMSTR3.mp4
+#EXTINF:0,O Tigre e o Dragão: A Espada do Destino (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OTRIGEDRG.mp4
+#EXTINF:0,Spotlight: Segredos Revelados (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPTGHTSCRDSRVLDS.mp4
+#EXTINF:0,Vai que Dá Certo 2 (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VQDRCRT2.mp4
+#EXTINF:0,Zootopia: Essa Cidade é o Bicho (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
+#EXTINF:0,Kung Fu Panda 3 (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND3.mp4
+#EXTINF:0,Alice Através do Espelho (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ALCATRVSDESLHO.mp4
+#EXTINF:0,Doce Vingança 3: A Vingança é Minha (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DCVNGCA3.mp4
+#EXTINF:0,Deuses do Egito (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DEUSDEGTO.mp4
+#EXTINF:0,Aquarius (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AQRIS.mp4
+#EXTINF:0,Qualquer Gato Vira-Lata 2 (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/QLQURGTVRLT2.mp4
+#EXTINF:0,Superpai (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SPRPAI.mp4
+#EXTINF:0,Escondidos (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESCNDS.mp4
+#EXTINF:0,Entre Abelhas (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ENTRABLHS.mp4
+#EXTINF:0,Ela Dança -  Eu Danço 5: Tudo ou Nada (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC5.mp4
+#EXTINF:0,Maze Runner: Prova de Fogo (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MZRNRPRVDFG.mp4
+#EXTINF:0,Ouro -  Suor e Lagrimas (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OURSURELGRM.mp4
+#EXTINF:0,Perdido em Marte (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRDEMMRTE.mp4
+#EXTINF:0,Depois de Tudo (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DPSDTD.mp4
+#EXTINF:0,Chatô: O Rei do Brasil (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CHTORDBR.mp4
+#EXTINF:0,Busca Explosiva 4 (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BSCEXPLSV4.mp4
+#EXTINF:0,Busca Explosiva 3 (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BSCEXPLSV3.mp4
+#EXTINF:0,Os Penetras (2012)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OSPNTRS.mp4
+#EXTINF:0,Os Normais: O Filme (2003)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OSNRMASOFLM.mp4
+#EXTINF:0,Não Me Abandone Jamais (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NMABNDJMS.mp4
+#EXTINF:0,Não é Mais Um Besteirol Americano (2002)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NEUMBSTRAMRCN.mp4
+#EXTINF:0,Ela Dança -  Eu Danço 4 (2012)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC4.mp4
+#EXTINF:0,Ela Dança -  Eu Danço 3 (2010)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC3.mp4
+#EXTINF:0,Ela Dança -  Eu Danço 2 (2007)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC2.mp4
+#EXTINF:0,Ela Dança -  Eu Danço (2006)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC1.mp4
+#EXTINF:0,Busca Explosiva 2 (2009)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BSCEXPLSV2.mp4
+#EXTINF:0,Busca Explosiva (2006)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BSCEXPLSV1.mp4
+#EXTINF:0,Bem Casados (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BMCSDOS.mp4
+#EXTINF:0,Eu Sou A Lenda (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EUSOUALND.mp4
+#EXTINF:0,Sangue Azul (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SNGAZL.mp4
+#EXTINF:0,O Olho do Mal (2008)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OLHDML.mp4
+#EXTINF:0,Hop: Rebelde Sem Páscoa (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HOPRBLSPSC.mp4
+#EXTINF:0,O Desvio (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ODSVIO.mp4
+#EXTINF:0,Cruzeiro das Loucas (2003)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCRZRDLCS.mp4
+#EXTINF:0,Do Que as Mulheres Gostam (2001)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DQAMLHRSGSTM.mp4
+#EXTINF:0,A Lenda do Rei Macaco (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ALNDRMC.mp4
+#EXTINF:0,Halloweentown: A Cidade do Halloween (1998)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ACDDHLWN.mp4
+#EXTINF:0,Best Player: Guerreiros Virtuais (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BSTPLY.mp4
+#EXTINF:0,Qualquer Gato Vira-Lata (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/QLQURGTVRLT.mp4
+#EXTINF:0,O Auto da Compadecida (2000)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OATDCPDCDA.mp4
+#EXTINF:0,Lisbela e o Prisioneiro (2003)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LSBLEOPRSNRO.mp4
+#EXTINF:0,Uma Noite de Crime 2:Anarquia (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM2ARQU.mp4
+#EXTINF:0,Uma Noite de Crime (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM.mp4
+#EXTINF:0,Rio 2 (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RIO2.mp4
+#EXTINF:0,Rio (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RIO.mp4
+#EXTINF:0,Minha Mãe é Uma Peça: O Filme (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MNHMAEUMPC.mp4
+#EXTINF:0,Kick-Ass 2 (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/KCKASS2.mp4
+#EXTINF:0,Kick-Ass: Quebrando Tudo (2010)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/KCKASSQBRTD.mp4
+#EXTINF:0,Hora de Voltar (2004)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HRDVLTR.mp4
+#EXTINF:0,As Aventuras de Pi (2012)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASAVNTDPI.mp4
+#EXTINF:0,As Aventuras de Peabody & Sherman (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASAVNTSDPABYESHRM.mp4
+#EXTINF:0,Ouija: Onde Tudo Comecou (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OUJONDTDCM.mp4
+#EXTINF:0,Malévola (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MALVLA.mp4
+#EXTINF:0,Amor Estranho Amor (1982)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AMRESTNHAMR.mp4
+#EXTINF:0,A Chegada (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ACHGDA.mp4
+#EXTINF:0,A Bruxa de Blair 2: O Livro das Sombras (2001)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDBLR2.mp4
+#EXTINF:0,A Bruxa de Blair (1999)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDBLR.mp4
+#EXTINF:0,Trolls (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/TRLS.mp4
+#EXTINF:0,O Nome do Jogo (1995)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ONMDJG.mp4
+#EXTINF:0,Mcquade -  o Lobo Solitario (1983)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MCQDOLBSLTRO.mp4
+#EXTINF:0,Desventuras em Série (2005)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DSVNTRESER.mp4
+#EXTINF:0,Anjos e Demonios (2009)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSEDMNIS.mp4
+#EXTINF:0,O Código Da Vinci (2006)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCODVNC.mp4
+#EXTINF:0,Anjos da Noite: O Despertar (2012)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT4.mp4
+#EXTINF:0,Anjos da Noite: A Rebelião (2009)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT3.mp4
+#EXTINF:0,Anjos da Noite: A Evolução (2006)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT2.mp4
+#EXTINF:0,Anjos da Noite: Underworld (2003)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT1.mp4
+#EXTINF:0,Pokémon: Hoopa e o Duelo Lendário (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PKMONFLM18.mp4
+#EXTINF:0,Pokémon: Diancie e o Casulo da Destruicao (2014) 
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PKMONFLM17.mp4
+#EXTINF:0,Pokémon: Genesect e a Lenda Revelada (2013) 
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PKMONFLM16.mp4
+#EXTINF:0,Pokémon: Kyurem contra a Espada da Justiça (2012) 
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PKMONFLM15.mp4
+#EXTINF:0,Pokémon Preto: Victini e Reshiram (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PKMONFLM14P.mp4
+#EXTINF:0,Pokémon Branco: Victini e Zekrom (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PKMONFLM14B.mp4
+#EXTINF:0,Carrossel: O Filme (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CARSLOFLM.mp4
+#EXTINF:0,Hancock (2008)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HNCK.mp4
+#EXTINF:0,Os 102 Dalmatas (2000)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/102DMLTS.mp4
+#EXTINF:0,Jogo da Morte (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JOGDAMRT.mp4
+#EXTINF:0,O Dragao Chines (1972)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ODRGOCHNS.mp4
+#EXTINF:0,O Aviador (2005)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OAVADR.mp4
+#EXTINF:0,Namorada de Aluguel (1987)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NARMDALGL.mp4
+#EXTINF:0,A Furia do Dragao (1972)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AFRDRGO.mp4
+#EXTINF:0,Johnny & June (2005)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JOHNTEJNE.mp4
+#EXTINF:0,Jogo da Morte: A Ultima Jogada (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JOGDMRTAUJ.mp4
+#EXTINF:0,Jogo da Morte 2 (1982)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JOGDMRT2.mp4
+#EXTINF:0,Jogo da Morte (1979)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JOGDMRT1.mp4
+#EXTINF:0,Honey 2: No Ritmo dos Sonhos (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HONY2.mp4
+#EXTINF:0,Honey: No Ritmo dos Seus Sonhos (2003)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HONY1.mp4
+#EXTINF:0,Guerra ao Terror (2010)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/GURAOTER.mp4
+#EXTINF:0,Forca Para Viver (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FRCPRVIV.mp4
+#EXTINF:0,Escola de Rock (2004)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESCLDRCK.mp4
+#EXTINF:0,Deu a Louca no Mundo (1963)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DEUALUCNMND.mp4
+#EXTINF:0,Cavalo de Guerra (2012)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CVLDGUR.mp4
+#EXTINF:0,Cyborg: O Dragao do Futuro (1989)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CBRGODRGDFTRO.mp4
+#EXTINF:0,Batalha de Honra (1993) 
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BTLHDHNR.mp4
+#EXTINF:0,As Torres Gemeas (2006)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTRSGMS.mp4
+#EXTINF:0,Amor e Revolucao (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AMRERVLC.mp4
+#EXTINF:0,American Poltergeist (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AMRCNPLTGST.mp4
+#EXTINF:0,1941: Uma Guerra Muito Louca (1979)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/1941UGML.mp4
+#EXTINF:0,Truque de Mestre (2013)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/TRQDMSTR.mp4
+#EXTINF:0,Assassino a Preco Fixo (2011)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASASINOAPRCFX.mp4
+#EXTINF:0,Alem da Escuridao: Star Trek (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STRTRK12.mp4
+#EXTINF:0,Star Trek (2009)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STRTRK11.mp4
+#EXTINF:0,Hitman: Agente 47 (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HTMNAGT47.mp4
+#EXTINF:0,Hitman: Assassino 47 (2007)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HTMNASO47.mp4
+#EXTINF:0,Os Caca-Fantasmas 2 (1989)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CACFNTSM2.mp4
+#EXTINF:0,Os Caca-Fantasmas (1984)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OSCAFNTSMA.mp4
+#EXTINF:0,A Fera (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AFERA.mp4
+#EXTINF:0,Misterio de Anubis: A Pedra de Ra (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MSTRDANBSAPDRDRA.mp4
+#EXTINF:0,A Lenda de Tarzan (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ALNDETRZN.mp4
+#EXTINF:0,Transformers: O Filme (1986)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/TRNSFRMOFLME.mp4
+#EXTINF:0,O Ceu e de Verdade (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCEDVRD.mp4
+#EXTINF:0,Matrix Revolution (2003)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MTRXREV.mp4
+#EXTINF:0,Matrix Reloaded (2003)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MTRXRLD.mp4
+#EXTINF:0,Matrix (1999)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MTRX.mp4
+#EXTINF:0,Aeon Flux (2005)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AERNFLX.mp4
+#EXTINF:0,Os 101 Dalmatas (1996)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/101DMLTSFILME.mp4
+#EXTINF:0,101 Dalmatas 2: A Aventura de Patch em Londres (2003)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/101DMLTS2.mp4
+#EXTINF:0,101 Dalmatas: A Guerra dos Dalmatas (1961)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/101DMLTS1.mp4
+#EXTINF:0,Uma Aventura de Babas (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMAVNTRDBABS.mp4
+#EXTINF:0,Querida -  Estiquei o Bebe (1992)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/QRDESTQOBB.mp4
+#EXTINF:0,Querida -  Encolhi a Gente (1996)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/QRDENCLAGNT.mp4
+#EXTINF:0,Navio Fantasma (2001)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NVFNTSM.mp4
+#EXTINF:0,Marcados Pela Guerra (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MRCDSPLGRA.mp4
+#EXTINF:0,Invocacao do Mal (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/INVCAODML.mp4
+#EXTINF:0,Trem Fantasma (2006)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/TRMFNTSM.mp4
+#EXTINF:0,Querida -  Encolhi as Criancas (1990)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/QRDESCLHACRNS.mp4
+#EXTINF:0,Em Meus Sonhos (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/EMSNHS.mp4
+#EXTINF:0,As Tartarugas Ninja: O Retorno (2007)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJSDESENHO.mp4
+#EXTINF:0,As Tartarugas Ninja 3 (1992)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS3.mp4
+#EXTINF:0,As Tartarugas Ninja 2: O Segredo do Ooze (1991)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS2.mp4
+#EXTINF:0,As Tartarugas Ninja (1990)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS1.mp4
+#EXTINF:0,Victor Frankenstein (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/VCTFRNKSTEN.mp4
+#EXTINF:0,Gente Grande 2 (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/GNTGRND2.mp4
+#EXTINF:0,Gente Grande (2010)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/GNTGRND.mp4
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TIMAIA.mp4
+#EXTINF:0,Contos do Cargueiro Negro (2010)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/WATCHMCNTSDCRG.mp4
+#EXTINF:0,Jovens Titãs:Missão Tóquio (2006)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JVNSTTNSMSTQ.mp4
+#EXTINF:0,Superman/Batman:Inimigos Públicos (2009)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SPRMNEBTMNINMGSPBLCS.mp4
+#EXTINF:0,Grandes Astros:Superman (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/GRNDSASTRSPRMN.mp4
+#EXTINF:0,Superman Contra a Elite (2012)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SPRMNCNTRAELT.mp4
+#EXTINF:0,Tim Maia (2013)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/TIMAIA.mp4
+#EXTINF:0,Lanterna Verde: Primeiro Voo (2009)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LNTRNVRDPRMRVO.mp4
+#EXTINF:0,Liga da Justiça: A Nova Fronteira (2008)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LGDJSTCANVFRNT.mp4
+#EXTINF:0,Liga da Justiça: Crise em Duas Terras (2010)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LGDJSTCACRSEDUSTRS.mp4
+#EXTINF:0,Liga da Justiça: Ponto de Ignição (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LGDJSTCAPNTDIGN.mp4
+#EXTINF:0,Lanterna Verde: Cavaleiros Esmeralda (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LNTRNVRDCVLESMRLD.mp4
+#EXTINF:0,Lego Batman: O Filme - Super Herois se Unem (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
+#EXTINF:0,Batman vs Dracula (2005)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMVSDRCL.mp4
+#EXTINF:0,Batman Contra o Capuz Vermelho (2010)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMCNTROCPZVRM.mp4
+#EXTINF:0,Batman: A Máscara do Fantasma (1993)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMAMSCRDFNTSM.mp4
+#EXTINF:0,Batman & Mr. Freeze: Abaixo de Zero (1998)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMCNTROCPZVRM.mp4
+#EXTINF:0,Batman do Futuro: O Retorno do Coringa (2000)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMDFTRORTNDCRNG.mp4
+#EXTINF:0,Batman: O Mistério da Mulher-Morcego (2003)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMOMSTRDMLHRMRCG.mp4
+#EXTINF:0,Batman: Ano Um (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMANUM.mp4
+#EXTINF:0,Dragon Ball - A Lenda de Shenlong (1986)
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBFILME01.mp4
+#EXTINF:0,Dragon Ball - O Castelo do Diabo (1987)
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBFILME02.mp4
+#EXTINF:0,Dragon Ball - Uma Aventura Mística (1988)
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBFILME03.mp4
+#EXTINF:0,Dragon Ball Z - Devolva-me Gohan (1989)
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBZFILME01.mp4
+#EXTINF:0,Dragon Ball Z - A Árvore do Poder (1990)
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBZFILME03.mp4
+#EXTINF:0,Dragon Ball Z - O Retorno dos Andróides (1992) 
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBZFILME07.mp4
+#EXTINF:0,Dragon Ball Z - O Poder Invencível (1993)
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBZFILME08.mp4
+#EXTINF:0,Dragon Ball Z - O Retorno do Guerreiro Lendário (1994)
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBZFILME10.mp4
+#EXTINF:0,Dragon Ball Z - O Combate Final (1994)
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBZFILME11.mp4
+#EXTINF:0,Dragon Ball Z - O Golpe do Dragão (1995)
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DBZFILME13.mp4
+#EXTINF:0,O Poderoso Chefão (1972)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPDRSOCFAO1.mp4
+#EXTINF:0,O Poderoso Chefão 2 (1974)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPDRSOCFAO2.mp4
+#EXTINF:0,O Poderoso Chefão 3 (1990)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPDRSOCFAO3.mp4
+#EXTINF:0,Os 12 Macacos (1996)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OS12MCACOS.mp4
+#EXTINF:0,As Tartarugas Ninja (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASTARTGUSNJS.mp4
+#EXTINF:0,Bayonetta: Destino Sangrento (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BAYONTA.mp4
+#EXTINF:0,Ela é Demais pra Mim (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ELAEDMSPRMIN.mp4
+#EXTINF:0,Alice no País das Maravilhas (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS.mp4
+#EXTINF:0,Alice no País das Maravilhas (1951)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS1951.mp4
+#EXTINF:0,Elektra (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ELKTRA.mp4
+#EXTINF:0,Scooby-Doo 2: Monstros à Solta (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SCBYDO2.mp4
+#EXTINF:0,Scooby-Doo!: O Mistério Começa (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SCBYDO3.mp4
+#EXTINF:0,Scooby-Doo! e a Maldição do Monstro do Lago (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SCBYDO4.mp4
+#EXTINF:0,As Criaturas Atrás das Paredes (1992)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4
+#EXTINF:0,Striptease (1996)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STRPTESE.mp4
+#EXTINF:0,Um Príncipe em Nova York (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4
+#EXTINF:0,Vai que Dá Certo (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VQDRCRT.mp4
+#EXTINF:0,O Zelador Animal (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OZLDR.mp4
+#EXTINF:0,Refém (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RFEM.mp4
+#EXTINF:0,Romeu e Julieta (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RMUEJLETA.mp4
+#EXTINF:0,Scooby-Doo (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SCBYDO1.mp4
+#EXTINF:0,O Demolidor (1993)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ODMLDR.mp4
+#EXTINF:0,Detroit a Cidade do Rock (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DTRIDACDADRCK.mp4
+#EXTINF:0,O Professor Aloprado (1996)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSRAPR.mp4
+#EXTINF:0,O Professor Aloprado 2: A Família Klump  (200)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSRAPR2.mp4
+#EXTINF:0,Gattaca: Experiência Genética (1997)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GATCEXPRCIA.mp4
+#EXTINF:0,Liga da Justiça: A Legião do Mal  (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LIGDJSTCALGAODOML.mp4
+#EXTINF:0,Mulher Maravilha (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MLHRMRVLHA.mp4
+#EXTINF:0,O Albergue  (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OALBRG.mp4
+#EXTINF:0,O Albergue 2 (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OALBRGPT2.mp4
+#EXTINF:0,O Albergue 3 (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OALBRGPT3.mp4
+#EXTINF:0,Deu a Louca nos Nazis (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DLUCNSNZ.mp4
+#EXTINF:0,Demolidor: O Homem Sem Medo (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DMLDROHSM.mp4
+#EXTINF:0,Deus Não Está Morto (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DSNESTMRT.mp4
+#EXTINF:0,Heróis de Ressaca (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HRSDRSCA.mp4
+#EXTINF:0,Vovó... Zona (2000)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA.mp4
+#EXTINF:0,Vovó... Zona 2 (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA2.mp4
+#EXTINF:0,Vovó... Zona 3 (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA3.mp4
+#EXTINF:0,Watchmen - O Filme (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/WTCHMNOFLM.mp4
+#EXTINF:0,A Arte da Paixão (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AARTDPXA.mp4
+#EXTINF:0,A Final (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AFNL.mp4
+#EXTINF:0,Batman: O Cavaleiro das Trevas P1 (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNOCVDSTRVSPT1.mp4
+#EXTINF:0,Batman: O Cavaleiro das Trevas P2 (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNOCVDSTRVSPT2.mp4
+#EXTINF:0,Adorável Professora (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ADRVLPRFSRA.mp4
+#EXTINF:0,Assalto em Dose Dupla (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASLTEDSDPL.mp4
+#EXTINF:0,Divergente (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DVRGNT.mp4
+#EXTINF:0,A Série Divergente: Insurgente (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASREDVRGNTISRGNT.mp4
+#EXTINF:0,Até que a Sorte nos Separe 3 (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATQASRTNSPR3.mp4
+#EXTINF:0,Bravetown (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRVTWN.mp4
+#EXTINF:0,Boneca Assassina (1991)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BONCASSNA.mp4
+#EXTINF:0,Cine Holliúdy (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CINEHLUDY.mp4
+#EXTINF:0,Dead Snow 2: Red vs. Dead (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DEDSNW2RDVSDED.mp4
+#EXTINF:0,Distrito 9 (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DISTRIT9.mp4
+#EXTINF:0,Um Drink no Inferno (1996)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UDRNKNINFRN.mp4
+#EXTINF:0,Um Drink no Inferno 2: Texas Sangrento (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UDRNKNINFRN2.mp4
+#EXTINF:0,Um Drink no Inferno 3: A Filha do Carrasco (2000)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UDRNKNINFRN3.mp4
+#EXTINF:0,Meninas Malvadas
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MENDMLVDS.mp4
+#EXTINF:0,Meninas Malvadas 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MENDMLVDS2.mp4
+#EXTINF:0,+ VELOZES + FURIOSOS (2003)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VLZEFROSOS02.mp4
+#EXTINF:0,007 A SERVIÇO SECRETO DE SUA MAJESTADE (1969)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071969ASVCSCRT.mp4
+#EXTINF:0,007 CONTRA A CHANTAGEM ATÔMICA (1965)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4
+#EXTINF:0,007 CONTRA GOLDENEYE (1995)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071995CNTRGLDNE.mp4
+#EXTINF:0,007 CONTRA GOLDFINGER (1964)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4
+#EXTINF:0,007 CONTRA O FOGUETE DA MORTE(1979)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071979CNTROFGUT.mp4
+#EXTINF:0,007 CONTRA O HOMEM COM A PISTOLA DE OURO (1974)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071974CNTROHMN.mp4
+#EXTINF:0,007 CONTRA O SATÂNICO DR. NO (1962)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071962CNTROSTNC.mp4
+#EXTINF:0,007 CONTRA OCTOPUSSY (1983)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
+#EXTINF:0,007 CONTRA SPECTRE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072016CNTRSPCTR.mp4
+#EXTINF:0,007 NA MIRA DOS ASSASSINOS (1985)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071985NMRDSASNS.mp4
+#EXTINF:0,007: CASSINO ROYALE (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072006CSNRYL.mp4
+#EXTINF:0,007: MARCADO PARA A MORTE (1987)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071987MRCDOMRT.mp4
+#EXTINF:0,007: NUNCA MAIS OUTRA VEZ (1983)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
+#EXTINF:0,007: O AMANHÃ NUNCA MORRE (1997)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071997OAMNHNCM.mp4
+#EXTINF:0,007: O ESPIÃO QUE ME AMAVA (1977)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071977OESPNHQMA.mp4
+#EXTINF:0,007: O MUNDO NÃO É O BASTANTE (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071999OMNDNEOBST.mp4
+#EXTINF:0,007: OPERAÇÃO SKYFALL (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072012SKYFL.mp4
+#EXTINF:0,007: OS DIAMANTES SÃO ETERNOS (1971)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071971OSDAMTS.mp4
+#EXTINF:0,007: PERMISSÃO PARA MATAR (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071989PRMSPMTR.mp4
+#EXTINF:0,007: QUANTUM OF SOLAGE (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072008QNTOFSLC.mp4
+#EXTINF:0,007: SOMENTE PARA SEUS OLHOS (1981)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4
+#EXTINF:0,007: UM NOVO DIA PARA MORRER (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072002UNDPM.mp4
+#EXTINF:0,118 DIAS (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/118DAS.mp4
+#EXTINF:0,2012 (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/2012.mp4
+#EXTINF:0,30 NOITES DE ATIVIDADE PARANORMAL COM A FILHA DOS HOMENS QUE NÃO AMAVAM AS MULHERES (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/30NTSMATVDPRNL.mp4
+#EXTINF:0,300 (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/300.mp4
+#EXTINF:0,300 - A ASCENSÃO DO IMPÉRIO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/300AASCSDIMPRO.mp4
+#EXTINF:0,72 HORAS (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/72HRS.mp4
+#EXTINF:0,9 - A SALVAÇÃO (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASLVCAO.mp4
+#EXTINF:0,90 MINUTOS NO PARAÍSO (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/90MINPRSO.mp4
+#EXTINF:0,A BATALHA DO PLANETA DOS MACACOS (1974)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCS5.mp4
+#EXTINF:0,A CONQUISTA DO PLANETA DOS MACACOS (1972)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCS4.mp4
+#EXTINF:0,A ENTIDADE (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AENTDADE1.mp4
+#EXTINF:0,A ENTIDADE 2 (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AENTDADE2.mp4
+#EXTINF:0,A ENTREVISTA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AERVTVST.mp4
+#EXTINF:0,A ERA DO GELO (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AERDGL1.mp4
+#EXTINF:0,A ERA DO GELO 2 (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AERDGL2.mp4
+#EXTINF:0,A ERA DO GELO 3 (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AERDGL3.mp4
+#EXTINF:0,A ERA DO GELO 4 (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AERDGL4.mp4
+#EXTINF:0,A ESTRADA 47 (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AESTD47.mp4
+#EXTINF:0,A FAMÍLIA ADDAMS (1991)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFMLADMS.mp4
+#EXTINF:0,A FANTÁSTICA FÁBRICA DE CHOCOLATE (1971)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFNTSCFBRCDCHCLT.mp4
+#EXTINF:0,A FANTÁSTICA FÁBRICA DE CHOCOLATE (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFNTSCFBRCDCHCLT2005.mp4
+#EXTINF:0,A HERDEIRA (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AHRDIRA.mp4
+#EXTINF:0,A HISTÓRIA VERDADEIRA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AHISTVRDA.mp4
+#EXTINF:0,A HORA DO PESADELO (1984)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL01.mp4
+#EXTINF:0,A HORA DO PESADELO (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL08.mp4
+#EXTINF:0,A HORA DO PESADELO 2 - A VINGANÇA DE FREDDY (1985)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL02.mp4
+#EXTINF:0,A HORA DO PESADELO 3 - OS GUERREIROS DOS SONHOS (1987)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL03.mp4
+#EXTINF:0,A HORA DO PESADELO 4 - O MESTRE DOS SONHOS (1988)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL04.mp4
+#EXTINF:0,A HORA DO PESADELO 5 - O MAIOR HORROR DE FREDDY (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL05.mp4
+#EXTINF:0,A HORA DO PESADELO 6 - PESADELO FINAL - A MORTE DE FREDDY (1991)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL06.mp4
+#EXTINF:0,A HORA DO RUSH (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDRSH01.mp4
+#EXTINF:0,A HORA DO RUSH 2 (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDRSH02.mp4
+#EXTINF:0,A HORA DO RUSH 3 (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDRSH03.mp4
+#EXTINF:0,A IDENTIDADE BOURNE (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AIDBOURN.mp4
+#EXTINF:0,A JANELA SECRETA (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AJNLSCRT.mp4
+#EXTINF:0,A LAGOA AZUL (1980)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ALGOAZL.mp4
+#EXTINF:0,A LISTA (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ALISTA2011.mp4
+#EXTINF:0,A MALDIÇÃO DE CHUCKY (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMLDCAODCHCKY.mp4
+#EXTINF:0,A MÁQUINA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMQNA.mp4
+#EXTINF:0,A MARCA DO MEDO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCDMDDUB.mp4
+#EXTINF:0,A MENINA DO CHALÉ (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMNINDCHLE.mp4
+#EXTINF:0,A MENTIRA (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMNTR.mp4
+#EXTINF:0,A MORTE DO DEMÔNIO (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRTDPDMNIO.mp4
+#EXTINF:0,A MULHER DE PRETO (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMLHRDPRT01.mp4
+#EXTINF:0,A MULHER DE PRETO 2: ANJO DA MORTE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMLHRDPRT02.mp4
+#EXTINF:0,A MÚMIA (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMUMIA.mp4
+#EXTINF:0,A MÚMIA: TUMBA DO IMPERADOR DRAGÃO (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMUMIATMBDIMPRDDRG.mp4
+#EXTINF:0,A NOITE DA VIRADA (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ANTDVRDNAC.mp4
+#EXTINF:0,A NOIVA DE CHUCKY (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ANVDCHCKY.mp4
+#EXTINF:0,A NOIVA-CADÁVER (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ANOIVCDVER.mp4
+#EXTINF:0,A PAIXÃO DE CRISTO (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APAXAODCRST.mp4
+#EXTINF:0,A PEQUENA SEREIA (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APQNSRAFILME01.mp4
+#EXTINF:0,A PEQUENA SEREIA II - O RETORNO PARA O MAR (2000)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APQNSRAFILME02.mp4
+#EXTINF:0,A PRIMEIRA VEZ (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRMRVEZ.mp4
+#EXTINF:0,À PROCURA DA FELICIDADE (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APRCRDFLCDAD.mp4
+#EXTINF:0,A PROFECIA (1977)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA1.mp4
+#EXTINF:0,A PROFECIA (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA2006.mp4
+#EXTINF:0,A PROFECIA 3: O CONFLITO FINAL (1981)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA3.mp4
+#EXTINF:0,A PROFECIA 4: O DESPERTAR (1991)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA4.mp4
+#EXTINF:0,A REDE SOCIAL (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ARDSCIL.mp4
+#EXTINF:0,A SAGA CREPÚSCULO: AMANHECER |PARTE 1| (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGCRSPCLO04.mp4
+#EXTINF:0,A SAGA CREPÚSCULO: AMANHECER 2 (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGCRSPCLO05.mp4
+#EXTINF:0,A SAGA CREPÚSCULO: ECLIPSE (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGCRSPCLO03.mp4
+#EXTINF:0,A SAGA CREPÚSCULO: LUA NOVA (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGCRSPCLO02.mp4
+#EXTINF:0,A SAGA VIKING (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGVKNG.mp4
+#EXTINF:0,A SALVAÇÃO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4
+#EXTINF:0,A SUPREMACIA BOURNE (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASPBOURN.mp4
+#EXTINF:0,A TEORIA DE TUDO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ATORIDTD.mp4
+#EXTINF:0,A VIATURA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AVIATURA.mp4
+#EXTINF:0,A VISITA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AVISTA.mp4
+#EXTINF:0,ADULTOS INEXPERIENTES (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ADLTSINEXPRTES.mp4
+#EXTINF:0,ADVOGADO DO DIABO (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ADVGDIAB.mp4
+#EXTINF:0,AKIRA (1988)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AKIRA.mp4
+#EXTINF:0,ALEMÃO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ALMAO.mp4
+#EXTINF:0,ALWAYS WATCHING: A MARBLE HORNETS STORY (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AWAMHS.mp4
+#EXTINF:0,AMALDIÇOADO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMLSCADO.mp4
+#EXTINF:0,AMERICAN PIE: A PRIMEIRA VEZ É INESQUECÍVEL (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE1.mp4
+#EXTINF:0,AMERICAN PIE 2: A SEGUNDA VEZ É AINDA MELHOR (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE2.mp4
+#EXTINF:0,AMERICAN PIE: O CASAMENTO (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE3.mp4
+#EXTINF:0,AMERICAN PIE 4: TOCANDO A MAIOR ZONA (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE4.mp4
+#EXTINF:0,AMERICAN PIE 5: O ÚLTIMO STIFLER VIRGEM (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE5.mp4
+#EXTINF:0,AMERICAN PIE: CAINDO EM TENTAÇÃO (2007) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE6.mp4
+#EXTINF:0,AMERICAN PIE: O LIVRO DO AMOR (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE7.mp4
+#EXTINF:0,AMERICAN PIE: O REENCONTRO (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE8.mp4
+#EXTINF:0,AMIZADE DESFEITA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMZDSFTA.mp4
+#EXTINF:0,AMNÉSIA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMNESIA.mp4
+#EXTINF:0,AMOR SEM PECADO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRSMPCD.mp4
+#EXTINF:0,APENAS UM SHOW: O FILME (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APNSUSWOFILME.mp4
+#EXTINF:0,APPLESEED ALPHA (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APLSDALPHDUB.mp4
+#EXTINF:0,APRENDENDO COM A VOVÓ (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRNDOCMAVO.mp4
+#EXTINF:0,AS AVENTURAS DA LIGA DA JUSTIÇA: ARMADILHA DO TEMPO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASAVNTRSDLGDJSTCARMD.mp4
+#EXTINF:0,AS AVENTURAS DE PADDINGTON (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AAVNTRDPNGTN.mp4
+#EXTINF:0,AS AVENTURAS DE TINTIM - O FILME (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AAVTRSDTNFILME.mp4
+#EXTINF:0,AS BRANQUELAS (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASBRNQLS.mp4
+#EXTINF:0,ASSASSINO INVISÍVEL (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASSNINVSL.mp4
+#EXTINF:0,ASTRO BOY (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASTRBOY.mp4
+#EXTINF:0,ATÉ O LIMITE DA HONRA (1997)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATOLMTDHNRA.mp4
+#EXTINF:0,ATÉ QUE A SORTE NOS SEPARE (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ATQAMRTNSPR1.mp4
+#EXTINF:0,ATÉ QUE A SORTE NOS SEPARE 2 (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ATQAMRTNSPR2.mp4
+#EXTINF:0,ATIVIDADE PARANORMAL (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML1.mp4
+#EXTINF:0,ATIVIDADE PARANORMAL 2 (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML2.mp4
+#EXTINF:0,ATIVIDADE PARANORMAL 3 (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML3.mp4
+#EXTINF:0,ATIVIDADE PARANORMAL 4 (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML4.mp4
+#EXTINF:0,ATIVIDADE PARANORMAL: MARCADOS PELO MAL (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRMLMRCDPMAL.mp4
+#EXTINF:0,ATIVIDADE PARANORMAL: DIMENSÃO FANTASMA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRMLDMFANT.mp4
+#EXTINF:0,ATIVIDADE PARANORMAL: TÓQUIO (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRMLTOKYO.mp4
+#EXTINF:0,AUSTIN POWERS EM O HOMEM DO MEMBRO DE OURO (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AUSTNPWRSEOHDMDORO.mp4
+#EXTINF:0,AUSTIN POWERS: 000 UM AGENTE NADA DISCRETO (1997)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AUSTNPWRS000UAND.mp4
+#EXTINF:0,AUSTIN POWERS: O AGENTE BOND CAMA (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AUSTNPWRSOAGNTBNDCM.mp4
+#EXTINF:0,AUSTRÁLIA (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AUSTRLIA.mp4
+#EXTINF:0,AVALANCHE NO EVEREST (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AVLNCHNEVRST.mp4
+#EXTINF:0,AVATAR (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AVTR.mp4
+#EXTINF:0,BAD BOYS II (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BDBYS2.mp4
+#EXTINF:0,BATMAN (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN01.mp4
+#EXTINF:0,BATMAN BEGINS (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN05.mp4
+#EXTINF:0,BATMAN VS. ROBIN (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMNVSRBN.mp4
+#EXTINF:0,BATMAN: BATMAN E ROBIN (1997)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN04.mp4
+#EXTINF:0,BATMAN: ETERNAMENTE (1995)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN03.mp4
+#EXTINF:0,BATMAN: O CAVALEIRO DAS TREVAS (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN06.mp4
+#EXTINF:0,BATMAN: O CAVALEIRO DAS TREVAS RESSURGE (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN07.mp4
+#EXTINF:0,BATMAN: O RETORNO (1992)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN02.mp4
+#EXTINF:0,BATMAN: SANGUE RUIM (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNSNGRUIM.mp4
+#EXTINF:0,BATTLESHIP A BATALHA DOS MARES (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTSHPABTHLDSMRS.mp4
+#EXTINF:0,BELAS E PERSEGUIDAS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLSEPRSGDS.mp4
+#EXTINF:0,BIG TIME RUSH: O FILME (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTRSHOFILME.mp4
+#EXTINF:0,BIRDMAN OU (A INESPERADA VIRTUDE DA IGNORÂNCIA) (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BRDMAINSPDVRTDAIGN.mp4
+#EXTINF:0,BLADE 2 (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLADE2.mp4
+#EXTINF:0,BLADE TRINITY (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLADE3.mp4
+#EXTINF:0,BLADE; O CAÇADOR DE VAMPIROS (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLADE1.mp4
+#EXTINF:0,BOB ESPONJA - O FILME (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BOBOFILME.mp4
+#EXTINF:0,BOB ESPONJA: UM HERÓI FORA D'ÁGUA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BOBESPJUHRFRDGUA.mp4
+#EXTINF:0,BRAVURA INDÔMITA (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BRVRINDMT.mp4
+#EXTINF:0,BRINQUEDO ASSASSINO (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNQDASASN1.mp4
+#EXTINF:0,BRINQUEDO ASSASSINO 2 (1990)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNQDASASN2.mp4
+#EXTINF:0,BRINQUEDO ASSASSINO 3 (1991)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNQDASASN3.mp4
+#EXTINF:0,CAÇADOR DE ALMAS (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CACDRDALMS.mp4
+#EXTINF:0,CADA UM NA SUA CASA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSUMNSUACS.mp4
+#EXTINF:0,CAIPIRA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CAIPIRA.mp4
+#EXTINF:0,CALVÁRIO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CLVRIO.mp4
+#EXTINF:0,CAMINHOS DA FLORESTA (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMNHSDFLRST.mp4
+#EXTINF:0,CAPITÃO AMÉRICA 2: O SOLDADO INVERNAL (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CAPTAMRC2.mp4
+#EXTINF:0,CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CAPTAMRC1.mp4
+#EXTINF:0,CAPTIVE (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CPTVE.mp4
+#EXTINF:0,CARGA EXPLOSIVA (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSV1.mp4
+#EXTINF:0,CARGA EXPLOSIVA 2 (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSV2.mp4
+#EXTINF:0,CARGA EXPLOSIVA 3 (2008) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSV3.mp4
+#EXTINF:0,CARGA EXPLOSIVA: O LEGADO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSVOLEGADO.mp4
+#EXTINF:0,CARRIE; A ESTRANHA (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH2013.mp4
+#EXTINF:0,CARRIE; A ESTRANHA (1976)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH1976.mp4
+#EXTINF:0,CARROS (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CARROS1.mp4
+#EXTINF:0,CARROS 2 (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CARROS2.mp4
+#EXTINF:0,CÁSSIA ELLER (2015) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSAELR.mp4
+#EXTINF:0,CASTELO DO MEDO (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSTLDMD.mp4
+#EXTINF:0,CENTURIÃO (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNTRAO.mp4
+#EXTINF:0,CHRISTINE; O CARRO ASSASSINO (1983)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRSTNOCRASSANO.mp4
+#EXTINF:0,CIDADE DE DEUS (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CIDEDEUS.mp4
+#EXTINF:0,CIDADE DOS ANJOS (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CIDDSANJS.mp4
+#EXTINF:0,CIDADES DE PAPEL (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CDADPAPL.mp4
+#EXTINF:0,CINDERELA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNDRLA.mp4
+#EXTINF:0,CINQUENTA TONS DE CINZA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNQNTNSDCNZ.mp4
+#EXTINF:0,CÍRCULO DE FOGO (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CIRCLODFG2001.mp4
+#EXTINF:0,CÍRCULO DE FOGO (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CIRCLODFG.mp4
+#EXTINF:0,COM 007 SÓ SE VIVE 2 VEZES (1967)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071967CM007SSVDV.mp4
+#EXTINF:0,COM 007 VIVA E DEIXE MORRER (1973)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071973VIVADXMR.mp4
+#EXTINF:0,COM A BOLA TODA (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CMABLATD.mp4
+#EXTINF:0,COMO SE FOSSE A PRIMEIRA VEZ (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMSFSAPRMVZ.mp4
+#EXTINF:0,COMO SOBREVIVER A UM ATAQUE ZUMBI (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CMSBRVVERAUATQZMB.mp4
+#EXTINF:0,COMPANY OF HEROES - O FILME (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/COMPNYOHROS.mp4
+#EXTINF:0,CONFISSÕES DE ADOLESCENTE (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNFSDADLCNT.mp4
+#EXTINF:0,COPA DE ELITE (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CPDELT.mp4
+#EXTINF:0,CORAÇÕES DE FERRO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRCAODFRRO.mp4
+#EXTINF:0,CREPÚSCULO (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGCRSPCLO01.mp4
+#EXTINF:0,D.U.F.F. VOCÊ CONHECE; TEM OU É (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DUFFVCNHECTMOE.mp4
+#EXTINF:0,DAMIEN: A PROFECIA 2 (1978)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA2.mp4
+#EXTINF:0,DAVE: PRESIDENTE POR UM DIA (1993)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DAVPRSDNTPUD.mp4
+#EXTINF:0,DE VOLTA À LAGOA AZUL (1991)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTALGOAZL.mp4
+#EXTINF:0,DE VOLTA AO PLANETA DOS MACACOS (1970)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCS2.mp4
+#EXTINF:0,DE VOLTA PARA O FUTURO (1985)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT1.mp4
+#EXTINF:0,DE VOLTA PARA O FUTURO 2 (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT2.mp4
+#EXTINF:0,DE VOLTA PARA O FUTURO 3 (1990)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT3.mp4
+#EXTINF:0,DEBI & LÓIDE 2 (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DBELID2.mp4
+#EXTINF:0,DEBI & LÓIDE: DOIS IDIOTAS EM APUROS (1995)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DBELID1.mp4
+#EXTINF:0,DEPOIS DA TERRA (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DPSDATERRA.mp4
+#EXTINF:0,DESAFIANDO O ASSASSINO (1974)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DSFANDOASASNO.mp4
+#EXTINF:0,DESAPARECIDAS (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DESPRCDAS.mp4
+#EXTINF:0,DEZESSEIS LUAS (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DZSLUAS.mp4
+#EXTINF:0,DIVERTIDA MENTE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DVRTDMNT.mp4
+#EXTINF:0,DJANGO LIVRE (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DJNGLVR.mp4
+#EXTINF:0,DOCE VINGANÇA (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DCVNGCA1.mp4
+#EXTINF:0,DOCE VINGANÇA 2 (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DCVNGCA2.mp4
+#EXTINF:0,DOIS ESTRANHOS; UM CASAMENTO / O PRAZER DA SUA COMPANHIA (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRZRDSUACMPNH.mp4
+#EXTINF:0,DOIS LADOS DO AMOR (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DSLDSDAMR.mp4
+#EXTINF:0,DOOM: A PORTA DO INFERNO (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DOMAPRTDINFN.mp4
+#EXTINF:0,DOPE UM DESLIZE PERIGOSO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DOPUMDSLZPRGSO.mp4
+#EXTINF:0,DRAGÃO VERMELHO (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DRGVRMLH.mp4
+#EXTINF:0,DRAGON BALL EVOLUTION (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DBZEVLTN.mp4
+#EXTINF:0,DRAGON BALL Z: O RENASCIMENTO DE FREEZA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DBZFILME15.mp4
+#EXTINF:0,DRAGON BLADE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DRGNBLDE.mp4
+#EXTINF:0,EDWARD MÃOS DE TESOURA (1991)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EDWRDMSDTSR.mp4
+#EXTINF:0,ENDER'S GAME: O JOGO DO EXTERMINADOR (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ENDGMJGDEXTRMNDR.mp4
+#EXTINF:0,ENTRANDO NUMA ROUBADA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ENTDNRBND.mp4
+#EXTINF:0,ENTRE NÓS (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ENTRNS.mp4
+#EXTINF:0,ERA UMA VEZ NO OESTE (1968)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ERAUMAVZNOST.mp4
+#EXTINF:0,ESPECIALISTA EM CRISE (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPCLSEMCRS.mp4
+#EXTINF:0,ESPÍRITO DE LOBO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPRTODLBO.mp4
+#EXTINF:0,EU TE AMO; BETH COOPER (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EUTAMOBTHCPR.mp4
+#EXTINF:0,EVERESTE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EVRSTE.mp4
+#EXTINF:0,EX MACHINA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EXMCHNA.mp4
+#EXTINF:0,ÊXODO: DEUSES E REIS (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EXDDUSERS.mp4
+#EXTINF:0,EXORCISTAS DO VATICANO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EXRCSTDVTCN.mp4
+#EXTINF:0,EXTERMÍNIO (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EXTRMN1.mp4
+#EXTINF:0,EXTERMÍNIO 2 (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EXTRMN2.mp4
+#EXTINF:0,FILHOS DA ESPERANÇA (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FLHSDESPRNC.mp4
+#EXTINF:0,FINAL FANTASY (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FFTSTSW.mp4
+#EXTINF:0,FLYBOYS (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FLBYS.mp4
+#EXTINF:0,FORA DE ALCANCE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FORDALCNC.mp4
+#EXTINF:0,FORÇA MAIOR (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRCAMIOR.mp4
+#EXTINF:0,FOXCATCHER: UMA HISTÓRIA QUE CHOCOU O MUNDO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FXCTHRUHQCOM.mp4
+#EXTINF:0,FRANKENSTEIN VS. A MÚMIA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/FRNKSTNVSMUMIA.mp4
+#EXTINF:0,FREDDY X JASON (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRDVSJSN.mp4
+#EXTINF:0,FRONTERA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRNTRA.mp4
+#EXTINF:0,FROZEN: UMA AVENTURA CONGELANTE (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRZNUACGLNT.mp4
+#EXTINF:0,FUGA DO PLANETA DOS MACACOS (1971)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCS3.mp4
+#EXTINF:0,FÚRIA DE TITÃS (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRIDTTS1.mp4
+#EXTINF:0,FÚRIA DE TITÃS 2 (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRIDTTS2.mp4
+#EXTINF:0,G.I. JOE: A ORIGEM DE COBRA (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GIJOE1.mp4
+#EXTINF:0,G.I. JOE: RETALIAÇÃO (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GIJOE2.mp4
+#EXTINF:0,GAROTA VENENO (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTVNO.mp4
+#EXTINF:0,GATO DE BOTAS (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GTDBTS.mp4
+#EXTINF:0,GATO DE BOTAS: OS TRÊS DIABLOS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GTDBTSOSTSDABLS.mp4
+#EXTINF:0,GODZILLA (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GDZLL2014.mp4
+#EXTINF:0,GOLPE DUPLO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GLPDPL.mp4
+#EXTINF:0,GOOD BURGER (1997)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GODBRGRS.mp4
+#EXTINF:0,GOOSEBUMPS: MONSTROS E ARREPIOS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GSBUMPSMNSTREARPS.mp4
+#EXTINF:0,GRANDES OLHOS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GRNDSOLHS.mp4
+#EXTINF:0,GRITOS MORTAIS (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTSMORTS.mp4
+#EXTINF:0,GUERREIRO (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GUEREIRO.mp4
+#EXTINF:0,HACKER (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HCKR.mp4
+#EXTINF:0,HALLOWEEN 2 (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWENRII.mp4
+#EXTINF:0,HALLOWEEN H20: 20 ANOS DEPOIS (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWENH20.mp4
+#EXTINF:0,HALLOWEEN II: O PESADELO CONTINUA (1981)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN02.mp4
+#EXTINF:0,HALLOWEEN III: A NOITE DAS BRUXAS (1982)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN03.mp4
+#EXTINF:0,HALLOWEEN IV: O DIA DAS BRUXAS (1988)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN04.mp4
+#EXTINF:0,HALLOWEEN V: A VINGANÇA DE MICHAEL MYERS (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN05.mp4
+#EXTINF:0,HALLOWEEN VI: A ÚLTIMA VINGANÇA (1995)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN06.mp4
+#EXTINF:0,HALLOWEEN: A NOITE DO TERROR (1978)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN01.mp4
+#EXTINF:0,HALLOWEEN: O INÍCIO (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWENOINICIO.mp4
+#EXTINF:0,HALLOWEEN: RESSURREIÇÃO (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWENRSRCAO.mp4
+#EXTINF:0,HANNA (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HANNA.mp4
+#EXTINF:0,HANNIBAL (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HNBL.mp4
+#EXTINF:0,HANNIBAL: A ORIGEM DO MAL (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HNBLAORGMDML.mp4
+#EXTINF:0,HARRY POTTER E A CÂMARA SECRETA (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR02.mp4
+#EXTINF:0,HARRY POTTER E A ORDEM DA FÊNIX (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR05.mp4
+#EXTINF:0,HARRY POTTER E A PEDRA FILOSOFAL (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR01.mp4
+#EXTINF:0,HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 1 (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR07.mp4
+#EXTINF:0,HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 2 (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR08.mp4
+#EXTINF:0,HARRY POTTER E O CÁLICE DE FOGO (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR04.mp4
+#EXTINF:0,HARRY POTTER E O ENIGMA DO PRÍNCIPE (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR06.mp4
+#EXTINF:0,HARRY POTTER E O PRISIONEIRO DE AZKABAN (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR03.mp4
+#EXTINF:0,HELLRAISER 8: O MUNDO DO INFERNO (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR08.mp4
+#EXTINF:0,HELLRAISER II: RENASCIDO DAS TREVAS (1990)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR02.mp4
+#EXTINF:0,HELLRAISER III: INFERNO NA TERRA (1993)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR03.mp4
+#EXTINF:0,HELLRAISER IV: HERANÇA MALDITA (1996)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR04.mp4
+#EXTINF:0,HELLRAISER: CAÇADOR DO INFERNO (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR6.mp4
+#EXTINF:0,HELLRAISER: INFERNO (2000)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR05.mp4
+#EXTINF:0,HELLRAISER: O RETORNO DOS MORTOS (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR07.mp4
+#EXTINF:0,HELLRAISER: RENASCIDOS DO INFERNO (1987)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR01.mp4
+#EXTINF:0,HELLRAISER: REVELAÇÕES (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR09.mp4
+#EXTINF:0,HÉRCULES (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HERCLS.mp4
+#EXTINF:0,HITCH - CONSELHEIRO AMOROSO (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HTCHCNSLHAMRS.mp4
+#EXTINF:0,HOMEM DE FERRO (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO01.mp4
+#EXTINF:0,HOMEM DE FERRO 2 (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO02.mp4
+#EXTINF:0,HOMEM DE FERRO 3 (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO03.mp4
+#EXTINF:0,HOMEM IRRACIONAL (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OHOMNIRCIONL.mp4
+#EXTINF:0,HOMEM-ARANHA (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNARNH01.mp4
+#EXTINF:0,HOMEM-ARANHA 2 (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNARNH02.mp4
+#EXTINF:0,HOMEM-ARANHA 3 (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNARNH03.mp4
+#EXTINF:0,HOMEM-FORMIGA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HMNFRMG.mp4
+#EXTINF:0,HOTEL TRANSILVÂNIA (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4
+#EXTINF:0,HOTEL TRANSILVÂNIA 2 (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA2.mp4
+#EXTINF:0,HULK (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HULK.mp4
+#EXTINF:0,INATIVIDADE PARANORMAL (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INATVDADPRNRML1.mp4
+#EXTINF:0,INATIVIDADE PARANORMAL 2 (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INATVDADPRNRML2.mp4
+#EXTINF:0,INDEPENDENCE DAY (1996)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INDPNDAY.mp4
+#EXTINF:0,INSENSÍVEIS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/INSNSVS.mp4
+#EXTINF:0,INTERESTELAR (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INTRSTLAR.mp4
+#EXTINF:0,INVASÃO DO MUNDO: BATALHA DE LOS ANGELES(2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INVSDMND.mp4
+#EXTINF:0,IP MAN: A BATALHA FINAL (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/IPMANABTLHFNL.mp4
+#EXTINF:0,IP MAN: NASCE UMA LENDA (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/IPMANSCUMLND.mp4
+#EXTINF:0,JÁ ESTOU COM SAUDADES (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/JAESTCMSDS.mp4
+#EXTINF:0,JACK E A MECÂNICA DO CORAÇÃO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JCKEAMCNCDCOR.mp4
+#EXTINF:0,JACK; O CAÇADOR DE GIGANTES(2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JCKOCDRDGGNTS.mp4
+#EXTINF:0,JASON VAI PARA O INFERNO: A ÚLTIMA SEXTA-FEIRA (1993)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIX.mp4
+#EXTINF:0,JASON X (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JSNX.mp4
+#EXTINF:0,JIMI: TUDO AO MEU FAVOR (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JMTDAMUFVR.mp4
+#EXTINF:0,JOÃO E MARIA: CAÇADORES DE BRUXAS (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JAOEMRA01.mp4
+#EXTINF:0,JOÃO; MARIA: E A BRUXA DA FLORESTA NEGRA (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JAOMRAEABXDFLRSNG.mp4
+#EXTINF:0,JOBS (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JOBS.mp4
+#EXTINF:0,JOGO DE ASSASSINOS (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/JGSDASINS.mp4
+#EXTINF:0,JOGO DURO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGDRO.mp4
+#EXTINF:0,JOGOS MORTAIS (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS01.mp4
+#EXTINF:0,JOGOS MORTAIS 2 (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS02.mp4
+#EXTINF:0,JOGOS MORTAIS 3 (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS03.mp4
+#EXTINF:0,JOGOS MORTAIS IV (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS04.mp4
+#EXTINF:0,JOGOS MORTAIS V (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS05.mp4
+#EXTINF:0,JOGOS MORTAIS VI (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS06.mp4
+#EXTINF:0,JOGOS MORTAIS:O FINAL (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTAS07.mp4
+#EXTINF:0,JOGOS VORAZES (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSVRZS.mp4
+#EXTINF:0,JOGOS VORAZES: A ESPERANÇA |PARTE 1| (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSVRZSAESPRPT1.mp4
+#EXTINF:0,JOGOS VORAZES: EM CHAMAS (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSVRZSEMCHMS.mp4
+#EXTINF:0,JOVEM & BELA (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JVMEBLA.mp4
+#EXTINF:0,JUMANJI (1996)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JUMNJ.mp4
+#EXTINF:0,JURASSIC PARK - PARQUE DOS DINOSSAUROS (1993)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JRSCPRK01.mp4
+#EXTINF:0,JURASSIC PARK 3 (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JRSCPRK03.mp4
+#EXTINF:0,JURASSIC WORLD: O MUNDO DOS DINOSSAUROS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JRSCWRLDMNDINO.mp4
+#EXTINF:0,JUVENTUDES ROUBADAS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JUVTNDROBDS.mp4
+#EXTINF:0,KARATÊ KID (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKDRMK1.mp4
+#EXTINF:0,KARATÊ KID 2: A HORA DA VERDADE CONTINUA (1986)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD2.mp4
+#EXTINF:0,KARATÊ KID 3: O DESAFIO FINAL (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD3.mp4
+#EXTINF:0,KARATÊ KID 4: A NOVA AVENTURA (1995)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD4.mp4
+#EXTINF:0,KARATÊ KID: A HORA DA VERDADE (1984)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KRTKD1.mp4
+#EXTINF:0,KILL BILL - VOLUME 1 (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KLBILV1.mp4
+#EXTINF:0,KILL BILL - VOLUME 2 (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/KLBILV2.mp4
+#EXTINF:0,KINGSMAN: SERVIÇO SECRATE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KNGSMSVSCRT.mp4
+#EXTINF:0,KUNG FU PANDA (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
+#EXTINF:0,KUNG FU PANDA 2 (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
+#EXTINF:0,LAGOA AZUL: O DESPERTAR (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LGOAZLODSPRT.mp4
+#EXTINF:0,LAR DOCE INFERNO (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LRDCINFN.mp4
+#EXTINF:0,LEGO FRIENDS: GIRLZ 4 LIFE (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LEGOFRNDS.mp4
+#EXTINF:0,LIÇÕES EM FAMÍLIA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LICSEMFMLA.mp4
+#EXTINF:0,LIGA DA JUSTIÇA: DEUSES E MONSTROS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LIGDJSTDEUSEMNSTRS.mp4
+#EXTINF:0,LIGEIRAMENTE GRÁVIDOS (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LIGRANTGRVDS.mp4
+#EXTINF:0,LINDA DE MORRER (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LNDMORRE.mp4
+#EXTINF:0,LIVRE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LIVRE.mp4
+#EXTINF:0,LOBOS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LOBOS.mp4
+#EXTINF:0,LOUCADEMIA DE POLÍCIA (1984)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC01.mp4
+#EXTINF:0,LOUCADEMIA DE POLÍCIA 2: A PRIMEIRA MISSÃO (1985)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC02.mp4
+#EXTINF:0,LOUCADEMIA DE POLÍLIA 3: DE VOLTA AO TREINAMENTO (1986)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC03.mp4
+#EXTINF:0,LOUCADEMIA DE POLÍCIA 4: O CIDADÃO SE DEFENDE (1987)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC04.mp4
+#EXTINF:0,LOUCADEMIA DE POLÍCIA 5: MISSÃO MIAMI BEACH (1988)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC05.mp4
+#EXTINF:0,LOUCADEMIA DE POLÍCIA 6 (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC06.mp4
+#EXTINF:0,LOUCADEMIA DE POLÍCIA 7: MISSÃO MOSCOU (1994)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC07.mp4
+#EXTINF:0,LOUCAS PRA CASAR (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCSPRCSR.mp4
+#EXTINF:0,LUTADOR DE RUA (1975)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LTDRSRUA.mp4
+#EXTINF:0,LUTADOR DE RUA (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LTDRDRUA.mp4
+#EXTINF:0,MAD MAX (1979)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDMX01.mp4
+#EXTINF:0,MAD MAX 2: A CAÇADA CONTINUA (1981)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDMX02.mp4
+#EXTINF:0,MAD MAX: ALÉM DA CÚPULA DO DRAGÃO (1985)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDMX03.mp4
+#EXTINF:0,MAD MAX: ESTRADA DA FÚRIA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MDMXESTDFUR.mp4
+#EXTINF:0,MADAGASCAR (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDGSCR01.mp4
+#EXTINF:0,MADAGASCAR 2: A GRANDE ESCAPADA (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDGSCR02.mp4
+#EXTINF:0,MADAGASCAR 3: OS PROCURADOS (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDGSCR03.mp4
+#EXTINF:0,MAIS ESTRANHO QUE A FICÇÃO  (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSESTNHQFCAO.mp4
+#EXTINF:0,MALUCA PAIXÃO (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MLCPXAO.mp4
+#EXTINF:0,MÁQUINA MORTÍFERA (1987)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MQNMRTFR01.mp4
+#EXTINF:0,MÁQUINA MORTÍFERA 2 (1989) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MQNMRTFR02.mp4
+#EXTINF:0,MÁQUINA MORTÍFERA 3 (1992)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MQNMRTFR03.mp4
+#EXTINF:0,MÁQUINA MORTÍFERA 4 (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MQNMRTFR04.mp4
+#EXTINF:0,MATA-ME DE PRAZER (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MTMDPRZR.mp4
+#EXTINF:0,MATA-ME MAIS UMA VEZ (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MTMSUMVZ.mp4
+#EXTINF:0,MAZE RUNNER: CORRER OU MORRER (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MZRNRCROMR.mp4
+#EXTINF:0,MCFARLAND; USA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MCFRLND.mp4
+#EXTINF:0,MERGULHO RADICAL (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MERGLHRDCAL.mp4
+#EXTINF:0,MEU PASSADO ME CONDENA 2 (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MEUPSDMCNDNA2.mp4
+#EXTINF:0,MEU PASSADO ME CONDENA: O FILME (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MEUPSDMCNDNA.mp4
+#EXTINF:0,MIB: HOMENS DE PRETO (1997)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MIBHMDPRT01.mp4
+#EXTINF:0,MIB: HOMENS DE PRETO 2 (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MIBHMDPRT02.mp4
+#EXTINF:0,MIB: HOMENS DE PRETO 3 (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MIBHMDPRT03.mp4
+#EXTINF:0,MINIONS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
+#EXTINF:0,MISSÃO IMPOSSÍVEL (1996)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL01.mp4
+#EXTINF:0,MISSÃO IMPOSSÍVEL 2 (2000)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL02.mp4
+#EXTINF:0,MISSÃO IMPOSSÍVEL 3 (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL03.mp4
+#EXTINF:0,MISSÃO IMPOSSÍVEL: NAÇÃO SECRETA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MSAOIMPSVEL05.mp4
+#EXTINF:0,MISSÃO IMPOSSÍVEL: PROTOCOLO FANTASMA (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL04.mp4
+#EXTINF:0,MISTRESS AMERICA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MISTRSSAMRC.mp4
+#EXTINF:0,MOMMY (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MOMWY.mp4
+#EXTINF:0,MORRENDO E APRENDENDO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MRNDEAPRNDO.mp4
+#EXTINF:0,MORTE NO FUNERAL (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MRTNFNRL.mp4
+#EXTINF:0,MOSCOU CONTRA 007 (1963)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071963MSCCNT007.mp4
+#EXTINF:0,MOTOQUEIRO FANTASMA (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MTQRFNTSM01.mp4
+#EXTINF:0,MOTOQUEIRO FANTASMA - ESPÍRITO DE VINGANÇA (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MTQRFNTSM02.mp4
+#EXTINF:0,MUITA CALMA NESSA HORA (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MTCLMNSAHR.mp4
+#EXTINF:0,MUITA CALMA NESSA HORA 2 (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MTCLMNSAHR2.mp4
+#EXTINF:0,MULAN (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MULAN01.mp4
+#EXTINF:0,MULAN 2: A LENDA CONTINUA (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MULAN02.mp4
+#EXTINF:0,NA TOCA DO TIGRE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NATCADTRG.mp4
+#EXTINF:0,NEED FOR SPEED: O FILME (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NEDFRSPD.mp4
+#EXTINF:0,NINFOMANÍACA: VOLUME 1 (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NFMNCVL1.mp4
+#EXTINF:0,NINFOMANÍACA: VOLUME 2 (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NFMNCVL2.mp4
+#EXTINF:0,NINJA ASSASSINO (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NINJASSNSO.mp4
+#EXTINF:0,NOÉ (2014) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NOE.mp4
+#EXTINF:0,NOITE SEM FIM (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NTSMFM.mp4
+#EXTINF:0,NÓS NUNCA TEREMOS PARIS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NSNCTRMSPRS.mp4
+#EXTINF:0,NOSSO LAR (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NSSOLR.mp4
+#EXTINF:0,NOVEMBER MAN: UM ESPIÃO NUNCA MORRE (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NVBRMNUMESPANCMRE.mp4
+#EXTINF:0,O AMOR É CEGO (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OAMRECG.mp4
+#EXTINF:0,O BOM DINOSSAURO (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OBMDINO.mp4
+#EXTINF:0,O CANDIDATO HONESTO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCNDDTHNST.mp4
+#EXTINF:0,O CARA PERFEITO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OCARPRFTO.mp4
+#EXTINF:0,O CAVALEIRO SOLITÁRIO (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCVLRSLTRIO.mp4
+#EXTINF:0,O CHAMADO (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCHMD.mp4
+#EXTINF:0,O CHAMADO 2 (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCHMDII.mp4
+#EXTINF:0,O CORCUNDA DE NOTRE DAME (1996)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCRCNDDNTRDM.mp4
+#EXTINF:0,O CORCUNDA DE NOTRE DAME 2 (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCRCNDDNTRDM2.mp4
+#EXTINF:0,O DESTINO DE JÚPITER (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ODSTNDJPTR.mp4
+#EXTINF:0,O DOADOR DE MEMÓRIAS (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ODOADRDMEMORS.mp4
+#EXTINF:0,O ENCONTRO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OENCTRO.mp4
+#EXTINF:0,O ESPETACULAR HOMEM-ARANHA (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4
+#EXTINF:0,O ESPETACULAR HOMEM-ARANHA 2: A AMEAÇA DE ELECTRO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4
+#EXTINF:0,O EXORCISMO DE EMILY ROSE (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OEXRCSMDEMLR.mp4
+#EXTINF:0,O EXORCISTA (1974)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OEXRCSTA.mp4
+#EXTINF:0,O EXORCISTA - O INÍCIO (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OEXCSTOINC.mp4
+#EXTINF:0,O EXPRESSO POLAR (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OEXPRSPOLAR.mp4
+#EXTINF:0,O EXTERMINADOR DO FUTURO (1985)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OEXTRMDRDFUT1.mp4
+#EXTINF:0,O EXTERMINADOR DO FUTURO 2: O JULGAMENTO FINAL (1991)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OEXTRMDRDFUT2.mp4
+#EXTINF:0,O EXTERMINADOR DO FUTURO 3: A REBELIÃO DAS MÁQUINAS (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OEXTRMDRDFUT03.mp4
+#EXTINF:0,O EXTERMINADOR DO FUTURO: A SALVAÇÃO (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OEXTRMDRDFUT4.mp4
+#EXTINF:0,O EXTERMINADOR DO FUTURO: GÊNESIS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OEXTRMDRDFUT5.mp4
+#EXTINF:0,O FILHO DE CHUCKY (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OFLHDCHCKY.mp4
+#EXTINF:0,O FINAL DA TURNÊ (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OFNLDTRN.mp4
+#EXTINF:0,O GAROTO DA CASA AO LADO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OGRTDCSALD.mp4
+#EXTINF:0,O GRANDE MESTRE (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OGRNDMSTR1.mp4
+#EXTINF:0,O GRANDE MESTRE 2 (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OGRNDMSTR2.mp4
+#EXTINF:0,O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTABTLHDSCNCEXRCTS.mp4
+#EXTINF:0,O HOBBIT: A DESOLAÇÃO DE SMAUG (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTADSLCDSMG.mp4
+#EXTINF:0,O HOBBIT: UMA JORNADA INESPERADA (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTUJRNINSPRD.mp4
+#EXTINF:0,O HOMEM DA MÁSCARA DE FERRO (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OHMNDMSCRDFRR.mp4
+#EXTINF:0,O HOMEM DE AÇO (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OHMNDACO.mp4
+#EXTINF:0,O HOMEM QUE MUDOU O JOGO (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OHMNQMDOJG.mp4
+#EXTINF:0,O INCRÍVEL HULK (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OINCVLHLK.mp4
+#EXTINF:0,O JARDIM DOS ESCOLHIDOS (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OJRDIMDOSESQUCDS.mp4
+#EXTINF:0,O LEGADO BOURNE (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLGBOURN.mp4
+#EXTINF:0,O LUTADOR (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OLTDR.mp4
+#EXTINF:0,O MÁSKARA (1994)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSKR01.mp4
+#EXTINF:0,O MASSACRE DA SERRA ELÉTRICA (1987) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRC1.mp4
+#EXTINF:0,O MASSACRE DA SERRA ELÉTRICA (2003) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRC2003.mp4
+#EXTINF:0,O MASSACRE DA SERRA ELÉTRICA 3 (1990)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRC3.mp4
+#EXTINF:0,O MASSACRE DA SERRA ELÉTRICA 3D: A LENDA CONTINUA (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRCOALNDCNT.mp4
+#EXTINF:0,O MASSACRE DA SERRA ELÉTRICA PARTE 2 (1986)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRC2.mp4
+#EXTINF:0,O MASSACRE DA SERRA ELÉTRICA: O INÍCIO (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRCOINCIO.mp4
+#EXTINF:0,O MASSACRE DA SERRA ELÉTRICA: O RETORNO (1995)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRCRTRNO.mp4
+#EXTINF:0,O MESTRE DOS BRINQUEDOS (1991)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSTRDSBRNQDS.mp4
+#EXTINF:0,O MESTRE DOS JOGOS (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSTRDSJGS1.mp4
+#EXTINF:0,O MESTRE DOS JOGOS 2 (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSTRDSJGS2.mp4
+#EXTINF:0,O MISTERIOSO CASO DE JUDITH WINSTEAD (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSTRSCSDJDTWNST.mp4
+#EXTINF:0,O MUNDO PERDIDO - JURASSIC PARK (1997)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JRSCPRK02.mp4
+#EXTINF:0,O NATAL DOS PADRINHOS MÁGICOS (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ONTLDPDRNHSMGCS.mp4
+#EXTINF:0,O NEVOEIRO (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONVOERO.mp4
+#EXTINF:0,O NOVO PESADELO - O RETORNO DE FREDDY KRUEGER (1994)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL07.mp4
+#EXTINF:0,O PEQUENO PRÍNCIPE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPQNPRNCP.mp4
+#EXTINF:0,O PLANETA DOS MACACOS (1968)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCS1.mp4
+#EXTINF:0,O PRESENTE (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSENT.mp4
+#EXTINF:0,O QUE SERÁ DE NOZES? (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OQUSRDNZS.mp4
+#EXTINF:0,O REI LEÃO (1994)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO01.mp4
+#EXTINF:0,O REI LEÃO 2: O REINO DE SIMBA (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO02.mp4
+#EXTINF:0,O REI LEÃO 3: HAKUNA MATATA (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO03.mp4
+#EXTINF:0,O RETORNO DA MÚMIA (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ORTNDAMUMIA.mp4
+#EXTINF:0,O RETRATO DE DORIAN GRAY (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ORTRDORNGRY.mp4
+#EXTINF:0,O RITUAL (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ORTAL.mp4
+#EXTINF:0,O SEGREDO DA BORBOLETA (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSGRDBRLTA.mp4
+#EXTINF:0,O SENHOR DOS ANÉIS: A SOCIEDADE DO ANEL (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSNHRDSANSASCEDDANL.mp4
+#EXTINF:0,O SENHOR DOS ANÉIS: AS DUAS TORRES (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSNHRDSANSASDSTRS.mp4
+#EXTINF:0,O SENHOR DOS ANÉIS: O RETORNO DO REI (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSNHRDSANSORTNDREI.mp4
+#EXTINF:0,O SÉTIMO FILHO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSTMFLH.mp4
+#EXTINF:0,O SILÊNCIO DOS INOCENTES (1991)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSLNCDSINCTS.mp4
+#EXTINF:0,O ULTIMATO BOURNE (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OULBOURN.mp4
+#EXTINF:0,O ÚLTIMO CAÇADOR DE BRUXAS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OULTMCADRDBRXDUB.mp4
+#EXTINF:0,O ÚLTIMO DOS MOICANOS (1992)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULMDMICNS.mp4
+#EXTINF:0,O ÚLTIMO EXORCISMO (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULTMEXCSM.mp4
+#EXTINF:0,O ÚLTIMO EXORCISMO: PARTE II (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULTMEXCSMPT2.mp4
+#EXTINF:0,O ÚLTIMO MESTRE DO AR (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULTMMSTDAR.mp4
+#EXTINF:0,O VIZINHO (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OVZNHO.mp4
+#EXTINF:0,OLHOS FAMINTOS (2000)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLHSFAMTS1.mp4
+#EXTINF:0,OLHOS FAMINTOS 2 (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLHSFAMTS2.mp4
+#EXTINF:0,OLIVER TWIST (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OLVRTWST.mp4
+#EXTINF:0,ONDE NASCE A ESPERANÇA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ONDNASCESPRCA.mp4
+#EXTINF:0,ONG BAK 2: O GUERREIRO SAGRADO VOLTOU (2009) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONGBK2.mp4
+#EXTINF:0,ONG BAK 3 (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONGBK3.mp4
+#EXTINF:0,ONG BAK: GUERREIRO SAGRADO (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONGBK1.mp4
+#EXTINF:0,OPERAÇÕES ESPECIAIS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRCOSESPCIAS.mp4
+#EXTINF:0,OS 33 (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OS33.mp4
+#EXTINF:0,OS BAD BOYS (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BDBYS1.mp4
+#EXTINF:0,OS CARAS DE PAU EM O MISTERIOSO ROUBO DO ANEL (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCRSDPUEOMRDA.mp4
+#EXTINF:0,OS CAVALEIROS DO ZODÍACO: A LENDA DO SANTUÁRIO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCDZFILME06.mp4
+#EXTINF:0,OS CONDENADOS (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSCNDNS1.mp4
+#EXTINF:0,OS CONDENADOS 2 (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSCNDNS2.mp4
+#EXTINF:0,OS CROODS (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSCRDS.mp4
+#EXTINF:0,OS DESCARTADOS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDSCRTDS.mp4
+#EXTINF:0,OS ESPECIALISTAS (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPCLSTS.mp4
+#EXTINF:0,OS ESPÍRITOS (1996)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPRTS.mp4
+#EXTINF:0,OS INFILTRADOS (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSINFTRDS.mp4
+#EXTINF:0,OS MERCENÁRIOS (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMRCNRS01.mp4
+#EXTINF:0,OS MERCENÁRIOS 2 (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMRCNRS02.mp4
+#EXTINF:0,OS MERCENÁRIOS 3 (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMRCNRS03.mp4
+#EXTINF:0,OS PINGUINS DO PAPAI (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSPNGUNSDPAI.mp4
+#EXTINF:0,OS SMURFS (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSMURFS1.mp4
+#EXTINF:0,OS SMURFS 2 (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSMURFS2.mp4
+#EXTINF:0,OS TRÊS MOSQUETEIROS (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OTRSMSQTRS.mp4
+#EXTINF:0,OS ÚLTIMOS CAVALEIROS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSULTMSCVLRS.mp4
+#EXTINF:0,OS ÚLTIMOS MACHÕES (1976)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULTMSMCHOS.mp4
+#EXTINF:0,OS VINGADORES: THE AVENGERS (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSVGDRS.mp4
+#EXTINF:0,OUIJA: A RESSUREIÇÃO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OUIJAOARSRCAO.mp4
+#EXTINF:0,OUIJA: O JOGO DOS ESPÍRITOS (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OUIJAOJGDSESPRTS.mp4
+#EXTINF:0,PACTO MALIGNO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PCTMLGNO.mp4
+#EXTINF:0,PACTO SECRETO (2009) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PCTSCRT.mp4
+#EXTINF:0,PAGUE PARA ENTRAR; REZE PARA SAIR (1981)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PGPRENTRRZPRSIR.mp4
+#EXTINF:0,PÂNICO (1997)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC1.mp4
+#EXTINF:0,PÂNICO 2 (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC2.mp4
+#EXTINF:0,PÂNICO 3 (2000)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC3.mp4
+#EXTINF:0,PÂNICO 4 (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC4.mp4
+#EXTINF:0,PARA SEMPRE ALICE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRSMPRALC.mp4
+#EXTINF:0,PARAÍSOS ARTIFICIAIS (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRAISOARTFCIAS.mp4
+#EXTINF:0,PATCH ADAMS: O AMOR É CONTAGIOSO (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PTCHADMSOAMRECNTG.mp4
+#EXTINF:0,PEGANDO FOGO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PGNDFGODUB.mp4
+#EXTINF:0,PEQUENOS GUERREIROS (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PQNSGUROS.mp4
+#EXTINF:0,PERCY JACKSON E O LADRÃO DE RAIOS (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PERCYJCKSNEOLDRDRAIOS.mp4
+#EXTINF:0,PERCY JACKSON E O MAR DE MONSTROS (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PERCYJCKSNEOMRDMNSTROS.mp4
+#EXTINF:0,PERDIDO EM MARTE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRDEMMRTE.mp4
+#EXTINF:0,PERIGO EXTREMO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRGEXTRMO.mp4
+#EXTINF:0,PERSEGUIÇÃO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRSGCAO.mp4
+#EXTINF:0,PERSEGUIÇÃO (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGCAO.mp4
+#EXTINF:0,PERSEGUIÇÃO MORTAL (1981)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRSGCAOMRTL.mp4
+#EXTINF:0,PIRATAS DA INFORMÁTICA / PIRATAS DO VALE DO SILÍCIO (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PIRTVLDSLCIO.mp4
+#EXTINF:0,PIRATAS DO CARIBE: A MALDIÇÃO DO PÉROLA NEGRA (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB01.mp4
+#EXTINF:0,PIRATAS DO CARIBE: NAVEGANDO EM ÁGUAS MISTERIOSAS (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB04.mp4
+#EXTINF:0,PIRATAS DO CARIBE: NO FIM DO MUNDO (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB03.mp4
+#EXTINF:0,PIRATAS DO CARIBE: O BAÚ DA MORTE (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB02.mp4
+#EXTINF:0,PIXELS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PIXRLS.mp4
+#EXTINF:0,PLANETA DOS MACACOS (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCS2001.mp4
+#EXTINF:0,PLANETA DOS MACACOS: A ORIGEM (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCSORIGEM.mp4
+#EXTINF:0,PLANETA DOS MACACOS: O CONFRONTO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCSOCNFRTO.mp4
+#EXTINF:0,PONTE DOS ESPIÕES (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PNTDESPIOS.mp4
+#EXTINF:0,POR AMOR OU POR DINHEIRO (1993)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRAMROUPRDNHR.mp4
+#EXTINF:0,POR UM PUNHADO DE DÓLARES (1966)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRUMPNHDDOLRS.mp4
+#EXTINF:0,POR UNS DÓLARES A MAIS (1965)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRUNSDLRSAMS.mp4
+#EXTINF:0,PREMONIÇÃO (2000)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO1.mp4
+#EXTINF:0,PREMONIÇÃO 2 (2003)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO2.mp4
+#EXTINF:0,PREMONIÇÃO 3 (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO3.mp4
+#EXTINF:0,PREMONIÇÃO 4 (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO4.mp4
+#EXTINF:0,PPREMONIÇÃO 5 (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO5.mp4
+#EXTINF:0,PRIMAVERA (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRMVRA.mp4
+#EXTINF:0,PRIMITIVO (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMTVO.mp4
+#EXTINF:0,PRISIONEIROS DO HOLOCAUSTO (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRSNRSDHLCST.mp4
+#EXTINF:0,PROJETO ALMANAQUE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRJTALMNQ.mp4
+#EXTINF:0,PROMETHEUS (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PROMTHS.mp4
+#EXTINF:0,QUARTETO FANTÁSTICO (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/QRTFNTSC.mp4
+#EXTINF:0,QUARTETO FANTÁSTICO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/QRTFNTSC2015.mp4
+#EXTINF:0,QUARTETO FANTÁSTICO E O SURFISTA PRATEADO (2007) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/QRTFNTSCEOSFSTPRT.mp4
+#EXTINF:0,QUE HORAS ELA VOLTA? (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/QUHRSELAVLT.mp4
+#EXTINF:0,QUESTÃO DE TEMPO (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/QSTDTMP.mp4
+#EXTINF:0,RAFINHA BASTOS: A ARTE DO INSULTO (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RFNHBSTSAARTDINSLT.mp4
+#EXTINF:0,RASTROS DE ÓDIO (1956)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RSTRSDODIO.mp4
+#EXTINF:0,REGRESSO DO MAL (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RGRSDMAL.mp4
+#EXTINF:0,RELATOS SELVAGENS (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RLTSSLVGNS.mp4
+#EXTINF:0,REMANESCENTE: ESQUECIDOS POR DEUS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RMSCNTESQPRDES.mp4
+#EXTINF:0,RESIDENT EVIL 3: A EXTINÇÃO (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL03.mp4
+#EXTINF:0,RESIDENT EVIL 4: RECOMEÇO (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL04.mp4
+#EXTINF:0,RESIDENT EVIL 5: RETRIBUIÇÃO (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL05.mp4
+#EXTINF:0,RESIDENT EVIL: APOCALIPSE (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL02.mp4
+#EXTINF:0,RESIDENT EVIL: CONDENAÇÃO (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVILCNDNCAO.mp4
+#EXTINF:0,RESIDENT EVIL: DEGENERAÇÃO (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVILDGNRC.mp4
+#EXTINF:0,RESIDENT EVIL: O HÓSPEDE MALDITO (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL01.mp4
+#EXTINF:0,RESULTADOS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RESLTS.mp4
+#EXTINF:0,RIO; EU TE AMO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RIOETA.mp4
+#EXTINF:0,RITMO DE UM SONHO (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RTMDUMSNHO.mp4
+#EXTINF:0,ROBOCOP (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RBCP2014.mp4
+#EXTINF:0,ROBOCOP 2 (1990)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RBCP2.mp4
+#EXTINF:0,ROBOCOP 3 (1994)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RBCP3.mp4
+#EXTINF:0,ROBOCOP: O POLICIAL DO FUTURO (1987)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RBCP1.mp4
+#EXTINF:0,ROCKY 2: A REVANCHE (1979)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RCKY2.mp4
+#EXTINF:0,ROCKY 3: O DESAFIO SUPREMO (1982)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RCKY3.mp4
+#EXTINF:0,ROCKY 4 (1986)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RCKY4.mp4
+#EXTINF:0,ROCKY 5 (1990)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RCKY5.mp4
+#EXTINF:0,ROCKY BALBOA (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RCKYBLBOA.mp4
+#EXTINF:0,ROCKY; UM LUTADOR (1977)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RCKY1.mp4
+#EXTINF:0,SAFÁRI NA ÁFRICA (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SFRNAFRIC.mp4
+#EXTINF:0,SAMBA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SAMBA.mp4
+#EXTINF:0,SAMURAI X (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SMRIXOFILME.mp4
+#EXTINF:0,SAMURAI X 2: O INFERNO DE KYOTO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SMRIXOINFRNDKOTO.mp4
+#EXTINF:0,SAMURAI X: O FIM DE UMA LENDA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SMRIXOFMDUMLND.mp4
+#EXTINF:0,SE BEBER; NÃO CASE! (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEBBRNCSE.mp4
+#EXTINF:0,SE BEBER; NÃO CASE! PARTE II (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEBBRNCSE2.mp4
+#EXTINF:0,SE BEBER; NÃO CASE! PARTE III (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEBBRNCSE3.mp4
+#EXTINF:0,SEA REX: JORNADA A UM MUNDO PRÉ-HISTÓRICO (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEARX3D.mp4
+#EXTINF:0,SEGUNDOS FATAIS: BLACK HAWK DOWN (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SGNDSFTAIS.mp4
+#EXTINF:0,SEM ATIVIDADE PARANORMAL (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEMATVDPRNL.mp4
+#EXTINF:0,SEM DIREITO A RESGATE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SMDRTARSGT.mp4
+#EXTINF:0,SEM LEI E SEM ALMA (1957)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SMLEIESMALM.mp4
+#EXTINF:0,SEM LICENÇA PARA DIRIGIR (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEMLICNPRDRGIR.mp4
+#EXTINF:0,SEM RETORNO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEMRTRNO.mp4
+#EXTINF:0,SENTIMENTOS QUE CURAM (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SNTMTSQCRM.mp4
+#EXTINF:0,SETE VIDAS (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STVDS.mp4
+#EXTINF:0,SEXTA-FEIRA 13 (1980)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTI.mp4
+#EXTINF:0,SEXTA-FEIRA 13 (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13.mp4
+#EXTINF:0,SEXTA-FEIRA 13 - O CAPÍTULO FINAL (1984)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIV.mp4
+#EXTINF:0,SEXTA-FEIRA 13 - PARTE VIII: JASON ATACA EM NOVA YORK (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTVIII.mp4
+#EXTINF:0,SEXTA-FEIRA 13: PARTE II (1981)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTII.mp4
+#EXTINF:0,SEXTA-FEIRA 13: PARTE III (1982)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIII.mp4
+#EXTINF:0,SEXTA-FEIRA 13: PARTE V: UM NOVO RECOMEÇO (1985)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTV.mp4
+#EXTINF:0,SEXTA-FEIRA 13: PARTE VI: JASON VIVE (1987)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTVI.mp4
+#EXTINF:0,SEXTA-FEIRA 13: PARTE VII: A MATANÇA CONTINUA (1988)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTVII.mp4
+#EXTINF:0,SHAOLIN (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SHAOLIN.mp4
+#EXTINF:0,SHERLOCK HOLMES (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHRLCKHLMS01.mp4
+#EXTINF:0,SHERLOCK HOLMES: O JOGO DE SOMBRAS (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHRLCKHLMS02.mp4
+#EXTINF:0,SHREK (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREK01.mp4
+#EXTINF:0,SHREK 2 (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREK02.mp4
+#EXTINF:0,SHREK PARA SEMPRE (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREKPRSMPR.mp4
+#EXTINF:0,SHREK TERCEIRO (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREK03.mp4
+#EXTINF:0,SICARIO: TERRA DE NINGUÉM (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SCROTRDNGM.mp4
+#EXTINF:0,SILENT HILL: REVELAÇÃO (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SLNTHLLRVLCAO.mp4
+#EXTINF:0,SINAIS (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SINAIS.mp4
+#EXTINF:0,SNIPER AMERICANO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SNPRAMRCN.mp4
+#EXTINF:0,SNOOPY E CHARLIE BROWN: PEANUTS; O FILME (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
+#EXTINF:0,SOBRENATURAL (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SBRNTRL.mp4
+#EXTINF:0,SOBRENATURAL: A ORIGEM (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SBRNTRLAORGM.mp4
+#EXTINF:0,SOBRENATURAL: CAPÍTULO 2 (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SBRNTRLCP2.mp4
+#EXTINF:0,SPEED RACER (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPDRCR.mp4
+#EXTINF:0,SPLICE: A NOVA ESPÉCIE (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SLPCANVESPC.mp4
+#EXTINF:0,SR. SHERLOCK HOLMES (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SRSHRLCKHLMS.mp4
+#EXTINF:0,STALLONE COBRA (1986)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STLNECBR.mp4
+#EXTINF:0,STAR WARS: EPISÓDIO I - A AMEAÇA FANTASMA (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSI.mp4
+#EXTINF:0,STAR WARS: EPISÓDIO II - ATAQUE DOS CLONES (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSII.mp4
+#EXTINF:0,STAR WARS: EPISÓDIO III - A VINGANÇA DOS SITH (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSIII.mp4
+#EXTINF:0,STAR WARS: EPISÓDIO IV: UMA NOVA ESPERANÇA (1978)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSIV.mp4
+#EXTINF:0,STAR WARS: EPISÓDIO V: O IMPÉRIO CONTRA-ATACA (1980)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSV.mp4
+#EXTINF:0,STAR WARS: EPISÓDIO VI: O RETORNO DE JEDI (1983)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSVI.mp4
+#EXTINF:0,STREET FIGHTER II: O FILME (1994)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STRTFGTRIIOFLIME.mp4
+#EXTINF:0,STREET FIGHTER: A LENDA DE CHUN-LI (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STRTFGTRCHULIN.mp4
+#EXTINF:0,STREET FIGHTER: A ÚLTIMA BATALHA (1995)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRTFGTRAULTMBTLH.mp4
+#EXTINF:0,STREET FIGHTER: PUNHO ASSASSINO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRTFGTRPNHASINO.mp4
+#EXTINF:0,SUBURRA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SUBRA.mp4
+#EXTINF:0,SUPERMAN - FILME - BRAINIAC ATACA (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMNFILME01.mp4
+#EXTINF:0,SUPERMAN - O FILME (1978)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMN1.mp4
+#EXTINF:0,SUPERMAN 2 - A AVENTURA CONTINUA (1980)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMN2.mp4
+#EXTINF:0,SUPERMAN 3 (1983)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMN3.mp4
+#EXTINF:0,SUPERMAN 4 - EM BUSCA DA PAZ (1987)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMN4.mp4
+#EXTINF:0,SUPERMAN/BATMAN: APOCALYPSE (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPRMEBTMNAPCLPSE.mp4
+#EXTINF:0,SUPERMAN: O RETORNO (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMNORTN.mp4
+#EXTINF:0,SUPERMAN: SEM LIMITES (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPRMNSLMTS.mp4
+#EXTINF:0,SWINDLE (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SWINDLE.mp4
+#EXTINF:0,TED (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TED.mp4
+#EXTINF:0,TED 2 (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TED2.mp4
+#EXTINF:0,TEKKEN (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TKKN.mp4
+#EXTINF:0,TEMPO DE GLÓRIA (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TMPDGLRIA.mp4
+#EXTINF:0,TENACIOUS D: UMA DUPLA INFERNAL (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TNCSDUDI.mp4
+#EXTINF:0,TERREMOTO: A FALHA DE SAN ANDREAS (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TRMTAFLHDSNANDRS.mp$
+#EXTINF:0,TERROR EM SILENT HILL (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TREMSLNTHLL.mp4
+#EXTINF:0,TERROR NOS BASTIDORES (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TERONSBSTDRS.mp4
+#EXTINF:0,THE BEACH BOYS: UMA HISTÓRIA DE SUCESSO (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/THBCHBYSUHDS.mp4
+#EXTINF:0,THE RIDICULOUS 6 (20115)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/THRDCULOS2.mp4
+#EXTINF:0,THOR (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/THOR.mp4
+#EXTINF:0,THOR: O MUNDO SOMBRIO (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/THOROMNDSBR.mp4
+#EXTINF:0,TITANIC (1998)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TITANC.mp4
+#EXTINF:0,TODO MUNDO EM PÂNICO(2000)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC1.mp4
+#EXTINF:0,TODO MUNDO EM PÂNICO 2 (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC2.mp4
+#EXTINF:0,TODO MUNDO EM PÂNICO 3 (2004)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC3.mp4
+#EXTINF:0,TODO MUNDO EM PÂNICO 4 (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC4.mp4
+#EXTINF:0,TODO MUNDO EM PÂNICO 5 (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC5.mp4
+#EXTINF:0,TOMBSTONE: A JUSTIÇA ESTÁ CHEGANDO (1993)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TOMBTNEAJSTESTCGAND.mp4
+#EXTINF:0,TOMORROWLAND: UM LUGAR ONDE NADA É IMPOSSÍVEL (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TOMROWLND.mp4
+#EXTINF:0,TOY STORY 2 (1999)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TYSTRY2.mp4
+#EXTINF:0,TOY STORY 3 (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TYSTRY3.mp4
+#EXTINF:0,TOY STORY: ESQUECIDOS PELO TEMPO (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TYSTRYESQDPTEMP.mp4
+#EXTINF:0,TOY STORY: UM MUNDO DE AVENTURAS (1995)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TYSTRY1.mp4
+#EXTINF:0,TRANSCENDENCE: A REVOLUÇÃO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TRNSCDNCARVCO.mp4
+#EXTINF:0,TRANSFORMERS (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TNSFRMRS01.mp4
+#EXTINF:0,TRANSFORMERS: A VINGANÇA DOS DERROTADOS (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TNSFRMRS02.mp4
+#EXTINF:0,TRANSFORMERS: O LADO OCULTO DA LUA (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TNSFRMRS03.mp4
+#EXTINF:0,TRANSFORMERS: A ERA DA EXTINÇÃO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TNSFRMRS04.mp4
+#EXTINF:0,TRASH: A ESPERANÇA VEM DO LIXO (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TSHAESPRNCVMDLX.mp4
+#EXTINF:0,TRÊS HOMENS EM CONFLITO (1966)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TSHMNSEMCFLT.mp4
+#EXTINF:0,TROPA DE ELITE (2007)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TRPDELT1.mp4
+#EXTINF:0,TROPA DE ELITE 2 (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TRPDELT2.mp4
+#EXTINF:0,ULTRAVIOLETA (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ULTRVLT.mp4
+#EXTINF:0,UM AMOR A CADA ESQUINA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMAMRACDESQUNA.mp4
+#EXTINF:0,UM AMOR PARA RECORDAR (2002)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UAMRPRRCRDR.mp4
+#EXTINF:0,UM BRINDE A AMIZADE (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UBRNDAMZD.mp4
+#EXTINF:0,UM CASO DE AMOR (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMCSDAMR.mp4
+#EXTINF:0,UM MILHÃO DE MANEIRAS DE PEGAR NA PISTOLA (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UMLHDMNRSDPGRNPSTL.mp4
+#EXTINF:0,UM ROMANCE NA ALTA MODA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMROMNCNALTMD.mp4
+#EXTINF:0,UM SENHOR ESTAGIÁRIO (2015) 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UMSNHRESTGIARIO.mp4
+#EXTINF:0,UMA CHAMADA PERDIDA (2008)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMCHMDPRDA.mp4
+#EXTINF:0,UMA DUPLA QUASE PERFEITA (1989)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UMDPLAQSPRFTA.mp4
+#EXTINF:0,UMA NOITE NO MUSEU (2000)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTNMSU1.mp4
+#EXTINF:0,UMA NOITE NO MUSEU 2 (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTNMSU2.mp4
+#EXTINF:0,UMA NOITE NO MUSEU 3: O SEGREDO DA TUMBA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTNMSU3.mp4
+#EXTINF:0,UMA NOTÍCIA INESPERADA (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTCINSPRD.mp4
+#EXTINF:0,V DE VINGANÇA (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VDVNGNCA.mp4
+#EXTINF:0,VAI QUE COLA: O FILME (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VAIQCLOFILME.mp4
+#EXTINF:0,VELOZES & FURIOSOS (2001)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS01.mp4
+#EXTINF:0,VELOZES & FURIOSOS 4 (2009)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS04.mp4
+#EXTINF:0,VELOZES & FURIOSOS 5: OPERAÇÃO RIO (2011)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS05.mp4
+#EXTINF:0,VELOZES & FURIOSOS 6 (2013)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS06.mp4
+#EXTINF:0,VELOZES & FURIOSOS 7 (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS07.mp4
+#EXTINF:0,VELOZES & FURIOSOS: DESAFIO EM TÓQUIO (2006)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS03.mp4
+#EXTINF:0,VENOM (2005)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VENOM.mp4
+#EXTINF:0,VERÃO EM STATEN ISLAND (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VERAEMSTISLND.mp4
+#EXTINF:0,VÍCIO INERENTE (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VCOINRNT.mp4
+#EXTINF:0,VIGILANTES DA GUERRA (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VGLANTSDGRRA.mp4
+#EXTINF:0,VINGADORES: ERA DE ULTRON (2015)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/VNGDRSEDURON.mp4
+#EXTINF:0,VINGANÇA AO ANOITECER (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VNGCAOANTCR.mp4
+#EXTINF:0,VIRANDO A PAGINA (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VRNDAPGNA.mp4
+#EXTINF:0,VIZINHOS IMEDIATOS DE 3° GRAU (2012)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VIZNHIMDATS.mp4
+#EXTINF:0,VOCÊ ACREDITA? (2015)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VCACRDT.mp4
+#EXTINF:0,WHIPLASH: EM BUSCA DA PERFEIÇÃO (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/WHPSHEBSCDPFC.mp4
+#EXTINF:0,WOLVERINE: IMORTAL (2013)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/WHPSHEBSCDPFC.mp4
+#EXTINF:0,WOODLAWN: TALENTO E FÉ (2016)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TLNTEFWODLWN.mp4
+#EXTINF:0,X-MEN - O FILME (2000)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN01.mp4
+#EXTINF:0,X-MEN 2 (2003)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN02.mp4
+#EXTINF:0,X-MEN ORIGENS: WOLVERINE (2009)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN04.mp4
+#EXTINF:0,X-MEN: DIAS DE UM FUTURO ESQUECIDO (2014)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN07.mp4
+#EXTINF:0,X-MEN: O CONFRONTO FINAL (2006)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN03.mp4
+#EXTINF:0,X-MEN: PRIMEIRA CLASSE (2011)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN05.mp4
+#EXTINF:0,ZUMBILÂNDIA (2009)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ZMBLND.mp4
+#EXTINF:0,O Ritual (2012)
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+#EXTINF:0,Menina Ma.com
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+#EXTINF:0,O Contrato
+http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
+#EXTINF:0,A Janela Secreta
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+#EXTINF:0,Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+#EXTINF:0,Na Companhia Do Medo
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+#EXTINF:0,O Codigo Da Vinci
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+#EXTINF:0,Rios Vermelhos
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
+#EXTINF:0,Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:0,Desejo a Tres
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+#EXTINF:0,Red Corner
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
+#EXTINF:0,Comportamento Suspeito
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
+#EXTINF:0,Mulher Solteira Procura
+http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
+#EXTINF:0,Quando um Estranho Chama
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
+#EXTINF:0,Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+#EXTINF:0,Lenda Urbana 3 - A Vinganca de Mary
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+#EXTINF:0,Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+#EXTINF:0,Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+#EXTINF:0,Identidade
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
+#EXTINF:0,A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
+#EXTINF:0,Amar -  Trair e Roubar
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
+#EXTINF:0,Cativeiro
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
+#EXTINF:0,Corpo em Evidencia
+http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4
+#EXTINF:0,Enquanto Ela Estiver Fora
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
+#EXTINF:0,Estranha Obsessao
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4
+#EXTINF:0,Hotel Ruanda
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
+#EXTINF:0,Malicia
+http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4
+#EXTINF:0,Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4
+#EXTINF:0,Bruno
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
+#EXTINF:0,Casamento as Avessas
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
+#EXTINF:0,O ABC do Amor
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
+#EXTINF:0,Juno
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
+#EXTINF:0,As Branquelas
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
+#EXTINF:0,Bons Costumes
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
+#EXTINF:0,Julie & Julia
+http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
+#EXTINF:0,De Repente 30
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
+#EXTINF:0,Meus Quinze Anos
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
+#EXTINF:0,Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
+#EXTINF:0,Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:0,Lembrancas de Hollywood
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
+#EXTINF:0,All That Jazz - O Show Deve Continuar
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4
+#EXTINF:0,Mal Posso Esperar
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
+#EXTINF:0,Um Criminoso Decente
+http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
+#EXTINF:0,Os Seus -  os Meus e os Nossos
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
+#EXTINF:0,Os Produtores
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
+#EXTINF:0,O clube de Leitura de Jane Austen
+http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4
+#EXTINF:0,Lua de Mel em Las Vegas
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
+#EXTINF:0,Jogue a Mamae do Trem
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
+#EXTINF:0,Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+#EXTINF:0,Eu -  Minha Mulher e Minhas Copias
+http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
+#EXTINF:0,Annie
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
+#EXTINF:0,A Pantera Cor de Rosa
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+#EXTINF:0,A Hora do Rango
+http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4
+#EXTINF:0,Um Salao do Barulho
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:0,A Rosa Purpura do Cairo
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
+#EXTINF:0,Mixed Nuts
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
+#EXTINF:0,Ricky Bobby - A Toda Velocidade
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
+#EXTINF:0,Superbad - E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+#EXTINF:0,Uma Festa no Ar
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
+#EXTINF:0,Uma Turma Do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
+#EXTINF:0,O Ultimo Grande Heroi
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
+#EXTINF:0,Kung-Fusao
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
+#EXTINF:0,O Oposto do Sexo
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
+#EXTINF:0,Ironias do Amor
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
+#EXTINF:0,Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
+#EXTINF:0,Bastidores de um Casamento
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
+#EXTINF:0,O Chamado de Xangai
+http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
+#EXTINF:0,Penelope
+http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4
+#EXTINF:0,O Paraiso e Logo Aqui
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
+#EXTINF:0,Nem Por Cima do Meu Cadaver
+http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
+#EXTINF:0,Adeus -  Amor
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
+#EXTINF:0,Um Amor de Verao
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4
+#EXTINF:0,O Otario
+http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4
+#EXTINF:0,Tres Mulheres -  Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:0,Meu Primeiro Amor - Parte 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+#EXTINF:0,Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:0,Superbad - E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+#EXTINF:0,Segurando As Pontas
+http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4
+#EXTINF:0,Kung-Fu Futebol Clube
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4
+#EXTINF:0,A Heranca de Mr. Deeds
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4
+#EXTINF:0,A Inveja Mata
+http://media-br-am.crackle.com/1/0/v6/p1zlf_480p.mp4
+#EXTINF:0,A Ultima Missao
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
+#EXTINF:0,A Volta dos Mortos Vivos
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
+#EXTINF:0,Almondegas 4 - Ferias de Verao
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4
+#EXTINF:0,Bolas em Panico
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
+#EXTINF:0,Como conquistar uma mulher
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4
+#EXTINF:0,Fido - O Mascote
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
+#EXTINF:0,Funcionario do Mes
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4
+#EXTINF:0,Grande Hotel
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4
+#EXTINF:0,Jogando com Prazer
+http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4
+#EXTINF:0,Jogos -  Trapacas E Dois Canos Fumegantes
+http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4
+#EXTINF:0,Nao e Mais um Besteirol Americano
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
+#EXTINF:0,O Balconista
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
+#EXTINF:0,O Julgamento de Paris
+http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
+#EXTINF:0,O Paizao
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
+#EXTINF:0,Os Safados
+http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4
+#EXTINF:0,Procurando Encrenca
+http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4
+#EXTINF:0,Provas E Trapacas
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4
+#EXTINF:0,Quase Ilegal
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
+#EXTINF:0,Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+#EXTINF:0,Sob Suspeita (2006)
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
+#EXTINF:0,Swingers - Curtindo a Noite
+http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
+#EXTINF:0,Trabalho Sujo
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4
+#EXTINF:0,Tres Amigos!
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4
+#EXTINF:0,Uma Noiva e Tanto
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
+#EXTINF:0,Uma Turma Do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
+#EXTINF:0,Vamos Nessa
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4
+#EXTINF:0,As Faces de Helen
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
+#EXTINF:0,Encontros ao Acaso
+http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4
+#EXTINF:0,Sexo -  Mentiras e Videotape
+http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
+#EXTINF:0,Vestigios do Dia
+http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
+#EXTINF:0,Lendas da Paixao
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
+#EXTINF:0,Rain Man
+http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
+#EXTINF:0,Desaparecidas
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
+#EXTINF:0,Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:0,Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+#EXTINF:0,Os Miseraveis
+http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
+#EXTINF:0,O Aprendiz
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
+#EXTINF:0,Nas Profundezas Do Mar Sem Fim
+http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
+#EXTINF:0,Lawrence da Arabia
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+#EXTINF:0,Nao Sem a Minha Filha
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
+#EXTINF:0,A Outra
+http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
+#EXTINF:0,Amigas com Dinheiro
+http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
+#EXTINF:0,Um homem fora-de-serie
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4
+#EXTINF:0,Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+#EXTINF:0,Garotas Selvagens 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+#EXTINF:0,O Povo Contra Larry Flynt
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
+#EXTINF:0,Codigo de Honra
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
+#EXTINF:0,Sedutora e diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+#EXTINF:0,Cada um Vive Como Quer
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
+#EXTINF:0,As coisas impossiveis do amor
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
+#EXTINF:0,Vidas Que Se Cruzam
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+#EXTINF:0,O Despertar de uma Paixao
+http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4
+#EXTINF:0,Por Amor
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
+#EXTINF:0,Oliver!
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
+#EXTINF:0,Laurel Canyon - A Rua das Tentacoes
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
+#EXTINF:0,O Rancho do Amor
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
+#EXTINF:0,Um Segredo Entre Nos
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
+#EXTINF:0,Erin Brockovich - Uma Mulher de Talento
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
+#EXTINF:0,Sete Vidas
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+#EXTINF:0,Hackers - Piratas de Computador
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
+#EXTINF:0,12 Horas
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
+#EXTINF:0,8mm - Oito Milimetros
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
+#EXTINF:0,8mm - Oito Milimetros 2
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
+#EXTINF:0,Caminho Sem Volta
+http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4
+#EXTINF:0,A festa nunca termina
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4
+#EXTINF:0,A Grande Jogada
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
+#EXTINF:0,As Duas Faces Da Lei
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
+#EXTINF:0,Coisas Belas E Sujas
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
+#EXTINF:0,Femme Fatale
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4
+#EXTINF:0,Inocente Ou Culpado
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
+#EXTINF:0,Luta Pela Liberdade
+http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
+#EXTINF:0,Marcas do passado
+http://media-br-am.crackle.com/1/g/z6/ntvlf_480p.mp4
+#EXTINF:0,O Cantor
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4
+#EXTINF:0,O Ilusionista
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4
+#EXTINF:0,O Regaste de um Campeao
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
+#EXTINF:0,O Vigarista do ano
+http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4
+#EXTINF:0,Rede de Intrigas
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4
+#EXTINF:0,Seducao Fatal
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
+#EXTINF:0,Seis Graus de Separacao
+http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
+#EXTINF:0,Sem Saida
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
+#EXTINF:0,Studio 54
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4
+#EXTINF:0,Um Homem Bom
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4
+#EXTINF:0,Premonicoes
+http://media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4
+#EXTINF:0,A Ultima Profecia
+http://media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4
+#EXTINF:0,Uma Garota Encantada
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
+#EXTINF:0,Simplesmente Alice
+http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4
+#EXTINF:0,Sacrifício
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
+#EXTINF:0,A Informante
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
+#EXTINF:0,O Sangue de Romeo
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4
+#EXTINF:0,O Inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4
+#EXTINF:0,Solteira Procura 2
+http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
+#EXTINF:0,Poder e Corrupcao (Dirty)
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
+#EXTINF:0,Amigo de Caca
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
+#EXTINF:0,Aprendendo A Viver
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4
+#EXTINF:0,Caminhos Opostos
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4
+#EXTINF:0,Eu Sei Quem Me Matou
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
+#EXTINF:0,Homens Perigosos
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
+#EXTINF:0,O Sequestro do Metro 123
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
+#EXTINF:0,O Tango e o Assassino
+http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4
+#EXTINF:0,Ouro Branco
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
+#EXTINF:0,Paraiso
+http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
+#EXTINF:0,Os Mensageiros
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
+#EXTINF:0,Turistas
+http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4
+#EXTINF:0,Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+#EXTINF:0,Resident Evil - Apocalipse
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
+#EXTINF:0,O Albergue 2
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
+#EXTINF:0,Jovens Bruxas
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
+#EXTINF:0,Evil Dead - A Morte do Demonio
+http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
+#EXTINF:0,O Albergue
+http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4
+#EXTINF:0,Lenda Urbana 2
+http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
+#EXTINF:0,Silent Hill: Revelacao
+http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4
+#EXTINF:0,O Grito 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
+#EXTINF:0,Christine - O Carro Assassino
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
+#EXTINF:0,Brinquedo Assassino
+http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4
+#EXTINF:0,Kalifornia - Uma Viagem ao Inferno
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
+#EXTINF:0,Nao Adianta Fugir
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
+#EXTINF:0,O Principal Suspeito
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4
+#EXTINF:0,REC
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
+#EXTINF:0,Tentaculos
+http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
+#EXTINF:0,Torturado
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
+#EXTINF:0,Vestida Para Matar
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4
+#EXTINF:0,Feitico do Tempo
+http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
+#EXTINF:0,Anjos da Noite: A Evolucao
+http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
+#EXTINF:0,Hancock
+http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
+#EXTINF:0,Fuga de Absolom
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
+#EXTINF:0,Dr. Fantastico
+http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
+#EXTINF:0,Supernova
+http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
+#EXTINF:0,Starman - O Homem das Estrelas
+http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4
+#EXTINF:0,Robocop 3
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4
+#EXTINF:0,Robocop - O Policial do Futuro
+http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
+#EXTINF:0,Herois
+http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
+#EXTINF:0,Resident Evil - O Hospede Maldito
+http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
+#EXTINF:0,1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
+#EXTINF:0,Contatos Imediatos de Terceiro Grau
+http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
+#EXTINF:0,Equilibrio
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
+#EXTINF:0,eXistenZ
+http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4
+#EXTINF:0,Skyline - A Invasao
+http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
+#EXTINF:0,Violacao de Privacidade
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4
+#EXTINF:0,Resident Evil 3: A Extincao
+http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
+#EXTINF:0,Espiao Por Acidente
+http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
+#EXTINF:0,Redline: Velocidade sem Limites
+http://media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4
+#EXTINF:0,Ong-Bak - Guerreiro Sagrado
+http://media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4
+#EXTINF:0,Triplo X
+http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
+#EXTINF:0,O Homen Sombra
+http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4
+#EXTINF:0,XXX2 - Estado de Emergencia
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
+#EXTINF:0,Replicante
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
+#EXTINF:0,JCVD
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4
+#EXTINF:0,O Forasteiro 2
+http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
+#EXTINF:0,Anjos da Noite 3 - A Rebeliao
+http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
+#EXTINF:0,Sou Espiao
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
+#EXTINF:0,Assalto Sobre Trilhos
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
+#EXTINF:0,Excesso de Bagagem
+http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4
+#EXTINF:0,Vinganca
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4
+#EXTINF:0,Horas de Desespero
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
+#EXTINF:0,Haven
+http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
+#EXTINF:0,Agente Indomavel
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
+#EXTINF:0,Guerra ao Terror
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
+#EXTINF:0,Fantasmas de Marte
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
+#EXTINF:0,S.W.A.T. - Comando Especial
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
+#EXTINF:0,Crash: No Limite
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
+#EXTINF:0,Mergulho Radical 2: Os Recifes
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
+#EXTINF:0,Hooligans: Furia nos campos
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
+#EXTINF:0,A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
+#EXTINF:0,Caes de Guerra
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
+#EXTINF:0,Conquista Sangrenta
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
+#EXTINF:0,Desafio Radical
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
+#EXTINF:0,Divisao de Homicidios
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
+#EXTINF:0,Godzilla (1998)
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
+#EXTINF:0,Cacada sem Treguas
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
+#EXTINF:0,Honra e Coragem - As Quatro Plumas
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4
+#EXTINF:0,Horas de Desespero
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
+#EXTINF:0,Impacto Mortal
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
+#EXTINF:0,Karate Kid 3 - O Desafio Final Filme
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
+#EXTINF:0,Matador De Aluguel
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
+#EXTINF:0,O Colecionador de Ossos
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4
+#EXTINF:0,O Grande Anjo Negro
+http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4
+#EXTINF:0,O Guardiao
+http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
+#EXTINF:0,O Guardiao - 2 Retorno As Minas do Rei Salomao
+http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
+#EXTINF:0,O Guardiao 3 - A Maldicao do Calice de Judas
+http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
+#EXTINF:0,O Legionario
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
+#EXTINF:0,O Senhor das Armas
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
+#EXTINF:0,Os Reis de Dogtown
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4
+#EXTINF:0,Red - Aposentados e Perigosos
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
+#EXTINF:0,Risco Absoluto
+http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4
+#EXTINF:0,RoboCop 2
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
+#EXTINF:0,Rocky Balboa
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
+#EXTINF:0,Ruslan - Vinganca Explosiva
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
+#EXTINF:0,Soldado Universal 3 - Regeneracao
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
+#EXTINF:0,Tempos de Violencia
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
+#EXTINF:0,Um Ato de Liberdade
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
+#EXTINF:0,Viciado em Sexo
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
+#EXTINF:0,Vou Te Pegar Otario
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4
+#EXTINF:0,Wasabi
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
+#EXTINF:0,O Nome do Jogo
+http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
+#EXTINF:0,Greta
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
+#EXTINF:0,Como Se Fosse a Primeira Vez
+http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
+#EXTINF:0,Atraidos Pelo Destino
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
+#EXTINF:0,Tres Mulheres -  Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:0,Persuasao
+http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
+#EXTINF:0,O Melhor Amigo da Noiva
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
+#EXTINF:0,Nicholas Nickleby
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
+#EXTINF:0,Africa dos Meus Sonhos
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
+#EXTINF:0,O Segredo de Brokeback Mountain
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
+#EXTINF:0,Tres Mulheres -  Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:0,Pegar e Largar
+http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
+#EXTINF:0,Funny Lady
+http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
+#EXTINF:0,O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
+#EXTINF:0,Apenas Uma Vez
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
+#EXTINF:0,A Jovem Rainha Victoria
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
+#EXTINF:0,Primeira Descida
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
+#EXTINF:0,Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+#EXTINF:0,A Guerra de Hart
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+
 #EXTM3U url-tvg="http://grade-de-SERIE TV FAX As Canções da Minha Vida.xml"
 ############## SERIE TV FAX As Canções da Minha Vida ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSERIE TV FAX As Canções da Minha Vida" group-title="
@@ -3545,6 +6463,22 @@ https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1
 #EXTINF:-1 tvg-id="" tvg-name="Leo Jaime S01E07"tvg-logo="https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/06/11085623/WhatsApp-Image-2023-06-11-at-00.03.17.jpeg"group-title="SERIE TV FAX As Canções da Minha Vida",Leo Jaime S01E07
 https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-13/play_v1_hls_1080p.m3u8
 
+#EXTM3U url-tvg="http://grade-de-FILME Adolecentes e desenho FAX archive.xml"
+############## FILME Adolecentes e desenho FAX archive ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME Adolecentes e desenho FAX archive" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Uma Fada Veio Me Visitar"tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/06/uma-fada.jpg.webp"group-title="FILME Adolecentes e desenho FAX archive",Uma Fada Veio Me Visitar
+https://ia601202.us.archive.org/13/items/uma-fada-veio-me-visitar-tv-fax/Uma%20Fada%20Veio%20Me%20Visitar%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mavka Aventura Na Floresta"tvg-logo="https://saopauloparacriancas.com.br/wp-content/uploads/2023/10/MAVKA_estreia-a2filmes-spcriancas-cinemark1-scaled.jpg"group-title="FILME Adolecentes e desenho FAX archive",Mavka Aventura Na Floresta
+https://ia601301.us.archive.org/8/items/mavka-aventura-na-floresta-tv-fax/Mavka%20Aventura%20na%20Floresta%20tv%20fax.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trolls 3 Juntos Novamente"tvg-logo="https://i.ytimg.com/vi/E1pkNoojLus/maxresdefault.jpg"group-title="FILME Adolecentes e desenho FAX archive,Trolls 3 Juntos Novamente
+https://ia804601.us.archive.org/15/items/trolls-3-juntos-novamente-tv-fax/Trolls%203%20-%20Juntos%20Novamente%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aqua Teen Forever Plantasm"tvg-logo="https://i0.wp.com/anmtv.com.br/wp-content/uploads/2022/08/Aqua-Teen-Forever-Plantasm-1.jpg?resize=800%2C400&ssl=1"group-title="FILME Adolecentes e desenho FAX archive",Aqua Teen Forever Plantasm
+https://ia801302.us.archive.org/11/items/aqua-teen-forever-plantasm-tv-fax/Aqua%20Teen%20Forever%20Plantasm%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leo"tvg-logo="https://media2.giphy.com/media/i7Kn2MjMPqI8WgxDOa/giphy.gif?cid=6c09b952msytjo1uh2sxe6tvbn3d1wk6pwv9qcr495h8c3br&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"group-title="FILME Adolecentes e desenho FAX archive",Leo
+https://ia601302.us.archive.org/16/items/leo-tv-fax/Leo%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Festa Do Pijama Muito Louca"tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/254062007747CAF97EFD6D8CB097CFBC7206512A9DEAD32754EEEA23ACB4100F/scale?width=1200&aspectRatio=1.78&format=jpeg"group-title="FILME Adolecentes e desenho FAX archive",Festa Do Pijama Muito Louca
+https://ia601303.us.archive.org/27/items/festa-do-pijama-muito-louca-tv-fax/Festa%20do%20Pijama%20Muito%20Louca%20TV%20FAX.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES | INFANTIL CINEMA.xml"
 ############## FILMES | INFANTIL CINEMA ################# 
