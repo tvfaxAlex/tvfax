@@ -3230,8 +3230,6 @@ https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u
 https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="FILMES TV FAX GOSPEL",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Outra Vida" tvg-logo="https://i.pinimg.com/736x/dd/fb/02/ddfb0255eaad5ceb4279de0dbb1bd569.jpg"group-title=" group-title="FILMES TV FAX GOSPEL",Outra Vida
-https://play.prod.gcp.vix.services/other-life_pt/other-life_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ao Lado de Cristo" tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/27/18/31/3723018.jpg"group-title=" group-title="FILMES TV FAX GOSPEL",Ao Lado de Cristo
 https://play.prod.gcp.vix.services/penitent-thief_pt/penitent-thief_pt_1-1/play_v1_hls_1080p.m3u8
 
@@ -3639,8 +3637,6 @@ https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls
 ############## Canais Filmes Desenhos Tv FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais Filmes Desenhos Tv FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="COMANDOTORRENTS"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaIb1RyrVJ7BEKb34SBgzhtX63LOfBkx7KBwRGmT_nw7s1TScOdDqWTc4fztpye6atG_c&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",COMANDOTORRENTS
-https://ia601504.us.archive.org/21/items/luaEuFicoLoko/luaEuFicoLoko.MP4
 #EXTINF:-1 tvg-id="" tvg-name="BLUDV"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmcZz-EYlvCS5T-YXLwUsRRyDUf69VhLdcFNqVR4tphGo0phzhUZu9S56snhwPpySi_kc&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",BLUDV
 https://ia601500.us.archive.org/35/items/luaSaara/luaSaara.MP4
 #EXTINF:-1 tvg-id="" tvg-name="Amor.com (2017)"tvg-id="https://www.sodapop.com.br/wp-content/uploads/2017/03/isis-valverde-390x205.jpg" group-title="Canais Filmes Desenhos Tv FAX",Amor.com (2017)
@@ -3649,8 +3645,6 @@ https://ia601504.us.archive.org/32/items/luaAmor/luaAmor.MP4
 https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Os Smurfs e a Vila Perdida (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiZzjaywA3wsaYQgb46pqHtKEwjApeqyDh6AbjA08KwdA-a0HBAuV6-Y3JzpzIyaTUbDg&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Os Smurfs e a Vila Perdida (2017)
 https://ia601509.us.archive.org/1/items/luasmur/OsSmurfseaVilaPerdida.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cabana (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMmcg8O8boHfn_jVd2zOuwaiYVY3G7mVteN1pyF179rxCkgO0wowX6FxQG0UwfEehwAg&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",A Cabana (2017)
-https://ia601507.us.archive.org/2/items/luacaba/ACabana.MP4
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThcsWOyh65PI4xeXQPMYaGeoNekjtiZ5iAJK2mxuKQya-W8kAk9rl7n2JVvQgGn8YAvw&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Power Rangers (2017)
 https://ia601502.us.archive.org/23/items/powerrangersfil/powerrangers.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Warrior's Gate (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQee7mds89eVFU4kURBpohNB7M0nEhBkfkVt8soZiZX6YL64XbZoUJShbGsbPPem3ghHP8&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",The Warrior's Gate (2017)
@@ -3659,16 +3653,12 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/WRISGT.mp4
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Max Steel (2017)"tvg-id="https://m.media-amazon.com/images/M/MV5BMTYzMGRkNGItOTY4Zi00NzU4LTk1ZmYtY2M0NWNhYjNmZjZiXkEyXkFqcGdeQXVyOTc5MDcyMzY@._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Canais Filmes Desenhos Tv FAX",Max Steel (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MXSTL.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lavanda (2017)"tvg-id="https://i.ytimg.com/vi/YHLJtrOc8XY/sddefault.jpg" group-title="Canais Filmes Desenhos Tv FAX",Lavanda (2017)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LVNDA.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jovens Titãs: O Contrato de Judas (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEr0Upt5BMhbBtwyN5NXebxXBNqjpXl1DSsw6mNDQzu2La-ZkeHY7Y1GLpqzwDRSPOWMM&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Jovens Titãs: O Contrato de Judas (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JVNSTSOCTRTDJDS.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Internet: O Filme (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1XoPek_Y-ZOoyGLRHlcv1OCJWUrqpFTW1pgNcvclxAlPcS1HRM3rPkru34SUItzsFA2E&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Internet: O Filme (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/INTNET.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandy Wexler (2017)"tvg-id="https://i.ytimg.com/vi/G8tYAO8-VbM/sddefault.jpg" group-title="Canais Filmes Desenhos Tv FAX",Sandy Wexler (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SNDYWXLR.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peles (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCPuDHI2HWBsuZeGNTU_waDN_qIla9drSWhTPLwV5PTUhNjKBN9hHXJmUjElYL4Zhr9E&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Peles (2017)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PLES.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nossos Amantes (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZn9aQkpKOoh_A6OxFgbm0rwzx31KWKRwusla5_zm0b7Pci-DD5gQT3KV-yPNIzNtmw8&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Nossos Amantes (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NOSAMNTS.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manchester à Beira Mar (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV6EOdhv95O-6AkQfkvcOtzBkvRuoIe82skrcVlrSi8dhHrS3VYgQ4zzB3WT02hJixHzE&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Manchester à Beira Mar (2017)
@@ -3687,8 +3677,6 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MNSTRRCK.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Resgate Suicida (2017)"tvg-id="https://i.ytimg.com/vi/vYlZCcC5ihc/maxresdefault.jpg" group-title="Canais Filmes Desenhos Tv FAX",Resgate Suicida (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RSGTSCD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Chamado 3 (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyaZV972F4Vgq5g9HuETejtUUtWiOG3V4FYJRzO3K5fhjFJKZpIVvinaBiQfixNpWPlog&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",O Chamado 3 (2017)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Busca Explosiva 5: Campo de Batalha (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTQZL9NcX7hSddOguDqone9xdaJIKKqEBe-wilekNw1A74uOVC6l4SkY021oIqRIdJ40Q&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Busca Explosiva 5: Campo de Batalha (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BSCEXPLSV5.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deidra e Laney Assaltam um Trem (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxw0kwqO3Z-4Ee2kzZMicEwyHfobkyGlfvYgD4bzC4u351glBBaI5N9dydgQSQ-3LYE0E&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Deidra e Laney Assaltam um Trem (2017)
@@ -3701,96 +3689,77 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AFBLSGLHP.mp4
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ADSCBRT.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vizinhos Nada Secretos (2017)"tvg-id="https://1torrentpordia.files.wordpress.com/2017/02/91516-vizinhos2bnada2bsecretos.jpg" group-title="Canais Filmes Desenhos Tv FAX",Vizinhos Nada Secretos (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/VZNHSNDSCRTS.mp4
-
-
-
-#EXTINF:0,Um Limite Entre Nós (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Um Limite Entre Nós (2017)"tvg-id="https://m.media-amazon.com/images/I/91XreNhWwcL._AC_UF1000,1000_QL80_.jpg" group-title="Canais Filmes Desenhos Tv FAX",Um Limite Entre Nós (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMLMTENTNS.mp4
-#EXTINF:0,Pandora (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Pandora (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3A-xprLce07-ycCXe6lYNldbvwnsQGcQ3Fs4CsvSrrnenGNLpotUmGWJhd3XAPtxqxo&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Pandora (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PNDRA.mp4
-#EXTINF:0,Passageiros (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Passageiros (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb4VSx2MxyxFLesZoMJNu-LIo9SNPa7His0mE9DU1GuC36dIOTXDXt7lzB8F30R5Ar5XY&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Passageiros (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PASGRIOS.mp4
-#EXTINF:0,O Monstro no Armário (2017)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OMSNTNARMR.mp4
-#EXTINF:0,O Exorcismo de Anna Ecklund (2017)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OEXCSMDANECKLN.mp4
-#EXTINF:0,Moana: Um Mar de Aventuras (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Moana: Um Mar de Aventuras (2017)"tvg-id="https://br.web.img3.acsta.net/r_654_368/newsv7/17/01/05/12/06/569569.jpg" group-title="Canais Filmes Desenhos Tv FAX",Moana: Um Mar de Aventuras (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4
-#EXTINF:0,Assassin's Creed (2017)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASINSCRD.mp4
-#EXTINF:0,Ouija: Origem Do Mal (2017)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OUJORGMDML.mp4
-#EXTINF:0,Stereo (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Stereo (2017)"tvg-id="https://i.ytimg.com/vi/22IpiAhuPfQ/sddefault.jpg" group-title="Canais Filmes Desenhos Tv FAX",Stereo (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STRO.mp4
-#EXTINF:0,Esquadrao de Elite (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrao de Elite (2017)"tvg-id="https://i.ytimg.com/vi/qxVix_eOTmI/sddefault.jpg?v=61637b5f" group-title="Canais Filmes Desenhos Tv FAX",Esquadrao de Elite (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDRDELT.mp4
-#EXTINF:0,Liga da Justica Sombria (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica Sombria (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIjuCC9DNU_0IhhisayXRYsZEp_rlP0hx7665kpNTvcdfXNo8_Ex089K16PKjQHmkSTQM&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Liga da Justica Sombria (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LGDJSTCSMBRA.mp4
-#EXTINF:0,Sacrifício (2017)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SCRFC.mp4
-#EXTINF:0,iBoy (2017)
+#EXTINF:-1 tvg-id="" tvg-name="iBoy (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTbZx18xuc9jyCqITlsDTo4UR5nh9B69peom3RZw505AhfB-kAHN8_h-CxhNh6Xtt8qNA&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",iBoy (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/IBOY.mp4
-#EXTINF:0,Abril e o Mundo Extraordinario (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Abril e o Mundo Extraordinario (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmytSx9uJfVw51FLYOB2ATKCaW1odB-9Nlo5Fxb_VQSuUeOlec2ffQA6GDPW6gRV5OQN0&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Abril e o Mundo Extraordinario (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRLEOMSNEXTR.mp4
-#EXTINF:0,10000 Anos Depois (2017)
+#EXTINF:-1 tvg-id="" tvg-name="10000 Anos Depois (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_zBpytt5TsSJ5UxKgQz3tpoPo51RimJEKI2Q3uMozQpM43c_e9JopXadn0LSR0VTbENE&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",10000 Anos Depois (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/1000ANSDPS.mp4
-#EXTINF:0,Festa Da Salsicha (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Festa Da Salsicha (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7LHy4PJjoHHAw9VWz7K3sXkWMt5gBn66tMu8HizKmHOaYZLbKT3_tiXWjK5q8pWKx7o&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Festa Da Salsicha (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FSTDSLSCHA.mp4
-#EXTINF:0,Amor em Sampa (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Sampa (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuHPrC3ViASQBdzEh6CTpJzwbLoo66l5tyRLonkFzk_QTLSXEW5omt75OJg4RHNgvANM&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Amor em Sampa (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AMREMSP.mp4
-#EXTINF:0,Minha Mãe é Uma Peça 2 (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é Uma Peça 2 (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_tp-uhHRFEViNmvtX4bq-dmS_MEaoDB0HkVLW7LuP3qvH6Gfkv4NjbxwLB9VhALAk94&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Minha Mãe é Uma Peça 2 (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MNHMAEUMPC2.mp4
-#EXTINF:0,Horizonte Profundo:Desastre no Golfo (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte Profundo:Desastre no Golfo (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-Ft4fsnoWam1nksroMtgeZXq5OTq1uys0Um-jrvZAuTYytfv0AhBRurrinl1B2ySXew&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Horizonte Profundo:Desastre no Golfo (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HRZNTPRFNDSTRDGLF.mp4
-#EXTINF:0,Call to Duty:Fora de Alcance (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Call to Duty:Fora de Alcance (2016)"tvg-id="https://i.ytimg.com/vi/N3n_jc1_iFY/maxresdefault.jpg" group-title="Canais Filmes Desenhos Tv FAX",Call to Duty:Fora de Alcance (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CLTDTY.mp4
-#EXTINF:0,A Última Ressaca Do Ano (2016)
+#EXTINF:-1 tvg-id="" tvg-name="A Última Ressaca Do Ano (2016)"tvg-id="https://musicart.xboxlive.com/7/23703b00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" group-title="Canais Filmes Desenhos Tv FAX",A Última Ressaca Do Ano (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AULTMRSCDAN.mp4
-#EXTINF:0,O Shaolin do Sertão (2016)
+#EXTINF:-1 tvg-id="" tvg-name="O Shaolin do Sertão (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvbgmpfwN6KIizxXPqlLbIq1gOqgf0k-fFw4hNnr0127r9AVU8-4pJ8G7809At_JWBkKQ&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",O Shaolin do Sertão (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OSHLINDSRT.mp4
-#EXTINF:0,Como Eu Era Antes de Você (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Era Antes de Você (2016)"tvg-id="https://play-lh.googleusercontent.com/JQKfopRtWqyD1cUXjx4V00qLnKecgKlSTS6sL0YX1T0H4bzyOK8SxdQIUbZ6NTsKfkBm" group-title="Canais Filmes Desenhos Tv FAX",Como Eu Era Antes de Você (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CMEUERANTSDVC.mp4
-#EXTINF:0,Assassino a Preço Fixo 2: A Ressurreição (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Assassino a Preço Fixo 2: A Ressurreição (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIGBypHoTcKdiZH7JX4iNAe8ukWBGuuTLnywWF33MGWUq4rC1V1Mu5SLkhPEV13bLIaE&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Assassino a Preço Fixo 2: A Ressurreição (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASASINOAPRCFX2.mp4
-#EXTINF:0,Animais Fantásticos e Onde Habitam (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Animais Fantásticos e Onde Habitam (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjk5USy-iHwVrNCLqm4wzORLw9WMzU01zSTz7TGDFaxe9rPqaduWrphruf-nLohiEW-o&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Animais Fantásticos e Onde Habitam (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
-#EXTINF:0,Jack Reacher: Sem Retorno (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Jack Reacher: Sem Retorno (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfg5zupywyLMLbP51Nywr4tg6rGTBLsSQOUTs-YPNWT6EkYjmN_FMg6HXbuvlZOT9Cjyg&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Jack Reacher: Sem Retorno (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JCKRCHSRTN.mp4
-#EXTINF:0,Fugindo Do Inferno (2016)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FGNDINFNO.mp4
-#EXTINF:0,Ouija: Exorcismo (2016)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OUJEXRCMS.mp4
-#EXTINF:0,Meu Irmao Cego (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Meu Irmao Cego (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZhmketYF5JFogIXq8Sihm8RexW1Jpu4omlmuOVbn6rwWNplHBPt7v85GabOJmryLTzI&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Meu Irmao Cego (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MEUIRMCG.mp4
-#EXTINF:0,Doutor Estranho (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZjKgkQdnkcJ2jMErcIRTBy-hPhxQK7Bdl3KgtrKFUxfWxPm9l501QmgcbMb4HpJyiswU&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Doutor Estranho (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
-#EXTINF:0,A Volta do Juizo Final (2016)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AVLTDJZFNL.mp4
-#EXTINF:0,Anjos da Noite: Guerras De Sangue (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: Guerras De Sangue (2016)"tvg-id="https://1.bp.blogspot.com/-Sn5H1F8sVog/WFQr__NeX5I/AAAAAAACPa0/JGi05QN_hfM2vAEaoS6DGSwXkP1fuKY0gCLcB/s1600/noitecapa.png" group-title="Canais Filmes Desenhos Tv FAX",Anjos da Noite: Guerras De Sangue (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT5.mp4
-#EXTINF:0,Bruxa de Blair (2016)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BRXDBLR.mp4
-#EXTINF:0,Mundo Cão (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Cão (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRteEFHkRy_l0pn5gzWkyDLyOjfY02B-VF-IRhMeZ6PfQP6iA3cBA4sCwc2jlcgA3r-9Jk&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Mundo Cão (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MNDCA.mp4
-#EXTINF:0,Mãe Só Há Uma (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Mãe Só Há Uma (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUG1squyJ_WSUKIh3tyOevC3cQir90DpjDsVbIAhRL_R4yMuW51-2DXY47vOaM8SkhTM&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Mãe Só Há Uma (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MASHUM.mp4
-#EXTINF:0,José do Egito: O Filme - (2016)
+#EXTINF:-1 tvg-id="" tvg-name="José do Egito: O Filme - (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhiJaPfUkXsf1oSXGkj7imoVo_XZdUqM3dB3RFpZW7hCMpuYTDG_G1Yp26gNKwCUjpE7o&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",José do Egito: O Filme - (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JSDEGTOFLM.mp4
-#EXTINF:0,Sing: Quem Canta Seus Males Espanta (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Sing: Quem Canta Seus Males Espanta (2016)"tvg-id="https://s2.glbimg.com/VOBjnEokGrgLm34p5s44rAPFATU=/512x320/smart/e.glbimg.com/og/ed/f/original/2016/12/20/sing.jpg" group-title="Canais Filmes Desenhos Tv FAX",Sing: Quem Canta Seus Males Espanta (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
-#EXTINF:0,Jonas (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Jonas (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShBWk4sFeVYDyMcemIm_Rd7WqvJXt6DGRxFpRM__O5p98L9pzkqTKZMrNM79CEqLTRhc&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Jonas (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JNS.mp4
-#EXTINF:0,Um Suburbano Sortudo (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Um Suburbano Sortudo (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHF0yrkkzfgYsAs31ySXPPn-AggzurljQzm3WueyBb31LmR2ho8PrQTbdJ5cEK1-uKdo&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Um Suburbano Sortudo (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMSUBSRTDO.mp4
-#EXTINF:0,Sete Minutos Depois da Meia-Noite (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Sete Minutos Depois da Meia-Noite (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeGZAjUO0MfXk4t4J4ctJ42remmlYkNBZnAxS0auhKbnMTZX1AA0-Pi4zGAmUQ9IcOXw&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Sete Minutos Depois da Meia-Noite (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STMNDPSDMENTDUB.mp4
-#EXTINF:0,Reza a Lenda (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Reza a Lenda (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6EhpiEdNdR-r8QV808CYTcxr0G5a6dtzrLL4a8fHbfJ-9wJAoGJAJEm9fZW53GbHSIA&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Reza a Lenda (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RZALND.mp4
-#EXTINF:0,Capitão Fantástico (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Fantástico (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5X9JrhE1c8MQruSnxPoyUFGqYsxP9whwmqRSgGGH5m0ujkWFhwtOhzzP6ZWT6z574Rd4&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Capitão Fantástico (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4
-#EXTINF:0,Porta dos Fundos: Contrato Vitalício (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Porta dos Fundos: Contrato Vitalício (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSTjBv2TsVrVKGJNQwJ8LbAaHc4T8vhSv59GpPTlJGLzzx8hDfBc14fJ6x2BOhbK5Ud8&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Porta dos Fundos: Contrato Vitalício (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PRTSDFNDCTRVIT.mp4
-#EXTINF:0,O Roubo da Taça (2016)
+
+
+#EXTINF:-1 tvg-id="" tvg-name="O Roubo da Taça (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNCoCUahadpo9tnDX59jV2dG5PjsQOfSndK5C20ptNY54DcCcA9DgOi_cAWwLo2yV3zMI&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",O Roubo da Taça (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OROBDTA.mp4
 #EXTINF:0,Rogue One: Uma História Star Wars (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RGONUHSTRWRS.mp4
@@ -6444,6 +6413,39 @@ http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
 #EXTINF:0,A Guerra de Hart
 http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
 
+#EXTM3U url-tvg="http://grade-de-Filmes TERROR Tv FAX.xml"
+############## Filmes TERROR Tv FAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes TERROR Tv FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Bruxa de Blair (2016)"tvg-id="https://i0.wp.com/cinematologia.com.br/cine/wp-content/uploads/2018/05/blair-1.jpg?fit=1360%2C768&ssl=1" group-title="Filmes TERROR Tv FAX",Bruxa de Blair (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BRXDBLR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Volta do Juizo Final (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EChP5Kla7_4vxY0TscTQR2NqXwvuCYVCKapJ4iooL9x0hnhPIlrAb1JOfjvY7iyzfpQ&usqp=CAU" group-title="Filmes TERROR Tv FAX",A Volta do Juizo Final (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AVLTDJZFNL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ouija: Exorcismo (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPBs92NTwNn-rDGFkMctDrVMRVtBG_zaEp-8ONr-Uwh61Nzw2cRja-PtDFtkQK0vXsLY&usqp=CAU" group-title="Filmes TERROR Tv FAX",Ouija: Exorcismo (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OUJEXRCMS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fugindo Do Inferno (2016)"tvg-id="https://i.ytimg.com/vi/13Dz6nm_4b0/hqdefault.jpg" group-title="Filmes TERROR Tv FAX",Fugindo Do Inferno (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FGNDINFNO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassin's Creed (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkTJearwRGpQaMf9d5L3xILGPyMihbMF7tJWWyY8VC07Y_wrEZN8_tcr6bAnP5zGaRt4&usqp=CAU" group-title="Filmes TERROR Tv FAX",Assassin's Creed (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASINSCRD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ouija: Origem Do Mal (2017)"tvg-id="https://play-lh.googleusercontent.com/xsg9tHam6NN7KjIrs2atFOzaFg5n-RE-_BrN7lnO60GOT1ttNJWNIjV-h7FGExp_OrI" group-title="Filmes TERROR Tv FAX",Ouija: Origem Do Mal (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OUJORGMDML.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exorcismo de Anna Ecklund (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmBKBOkeFdaJrQppKxTbwWh3r5ok9i6MmmiuwdP81E-uofulC-0bCaN30FQO4YTvg_oc&usqp=CAU" group-title="Filmes TERROR Tv FAX",O Exorcismo de Anna Ecklund (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OEXCSMDANECKLN.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Monstro no Armário (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSY11oEhBq9AksL3ZsQNtGi_B7YxUWWXmRXfIVr3qjDrsU3c6b42nHDqfFQNFMlZMf2o&usqp=CAU" group-title="Filmes TERROR Tv FAX",O Monstro no Armário (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OMSNTNARMR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Chamado 3 (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyaZV972F4Vgq5g9HuETejtUUtWiOG3V4FYJRzO3K5fhjFJKZpIVvinaBiQfixNpWPlog&usqp=CAU" group-title="Filmes TERROR Tv FAX",O Chamado 3 (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peles (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCPuDHI2HWBsuZeGNTU_waDN_qIla9drSWhTPLwV5PTUhNjKBN9hHXJmUjElYL4Zhr9E&usqp=CAU" group-title="Filmes TERROR Tv FAX",Peles (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PLES.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lavanda (2017)"tvg-id="https://i.ytimg.com/vi/YHLJtrOc8XY/sddefault.jpg" group-title="Filmes TERROR Tv FAX",Lavanda (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LVNDA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sacrifício (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmjxpPiWmHj2ThZKYXZI5ff7J2Q6W4SBPo3geVgBJ4Kt-S4OpXe_duUyzrFh1eJVROo28&usqp=CAU" group-title="Filmes TERROR Tv FAX",Sacrifício (2017)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SCRFC.mp4
+#EXTINF:-1 tvg-id="" tvg-name="COMANDOTORRENTS"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaIb1RyrVJ7BEKb34SBgzhtX63LOfBkx7KBwRGmT_nw7s1TScOdDqWTc4fztpye6atG_c&usqp=CAU" group-title="Filmes TERROR Tv FAX",COMANDOTORRENTS
+https://ia601504.us.archive.org/21/items/luaEuFicoLoko/luaEuFicoLoko.MP4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMmcg8O8boHfn_jVd2zOuwaiYVY3G7mVteN1pyF179rxCkgO0wowX6FxQG0UwfEehwAg&usqp=CAU" group-title="Filmes TERROR Tv FAX",A Cabana (2017)
+https://ia601507.us.archive.org/2/items/luacaba/ACabana.MP4
+
 #EXTM3U url-tvg="http://grade-de-SERIE TV FAX As Canções da Minha Vida.xml"
 ############## SERIE TV FAX As Canções da Minha Vida ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSERIE TV FAX As Canções da Minha Vida" group-title="
@@ -6762,7 +6764,7 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/342
 
 #EXTM3U url-tvg=" http://grade-de-Infantis.xml "
  ############## Infantis ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeInfantis" group-title="]
+#EXTINF:-1 tvg-id=" iddocanaldeInfantis" group-title="
 
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="Infantis",Cartoon Network FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1815
