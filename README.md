@@ -7572,6 +7572,52 @@ https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="RADIOS",Blog do Léo Lima
 https://player.painelvox.com/player-ssl/8340/;
 
+#EXTM3U url-tvg="http://grade-de-Série fubar tv fax.xml"
+############## Série fubar tv fax  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSérie fubar tv fax" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E01" tvg-logo="https://s2-techtudo.glbimg.com/VNomAPCg8JSt01Ay1Y-REaZWX9c=/0x0:1140x807/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/y/d/BW2OjpTwmX9jNrA6HRnA/fubar-netflix-techtudo-01.jpg" group-title="Série fubar tv fax",fubar S01 E01
+https://archive.org/details/fubar-1x6-dublado-www.encontrei.tv/fubar-1x1-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E02" tvg-logo="https://cinema10.com.br/upload/series/series_3655_fubar-poster.jpg" group-title="Série fubar tv fax",fubar S01 E02
+https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x2-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6T5WTcEdKXbUGJqLILcpovxNWFYalTkxrGgN3QybX8nrntESYnyO5rFYmby96mWCw3J4&usqp=CAU" group-title="Série fubar tv fax",fubar S01 E03
+https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x3-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXRzsNDwd2HODFwTj0GxW17uBEmGa_M_Fk4CntYoOmRBsYl_Prw3gR3k3mOOxmKypV6U&usqp=CAU" group-title="Série fubar tv fax",fubar S01 E04
+https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x4-dublado-www.encontrei.tv.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UGGbkO4fItY0YN3sja8FYvUM2gjode6wl1MJ4Km0UQF8ls7WL0bdOFprncsARMj_OsE&usqp=CAU" group-title="Série fubar tv fax",fubar S01 E05
+
+
+#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E06" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/02/fubar-nova-serie-netflix-scaled.jpg" group-title="Série fubar tv fax",fubar S01 E06
+https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x6-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiQYuv5VnN1KZf47g6QsYlF8ocz.jpg" group-title="Série fubar tv fax",fubar S01 E07
+https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x7-dublado-www.encontrei.tv.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_fzbnGURCVWD8tO6MUbOHeycbRJIKw1JW2T0ceONrd1egSL5kKDpuOC_LeVUbvvCz2I&usqp=CAU" group-title="Série fubar tv fax",fubar S01 E08
+https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x8-dublado-www.encontrei.tv.mp4
+
+#EXTM3U url-tvg="http://grade-de-Série reacher Tv Fax.xml"
+############## Série reacher Tv Fax ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSérie reacher Tv Fax" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E01" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/11/reacher-1.jpg.webp" group-title="Série reacher Tv Fax",reacher S01 E01
+https://archive.org/serve/reacher-1x5-dublado-www.encontrei.tv/reacher-1x1-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZ9HW4b2Ul4XviIBlAeVIBIkc9GlnSuH_jR1E0dU2X-u_8Bg_tWHW-k4d8dqhXPlhRXc&usqp=CAU" group-title="Série reacher Tv Fax",reacher S01 E02
+https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x2-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VptQQtgWldaJ7POSlM2P1vqA7HOkZGPmjLsZWeDPzilELprzNMSP40Sm0ICQSDSbr_E&usqp=CAU" group-title="Série reacher Tv Fax",reacher S01 E03
+https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x3-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeKjpUegXMEBYNYm3gUA5rpvUzsHp5CuidZEMJu_9JZWxpj0TV6iUsbXMnWNQyyQL_h8&usqp=CAU" group-title="Série reacher Tv Fax",reacher S01 E04
+https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x4-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E05" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2024/01/Reacher-1-3.webp" group-title="Série reacher Tv Fax",reacher S01 E05
+https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x5-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E06" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2023/12/Reacher-2-temporada-serie-final.webp" group-title="Série reacher Tv Fax",reacher S01 E06
+https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x6-dublado-www.encontrei.tv%281%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNuAdv_GOy2eO4RAuEYnafP0TXon_oryTpJ2xO-eXV02Bm0wSkhskQjR0ib-3LRuBfqcs&usqp=CAU" group-title="Série reacher Tv Fax",reacher S01 E07
+https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x7-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTea92ZpyKvHmO9pBnVMuBA7LZO3_45rNNIFcdnFL-Wdjyfs8a68FjfzKaEu8cgWameyco&usqp=CAU" group-title="Série reacher Tv Fax",reacher S01 E08
+https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x8-dublado-www.encontrei.tv.mp4
+
 #EXTM3U url-tvg="http://grade-de-[Séries da Semana].xml"
 ############## [Séries da Semana]  ################# 
 #EXTINF:-1 tvg-id=" iddocanalde[Séries da Semana]" group-title="
