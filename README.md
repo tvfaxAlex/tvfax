@@ -3466,6 +3466,10 @@ https://archive.org/download/assistir-treinamento-brutal-online-gratis/Museu%20M
 ############## FILME TV FAX |  ONLINE ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  ONLINE" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino ( Filme ) 2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBFbbZfSRaCTk9cE3fi6XCyPMj-kNkGf8fjvn1D_Gnyr1e1QT4ubMMS7AHGvvSQe0e6o&usqp=CAU"group-title="FILME TV FAX |  ONLINE",O Assassino ( Filme ) 2023
+https://vod.cf.dmcdn.net/sec2(u19uDABVmeia_Riops8_dQ4uIw3JaWtONdydrRLe5aLAtxyPjvTHK1nDwC1H74LIOrj-16YQXPyGU8FEABkyJENPhvYT9hMwCnbl6aqgAjrRIy6H4LPH3FzmgB070HHCMTR3y6UgBNbZzjj1rkHzbg)/video/747/326/526623747_mp4_h264_aac_fhd_9.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="A Profissional ( Filme ) 2021 "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTg2Alb8wJ_a2lROzl3yqjzrz_sEMJ6vrWlzAxI8UHE0M1cTv_I_L4Z_obR74a5Js764&usqp=CAU"group-title="FILME TV FAX |  ONLINE",A Profissional ( Filme ) 2021 
+https://vod.cf.dmcdn.net/sec2(O8bSpvOSK4S9reCQoQudtWrdMX7L2_EDHYPJfiNF9S8TqDZVQNaT1EUA_H_78uNJORMHfiQIEr9tOSzszMMjPE6qKaOzFcptBhsfOGuExjR_nz-ODbU2ZdgYe_n4gc5dBoFVBlyxwpee2a6u6RtihA)/video/651/601/524106156_mp4_h264_aac_fhd_6.m3u8#cell=cf
 #EXTINF:-1 tvg-id="" tvg-name=Alta Velocidade"tvg-logo="https://media.fstatic.com/asWdTE36MWEyheG_3EIHp6d5YZs=/322x478/smart/filters:format(webp)/media/movies/covers/2021/02/3415_-_29x41-.jpg"group-title="FILME TV FAX |  ONLINE",Alta Velocidade
 https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Última Jornada"tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2020/11/a-ultima-jornada-poster.jpg"group-title="FILME TV FAX |  ONLINE",A Última Jornada
@@ -3620,6 +3624,15 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m
 ############## FILMES  COLETANEA JACKIE CHAN ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  COLETANEA JACKIE CHAN" group-title="
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hFGue47AJS60euzdNPN6WZXAFemRC9F-yR3RISN5tZBO4AXY5agbQkDxsg40JGMGAe0&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Em Nome da Lei 
+https://play.prod.gcp.vix.services/police-story-2013_pt/police-story-2013_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0XQu_l2z3ebrdJ5MCks6JcVOYuYIYGUt6Ns9nRJrXIjCKVtCXnnJbIkKv8_dLLcTWaQ&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Batalha dos Impérios
+https://play.prod.gcp.vix.services/dragon-blade_pt/dragon-blade_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Gv3i8IsRzGph4DdWVaDwKLk_d-hbJmdwucaQ9mE3D3zvwp6l9p5dtA4nqZTzDKKBZAE&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Armadura de Deus
+https://play.prod.gcp.vix.services/armour-of-god_pt/armour-of-god_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto"tvg-logo="https://i.ytimg.com/vi/We8NtpHDkDc/maxresdefault.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Acerto 
+https://play.prod.gcp.vix.services/new-police-story_pt/new-police-story_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga"tvg-logo="https://m.media-amazon.com/images/I/91NSQEWHmsL._AC_SL1500_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Kung Fu Yoga
 https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl3dW0-Z183P6r_YtqoRVIgmlBY3ykop17_NQyYjFtkMBSnNhwQY_pgWE_e2VgqBFiCw&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Batalha dos Impérios
