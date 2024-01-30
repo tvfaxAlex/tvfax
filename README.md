@@ -3237,6 +3237,8 @@ https://play.prod.gcp.vix.services/penitent-thief_pt/penitent-thief_pt_1-1/play_
 ############## FILME TV e Radio FAX archive ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV e Radio FAX archive" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Treinamento Prutal"tvg-logo="https://s01.video.glbimg.com/x216/11959656.jpg"group-title="FILME TV e Radio FAX archive",Treinamento Prutal
+https://ia801306.us.archive.org/32/items/assistir-treinamento-brutal-online-gratis/Assistir%20Treinamento%20Brutal%20Online%20Gr%C3%A1tis.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O CAMINHO DIFÍ CIL THE HARD WAY"tvg-logo="https://images.justwatch.com/poster/116903385/s592/the-hard-way-2019"group-title="FILME TV e Radio FAX archive",O CAMINHO DIFÍ CIL THE HARD WAY
 https://ia601209.us.archive.org/31/items/o-caminho-difi-cil-the-hard-way-tv-fax/O%20CAMINHO%20DIF%C3%8DCIL%20-%20THE%20HARD%20WAY%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Free Fire O Tiroteio"tvg-logo="https://i.pinimg.com/originals/35/f1/3b/35f13bd31495b8610bcb8349ad22bcb4.gif"group-title="FILME TV e Radio FAX archive",Free Fire O Tiroteio
@@ -3432,6 +3434,33 @@ https://ia801905.us.archive.org/17/items/o-gordo-e-o-magro-marinheiros-de-agua-d
 https://ia903203.us.archive.org/25/items/o-gordo-e-o-magro-o-capitao-e-seu-marujo-colorido-1932/O%20Gordo%20e%20o%20Magro%20-%20O%20Capit%C3%A3o%20e%20seu%20Marujo%20%5BColorido%281932%29%5D.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma boa ação nem sempre dá bom resultado"tvg-logo="https://i.ytimg.com/vi/UMOYzCalGwE/mqdefault.jpg"group-title="O Gordo E O Magro",Uma boa ação nem sempre dá bom resultado
 https://ia903202.us.archive.org/30/items/o-gordo-e-o-magro-uma-boa-acao-nem-sempre-da-bom-resultado-colorido-1931/O%20Gordo%20e%20o%20Magro%20-%20Uma%20boa%20a%C3%A7%C3%A3o%20nem%20sempre%20d%C3%A1%20bom%20resultado%21%20%5BColorido%281931%29%5D.ia.mp4
+
+#EXTM3U url-tvg="http://grade-de-Mazzaropi TV FAX.xml"
+############## Mazzaropi TV FAX  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeMazzaropi TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Jeca Herdou uma fortuna" tvg-logo="https://i.ytimg.com/vi/DaaRM9Mlyuw/maxresdefault.jpg" group-title="Mazzaropi TV FAX",O Jeca Herdou uma fortuna
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Cenas%20Mazzaropi%20-%20O%20Jeca%20Herdou%20uma%20Fortuna%21%20%281974%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Julgamento do jeca" tvg-logo="https://i.ytimg.com/vi/3oOrRY16nuI/maxresdefault.jpg" group-title="Mazzaropi TV FAX",O Julgamento do jeca
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Cenas%20Mazzaropi%20-%20O%20Julgamento%20do%20JECA%F0%9F%91%A8_%E2%9A%96%20%F0%9F%A4%A0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a casinha pequenina" tvg-logo="https://i.ytimg.com/vi/vigoO7v5Lto/maxresdefault.jpg" group-title="Mazzaropi TV FAX",a casinha pequenina
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20Casinha%20Pequenina%20-%20Filme%20Completo%20-%20Filme%20de%20Com%C3%A9dia%20Cine%20Cl%C3%A1ssico.mp4
+#EXTINF:-1 tvg-id="" tvg-name="chofer de praça" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dcd8e92270232b0443b8ad4b70972892158623a57cc8a3c42c70c21a733afbb6.jpg" group-title="Mazzaropi TV FAX",chofer de praça
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20Chofer%20de%20Pra%C3%A7a%20-%20Filme%20de%20Com%C3%A9dia%20-%20Filme%20Completo%20Bang%20Bang.mp4
+#EXTINF:-1 tvg-id="" tvg-name="jeca tatu" tvg-logo="https://i.ytimg.com/vi/gyPSrwKPJl4/maxresdefault.jpg" group-title="Mazzaropi TV FAX",jeca tatu
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20Jeca%20Tatu%20-%20Filme%20de%20Com%C3%A9dia%20-%20Filme%20Completo%20Bang%20Bang.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jeca e seu Filho Preto" tvg-logo="https://i.ytimg.com/vi/pUTYtd7cWcg/maxresdefault.jpg" group-title="Mazzaropi TV FAX",Jeca e seu Filho Preto
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20Jeca%20e%20Seu%20Filho%20Preto%20-%20Filme%20Completo%20-%20Filme%20de%20Com%C3%A9dia%20Cine%20Cl%C3%A1ssico.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Fofoqueiro no ceu" tvg-logo="https://i1.sndcdn.com/artworks-000186940895-gmyjl9-t500x500.jpg" group-title="Mazzaropi TV FAX",Um Fofoqueiro no ceu
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20Jec%C3%A3o...%20Um%20Fofoqueiro%20no%20C%C3%A9u%20-%20Filme%20Completo%20-%20Filme%20de%20Com%C3%A9dia%20Museu%20Mazzaropi.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corintiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfXOu2aFgv_OPD3GZvRoYzoxX9hcoIZSygWhw2RdmGVrgDF4IuPF3yT2OC6Cidct8Gy0&usqp=CAU" group-title="Mazzaropi TV FAX",Corintiano
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20O%20Corintiano%20-%20Filme%20Completo%20-%20Filme%20de%20Com%C3%A9dia%20Museu%20Mazzaropi.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Xerife" tvg-logo="https://ottvsimg.ottvs.com.br/cov/pro.175592/0175592_335.jpg" group-title="Mazzaropi TV FAX",O Grande Xerife
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20O%20Grande%20Xerife%20-%20Filme%20Completo%20-%20Filme%20de%20Com%C3%A9dia%20Tela%20Nacional.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vendedor de Linguiça" tvg-logo="https://www.museumazzaropi.org.br/wp-content/uploads/2020/09/OVendedorDeLinguica-scaled.jpg" group-title="Mazzaropi TV FAX",Vendedor de Linguiça
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20O%20Vendedor%20de%20Lingui%C3%A7a%20-%20Filme%20de%20Com%C3%A9dia%20-%20Filme%20Completo%20Bang%20Bang.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Museu" tvg-logo="https://i.ytimg.com/vi/J6eGgQ_lBj8/maxresdefault.jpg" group-title="Mazzaropi TV FAX",Museu
+https://archive.org/download/assistir-treinamento-brutal-online-gratis/Museu%20Mazzaropi%20-%20.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX |  ONLINE.xml"
 ############## FILME TV FAX |  ONLINE ################# 
@@ -7572,50 +7601,46 @@ https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="RADIOS",Blog do Léo Lima
 https://player.painelvox.com/player-ssl/8340/;
 
-#EXTM3U url-tvg="http://grade-de-Série fubar tv fax.xml"
-############## Série fubar tv fax  ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSérie fubar tv fax" group-title="
+#EXTM3U url-tvg="http://grade-de-[Séries da Semana].xml"
+############## [Séries da Semana]  ################# 
+#EXTINF:-1 tvg-id=" iddocanalde[Séries da Semana]" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E01" tvg-logo="https://s2-techtudo.glbimg.com/VNomAPCg8JSt01Ay1Y-REaZWX9c=/0x0:1140x807/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/y/d/BW2OjpTwmX9jNrA6HRnA/fubar-netflix-techtudo-01.jpg" group-title="Série fubar tv fax",fubar S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbovhZ4L3PD0KW0bm9ZHbrZFPgh.jpg" group-title="[Séries da Semana]",fubar: TVFAX S01 E01
 https://archive.org/details/fubar-1x6-dublado-www.encontrei.tv/fubar-1x1-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E02" tvg-logo="https://cinema10.com.br/upload/series/series_3655_fubar-poster.jpg" group-title="Série fubar tv fax",fubar S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E02" tvg-logo="https://s2-techtudo.glbimg.com/VNomAPCg8JSt01Ay1Y-REaZWX9c=/0x0:1140x807/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/y/d/BW2OjpTwmX9jNrA6HRnA/fubar-netflix-techtudo-01.jpg" group-title="[Séries da Semana]",fubar: TVFAX S01 E02
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x2-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6T5WTcEdKXbUGJqLILcpovxNWFYalTkxrGgN3QybX8nrntESYnyO5rFYmby96mWCw3J4&usqp=CAU" group-title="Série fubar tv fax",fubar S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E03" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/02/fubar-nova-serie-netflix-scaled.jpg" group-title="[Séries da Semana]",fubar: TVFAX S01 E03
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x3-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXRzsNDwd2HODFwTj0GxW17uBEmGa_M_Fk4CntYoOmRBsYl_Prw3gR3k3mOOxmKypV6U&usqp=CAU" group-title="Série fubar tv fax",fubar S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXRzsNDwd2HODFwTj0GxW17uBEmGa_M_Fk4CntYoOmRBsYl_Prw3gR3k3mOOxmKypV6U&usqp=CAU" group-title="[Séries da Semana]",fubar: TVFAX S01 E04
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x4-dublado-www.encontrei.tv.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UGGbkO4fItY0YN3sja8FYvUM2gjode6wl1MJ4Km0UQF8ls7WL0bdOFprncsARMj_OsE&usqp=CAU" group-title="Série fubar tv fax",fubar S01 E05
-
-
-#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E06" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/02/fubar-nova-serie-netflix-scaled.jpg" group-title="Série fubar tv fax",fubar S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UGGbkO4fItY0YN3sja8FYvUM2gjode6wl1MJ4Km0UQF8ls7WL0bdOFprncsARMj_OsE&usqp=CAU" group-title="[Séries da Semana]",fubar: TVFAX S01 E05
+https://archive.org/details/fubar-1x6-dublado-www.encontrei.tv/fubar-1x5-dublado-www.encontrei.tv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E06" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/02/fubar-nova-serie-netflix-scaled.jpg" group-title="[Séries da Semana]",fubar: TVFAX S01 E06
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x6-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiQYuv5VnN1KZf47g6QsYlF8ocz.jpg" group-title="Série fubar tv fax",fubar S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_fzbnGURCVWD8tO6MUbOHeycbRJIKw1JW2T0ceONrd1egSL5kKDpuOC_LeVUbvvCz2I&usqp=CAU" group-title="[Séries da Semana]",fubar: TVFAX S01 E07
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x7-dublado-www.encontrei.tv.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="fubar S01 E08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_fzbnGURCVWD8tO6MUbOHeycbRJIKw1JW2T0ceONrd1egSL5kKDpuOC_LeVUbvvCz2I&usqp=CAU" group-title="Série fubar tv fax",fubar S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiQYuv5VnN1KZf47g6QsYlF8ocz.jpg" group-title="[Séries da Semana]",fubar: TVFAX S01 E08
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x8-dublado-www.encontrei.tv.mp4
 
-#EXTM3U url-tvg="http://grade-de-Série reacher Tv Fax.xml"
-############## Série reacher Tv Fax ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSérie reacher Tv Fax" group-title="
+#EXTM3U url-tvg="http://grade-de-[Séries da Semana].xml"
+############## [Séries da Semana]  ################# 
+#EXTINF:-1 tvg-id=" iddocanalde[Séries da Semana]" group-title="
 
-
-#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E01" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/11/reacher-1.jpg.webp" group-title="Série reacher Tv Fax",reacher S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E01" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/11/reacher-1.jpg.webp" group-title="[Séries da Semana]",reacher: TVFAX S01 E01
 https://archive.org/serve/reacher-1x5-dublado-www.encontrei.tv/reacher-1x1-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZ9HW4b2Ul4XviIBlAeVIBIkc9GlnSuH_jR1E0dU2X-u_8Bg_tWHW-k4d8dqhXPlhRXc&usqp=CAU" group-title="Série reacher Tv Fax",reacher S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VptQQtgWldaJ7POSlM2P1vqA7HOkZGPmjLsZWeDPzilELprzNMSP40Sm0ICQSDSbr_E&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX S01 E02
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x2-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VptQQtgWldaJ7POSlM2P1vqA7HOkZGPmjLsZWeDPzilELprzNMSP40Sm0ICQSDSbr_E&usqp=CAU" group-title="Série reacher Tv Fax",reacher S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeKjpUegXMEBYNYm3gUA5rpvUzsHp5CuidZEMJu_9JZWxpj0TV6iUsbXMnWNQyyQL_h8&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX S01 E03
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x3-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeKjpUegXMEBYNYm3gUA5rpvUzsHp5CuidZEMJu_9JZWxpj0TV6iUsbXMnWNQyyQL_h8&usqp=CAU" group-title="Série reacher Tv Fax",reacher S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeKjpUegXMEBYNYm3gUA5rpvUzsHp5CuidZEMJu_9JZWxpj0TV6iUsbXMnWNQyyQL_h8&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX S01 E04
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x4-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E05" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2024/01/Reacher-1-3.webp" group-title="Série reacher Tv Fax",reacher S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E05" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2024/01/Reacher-1-3.webp" group-title="[Séries da Semana]",reacher: TVFAX S01 E05
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x5-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E06" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2023/12/Reacher-2-temporada-serie-final.webp" group-title="Série reacher Tv Fax",reacher S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E06" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2023/12/Reacher-2-temporada-serie-final.webp" group-title="[Séries da Semana]",reacher: TVFAX S01 E06
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x6-dublado-www.encontrei.tv%281%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNuAdv_GOy2eO4RAuEYnafP0TXon_oryTpJ2xO-eXV02Bm0wSkhskQjR0ib-3LRuBfqcs&usqp=CAU" group-title="Série reacher Tv Fax",reacher S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNuAdv_GOy2eO4RAuEYnafP0TXon_oryTpJ2xO-eXV02Bm0wSkhskQjR0ib-3LRuBfqcs&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX S01 E07
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x7-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher S01 E08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTea92ZpyKvHmO9pBnVMuBA7LZO3_45rNNIFcdnFL-Wdjyfs8a68FjfzKaEu8cgWameyco&usqp=CAU" group-title="Série reacher Tv Fax",reacher S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTea92ZpyKvHmO9pBnVMuBA7LZO3_45rNNIFcdnFL-Wdjyfs8a68FjfzKaEu8cgWameyco&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX S01 E08
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x8-dublado-www.encontrei.tv.mp4
 
 #EXTM3U url-tvg="http://grade-de-[Séries da Semana].xml"
