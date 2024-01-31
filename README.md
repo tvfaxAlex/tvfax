@@ -2667,6 +2667,12 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/27
 ############## FILME 2023 TV e Radio FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME 2023 TV e Radio FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="O Portal Secreto 2023"tvg-logo="https://i.ytimg.com/vi/XD2eUFVJFOQ/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",O Portal Secreto 2023
+https://vod.cf.dmcdn.net/sec2(h7t04TP6MtH7E9eONDEbKBJhxwG1B1XZA3oON0ilFq_gJOq-6cTW60jdfzPoYAM2_K1JQ1vYSCg7hvmDjIeC6Gws5w3KxZoF0V4mkxaXqSO-27GltPOIsksobbQMGXidlSDw10K-e_H3hMHQ-RsaqQ)/video/040/575/523575040_mp4_h264_aac_fhd_6.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Amor² Para Sempre  2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-6qOO7Y43JYfzWDWhGrufxp6AAuiwIQh8Qy9guE21EIvI25EqIqOjsPmuGyNDbuLJpI&usqp=CAU"group-title="FILME 2023 TV e Radio FAX",Amor² Para Sempre  2023
+https://vod.cf.dmcdn.net/sec2(cs24j-vvbY-DCXD1KVF8tUX_B-ipXG7i78rIpISnbtVkeNkHfJwiCxSDRtnIl8lFAQjbvg8CozzoZF19symTS6MO8OzLSX0sYj2l0wsTVD6awEgl-BYCPmoxvFgWdrSyCm31CW1YblHwIJvR12B3jg)/video/932/091/523190239_mp4_h264_aac_fhd_4.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Desejo Proibido 2023"tvg-logo="https://i.ytimg.com/vi/sCnXMyhW33E/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Desejo Proibido 2023
+https://vod.cf.dmcdn.net/sec2(J1aZzsYZpn23AUcJA_e2UztFWXVSD-wgii6BN8MMscN1X4Fh7su3OCg6KkDQNG5istpuMkn7zV_d4CWhM5bxteiltDNcef_71o7kBdelpHjZR11yvcg3Ap0CqML5FAnPqhdvcIoLzNJ_Y57kcIZqLw)/video/847/804/521408748_mp4_h264_aac_fhd_5.m3u8#cell=cf
 #EXTINF:-1 tvg-id="" tvg-name="Onde Está Deus"tvg-logo="https://i.ytimg.com/vi/ypwhqPTjem4/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Onde Está Deus
 https://vod.cf.dmcdn.net/sec2(qj9ga07Rjm8JdsARpNR3Ya70-G2JVJ9yUe_qYp8Da_KY9_u7r_e5TddrFrbSXy7olOYuza6iGvzWPtHAtlfYRVYYm6Jk7TPmqXhKwFsHljKKMZgT9_Io_ajWXFqf46T4NJktyOSTxzQ0lyMqgeYjlQ)/video/751/169/517961157_mp4_h264_aac_fhd_4.m3u8#cell=cf
 #EXTINF:-1 tvg-id="" tvg-name="Rumo à Conquista (2023)"tvg-logo="https://i.ytimg.com/vi/fqc-2zwWFkQ/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Rumo à Conquista (2023)
@@ -2675,11 +2681,76 @@ https://vod.cf.dmcdn.net/sec2(pwKC_kmm-CtnoM6ZndTTcsmCRLgSmSffAw_WjTczM9OFB1AkFq
 https://vod.cf.dmcdn.net/sec2(89S-oBAUNcyySUiyCPhCX7bwR8NfdSk8K65WsRUisP4rdwWbf_HjOeodYmQJByxB3u6T7L-O2hAUCtb_DFbA_keoCMovzoAxAhtjmh5fLEbGYNnJRcjcqlVNJf8tGePjBv6Z4rh4iqxIX3FQzR3A-w)/video/247/560/517065742_mp4_h264_aac_fhd_4.m3u8#cell=cf
 #EXTINF:-1 tvg-id="" tvg-name="Os Três Cães Mosqueteiros"tvg-logo="https://cdn.fstatic.com/media/movies/covers/2023/02/121825_background.jpg"group-title="FILME 2023 TV e Radio FAX",Os Três Cães Mosqueteiros
 https://vod.cf.dmcdn.net/sec2(WtoAwdpjJeapwIIO0SVkl1pqSFL4aIqLfmMMSqW5Cet0MvCoDZAzZaG-R47WLSYBmiRVgYgLsI7JtYSTfLoBNE2RXrN3GmRMrXfETAbdQFT1HWyHC_qVS8fKApvt2gAD1QUxiDCu-hgR1S7VCqxFtw)/video/535/116/506611535_mp4_h264_aac_fhd.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Feitiçaria 2023"tvg-logo="https://i.ytimg.com/vi/9Sw08qfSAlo/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Feitiçaria 2023
+https://vod.cf.dmcdn.net/sec2(r1FH8KyQyX2QLT-TeBhyeC7jKHmgfsqVE37euDzjUaM1RPvkhT5P2HrRsHWqqT7qGAswtBDWEt6JAvJ3wsjR08l8qNC0Z9mM9-a_Fblqzw4ZxgVgzsoWPQumTexvNjgn-f7AyYGHLNY0Q8WE_Xmpew)/video/194/518/523815491_mp4_h264_aac_fhd_7.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="O Conde 2023"tvg-logo="https://br.web.img2.acsta.net/pictures/23/08/30/08/40/4987185.jpg"group-title="FILME 2023 TV e Radio FAX",O Conde 2023
+https://vod.cf.dmcdn.net/sec2(Va1OZgxqhz4-NRNuUxZ12G8071cyALBTuUUW-JKgks2hqH89WrK7vO3PD9P0MJS8jDfkQzTer4tarCbJbtEMAZvUQCfv6ynx3kJac5E47Ais1wLGx64stfZTuh_Q3Hw3UpseWMZtzy1vQuNG0lhMbQ)/video/930/082/524280039_mp4_h264_aac_fhd_6.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Operação Arma Secreta  2023"tvg-logo="https://i.ytimg.com/vi/UmHsrVfogQI/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Operação Arma Secreta  2023 
+https://vod.cf.dmcdn.net/sec2(N4oUhJI-SuuK6NBxLb7IHDaeuCqaorLQ7pHZaNAA7MI_g39fycfUr-E9JB2LUbnwlB1MtQoSq6xMFJ4IEP0dpa-YU6C1Y1cJX0pKlvzZbNU1C1xS3WtGjjFv0mCUh4YTluUxBBtrEGkZGLJbAoQezg)/video/332/055/522550233_mp4_h264_aac_fhd_4.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino 2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGZumf79fQkEgyluAFdXHfPXbrXhUmL5hRiaACW5Gy6BphELFuCZu_0veg2FWXCDbU3U&usqp=CAU"group-title="FILME 2023 TV e Radio FAX",O Assassino 2023
+https://vod.cf.dmcdn.net/sec2(9cEpJucZYlV3dSZgWW4WPM4bALI7ymbwxyvsqk8UUvlsSNZXfOODJN0nCKE_HdZROAD6xgZNItsyAeyn_oabgCkItElIPCAJuYEIgTymL8mTeC8egvlV8syIHIdVAZnY46wHMCkWfJ0r02Wlw0yl2g)/video/747/326/526623747_mp4_h264_aac_fhd_9.m3u8#cell=cf
+
+#EXTM3U url-tvg="http://grade-de-FILME Antigos TV e Radio FAX .xml"
+############## FILME Antigos TV e Radio FAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME Antigos TV e Radio FAX " group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Paixão Sem Limites 2010"tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/78d39f7145454334b50987df3d05d7357bb9ede2bf454242f0db848fce7777fe.jpg"group-title="FILME Antigos TV e Radio FAX",Paixão Sem Limites 2010
+https://vod.cf.dmcdn.net/sec2(hZa1z9FN0Q5WZoKH_vbZA5ePhDpwfnJ9Z2oIo8Zs7sYc5lDFc10RME-KtyOtC5O9-ZH0FwB6o3fInZ1mtHgXKOfaxN5XtxhZpIubRxKIcdNAnuAiiGgwg4Te3TrDcW_9VfVppEky0k7Mjs_UYLFgZA)/video/648/523/524325846_mp4_h264_aac_hd_4.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Zarak 1956"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkA-utKF6BWTuErzHguwzv3VlQ7D7aq2TD71m8RQrnNXMO8dt0JRh0piUbS9r2PrsG0U&usqp=CAU"group-title="FILME Antigos TV e Radio FAX",Zarak 1956
+https://ia802504.us.archive.org/35/items/a-queda-do-imperio-romano-filme-dublado-1964/Zarak%201956%20Dublado.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Watusi O Gigante Africano 1959"tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JiMTgxYzItMGI4Ny00ODEyLWFjMzYtYWUzOTViNmRlMzFiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UX1000_.jpg"group-title="FILME Antigos TV e Radio FAX",Watusi O Gigante Africano 1959
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/Watusi%20O%20Gigante%20Africano%20-%201959%20-%20Dublado.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ulysses 1954"tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk2ZTZmY2ItMjJiMi00MWVkLTkwMGEtODQzNDcyNzg0OTUyXkEyXkFqcGdeQXVyMTk4Njc5MTM@._V1_.jpg"group-title="FILME Antigos TV e Radio FAX",ulysses 1954
+https://ia802504.us.archive.org/35/items/a-queda-do-imperio-romano-filme-dublado-1964/Ulysses%20%281954%29%2C%20com%20Kirk%20Douglas%2C%20filme%20completo%20e%20legendado.mp4
+#EXTINF:-1 tvg-id="" tvg-name="rochedos da morte 1953"tvg-logo="https://i.ytimg.com/vi/k4B_LFEoqeM/maxresdefault.jpg"group-title="FILME Antigos TV e Radio FAX",rochedos da morte 1953
+https://ia902504.us.archive.org/35/items/a-queda-do-imperio-romano-filme-dublado-1964/Rochedos%20da%20Morte%20%281953%29%20-%20Dublado%20%F0%9F%87%A7%F0%9F%87%B7%20-%20Beneath%20the%2012-Mile%20Reef%20-%20Filmes%20Cl%C3%A1ssicos%20-%20Aventura.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando Roma dominou o Egito"tvg-logo="https://blogvidanoegito.files.wordpress.com/2020/05/filmes-sobre-o-egito.jpg"group-title="FILME Antigos TV e Radio FAX",Quando Roma dominou o Egito
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/Quando%20Roma%20dominou%20o%20Egito%20Dublado.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DA TÁVOLA REDONDA 1953"tvg-logo="https://dw0jruhdg6fis.cloudfront.net/producao/23925614/G/cavaleiros_da_tavola_redonda.jpg"group-title="FILME Antigos TV e Radio FAX",OS CAVALEIROS DA TÁVOLA REDONDA 1953
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/OS%20CAVALEIROS%20DA%20T%C3%81VOLA%20REDONDA%201953%20-%20DUBLADO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O filho de sansao 1960"tvg-logo="https://lh3.googleusercontent.com/proxy/1Zj8Vya0R63gyhiW9cW5itGoYg5fSDH3ceGT-JdH8OrAv_vnFnfOE6xk5Fp8xrRm7wEiS4vCdsVYo9mkeYMsXWbkb0vGJxWBkq6CH9qDtoKcbB9BEUUacAOHG-jwxG0"group-title="FILME Antigos TV e Radio FAX",O filho de sansao 1960
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20filho%20de%20sans%C3%A3o%201960%20DUBLADO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O VALE DOS REIS 1954"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpfG61oA9UP_asBg3kP1DF8zF-BVQr0UQKWayVV5N5PbmtuflT1kdEZKunqGkQ2Tr5c4I&usqp=CAU"group-title="FILME Antigos TV e Radio FAX",O VALE DOS REIS 1954
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20VALE%20DOS%20REIS.%20_1954_%20%20%28DUBLADO%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O VALE DOS REIS 1954"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8mBzGvPyaMQsSL92eVElmR530MQAjuJDZdIfjnOmVHSlxVoz0emAgvtQIQzZojHQGeqs&usqp=CAU"group-title="FILME Antigos TV e Radio FAX",O VALE DOS REIS 1954
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20VALE%20DOS%20REIS%20%E2%80%A2%20FILME%20DE%20AVENTURA%20COMPLETO%20DUBLADO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Tesouro do Condor de Ouro 1953"tvg-logo="https://i.ytimg.com/vi/XyrQr5_xJ1g/maxresdefault.jpg"group-title="FILME Antigos TV e Radio FAX",O Tesouro do Condor de Ouro 1953
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Tesouro%20do%20Condor%20de%20Ouro%20-%201953%20-%20Dublado.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Soldado da Rainha 1952 "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-N7-ozohRCHhwhWkTSXycujlfM9RyBFzVwc-G_Cxf8QJ6HgPUqDW71l62_31Tz0DT6w&usqp=CAU"group-title="FILME Antigos TV e Radio FAX",O Soldado da Rainha 1952 
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Soldado%20da%20Rainha%201952%20Dublado%20Filme%20de%20Aventura.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pirata dos 7 Mares  1964 "tvg-logo="https://dw0jruhdg6fis.cloudfront.net/producao/23925316/G/pirata_dos_7_mares.jpg"group-title="FILME Antigos TV e Radio FAX",O Pirata dos 7 Mares  1964 
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Pirata%20dos%207%20Mares%20-%20Filme%20Completo%20Dublado%20-%20Filme%20de%20Aventura%20_%20Cine%20Cl%C3%A1ssico.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O  PRINNCIPE PIRATA 1953 "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39chWu_SM5E0mbn7pQy9KsRMMFdEVXnYuHREQx_Cskbb3R-pQtrXSZ9_eTmgFBbLk7gw&usqp=CAU"group-title="FILME Antigos TV e Radio FAX",O  PRINNCIPE PIRATA 1953
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20PR%C3%8DNCIPE%20PIRATA%201953%20-%20DUBLADO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fabuloso Ladrao de Bagdá 1978"tvg-logo="https://i.ytimg.com/vi/aQDYR-yTToo/maxresdefault.jpg"group-title="FILME Antigos TV e Radio FAX",O Fabuloso Ladrao de Bagdá 1978
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Fabuloso%20Ladr%C3%A3o%20de%20Bagd%C3%A1%201978%20Dublado%20Filme%20de%20Aventura.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O FALAO DOURADO 1952"tvg-logo="https://i.ytimg.com/vi/4gZ6y_aAjpw/sddefault.jpg"group-title="FILME Antigos TV e Radio FAX",O FALAO DOURADO 1952
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20FAL%C3%87%C3%83O%20DOURADO%201952%20-%20DUBLADO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Egipcio 1954"tvg-logo="https://media.fstatic.com/TIyEq_cBQQMDTnwcwaFFndtj0uY=/322x478/smart/filters:format(webp)/media/movies/covers/2016/02/o-egipcio_t22157.jpg"group-title="FILME Antigos TV e Radio FAX",O Egipcio 1954
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Eg%C3%ADpcio%201954%20%28dublado%20em%20portugu%C3%AAs%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Conde de Monte Cristo1964"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/78/67/19961538.jpg"group-title="FILME Antigos TV e Radio FAX",O Conde de Monte Cristo1964
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Conde%20de%20Monte%20Cristo%20-%20Filme%20Completos%20Dublado.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Colosso de Roma 1964 "tvg-logo="https://i.ytimg.com/vi/NMB8J-vJuL8/sddefault.jpg"group-title="FILME Antigos TV e Radio FAX",O Colosso de Roma 1964 
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Colosso%20de%20Roma%20-%201964%20%28%20Dublado%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cisne Negro (1942)"tvg-logo="https://cinemalivre.net/imagens/capas/o-cisne-negro-1942-o.jpg"group-title="FILME Antigos TV e Radio FAX",O Cisne Negro (1942)
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Cisne%20Negro%20%281942%29%20%C3%89pico%20Dublagem%20Cl%C3%A1ssica%20em%20Cores.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legioes do Nilo 1959"tvg-logo="https://i.ytimg.com/vi/bNLWB8e8M-E/hqdefault.jpg"group-title="FILME Antigos TV e Radio FAX",Legioes do Nilo 1959
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/Legi%C3%B5es%20do%20Nilo%20-%201959%20%28Dublado%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nossa Senhora Aparecida- Milagre das Águas"tvg-logo="https://media.fstatic.com/ZBQtJ_FPTkzPFWgZChVLUXpD5f4=/210x312/smart/filters:format(webp)/media/movies/covers/2016/08/230_1_20130731002421.jpg"group-title="FILME Antigos TV e Radio FAX",Nossa Senhora Aparecida- Milagre das Águas
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706683488/ei/AJi5ZevRFZuiobIPh8WO0AY/ip/168.227.218.17/id/5f36e788718ed949/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr2---sn-5hnekn7d.googlevideo.com/mh/xW/mm/31%2C29/mn/sn-5hnekn7d%2Csn-5hne6nz6/ms/au%2Crdu/mv/m/mvi/2/pl/24/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/680000/vprv/1/go/1/mt/1706660929/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDwo_aJCMs_-JpFq_6pdrGf29Y8gUJrw_B03DgS1wHOMCIQDfQZIF3jCYE8Yic5eQt4rUZqO6yE_MHzQ3qD3l6iSjjw%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhANQ2Pfa3_LiAk8Em5sO8_Jo3Lnru5g7De1NJOAb7e66lAiEAoKBjIZsOT3oYtz_r8BF1AAqi8Ir_JlFi-ZP0JlYPO6M%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Orca A Baleia Assassina  1977"tvg-logo="https://i.ytimg.com/vi/Zbw6xZw-0tA/maxresdefault.jpg"group-title="FILME Antigos TV e Radio FAX",Orca A Baleia Assassina  1977
+https://vod.cf.dmcdn.net/sec2(4_bywSVhGlCI115Aq1bCKbb6QKP3VWNMNNZtQPROUzb1g-3msL9CyGX0rAl_jXWb7L9HDR62L0JGSLAROaiKURM6mR2H_hJMfyw2Fx5UUKeUe4mCWCR3_SaU6Gf1mwSimT_6UnP5n1qNZhzZjebBUA)/video/626/073/516370626_mp4_h264_aac_hd_7.m3u8#cell=cf
 
 #EXTM3U url-tvg="http://grade-de-FILME TV e Radio FAX archive.xml"
 ############## FILME TV e Radio FAX archive ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV e Radio FAX archive" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Prova de Fogo (2008)"tvg-logo="https://i.ytimg.com/vi/xYWwUI3j4_Q/sddefault.jpg"group-title="FILME TV e Radio FAX archive",Prova de Fogo (2008)
+https://vod.cf.dmcdn.net/sec2(IzNB12gnTeftRB-1zg0nyFyl6ZPdgSzevfKnACsc0Jkuq7I3WLrIRomvZTVGvi9bwHMPi81BufmF2b3Wlpz1_hs8HuwnaAU06MbF7iXN7GI7oQbiKrggnjpJxi0soLzShYhU7dWRMtcQVY8BZ7yYNw)/video/485/983/512389584_mp4_h264_aac_hd.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="O Arrebatamento"tvg-logo="https://biblia.com.br/wp-content/uploads/2012/11/volta-de-Jesus.jpg"group-title="FILME TV e Radio FAX archive",O Arrebatamento
+https://vod.cf.dmcdn.net/sec2(_ff0qDXil-W36xFTHV_oRJ5HyvwZ11TDDOBJaQKuJ25pRhP0UZJAoMjkSyGk_zHoTM3GGWRY-vHZWoA-LeZAEu2t1WwMe4cja0hIU5_7Uq-cvN9eQbxXHFMIaVgeXxI6yvJ88FdmRBwPaDX3sjOkxw)/video/375/803/516308573_mp4_h264_aac_hq_1.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Mortal "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lPuWdCxcKL1oSNqXGbtmwrbkJLWcb27xkmd52fKcJY4gJwKsSR_oK6t7F3zT7ed1LsE&usqp=CAU"group-title="FILME TV e Radio FAX archive",Mortal 
+https://vod.cf.dmcdn.net/sec2(91CKZpPv-Eq2wQN7Mmlwny41MSENw1WDa8IpxHrRQnoYz-IO4eT8Mi09TT4E8x99LmynZVTKei9AHr_PJ-o4tSi-tvonebtvWJeVkXDuGmeWiPeXJxhNRqslIpebP4wBCfGv-d22U8nokDdnwn9KVA)/video/761/419/521914167_mp4_h264_aac_fhd_4.m3u8#cell=cf
 #EXTINF:-1 tvg-id="" tvg-name="Rumo à Conquista (2023)"tvg-logo="https://i.ytimg.com/vi/fqc-2zwWFkQ/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",Rumo à Conquista (2023)
 https://vod.cf.dmcdn.net/sec2(pwKC_kmm-CtnoM6ZndTTcsmCRLgSmSffAw_WjTczM9OFB1AkFqM09UJuOKYmaFRhH-ssazxaP1rfipURJqlI1pf22EoABX2ZfTureQZaaynWHSXVZpXHDYwAdwbafhEe2TqlfQO7o0aDtSAetO6ckA)/video/001/610/523016100_mp4_h264_aac_fhd_1.m3u8#cell=cf
 #EXTINF:-1 tvg-id="" tvg-name="Treinamento Prutal"tvg-logo="https://s01.video.glbimg.com/x216/11959656.jpg"group-title="FILME TV e Radio FAX archive",Treinamento Prutal
