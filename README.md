@@ -28,7 +28,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/258181
 #EXTINF:-1 tvg-id="" tvg-name="QUARTO FADA" tvg-logo="" group-title="BBB 24",7
 http://voz.one:80/alexfnt/vTFBGKdUYq/258182
 
-
 #EXTINF:-1 tvg-id="" tvg-name="QUARTO FADA" tvg-logo="" group-title="BBB 24",QUARTO FADA
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1257
 #EXTINF:-1 tvg-id="" tvg-name="QUARTO GNOMO" tvg-logo="" group-title="BBB 24",QUARTO GNOMO
@@ -52,6 +51,61 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1251
 https://archive.org/serve/mamonas-assassinas-2024-tv-fax/Mamonas%20assassinas%202024%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mamonas assassinas 2024 TV FAX"tvg-logo="https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/421879031_345685115051539_139630611457746242_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGtADegqFDsG2xRBc-UU-vWQIypAwPE-nVAjKkDA8T6df52g5_fDY68PIAoKerljYRzTBQZ984LcCxYSdqWOIOO&_nc_ohc=9naX8GLEtI4AX9thtT0&_nc_ht=scontent-gru1-2.xx&oh=00_AfC_4tDTD9afFck-r2DvMgacGxiRSH-VsGCJuUpXr1WHvA&oe=65B9DE4B" group-title="Mamonas assassinas 2024 TV FAX",Mamonas assassinas 2024 TV FAX
 https://ia801309.us.archive.org/9/items/mamonas-assassinas-2024-tv-fax/Mamonas%20assassinas%202024%20TV%20FAX.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILME 2024 TV e Radio FAX.xml"
+############## FILME 2024 TV e Radio FAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME 2024 TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Em Ruínas TV FAX"tvg-logo="https://i0.wp.com/flixlandia.com.br/wp-content/uploads/2024/01/Em-Ruinas-critica-do-filme-sul-coreano-Netflix-2024.jpg?fit=1024%2C576&ssl=1"group-title="FILME 2024 TV e Radio FAX",Em Ruínas TV FAX
+https://archive.org/download/em-ruinas-tv-fax/Em%20Ru%C3%ADnas%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outback TV FAX"tvg-logo="https://cinepop.com.br/wp-content/uploads/2020/04/outback.jpg"group-title="FILME 2024 TV e Radio FAX",Outback TV FAX
+https://archive.org/download/outback-tv-fax/Outback%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prisão Domiciliar TV FAX"tvg-logo="https://i.ytimg.com/vi/nM9-OsAt6xo/mqdefault.jpg"group-title="FILME 2024 TV e Radio FAX",Prisão Domiciliar TV FAX
+https://archive.org/download/prisao-domiciliar-tv-fax/Pris%C3%A3o%20Domiciliar%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bons Companheiros Jackie Chan TV FAX"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ACEJMQEy9DtVPGc383e1n35UTDusjLD8MoN3mmphcTr1jKJLPFul0uLEMvq7_mLq2c0&usqp=CAU"group-title="FILME 2024 TV e Radio FAX",Bons Companheiros Jackie Chan TV FAX
+https://archive.org/serve/bons-companheiros-jackie-chan-tv-fax/Bons%20Companheiros%20jackie%20chan%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Culpa TV FAX"tvg-logo="https://a2filmesblog.files.wordpress.com/2022/07/capablog675x1600-semculpa.jpg?w=1200"group-title="FILME 2024 TV e Radio FAX",Sem Culpa TV FAX
+https://archive.org/serve/sem-culpa-tv-fax/Sem%20Culpa%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jogo Do Disfarce TV FAX"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1vENwVvErNOyxcYzQiaiK_cebULGF8MplYCzUTWKa2RninWbO5GP5YBHsNrsCHBxawg&usqp=CAU"group-title="FILME 2024 TV e Radio FAX",O Jogo Do Disfarce TV FAX
+https://archive.org/download/o-jogo-do-disfarce-tv-fax/O%20Jogo%20do%20Disfarce%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lift Roubo Nas Alturas TV FAX"tvg-logo="https://t.ctcdn.com.br/bV31N20_dpcLCRnGDXXW07Hj_yQ=/1200x675/smart/i844461.png"group-title="FILME 2024 TV e Radio FAX",Lift Roubo Nas Alturas TV FAX
+https://archive.org/download/lift-roubo-nas-alturas-tv-fax/Lift%20Roubo%20nas%20Alturas%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Águia E Jaguar Os Guerreiros Lendários TV FAX"tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/db3174135ee2141f9a52a3d15c760522b6601a205688e105d053bc3b01feaf71.jpg"group-title="FILME 2024 TV e Radio FAX",Águia E Jaguar Os Guerreiros Lendários TV FAX
+https://archive.org/download/aguia-e-jaguar-os-guerreiros-lendarios-tv-fax/%C3%81guia%20e%20Jaguar%20Os%20Guerreiros%20Lend%C3%A1rios%20TV%20FAX.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILME 2023 TV e Radio FAX.xml"
+############## FILME 2023 TV e Radio FAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME 2023 TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Destemida  2023"tvg-logo="https://s2-techtudo.glbimg.com/s7OZdUaZv-MWdhouvcHSNngjR1E=/0x0:1200x700/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/b/k/D17jLRRlqB7FubhBcs6A/destemida-2.jpg"group-title="FILME 2023 TV e Radio FAX",Destemida  2023
+https://vod.cf.dmcdn.net/sec2(aTtRfsavh_ogEpDvVn1eY-mgBTROuG3l4q1YOIVbDVhplwZhWns8mhlV9DiHuTKSNTeuir2up3Wja-J_x3fnyGjwwqvONagZOAHEpEgEQNTQc3k-yoOEwlmtdx8Mwb1EuTYwdU639OK4jDeB_mh0BA)/video/712/785/524587217_mp4_h264_aac_fhd_6.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Nefarious  2023"tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkYWQ1ZGQtNmEyZC00N2VjLTgxNzQtNDI2MDBmZDlhZGRlXkEyXkFqcGdeQXVyNTg0MzE1MjQ@._V1_.jpg"group-title="FILME 2023 TV e Radio FAX",Nefarious  2023
+https://vod.cf.dmcdn.net/sec2(q0e3Sl1xXLFbs248kTch83vHISa-M3ziAmc_SSNUs6tSHZTDM-X9h48h6mHtgWpmYsNByaAQ9glP3WCaGVCFcyjP6NPqEyPYQRMvNHViaW9dE_NyCNKp6xMiTnIPdkI_1GYNwtMch1z7YSHd9y5vtw)/video/988/921/529129889_mp4_h264_aac_hq_5.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Tiozões 2023"tvg-logo="https://i.ytimg.com/vi/YFwp0dk-76w/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Tiozões 2023
+https://vod.cf.dmcdn.net/sec2(8ARz6AlHdIKgw5ug2Yy2heS1XHXHMLA1CH0jLW1KJ2euH1CbEBtUShzsHRGn79wKoPErAoUzJ-ZgDEhtdq4EJH2KxbHKRtIQ4hbBtbbn_6NEtxbUQwt39-Tcpgyv1wr9iNP4LoGSCpeY0jamTQjWLQ)/video/579/177/525771975_mp4_h264_aac_fhd_8.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="O Portal Secreto 2023"tvg-logo="https://i.ytimg.com/vi/XD2eUFVJFOQ/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",O Portal Secreto 2023
+https://vod.cf.dmcdn.net/sec2(h7t04TP6MtH7E9eONDEbKBJhxwG1B1XZA3oON0ilFq_gJOq-6cTW60jdfzPoYAM2_K1JQ1vYSCg7hvmDjIeC6Gws5w3KxZoF0V4mkxaXqSO-27GltPOIsksobbQMGXidlSDw10K-e_H3hMHQ-RsaqQ)/video/040/575/523575040_mp4_h264_aac_fhd_6.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Amor² Para Sempre  2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-6qOO7Y43JYfzWDWhGrufxp6AAuiwIQh8Qy9guE21EIvI25EqIqOjsPmuGyNDbuLJpI&usqp=CAU"group-title="FILME 2023 TV e Radio FAX",Amor² Para Sempre  2023
+https://vod.cf.dmcdn.net/sec2(cs24j-vvbY-DCXD1KVF8tUX_B-ipXG7i78rIpISnbtVkeNkHfJwiCxSDRtnIl8lFAQjbvg8CozzoZF19symTS6MO8OzLSX0sYj2l0wsTVD6awEgl-BYCPmoxvFgWdrSyCm31CW1YblHwIJvR12B3jg)/video/932/091/523190239_mp4_h264_aac_fhd_4.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Desejo Proibido 2023"tvg-logo="https://i.ytimg.com/vi/sCnXMyhW33E/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Desejo Proibido 2023
+https://vod.cf.dmcdn.net/sec2(J1aZzsYZpn23AUcJA_e2UztFWXVSD-wgii6BN8MMscN1X4Fh7su3OCg6KkDQNG5istpuMkn7zV_d4CWhM5bxteiltDNcef_71o7kBdelpHjZR11yvcg3Ap0CqML5FAnPqhdvcIoLzNJ_Y57kcIZqLw)/video/847/804/521408748_mp4_h264_aac_fhd_5.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Onde Está Deus"tvg-logo="https://i.ytimg.com/vi/ypwhqPTjem4/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Onde Está Deus
+https://vod.cf.dmcdn.net/sec2(qj9ga07Rjm8JdsARpNR3Ya70-G2JVJ9yUe_qYp8Da_KY9_u7r_e5TddrFrbSXy7olOYuza6iGvzWPtHAtlfYRVYYm6Jk7TPmqXhKwFsHljKKMZgT9_Io_ajWXFqf46T4NJktyOSTxzQ0lyMqgeYjlQ)/video/751/169/517961157_mp4_h264_aac_fhd_4.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Rumo à Conquista (2023)"tvg-logo="https://i.ytimg.com/vi/fqc-2zwWFkQ/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Rumo à Conquista (2023)
+https://vod.cf.dmcdn.net/sec2(pwKC_kmm-CtnoM6ZndTTcsmCRLgSmSffAw_WjTczM9OFB1AkFqM09UJuOKYmaFRhH-ssazxaP1rfipURJqlI1pf22EoABX2ZfTureQZaaynWHSXVZpXHDYwAdwbafhEe2TqlfQO7o0aDtSAetO6ckA)/video/001/610/523016100_mp4_h264_aac_fhd_1.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Oz"tvg-logo="https://i.ytimg.com/vi/ypwhqPTjem4/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",A Lenda de Oz
+https://vod.cf.dmcdn.net/sec2(89S-oBAUNcyySUiyCPhCX7bwR8NfdSk8K65WsRUisP4rdwWbf_HjOeodYmQJByxB3u6T7L-O2hAUCtb_DFbA_keoCMovzoAxAhtjmh5fLEbGYNnJRcjcqlVNJf8tGePjBv6Z4rh4iqxIX3FQzR3A-w)/video/247/560/517065742_mp4_h264_aac_fhd_4.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Os Três Cães Mosqueteiros"tvg-logo="https://cdn.fstatic.com/media/movies/covers/2023/02/121825_background.jpg"group-title="FILME 2023 TV e Radio FAX",Os Três Cães Mosqueteiros
+https://vod.cf.dmcdn.net/sec2(WtoAwdpjJeapwIIO0SVkl1pqSFL4aIqLfmMMSqW5Cet0MvCoDZAzZaG-R47WLSYBmiRVgYgLsI7JtYSTfLoBNE2RXrN3GmRMrXfETAbdQFT1HWyHC_qVS8fKApvt2gAD1QUxiDCu-hgR1S7VCqxFtw)/video/535/116/506611535_mp4_h264_aac_fhd.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Feitiçaria 2023"tvg-logo="https://i.ytimg.com/vi/9Sw08qfSAlo/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Feitiçaria 2023
+https://vod.cf.dmcdn.net/sec2(r1FH8KyQyX2QLT-TeBhyeC7jKHmgfsqVE37euDzjUaM1RPvkhT5P2HrRsHWqqT7qGAswtBDWEt6JAvJ3wsjR08l8qNC0Z9mM9-a_Fblqzw4ZxgVgzsoWPQumTexvNjgn-f7AyYGHLNY0Q8WE_Xmpew)/video/194/518/523815491_mp4_h264_aac_fhd_7.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="O Conde 2023"tvg-logo="https://br.web.img2.acsta.net/pictures/23/08/30/08/40/4987185.jpg"group-title="FILME 2023 TV e Radio FAX",O Conde 2023
+https://vod.cf.dmcdn.net/sec2(Va1OZgxqhz4-NRNuUxZ12G8071cyALBTuUUW-JKgks2hqH89WrK7vO3PD9P0MJS8jDfkQzTer4tarCbJbtEMAZvUQCfv6ynx3kJac5E47Ais1wLGx64stfZTuh_Q3Hw3UpseWMZtzy1vQuNG0lhMbQ)/video/930/082/524280039_mp4_h264_aac_fhd_6.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="Operação Arma Secreta  2023"tvg-logo="https://i.ytimg.com/vi/UmHsrVfogQI/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Operação Arma Secreta  2023 
+https://vod.cf.dmcdn.net/sec2(N4oUhJI-SuuK6NBxLb7IHDaeuCqaorLQ7pHZaNAA7MI_g39fycfUr-E9JB2LUbnwlB1MtQoSq6xMFJ4IEP0dpa-YU6C1Y1cJX0pKlvzZbNU1C1xS3WtGjjFv0mCUh4YTluUxBBtrEGkZGLJbAoQezg)/video/332/055/522550233_mp4_h264_aac_fhd_4.m3u8#cell=cf
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino 2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGZumf79fQkEgyluAFdXHfPXbrXhUmL5hRiaACW5Gy6BphELFuCZu_0veg2FWXCDbU3U&usqp=CAU"group-title="FILME 2023 TV e Radio FAX",O Assassino 2023
+https://vod.cf.dmcdn.net/sec2(9cEpJucZYlV3dSZgWW4WPM4bALI7ymbwxyvsqk8UUvlsSNZXfOODJN0nCKE_HdZROAD6xgZNItsyAeyn_oabgCkItElIPCAJuYEIgTymL8mTeC8egvlV8syIHIdVAZnY46wHMCkWfJ0r02Wlw0yl2g)/video/747/326/526623747_mp4_h264_aac_fhd_9.m3u8#cell=cf
+
 
 #EXTM3U url-tvg=" http://grade-de-Record TV e Radio FAX.xml "
  ############## Record TV e Radio FAX ############## ### 
@@ -283,7 +337,7 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/432
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/483
 #EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" tvg-logo="" group-title="BAND TV e Radio FAX",BAND SP 4k
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/484
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="" group-title="TV BAND",BAND SP HD
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="" group-title="BAND TV e Radio FAX",BAND SP HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/485
 #EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND Band FM 99.1
 http://voz.one:80/alexfnt/vTFBGKdUYq/34013
@@ -2663,33 +2717,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/26
 #EXTINF:-1 tvg-id="" tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FISH TV SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/27
 
-#EXTM3U url-tvg="http://grade-de-FILME 2023 TV e Radio FAX.xml"
-############## FILME 2023 TV e Radio FAX ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILME 2023 TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="O Portal Secreto 2023"tvg-logo="https://i.ytimg.com/vi/XD2eUFVJFOQ/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",O Portal Secreto 2023
-https://vod.cf.dmcdn.net/sec2(h7t04TP6MtH7E9eONDEbKBJhxwG1B1XZA3oON0ilFq_gJOq-6cTW60jdfzPoYAM2_K1JQ1vYSCg7hvmDjIeC6Gws5w3KxZoF0V4mkxaXqSO-27GltPOIsksobbQMGXidlSDw10K-e_H3hMHQ-RsaqQ)/video/040/575/523575040_mp4_h264_aac_fhd_6.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Amor² Para Sempre  2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-6qOO7Y43JYfzWDWhGrufxp6AAuiwIQh8Qy9guE21EIvI25EqIqOjsPmuGyNDbuLJpI&usqp=CAU"group-title="FILME 2023 TV e Radio FAX",Amor² Para Sempre  2023
-https://vod.cf.dmcdn.net/sec2(cs24j-vvbY-DCXD1KVF8tUX_B-ipXG7i78rIpISnbtVkeNkHfJwiCxSDRtnIl8lFAQjbvg8CozzoZF19symTS6MO8OzLSX0sYj2l0wsTVD6awEgl-BYCPmoxvFgWdrSyCm31CW1YblHwIJvR12B3jg)/video/932/091/523190239_mp4_h264_aac_fhd_4.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Desejo Proibido 2023"tvg-logo="https://i.ytimg.com/vi/sCnXMyhW33E/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Desejo Proibido 2023
-https://vod.cf.dmcdn.net/sec2(J1aZzsYZpn23AUcJA_e2UztFWXVSD-wgii6BN8MMscN1X4Fh7su3OCg6KkDQNG5istpuMkn7zV_d4CWhM5bxteiltDNcef_71o7kBdelpHjZR11yvcg3Ap0CqML5FAnPqhdvcIoLzNJ_Y57kcIZqLw)/video/847/804/521408748_mp4_h264_aac_fhd_5.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Onde Está Deus"tvg-logo="https://i.ytimg.com/vi/ypwhqPTjem4/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Onde Está Deus
-https://vod.cf.dmcdn.net/sec2(qj9ga07Rjm8JdsARpNR3Ya70-G2JVJ9yUe_qYp8Da_KY9_u7r_e5TddrFrbSXy7olOYuza6iGvzWPtHAtlfYRVYYm6Jk7TPmqXhKwFsHljKKMZgT9_Io_ajWXFqf46T4NJktyOSTxzQ0lyMqgeYjlQ)/video/751/169/517961157_mp4_h264_aac_fhd_4.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Rumo à Conquista (2023)"tvg-logo="https://i.ytimg.com/vi/fqc-2zwWFkQ/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Rumo à Conquista (2023)
-https://vod.cf.dmcdn.net/sec2(pwKC_kmm-CtnoM6ZndTTcsmCRLgSmSffAw_WjTczM9OFB1AkFqM09UJuOKYmaFRhH-ssazxaP1rfipURJqlI1pf22EoABX2ZfTureQZaaynWHSXVZpXHDYwAdwbafhEe2TqlfQO7o0aDtSAetO6ckA)/video/001/610/523016100_mp4_h264_aac_fhd_1.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Oz"tvg-logo="https://i.ytimg.com/vi/ypwhqPTjem4/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",A Lenda de Oz
-https://vod.cf.dmcdn.net/sec2(89S-oBAUNcyySUiyCPhCX7bwR8NfdSk8K65WsRUisP4rdwWbf_HjOeodYmQJByxB3u6T7L-O2hAUCtb_DFbA_keoCMovzoAxAhtjmh5fLEbGYNnJRcjcqlVNJf8tGePjBv6Z4rh4iqxIX3FQzR3A-w)/video/247/560/517065742_mp4_h264_aac_fhd_4.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Os Três Cães Mosqueteiros"tvg-logo="https://cdn.fstatic.com/media/movies/covers/2023/02/121825_background.jpg"group-title="FILME 2023 TV e Radio FAX",Os Três Cães Mosqueteiros
-https://vod.cf.dmcdn.net/sec2(WtoAwdpjJeapwIIO0SVkl1pqSFL4aIqLfmMMSqW5Cet0MvCoDZAzZaG-R47WLSYBmiRVgYgLsI7JtYSTfLoBNE2RXrN3GmRMrXfETAbdQFT1HWyHC_qVS8fKApvt2gAD1QUxiDCu-hgR1S7VCqxFtw)/video/535/116/506611535_mp4_h264_aac_fhd.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Feitiçaria 2023"tvg-logo="https://i.ytimg.com/vi/9Sw08qfSAlo/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Feitiçaria 2023
-https://vod.cf.dmcdn.net/sec2(r1FH8KyQyX2QLT-TeBhyeC7jKHmgfsqVE37euDzjUaM1RPvkhT5P2HrRsHWqqT7qGAswtBDWEt6JAvJ3wsjR08l8qNC0Z9mM9-a_Fblqzw4ZxgVgzsoWPQumTexvNjgn-f7AyYGHLNY0Q8WE_Xmpew)/video/194/518/523815491_mp4_h264_aac_fhd_7.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="O Conde 2023"tvg-logo="https://br.web.img2.acsta.net/pictures/23/08/30/08/40/4987185.jpg"group-title="FILME 2023 TV e Radio FAX",O Conde 2023
-https://vod.cf.dmcdn.net/sec2(Va1OZgxqhz4-NRNuUxZ12G8071cyALBTuUUW-JKgks2hqH89WrK7vO3PD9P0MJS8jDfkQzTer4tarCbJbtEMAZvUQCfv6ynx3kJac5E47Ais1wLGx64stfZTuh_Q3Hw3UpseWMZtzy1vQuNG0lhMbQ)/video/930/082/524280039_mp4_h264_aac_fhd_6.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Operação Arma Secreta  2023"tvg-logo="https://i.ytimg.com/vi/UmHsrVfogQI/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Operação Arma Secreta  2023 
-https://vod.cf.dmcdn.net/sec2(N4oUhJI-SuuK6NBxLb7IHDaeuCqaorLQ7pHZaNAA7MI_g39fycfUr-E9JB2LUbnwlB1MtQoSq6xMFJ4IEP0dpa-YU6C1Y1cJX0pKlvzZbNU1C1xS3WtGjjFv0mCUh4YTluUxBBtrEGkZGLJbAoQezg)/video/332/055/522550233_mp4_h264_aac_fhd_4.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino 2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGZumf79fQkEgyluAFdXHfPXbrXhUmL5hRiaACW5Gy6BphELFuCZu_0veg2FWXCDbU3U&usqp=CAU"group-title="FILME 2023 TV e Radio FAX",O Assassino 2023
-https://vod.cf.dmcdn.net/sec2(9cEpJucZYlV3dSZgWW4WPM4bALI7ymbwxyvsqk8UUvlsSNZXfOODJN0nCKE_HdZROAD6xgZNItsyAeyn_oabgCkItElIPCAJuYEIgTymL8mTeC8egvlV8syIHIdVAZnY46wHMCkWfJ0r02Wlw0yl2g)/video/747/326/526623747_mp4_h264_aac_fhd_9.m3u8#cell=cf
-
 #EXTM3U url-tvg="http://grade-de-FILME Antigos TV e Radio FAX .xml"
 ############## FILME Antigos TV e Radio FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME Antigos TV e Radio FAX " group-title="
@@ -3009,19 +3036,19 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m
 
 #EXTINF:-1 tvg-id="" tvg-name="Em Busca de Justiça"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfmSWcZyqgiiH7sMoRfTpdJVtc5prRoPxYdN4PgnqC3dJHMIP38eK3ZY5ULLzWVuSduy4&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Em Busca de Justiça
 https://vod.cf.dmcdn.net/sec2(R5JHvvU2nQvSW29noE1VEIBXAwT4vlyXZI-FZokMIvloumnF6hkkfKQKDrQyJD6cA9Lf2fgQrRsDg9vrxarcDW1ASmJWEaUAple63ZRv0ttDmEJYHZWVqbCQSI4phM8ZoWMSggVv2tH7BmrXJ5rmIQ)/video/725/116/506611527_mp4_h264_aac_fhd.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hFGue47AJS60euzdNPN6WZXAFemRC9F-yR3RISN5tZBO4AXY5agbQkDxsg40JGMGAe0&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Em Nome da Lei 
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hFGue47AJS60euzdNPN6WZXAFemRC9F-yR3RISN5tZBO4AXY5agbQkDxsg40JGMGAe0&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Em Nome da Lei
 https://play.prod.gcp.vix.services/police-story-2013_pt/police-story-2013_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0XQu_l2z3ebrdJ5MCks6JcVOYuYIYGUt6Ns9nRJrXIjCKVtCXnnJbIkKv8_dLLcTWaQ&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Batalha dos Impérios
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0XQu_l2z3ebrdJ5MCks6JcVOYuYIYGUt6Ns9nRJrXIjCKVtCXnnJbIkKv8_dLLcTWaQ&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Batalha dos Impérios
 https://play.prod.gcp.vix.services/dragon-blade_pt/dragon-blade_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Gv3i8IsRzGph4DdWVaDwKLk_d-hbJmdwucaQ9mE3D3zvwp6l9p5dtA4nqZTzDKKBZAE&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Armadura de Deus
 https://play.prod.gcp.vix.services/armour-of-god_pt/armour-of-god_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto"tvg-logo="https://i.ytimg.com/vi/We8NtpHDkDc/maxresdefault.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Acerto 
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto "tvg-logo="https://i.ytimg.com/vi/We8NtpHDkDc/maxresdefault.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Acerto 
 https://play.prod.gcp.vix.services/new-police-story_pt/new-police-story_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga"tvg-logo="https://m.media-amazon.com/images/I/91NSQEWHmsL._AC_SL1500_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Kung Fu Yoga
 https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl3dW0-Z183P6r_YtqoRVIgmlBY3ykop17_NQyYjFtkMBSnNhwQY_pgWE_e2VgqBFiCw&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Batalha dos Impérios
 https://play.prod.gcp.vix.services/dragon-blade_pt/dragon-blade_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Mito"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpJuB55yt_KgjiKNRUtdvNZRoqw7O-RC0qAh2oaiaDjHfPy-ujomXpUvvscw-xCIE33I&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",O Mito
+#EXTINF:-1 tvg-id="" tvg-name="O Mito"tvg-logo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpJuB55yt_KgjiKNRUtdvNZRoqw7O-RC0qAh2oaiaDjHfPy-ujomXpUvvscw-xCIE33I&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",O Mito"tvg-logo
 https://play.prod.gcp.vix.services/myth_pt/myth_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Massacre no Bairro Chinês"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1f59472708ec45a9a89391ecbfd0d0a46d43a3505a7a5ad65d63ddb5c74313fc._V_SX1080_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Massacre no Bairro Chinês
 https://play.prod.gcp.vix.services/shinjuku-incident_pt/shinjuku-incident_pt_1-1/play_v1_hls_720p.m3u8
@@ -3442,7 +3469,6 @@ https://play.prod.gcp.vix.services/backcountry_pt/backcountry_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/wake-of-death_pt/wake-of-death_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Assassina Perfeita "tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8de90cb0a94c5579a2b787bc0c456f9f243947d53f0baa47bb173064c1f1abaf.jpg"group-title="FILME TV FAX VIX",A Assassina Perfeita 
 
-
 #EXTM3U url-tvg="http://grade-de-O Gordo E O Magro.xml"
 ############## O Gordo E O Magro ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeO Gordo E O Magro" group-title="
@@ -3659,9 +3685,10 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RZALND.mp4
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Porta dos Fundos: Contrato Vitalício (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSTjBv2TsVrVKGJNQwJ8LbAaHc4T8vhSv59GpPTlJGLzzx8hDfBc14fJ6x2BOhbK5Ud8&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Porta dos Fundos: Contrato Vitalício (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PRTSDFNDCTRVIT.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="O Roubo da Taça (2016)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNCoCUahadpo9tnDX59jV2dG5PjsQOfSndK5C20ptNY54DcCcA9DgOi_cAWwLo2yV3zMI&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",O Roubo da Taça (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OROBDTA.mp4
+
+
 #EXTINF:0,Rogue One: Uma História Star Wars (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RGONUHSTRWRS.mp4
 #EXTINF:0,12 Horas para Sobreviver:O Ano Da Eleição/Uma Noite de Crime 3 (2016)
@@ -6620,14 +6647,6 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/83810
  ############## Desenhos 24hs ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeDesenhos 24hs" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja Kamp Koral" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/peZYB3aFOBoZbpFhOZogrTHVlqX.jpg" group-title="Desenhos 24hs",[24H] Bob Esponja Kamp Koral
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/84580
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S01 E S02" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S01 E S02
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/12452
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S03 E S04" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S03 E S04
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/12453
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S05 E S06" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S05 E S06
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/12454
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Zoom" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yr83vGcXQmSfzEEOVj44nOrS3oP.jpg" group-title="Desenhos 24hs",[24h] Bob Zoom
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/908476
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Bom Dia, Verônica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbyZ84DuLJGgxdMnC7bjHlcjJ3e.jpg" group-title="Series 24hs",[24h] Bom Dia, Verônica
@@ -6710,8 +6729,6 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/916668
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/60309
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Animaniacs - Parte 1" tvg-logo="https://imgur.com/Qkumqas.jpg" group-title="Desenhos 24hs",[24h] Animaniacs - Parte 1
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/12556
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Animaniacs - Parte 2" tvg-logo="https://imgur.com/Qkumqas.jpg" group-title="Desenhos 24hs",[24h] Animaniacs - Parte 2
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/12557
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Apenas um Show S01" tvg-logo="https://imgur.com/vG8SZv3.jpg" group-title="Desenhos 24hs",[24h] Apenas um Show S01
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/82742
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Apenas um Show S02 " tvg-logo="https://imgur.com/vG8SZv3.jpg" group-title="Desenhos 24hs",[24h] Apenas um Show S02 
