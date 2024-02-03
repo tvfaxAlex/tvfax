@@ -56,6 +56,8 @@ https://ia801309.us.archive.org/9/items/mamonas-assassinas-2024-tv-fax/Mamonas%2
 ############## FILME 2024 TV e Radio FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME 2024 TV e Radio FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman 2 O Reino Perdido TV FAX"tvg-logo="https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/49/1512676393-aquaman.gif?crop=0.75xw:1xh;center,top&resize=1200:*"group-title="FILME 2024 TV e Radio FAX",Aquaman 2 O Reino Perdido TV FAX
+https://archive.org/download/aquaman-2-o-reino-perdido-tv-fax/Aquaman%202%20O%20Reino%20Perdido%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Em Ruínas TV FAX"tvg-logo="https://i0.wp.com/flixlandia.com.br/wp-content/uploads/2024/01/Em-Ruinas-critica-do-filme-sul-coreano-Netflix-2024.jpg?fit=1024%2C576&ssl=1"group-title="FILME 2024 TV e Radio FAX",Em Ruínas TV FAX
 https://archive.org/download/em-ruinas-tv-fax/Em%20Ru%C3%ADnas%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Outback TV FAX"tvg-logo="https://cinepop.com.br/wp-content/uploads/2020/04/outback.jpg"group-title="FILME 2024 TV e Radio FAX",Outback TV FAX
@@ -77,6 +79,12 @@ https://archive.org/download/aguia-e-jaguar-os-guerreiros-lendarios-tv-fax/%C3%8
 ############## FILME 2023 TV e Radio FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME 2023 TV e Radio FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Câmera Indiscreta TV FAX"tvg-logo="https://play-lh.googleusercontent.com/sF6Dq_Wxfatj3adSQx6vVjtLGKwnycz5w1HSc53zSGpj72kg72oL_U2nxBLYkpikksjQDtGe2a1xDyOu_5Fc"group-title="FILME 2023 TV e Radio FAX",Câmera Indiscreta TV FAX
+https://archive.org/download/camera-indiscreta-tv-fax/C%C3%A2mera%20Indiscreta%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Perdoado TV FAX"tvg-logo="https://s2-globo-play.glbimg.com/3vMBBUTk5yAgBcwoQntvEIDJDKA=/362x536/https://s2-globo-play.glbimg.com/Pq0IyxgvRyGDKoiWr04fScDlLZ8=/https://s2.glbimg.com/jW3D1Ulv00eQSYKOnvYSt8NXQvk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2023/V/F/DlA0KXQgeXHEP6BrUv2w/8824502-poster.jpg"group-title="FILME 2023 TV e Radio FAX",O Perdoado TV FAX
+https://archive.org/download/o-perdoado-tv-fax_202402/O%20Perdoado%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nina A Heroína Dos Sete Mares TV FAX"tvg-logo="https://i.ytimg.com/vi/3JjDSDXhdaU/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Nina A Heroína Dos Sete Mares TV FAX
+https://archive.org/download/nina-a-heroina-dos-sete-mares-tv-fax/Nina%20A%20Hero%C3%ADna%20dos%20Sete%20Mares%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Destemida  2023"tvg-logo="https://s2-techtudo.glbimg.com/s7OZdUaZv-MWdhouvcHSNngjR1E=/0x0:1200x700/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/b/k/D17jLRRlqB7FubhBcs6A/destemida-2.jpg"group-title="FILME 2023 TV e Radio FAX",Destemida  2023
 https://vod.cf.dmcdn.net/sec2(aTtRfsavh_ogEpDvVn1eY-mgBTROuG3l4q1YOIVbDVhplwZhWns8mhlV9DiHuTKSNTeuir2up3Wja-J_x3fnyGjwwqvONagZOAHEpEgEQNTQc3k-yoOEwlmtdx8Mwb1EuTYwdU639OK4jDeB_mh0BA)/video/712/785/524587217_mp4_h264_aac_fhd_6.m3u8#cell=cf
 #EXTINF:-1 tvg-id="" tvg-name="Nefarious  2023"tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkYWQ1ZGQtNmEyZC00N2VjLTgxNzQtNDI2MDBmZDlhZGRlXkEyXkFqcGdeQXVyNTg0MzE1MjQ@._V1_.jpg"group-title="FILME 2023 TV e Radio FAX",Nefarious  2023
@@ -106,11 +114,14 @@ https://vod.cf.dmcdn.net/sec2(N4oUhJI-SuuK6NBxLb7IHDaeuCqaorLQ7pHZaNAA7MI_g39fyc
 #EXTINF:-1 tvg-id="" tvg-name="O Assassino 2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGZumf79fQkEgyluAFdXHfPXbrXhUmL5hRiaACW5Gy6BphELFuCZu_0veg2FWXCDbU3U&usqp=CAU"group-title="FILME 2023 TV e Radio FAX",O Assassino 2023
 https://vod.cf.dmcdn.net/sec2(9cEpJucZYlV3dSZgWW4WPM4bALI7ymbwxyvsqk8UUvlsSNZXfOODJN0nCKE_HdZROAD6xgZNItsyAeyn_oabgCkItElIPCAJuYEIgTymL8mTeC8egvlV8syIHIdVAZnY46wHMCkWfJ0r02Wlw0yl2g)/video/747/326/526623747_mp4_h264_aac_fhd_9.m3u8#cell=cf
 
-
 #EXTM3U url-tvg=" http://grade-de-Record TV e Radio FAX.xml "
  ############## Record TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeRecord TV e Radio FAX" group-title="
 
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD SP INTERIOR HD" tvg-logo="" group-title="Record TV e Radio FAX ",RECORD SP INTERIOR HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/528
+#EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP HD" tvg-logo="" group-title="Record TV e Radio FAX ",RECORD SP HD
+http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/529
 #EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD SP FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/294
 #EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD SP HD
@@ -125,24 +136,15 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/273
 http://voz.one:80/alexfnt/vTFBGKdUYq/275
 #EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD CAMPINAS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/276
-
-#EXTM3U url-tvg=" http://grade-de-TV RECORD.xml "
- ############## TV RECORD ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeTV RECORD" group-title="
-
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="" group-title="TV RECORD",RECORD PARANA HD
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="" group-title="Record TV e Radio FAX ",RECORD PARANA HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/526
-#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ 4K" tvg-logo="" group-title="TV RECORD",RECORD RJ 4K
+#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ 4K" tvg-logo="" group-title="Record TV e Radio FAX ",RECORD RJ 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/766
-#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ HD" tvg-logo="" group-title="TV RECORD",RECORD RJ HD
+#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ HD" tvg-logo="" group-title="Record TV e Radio FAX ",RECORD RJ HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/527
-#EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP HD" tvg-logo="" group-title="TV RECORD",RECORD SP HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/529
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD SP INTERIOR HD" tvg-logo="" group-title="TV RECORD",RECORD SP INTERIOR HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/528
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ 4K"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="TV RECORD",RECORD RJ 4K
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ 4K"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="Record TV e Radio FAX ",RECORD RJ 4K
 https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=V5AKVJ_88YTjqT0kt7v1WQ&3U1G7qaTxrPbalZnEx=1705309616
-#EXTINF:-1 tvg-id="" tvg-name="RECORD News"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="TV RECORD",RECORD News
+#EXTINF:-1 tvg-id="" tvg-name="RECORD News"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="Record TV e Radio FAX ",RECORD News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w245748952.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-SBT TV e Radio FAX.xml "
@@ -159,26 +161,21 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/311
 http://voz.one:80/alexfnt/vTFBGKdUYq/65256
 #EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SP SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/310
-
-#EXTM3U url-tvg=" http://grade-de-TV SBT.xml "
- ############## TV SBT ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeTV SBT" group-title="
-
-#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="" group-title="TV SBT",SBT 4K
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="" group-title="SBT TV e Radio FAX",SBT 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/534
-#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="" group-title="TV SBT",SBT HD
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="" group-title="SBT TV e Radio FAX",SBT HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/540
-#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ UHD" tvg-logo="" group-title="TV SBT",SBT RJ UHD
+#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ UHD" tvg-logo="" group-title="SBT TV e Radio FAX",SBT RJ UHD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/537
-#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT SERRA DOURADA 4K" tvg-logo="" group-title="TV SBT",SBT SERRA DOURADA 4K
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT SERRA DOURADA 4K" tvg-logo="" group-title="SBT TV e Radio FAX",SBT SERRA DOURADA 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/538
-#EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="" group-title="TV SBT",TV DIARIO HD
+#EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="" group-title="SBT TV e Radio FAX",TV DIARIO HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/548
-#EXTINF:-1 tvg-id="" tvg-name="SBT Rede Massa (PR)"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="TV SBT",SBT Rede Massa (PR)
+#EXTINF:-1 tvg-id="" tvg-name="SBT Rede Massa (PR)"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="SBT TV e Radio FAX",SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="TV SBT",SBT 4K
+#EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="SBT TV e Radio FAX",SBT 4K
 https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="TV SBT",SBT 4K
+#EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="SBT TV e Radio FAX",SBT 4K
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705300481/ei/oX2kZcGhE66P-LAPtISh0Ag/ip/200.152.27.1/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf_nrc05JnFsMu6qua2o5wczllwpgDUdAuPcadMVhnPMCIQDxMPOaVc6UQHnQoGUIRpqKW5ihfKeVtEnpEb15i1stug%3D%3D/file/index.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-TV GLOBO.xml "
@@ -1326,17 +1323,17 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/84450
 #EXTINF:-1 tvg-id="" tvg-name="Paramount"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zkNORh6vTXnNvOJxzYAReWdsLnzcEFnwugnCZQr6KozGec6oXVaiLwFPjWBQcJQE76s&usqp=CAU"group-title="Paramount TV e Radio FAX",Paramount+ 4 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/84451
 
-#EXTM3U url-tvg=" http://grade-de-ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX.xml "
- ############## ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX" group-title="
+#EXTM3U url-tvg=" http://grade-de-DISCOVERY INVESTIGAÇÃO DISCOVERY TV e Radio FAX.xml "
+ ############## DISCOVERY INVESTIGAÇÃO DISCOVERY TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeDISCOVERY INVESTIGAÇÃO DISCOVERY TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",ID - INVESTIGAÇÃO DISCOVERY (H265)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",DISCOVERY INVESTIGAÇÃO DISCOVERY (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13895
-#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",ID - INVESTIGAÇÃO DISCOVERY FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",DISCOVERY INVESTIGAÇÃO DISCOVERY FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/35
-#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",ID - INVESTIGAÇÃO DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",DISCOVERY INVESTIGAÇÃO DISCOVERY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/37
-#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",ID - INVESTIGAÇÃO DISCOVERY SD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",DISCOVERY INVESTIGAÇÃO DISCOVERY SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/36
 
 #EXTM3U url-tvg=" http://grade-de-HGTV TV e Radio FAX.xml "
@@ -2115,9 +2112,9 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/907
  ############## ESPORTES ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeESPORTES" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="ESPORTES ONLINE",UFC FIGHT PASS
+#EXTINF:-1 tvg-id="tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="ESPORTES ONLINE",UFC FIGHT PASS
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1121
-#EXTINF:-1 tvg-id="" tvg-name="UFC PPV" tvg-logo="" group-title="ESPORTES ONLINE",UFC PPV
+#EXTINF:-1 tvg-id="tvg-name="UFC PPV" tvg-logo="" group-title="ESPORTES ONLINE",UFC PPV
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1122
 #EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 4K" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="ESPORTES",SPORTV 1 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/183
@@ -2127,21 +2124,21 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/178
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/172
 #EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 4K" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="ESPORTES",SPORTV 3 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/175
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 1 HD 
+#EXTINF:-1 tvg-id="tvg-name="STAR+ 1 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 1 HD 
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/829
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 2 HD
+#EXTINF:-1 tvg-id="tvg-name="STAR+ 2 HD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 2 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/826
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 3 HD 
+#EXTINF:-1 tvg-id="tvg-name="STAR+ 3 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 3 HD 
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/827
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 4 HD 
+#EXTINF:-1 tvg-id="tvg-name="STAR+ 4 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 4 HD 
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/828
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 5 HD
+#EXTINF:-1 tvg-id="tvg-name="STAR+ 5 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 5 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1147
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 6 HD
+#EXTINF:-1 tvg-id="tvg-name="STAR+ 6 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 6 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1148
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 7 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 7 HD
+#EXTINF:-1 tvg-id="tvg-name="STAR+ 7 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 7 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1149
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 8 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 8 HD
+#EXTINF:-1 tvg-id="tvg-name="STAR+ 8 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 8 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1150
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="" group-title="ESPORTES",BAND SPORTS 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/120
@@ -2177,13 +2174,13 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/105
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/139
 #EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="ESPORTES",FOX SPORTS 2 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/140
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 4K" tvg-logo="" group-title="ESPORTES ONLINE",PARAMOUNT+ 1 4K
+#EXTINF:-1 tvg-id="tvg-name="PARAMOUNT+ 1 4K" tvg-logo="" group-title="ESPORTES ONLINE",PARAMOUNT+ 1 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1151
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 2 4K" tvg-logo="" group-title="ESPORTES ONLINE",PARAMOUNT+ 2 4K
+#EXTINF:-1 tvg-id="tvg-name="PARAMOUNT+ 2 4K" tvg-logo="" group-title="ESPORTES ONLINE",PARAMOUNT+ 2 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1152
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 3 4K" tvg-logo="" group-title="ESPORTES ONLINE",PARAMOUNT+ 3 4K
+#EXTINF:-1 tvg-id="tvg-name="PARAMOUNT+ 3 4K" tvg-logo="" group-title="ESPORTES ONLINE",PARAMOUNT+ 3 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1153
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4 4K" tvg-logo="" group-title="ESPORTES ONLINE",PARAMOUNT+ 4 4K
+#EXTINF:-1 tvg-id="tvg-name="PARAMOUNT+ 4 4K" tvg-logo="" group-title="ESPORTES ONLINE",PARAMOUNT+ 4 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1154
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE 1 4K" tvg-logo="" group-title="ESPORTES",PREMIERE 1 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/148
@@ -2224,21 +2221,21 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/164
  ############## Esportes ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeEsportes" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 1 FHD
+#EXTINF:-1 tvg-id="tvg-name="UFC Fight Pass 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 1 FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/902438
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 1 HD
+#EXTINF:-1 tvg-id="tvg-name="UFC Fight Pass 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 1 HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/896939
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 1
+#EXTINF:-1 tvg-id="tvg-name="UFC Fight Pass 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 1
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/897945
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 2 HD
+#EXTINF:-1 tvg-id="tvg-name="UFC Fight Pass 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 2 HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/902439
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 2
+#EXTINF:-1 tvg-id="tvg-name="UFC Fight Pass 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 2
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/896842
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass Alternativo 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass Alternativo 2
+#EXTINF:-1 tvg-id="tvg-name="UFC Fight Pass Alternativo 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass Alternativo 2
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/897944
-#EXTINF:-1 tvg-id="" tvg-name="CazeTV HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzY3zZ5p0NUAUZhB3-Az1po9k9CFoQSyQfwg&usqp=CAU" group-title="Esportes PPV",CazeTV HD 
+#EXTINF:-1 tvg-id="tvg-name="CazeTV HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzY3zZ5p0NUAUZhB3-Az1po9k9CFoQSyQfwg&usqp=CAU" group-title="Esportes PPV",CazeTV HD 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/899771
-#EXTINF:-1 tvg-id="" tvg-name="CazeTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzY3zZ5p0NUAUZhB3-Az1po9k9CFoQSyQfwg&usqp=CAU" group-title="Esportes PPV",CazeTV 
+#EXTINF:-1 tvg-id="tvg-name="CazeTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzY3zZ5p0NUAUZhB3-Az1po9k9CFoQSyQfwg&usqp=CAU" group-title="Esportes PPV",CazeTV 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/899770
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHDR" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="Esportes",SporTV FHDR
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/901869
@@ -2687,34 +2684,34 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de5
 ############## CANAIS TV FAX RUMTIME ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS TV FAX RUMTIME" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="AÇAO"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp"group-title="CANAIS TV FAX RUMTIME",AÇAO
+#EXTINF:-1 tvg-id="tvg-name="AÇAO"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp"group-title="CANAIS TV FAX RUMTIME",AÇAO
 https://stream.ads.ottera.tv/cl/240117cmji4n5am069ekndjtd0/1280x720_3071200_0_f.m3u8?i=728_6128
-#EXTINF:-1 tvg-id="" tvg-name="FAMILIA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YrTJ0HvK0JReIs7_osZ3Io7Z3mQ1yra9oYNVmJkzmztWAioaNlyixzzyCoS5uretiIg&usqp=CAU"group-title="CANAIS TV FAX RUMTIME",FAMILIA
+#EXTINF:-1 tvg-id="tvg-name="FAMILIA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YrTJ0HvK0JReIs7_osZ3Io7Z3mQ1yra9oYNVmJkzmztWAioaNlyixzzyCoS5uretiIg&usqp=CAU"group-title="CANAIS TV FAX RUMTIME",FAMILIA
 https://stream.ads.ottera.tv/cl/240117cmji6qn6s3it5mvaoqm0/1280x720_3071200_0_f.m3u8?i=728_5589
-#EXTINF:-1 tvg-id="" tvg-name="CINESPANTO"tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/RuntimeCinEspanto_b__circle.png"group-title="CANAIS TV FAX RUMTIME",CINESPANTO
+#EXTINF:-1 tvg-id="tvg-name="CINESPANTO"tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/RuntimeCinEspanto_b__circle.png"group-title="CANAIS TV FAX RUMTIME",CINESPANTO
 https://stream.ads.ottera.tv/cl/240117cmji7i0qmssav5p4pk50/1280x720_3071200_0_f.m3u8?i=728_4865
-#EXTINF:-1 tvg-id="" tvg-name="CRIME"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp"group-title="CANAIS TV FAX RUMTIME",CRIME
+#EXTINF:-1 tvg-id="tvg-name="CRIME"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp"group-title="CANAIS TV FAX RUMTIME",CRIME
 https://stream.ads.ottera.tv/cl/240117cmji8aovsaavnfqasbsg/1280x720_3071200_0_f.m3u8?i=728_4864
-#EXTINF:-1 tvg-id="" tvg-name="COMEDIA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJ8LWuQRjr-DORHCFSPIbEwYLNeK0hUB6FSRFJ4zIHJf736aX97YPnwi5OULafvDBH64&usqp=CAU"group-title="CANAIS TV FAX RUMTIME",COMEDIA
+#EXTINF:-1 tvg-id="tvg-name="COMEDIA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJ8LWuQRjr-DORHCFSPIbEwYLNeK0hUB6FSRFJ4zIHJf736aX97YPnwi5OULafvDBH64&usqp=CAU"group-title="CANAIS TV FAX RUMTIME",COMEDIA
 https://stream.ads.ottera.tv/cl/240117cmji8t8pc25k0skm1a50/1280x720_3071200_0_f.m3u8?i=728_2553
-#EXTINF:-1 tvg-id="" tvg-name="ROMANCE"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp"group-title="CANAIS TV FAX RUMTIME",ROMANCE
+#EXTINF:-1 tvg-id="tvg-name="ROMANCE"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp"group-title="CANAIS TV FAX RUMTIME",ROMANCE
 https://stream.ads.ottera.tv/cl/240117cmji9d69ldp7ibpa0mqg/1280x720_3071200_0_f.m3u8?i=728_6133
 
 #EXTM3U url-tvg=" http://grade-de-FILM & ART TV e Radio FAX.xml "
  ############## FILM & ART TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeFILM & ART TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FILM & ART FHD
+#EXTINF:-1 tvg-id="tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FILM & ART FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45891
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FILM & ART HD
+#EXTINF:-1 tvg-id="tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FILM & ART HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45878
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",Fish TV (H265)
+#EXTINF:-1 tvg-id="tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",Fish TV (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13877
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FISH TV FHD
+#EXTINF:-1 tvg-id="tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FISH TV FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/25
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FISH TV HD
+#EXTINF:-1 tvg-id="tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FISH TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/26
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FISH TV SD
+#EXTINF:-1 tvg-id="tvg-name="FILM & ART"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGESV-Nlcksn0vbNRaVuf1vWSDKTjN6kE120rDBY-U-JOOZhRWfqd85q_As_xQmImsv5A&usqp=CAU"group-title="FILM & ART TV e Radio FAX",FISH TV SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/27
 
 #EXTM3U url-tvg="http://grade-de-FILME Antigos TV e Radio FAX .xml"
@@ -2772,6 +2769,8 @@ https://vod.cf.dmcdn.net/sec2(4_bywSVhGlCI115Aq1bCKbb6QKP3VWNMNNZtQPROUzb1g-3msL
 ############## FILME TV e Radio FAX archive ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV e Radio FAX archive" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="O Auto Da Compadecida TV FAX"tvg-logo="https://www.girocurimatau.com.br/wp-content/uploads/2023/03/1633787861972.gif"group-title="FILME TV e Radio FAX archive",O Auto Da Compadecida TV FAX
+https://archive.org/download/o-auto-da-compadecida-tv-fax/O%20Auto%20da%20Compadecida%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Prova de Fogo (2008)"tvg-logo="https://i.ytimg.com/vi/xYWwUI3j4_Q/sddefault.jpg"group-title="FILME TV e Radio FAX archive",Prova de Fogo (2008)
 https://vod.cf.dmcdn.net/sec2(IzNB12gnTeftRB-1zg0nyFyl6ZPdgSzevfKnACsc0Jkuq7I3WLrIRomvZTVGvi9bwHMPi81BufmF2b3Wlpz1_hs8HuwnaAU06MbF7iXN7GI7oQbiKrggnjpJxi0soLzShYhU7dWRMtcQVY8BZ7yYNw)/video/485/983/512389584_mp4_h264_aac_hd.m3u8#cell=cf
 #EXTINF:-1 tvg-id="" tvg-name="O Arrebatamento"tvg-logo="https://biblia.com.br/wp-content/uploads/2012/11/volta-de-Jesus.jpg"group-title="FILME TV e Radio FAX archive",O Arrebatamento
@@ -3005,64 +3004,64 @@ https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="estrada-47"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5osC3LfIEwAOwnwMWDeA06CdfIC8aRD9u0PbfvY3FYRjeLxf-8hlwXD1lSss73Fe2xkc&usqp=CAU"group-title="FILME TV FAX |  ONLINE",estrada-47
 https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
 
-#EXTM3U url-tvg="http://grade-de-FILMES   ORIENTE.xml"
-############## FILMES   ORIENTE ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES   ORIENTE" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES ORIENTE.xml"
+############## FILMES ORIENTE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES ORIENTE" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre Guerreiro"tvg-logo="https://i.ytimg.com/vi/CDi1H1k84jU/maxresdefault.jpg" group-title="FILMES |  ORIENTE",O Mestre Guerreiro
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre Guerreiro"tvg-logo="https://i.ytimg.com/vi/CDi1H1k84jU/maxresdefault.jpg" group-title="FILMES ORIENTE",O Mestre Guerreiro
 https://play.prod.gcp.vix.services/pendekar-tongkat-emas_pt/pendekar-tongkat-emas_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya: O Incrível Ninja"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya: O Incrível Ninja
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya: O Incrível Ninja"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES ORIENTE",Jiraiya: O Incrível Ninja
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:A Esmeralda"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:A Esmeralda"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES ORIENTE",Jiraiya:
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-2/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:Retomada da Inscrição"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:A Esmeralda
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:Retomada da Inscrição"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES ORIENTE",Jiraiya:A Esmeralda
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-3/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Roubo da Espada Olímpica"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:Retomada da Inscrição
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Roubo da Espada Olímpica"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES ORIENTE",Jiraiya:Retomada da Inscrição
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-4/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Mistério dos Mistérios"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Roubo da Espada Olímpica
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Mistério dos Mistérios"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES ORIENTE",Jiraiya:O Roubo da Espada Olímpica
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-5/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Caçador da Selva"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Mistério dos Mistérios
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Caçador da Selva"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES ORIENTE",Jiraiya:O Mistério dos Mistérios
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-6/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Caçador da Selva"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Caçador da Selva
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Caçador da Selva"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES ORIENTE",Jiraiya:O Caçador da Selva
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-7/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Anjo da Paz"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Anjo da Paz
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Anjo da Paz"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES ORIENTE",Jiraiya:O Anjo da Paz
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-8/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:A Emboscada"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:A Emboscada
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:A Emboscada"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES ORIENTE",Jiraiya:A Emboscada
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-FILMES  COLETANEA JACKIE CHAN.xml"
-############## FILMES  COLETANEA JACKIE CHAN ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  COLETANEA JACKIE CHAN" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES COLETANEA JACKIE CHAN.xml"
+############## FILMES COLETANEA JACKIE CHAN ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES COLETANEA JACKIE CHAN" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Em Busca de Justiça"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfmSWcZyqgiiH7sMoRfTpdJVtc5prRoPxYdN4PgnqC3dJHMIP38eK3ZY5ULLzWVuSduy4&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Em Busca de Justiça
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca de Justiça"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfmSWcZyqgiiH7sMoRfTpdJVtc5prRoPxYdN4PgnqC3dJHMIP38eK3ZY5ULLzWVuSduy4&usqp=CAU" group-title="FILMES COLETANEA JACKIE CHAN",Em Busca de Justiça
 https://vod.cf.dmcdn.net/sec2(R5JHvvU2nQvSW29noE1VEIBXAwT4vlyXZI-FZokMIvloumnF6hkkfKQKDrQyJD6cA9Lf2fgQrRsDg9vrxarcDW1ASmJWEaUAple63ZRv0ttDmEJYHZWVqbCQSI4phM8ZoWMSggVv2tH7BmrXJ5rmIQ)/video/725/116/506611527_mp4_h264_aac_fhd.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hFGue47AJS60euzdNPN6WZXAFemRC9F-yR3RISN5tZBO4AXY5agbQkDxsg40JGMGAe0&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Em Nome da Lei
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hFGue47AJS60euzdNPN6WZXAFemRC9F-yR3RISN5tZBO4AXY5agbQkDxsg40JGMGAe0&usqp=CAU" group-title="FILMES COLETANEA JACKIE CHAN",Em Nome da Lei
 https://play.prod.gcp.vix.services/police-story-2013_pt/police-story-2013_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0XQu_l2z3ebrdJ5MCks6JcVOYuYIYGUt6Ns9nRJrXIjCKVtCXnnJbIkKv8_dLLcTWaQ&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Batalha dos Impérios
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0XQu_l2z3ebrdJ5MCks6JcVOYuYIYGUt6Ns9nRJrXIjCKVtCXnnJbIkKv8_dLLcTWaQ&usqp=CAU" group-title="FILMES COLETANEA JACKIE CHAN",Batalha dos Impérios
 https://play.prod.gcp.vix.services/dragon-blade_pt/dragon-blade_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Gv3i8IsRzGph4DdWVaDwKLk_d-hbJmdwucaQ9mE3D3zvwp6l9p5dtA4nqZTzDKKBZAE&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Armadura de Deus
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Gv3i8IsRzGph4DdWVaDwKLk_d-hbJmdwucaQ9mE3D3zvwp6l9p5dtA4nqZTzDKKBZAE&usqp=CAU" group-title="FILMES COLETANEA JACKIE CHAN",Armadura de Deus
 https://play.prod.gcp.vix.services/armour-of-god_pt/armour-of-god_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto "tvg-logo="https://i.ytimg.com/vi/We8NtpHDkDc/maxresdefault.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Acerto 
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto "tvg-logo="https://i.ytimg.com/vi/We8NtpHDkDc/maxresdefault.jpg" group-title="FILMES COLETANEA JACKIE CHAN",A Hora do Acerto 
 https://play.prod.gcp.vix.services/new-police-story_pt/new-police-story_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga"tvg-logo="https://m.media-amazon.com/images/I/91NSQEWHmsL._AC_SL1500_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Kung Fu Yoga
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga"tvg-logo="https://m.media-amazon.com/images/I/91NSQEWHmsL._AC_SL1500_.jpg" group-title="FILMES COLETANEA JACKIE CHAN",Kung Fu Yoga
 https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl3dW0-Z183P6r_YtqoRVIgmlBY3ykop17_NQyYjFtkMBSnNhwQY_pgWE_e2VgqBFiCw&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Batalha dos Impérios
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl3dW0-Z183P6r_YtqoRVIgmlBY3ykop17_NQyYjFtkMBSnNhwQY_pgWE_e2VgqBFiCw&usqp=CAU" group-title="FILMES COLETANEA JACKIE CHAN",Batalha dos Impérios
 https://play.prod.gcp.vix.services/dragon-blade_pt/dragon-blade_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Mito"tvg-logo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpJuB55yt_KgjiKNRUtdvNZRoqw7O-RC0qAh2oaiaDjHfPy-ujomXpUvvscw-xCIE33I&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",O Mito"tvg-logo
+#EXTINF:-1 tvg-id="" tvg-name="O Mito"tvg-logo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpJuB55yt_KgjiKNRUtdvNZRoqw7O-RC0qAh2oaiaDjHfPy-ujomXpUvvscw-xCIE33I&usqp=CAU" group-title="FILMES COLETANEA JACKIE CHAN",O Mito"tvg-logo
 https://play.prod.gcp.vix.services/myth_pt/myth_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Massacre no Bairro Chinês"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1f59472708ec45a9a89391ecbfd0d0a46d43a3505a7a5ad65d63ddb5c74313fc._V_SX1080_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Massacre no Bairro Chinês
+#EXTINF:-1 tvg-id="" tvg-name="Massacre no Bairro Chinês"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1f59472708ec45a9a89391ecbfd0d0a46d43a3505a7a5ad65d63ddb5c74313fc._V_SX1080_.jpg" group-title="FILMES COLETANEA JACKIE CHAN",Massacre no Bairro Chinês
 https://play.prod.gcp.vix.services/shinjuku-incident_pt/shinjuku-incident_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto"tvg-logo="https://dvdfilmes.com.br/wp-content/uploads/2021/11/dvd-p03-158.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Acerto
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto"tvg-logo="https://dvdfilmes.com.br/wp-content/uploads/2021/11/dvd-p03-158.jpg" group-title="FILMES COLETANEA JACKIE CHAN",A Hora do Acerto
 https://play.prod.gcp.vix.services/new-police-story_pt/new-police-story_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_720021-MLB20684543096_042016-O.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Em Nome da Lei
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_720021-MLB20684543096_042016-O.jpg" group-title="FILMES COLETANEA JACKIE CHAN",Em Nome da Lei
 https://play.prod.gcp.vix.services/police-story-2013_pt/police-story-2013_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Reino Proibido"tvg-logo="https://m.media-amazon.com/images/I/51dqRvZ8lyL._AC_SX342_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Reino Proibido
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Proibido"tvg-logo="https://m.media-amazon.com/images/I/51dqRvZ8lyL._AC_SX342_.jpg" group-title="FILMES COLETANEA JACKIE CHAN",O Reino Proibido
 https://play.prod.gcp.vix.services/forbidden-kingdom_pt/forbidden-kingdom_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f5ae42cc07eb3306614e039a9d92d8437ce6cce552c6d21b3ba4891f6802966e._RI_V_TTW_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Armadura de Deus
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f5ae42cc07eb3306614e039a9d92d8437ce6cce552c6d21b3ba4891f6802966e._RI_V_TTW_.jpg" group-title="FILMES COLETANEA JACKIE CHAN",Armadura de Deus
 https://play.prod.gcp.vix.services/armour-of-god_pt/armour-of-god_pt_1-1/play_v1_hls_432p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus 2: Operação Condor"tvg-logo="https://i2.wp.com/asiamundi.com.br/wp-content/uploads/2019/03/A-Armadura-de-Deus-2-Operac%CC%A7a%CC%83o-Condor-1991.jpg?fit=1000%2C1500" group-title="FILMES | COLETANEA JACKIE CHAN",Armadura de Deus 2: Operação Condor
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus 2: Operação Condor"tvg-logo="https://i2.wp.com/asiamundi.com.br/wp-content/uploads/2019/03/A-Armadura-de-Deus-2-Operac%CC%A7a%CC%83o-Condor-1991.jpg?fit=1000%2C1500" group-title="FILMES COLETANEA JACKIE CHAN",Armadura de Deus 2: Operação Condor
 https://play.prod.gcp.vix.services/armour-of-god-2_pt/armour-of-god-2_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê"tvg-logo="http://s2.glbimg.com/5UnBdhvFJuxXwXuYMUzVD9fM__s=/s.glbimg.com/og/rg/f/original/2016/04/20/jackie.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Três Ladrões e um Bebê
+#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê"tvg-logo="http://s2.glbimg.com/5UnBdhvFJuxXwXuYMUzVD9fM__s=/s.glbimg.com/og/rg/f/original/2016/04/20/jackie.jpg" group-title="FILMES COLETANEA JACKIE CHAN",Três Ladrões e um Bebê
 https://play.prod.gcp.vix.services/robin-b-hood_pt/robin-b-hood_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-FILMES & SERIES.xml "
@@ -3327,11 +3326,11 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/1283
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1868
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://prinplay.com.br/server/TNT%20HD.png" group-title="Filmes & Series",TNT HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2242
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas " tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas 
+#EXTINF:-1 tvg-id="tvg-name="TNT Novelas " tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/908274
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD " tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas FHD 
+#EXTINF:-1 tvg-id="tvg-name="TNT Novelas FHD " tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas FHD 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/908272
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas HD
+#EXTINF:-1 tvg-id="tvg-name="TNT Novelas HD" tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/908273
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries.png" group-title="Filmes & Series",TNT Series
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2243
@@ -3343,9 +3342,9 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/1305
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1869
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries%20HD.png" group-title="Filmes & Series",TNT Series HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2244
-#EXTINF:-1 tvg-id="" tvg-name="Urban Movies " tvg-logo="http://prinplay.com.br/server/Urban%20Movies.png" group-title="Filmes & Series",Urban Movies 
+#EXTINF:-1 tvg-id="tvg-name="Urban Movies " tvg-logo="http://prinplay.com.br/server/Urban%20Movies.png" group-title="Filmes & Series",Urban Movies 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/71264
-#EXTINF:-1 tvg-id="" tvg-name="Urban Series" tvg-logo="http://prinplay.com.br/server/Urban%20Series.png" group-title="Filmes & Series",Urban Series
+#EXTINF:-1 tvg-id="tvg-name="Urban Series" tvg-logo="http://prinplay.com.br/server/Urban%20Series.png" group-title="Filmes & Series",Urban Series
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/71266
 #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel" tvg-logo="http://prinplay.com.br/server/Warner%20Channel.png" group-title="Filmes & Series",Warner Channel
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2264
@@ -3414,11 +3413,11 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_282af8f1-
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  gospel 2 " tvg-logo="https://pa1.narvii.com/6712/f44129791177a9fcb78478f62e43869510c4b171_hq.gif" group-title="FILMES TV FAX GOSPEL",gospel 2
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TV Evangelizar | BR  "tvg-logo="https://yt3.googleusercontent.com/HJLTSXnvUxsPsx3-v9ClYO2hCAzoV4C-fzpmlLOQgrEyD5Zn_uJeYzwOYe2KFBPJGGnPRENjXwg=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES TV FAX GOSPEL",TV Evangelizar | BR
+#EXTINF:-1 tvg-id="" tvg-name=" TV Evangelizar  BR  "tvg-logo="https://yt3.googleusercontent.com/HJLTSXnvUxsPsx3-v9ClYO2hCAzoV4C-fzpmlLOQgrEyD5Zn_uJeYzwOYe2KFBPJGGnPRENjXwg=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES TV FAX GOSPEL",TV Evangelizar  BR
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TV Rede Gospel | BR  "tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW7UnXzKw6YWOe50Q54XxaihLVXYLYvrsz5-Hs0IQ=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES TV FAX GOSPEL",TV Rede Gospel | BR
+#EXTINF:-1 tvg-id="" tvg-name=" TV Rede Gospel  BR  "tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW7UnXzKw6YWOe50Q54XxaihLVXYLYvrsz5-Hs0IQ=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES TV FAX GOSPEL",TV Rede Gospel  BR
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TV Universal | BR  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="FILMES TV FAX GOSPEL",TV Universal | BR
+#EXTINF:-1 tvg-id="" tvg-name=" TV Universal  BR  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="FILMES TV FAX GOSPEL",TV Universal  BR
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Sansão e Dalila  " tvg-logo="https://i.ytimg.com/vi/AI2AShScOx8/maxresdefault.jpg" group-title="FILMES TV FAX GOSPEL",Sansão e Dalila
 https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_1080p.m3u8
@@ -7176,6 +7175,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 ############## SERIE TV FAX As Canções da Minha Vida ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSERIE TV FAX As Canções da Minha Vida" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome É Gal"tvg-logo="https://cultura.uol.com.br/upload/redactor/20230905163304_cartaz-meunomeegal.jpg"group-title="SERIE TV FAX As Canções da Minha Vida",Meu Nome É Gal
+https://archive.org/download/meu-nome-e-gal-tv-fax/Meu%20Nome%20%C3%A9%20Gal%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maria Gadú S01E01"tvg-logo="https://agendadorecife.com.br/files/wp-content/uploads/2011/08/maria-gad%C3%BA.jpg"group-title="SERIE TV FAX As Canções da Minha Vida",Maria Gadú S01E01
 https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Daniel S01E02"tvg-logo="https://yt3.googleusercontent.com/FX3lZkzflsQ2kBxn0C094S63D6Eru7wpfBAHw998UyN_C76D2_0yWXEysef4xtfF6VCSyV3Nuxk=s900-c-k-c0x00ffffff-no-rj"group-title="SERIE TV FAX As Canções da Minha Vida",Daniel S01E02
@@ -7215,6 +7216,7 @@ https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls
 #EXTM3U url-tvg="http://grade-de-MUSICA.xml"
 ############## MUSICA  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeMUSICA" group-title="
+
 
 #EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV 4K" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/112
