@@ -652,6 +652,126 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/531
 #EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",REDE TV HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/532
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS TV FAX.xml "
+ ############## CANAIS TV FAX  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="X-MEN" tvg-logo="https://media1.tenor.com/m/CqvzeAIRN2kAAAAC/phoenix-xmen.gif" group-title="CANAIS TV FAX",X-MEN
+http://voz.one:80/alexfnt/vTFBGKdUYq/95780
+#EXTINF:-1 tvg-id="Vai que Cola 1" tvg-logo="https://i.makeagif.com/media/1-19-2016/Oe_qqy.gif" group-title="CANAIS TV FAX",Vai que Cola 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95708
+#EXTINF:-1 tvg-id="Vai que Cola 2" tvg-logo="https://64.media.tumblr.com/5a1f4f67549ba4db99a5f20ac406e5d7/tumblr_mx3932sD321s3gc3mo4_250.gif" group-title="CANAIS TV FAX",Vai que Cola 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95709
+#EXTINF:-1 tvg-id="Luluzinha" tvg-logo="https://pa1.aminoapps.com/7389/be4b4e7c45c55c6b024290489527385998c73355r1-400-274_hq.gif" group-title="CANAIS TV FAX",Luluzinha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95749
+#EXTINF:-1 tvg-id="O Maskara" tvg-logo="https://i.gifer.com/pn6.gif" group-title="CANAIS TV FAX",O Maskara
+http://voz.one:80/alexfnt/vTFBGKdUYq/95756
+#EXTINF:-1 tvg-id="MASCARA" tvg-logo="https://i.pinimg.com/originals/a4/56/20/a45620b70941a4393bb421201c6b33ba.gif" group-title="CANAIS TV FAX",MASCARA
+http://voz.one:80/alexfnt/vTFBGKdUYq/95698
+#EXTINF:-1 tvg-id="Mortal Kombat" tvg-logo="https://giffiles.alphacoders.com/691/69164.gif" group-title="CANAIS TV FAX",Mortal Kombat
+http://voz.one:80/alexfnt/vTFBGKdUYq/95752
+#EXTINF:-1 tvg-id="Mr.Ben" tvg-logo="https://i.pinimg.com/originals/3d/a7/5d/3da75dc1fa1d365561869370243129d9.gif" group-title="CANAIS TV FAX",Mr.Ben
+http://voz.one:80/alexfnt/vTFBGKdUYq/95753
+#EXTINF:-1 tvg-id="Naruto" tvg-logo="https://i.pinimg.com/originals/7a/3d/44/7a3d44bb12803b174dc135156e492125.gif" group-title="CANAIS TV FAX",Naruto
+http://voz.one:80/alexfnt/vTFBGKdUYq/95686
+#EXTINF:-1 tvg-id="Naruto" tvg-logo="https://i.pinimg.com/originals/7c/f9/f0/7cf9f0da534cdb3a8e11b91cf2fd97e8.gif" group-title="CANAIS TV FAX",Naruto
+http://voz.one:80/alexfnt/vTFBGKdUYq/95754
+#EXTINF:-1 tvg-id="Os Flintstones" tvg-logo="https://i.gifer.com/1zy.gif" group-title="CANAIS TV FAX",Os Flintstones
+http://voz.one:80/alexfnt/vTFBGKdUYq/95688
+#EXTINF:-1 tvg-id="Os Simpsons 01" tvg-logo="https://i.pinimg.com/originals/3f/96/45/3f964588520342d696cee0cef4dd212a.gif" group-title="CANAIS TV FAX",Os Simpsons 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/95691
+#EXTINF:-1 tvg-id="Os Simpsons 02" tvg-logo="https://64.media.tumblr.com/6f14ffba86917337b488f189ab1c6cff/574dff299901b5d6-23/s640x960/a790e4ef346d2b0203a4eefce9c5fddc0efc3bce.gif" group-title="CANAIS TV FAX",Os Simpsons 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/95692
+#EXTINF:-1 tvg-id="Os Simpsons 03" tvg-logo="https://64.media.tumblr.com/9ac5a447780cf383a5797b90bbf9ff9f/e8eab754f1696c68-99/s2048x3072/2244a2fe1945d5268929b764582d7a35e9b40f29.gif" group-title="CANAIS TV FAX",Os Simpsons 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/95693
+#EXTINF:-1 tvg-id="Os Simpsons 04" tvg-logo="https://metro.co.uk/wp-content/uploads/2019/11/simpsons_01_WEb-6102.gif?crop=0px%2C0px%2C1200px%2C630px&resize=1200%2C630" group-title="CANAIS TV FAX",Os Simpsons 04
+http://voz.one:80/alexfnt/vTFBGKdUYq/95694
+
+#EXTINF:-1 tvg-id="Os Vingadores" tvg-logo="https://i.pinimg.com/originals/c7/6f/7f/c76f7f1b2f2dbb96a6bbb6076d2f4bd0.gif" group-title="CANAIS TV FAX",Os Vingadores
+http://voz.one:80/alexfnt/vTFBGKdUYq/95761
+#EXTINF:-1 tvg-id="Peeppa Pig" tvg-logo="https://media0.giphy.com/media/rINLIWmFxVZsXbD3CJ/source.gif" group-title="CANAIS TV FAX",Peeppa Pig
+http://voz.one:80/alexfnt/vTFBGKdUYq/95717
+#EXTINF:-1 tvg-id="Peixonautas" tvg-logo="https://j.gifs.com/xk25X9.gif" group-title="CANAIS TV FAX",Peixonautas
+http://voz.one:80/alexfnt/vTFBGKdUYq/95763
+#EXTINF:-1 tvg-id="Peeppa Pig" tvg-logo="https://media0.giphy.com/media/rINLIWmFxVZsXbD3CJ/source.gif" group-title="CANAIS TV FAX",Peppa Pig
+http://voz.one:80/alexfnt/vTFBGKdUYq/95715
+#EXTINF:-1 tvg-id="Pernalonga" tvg-logo="https://usagif.com/wp-content/uploads/2021/04/bugs-bunny-10.gif" group-title="CANAIS TV FAX",Pernalonga
+http://voz.one:80/alexfnt/vTFBGKdUYq/95764
+#EXTINF:-1 tvg-id="Pink-e-Cerebro" tvg-logo="https://i.pinimg.com/originals/97/47/a4/9747a492e5903b0b6face8761129cc4a.gif" group-title="CANAIS TV FAX",Pink-e-Cerebro
+http://voz.one:80/alexfnt/vTFBGKdUYq/95697
+#EXTINF:-1 tvg-id="Pinky e o Cérebro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjTHrDokzO7zahPuon-8rHPtXIUimShDIVmSwm40sx6ickXUED14NeyRgob0dy12eEbs&usqp=CAU" group-title="CANAIS TV FAX",Pinky e o Cérebro
+http://voz.one:80/alexfnt/vTFBGKdUYq/95765
+#EXTINF:-1 tvg-id="Scooby-Doo" tvg-logo="https://i.pinimg.com/originals/27/b0/0b/27b00b0a9f7472cae54ff8d99a20329f.gif" group-title="CANAIS TV FAX",Scooby-Doo
+http://voz.one:80/alexfnt/vTFBGKdUYq/95771
+#EXTINF:-1 tvg-id="South Park" tvg-logo="https://media3.giphy.com/media/l0HlCtvUayCgoNGog/source.gif" group-title="CANAIS TV FAX",South Park
+http://voz.one:80/alexfnt/vTFBGKdUYq/95701
+#EXTINF:-1 tvg-id="South Park" tvg-logo="https://media3.giphy.com/media/l0HlCtvUayCgoNGog/source.gif" group-title="CANAIS TV FAX",South Park
+http://voz.one:80/alexfnt/vTFBGKdUYq/95772
+#EXTINF:-1 tvg-id="Thundercats" tvg-logo="https://i.pinimg.com/originals/d9/c9/ce/d9c9ce4fdc47f2233b9cdb7b9d301497.gif" group-title="CANAIS TV FAX",Thundercats
+http://voz.one:80/alexfnt/vTFBGKdUYq/95774
+#EXTINF:-1 tvg-id="Thundercats" tvg-logo="https://i.gifer.com/H0HY.gif" group-title="CANAIS TV FAX",Thundercats
+http://voz.one:80/alexfnt/vTFBGKdUYq/95776
+#EXTINF:-1 tvg-id="Timao e Pumba" tvg-logo="https://i.pinimg.com/originals/a5/00/c1/a500c1d1a323a5bc9c283b0bb8822e81.gif" group-title="CANAIS TV FAX",Timao e Pumba
+http://voz.one:80/alexfnt/vTFBGKdUYq/95777
+#EXTINF:-1 tvg-id="Todo Mundo Odeia o Chris 1" tvg-logo="https://64.media.tumblr.com/tumblr_lkpki0i2qQ1qiebmoo1_500.gif" group-title="CANAIS TV FAX",Todo Mundo Odeia o Chris 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95702
+#EXTINF:-1 tvg-id="Todo Mundo Odeia o Chris 2" tvg-logo="https://pa1.aminoapps.com/6333/c4e9cb96892dd07187e9db942cae8d5c2e2d32c2_00.gif" group-title="CANAIS TV FAX",Todo Mundo Odeia o Chris 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95703
+#EXTINF:-1 tvg-id="Tom & Jerry" tvg-logo="https://i.pinimg.com/originals/cd/ee/9f/cdee9f6abcccb4807635621c1e16a509.gif" group-title="CANAIS TV FAX",Tom & Jerry
+http://voz.one:80/alexfnt/vTFBGKdUYq/95704
+#EXTINF:-1 tvg-id="Tres Espias Demais" tvg-logo="https://i.pinimg.com/originals/3f/c7/a3/3fc7a32267dc511c1f875c9c9555b0b4.gif" group-title="CANAIS TV FAX",Tres Espias Demais
+http://voz.one:80/alexfnt/vTFBGKdUYq/95778
+#EXTINF:-1 tvg-id="Um Maluco no Pedaço 1" tvg-logo="https://i.gifer.com/OLiR.gif" group-title="CANAIS TV FAX",Um Maluco no Pedaço 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95705
+#EXTINF:-1 tvg-id="Um Maluco no Pedaço 2" tvg-logo="https://i.gifer.com/TsDZ.gif" group-title="CANAIS TV FAX",Um Maluco no Pedaço 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95706
+#EXTINF:-1 tvg-id="Ursinhos Carinhos" tvg-logo="https://i.pinimg.com/originals/36/d5/11/36d5118f1462811461071b7a3e83961e.gif" group-title="CANAIS TV FAX",Ursinhos Carinhos
+http://voz.one:80/alexfnt/vTFBGKdUYq/95707
+#EXTINF:-1 tvg-id="Galinha Pintadinha" tvg-logo="https://i.pinimg.com/originals/be/55/61/be55617ebefc60d13fd6e39ac1b53d1e.gif" group-title="CANAIS TV FAX",Galinha Pintadinha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95681
+#EXTINF:-1 tvg-id="Galinha Pintadinha" tvg-logo="https://i.pinimg.com/originals/be/55/61/be55617ebefc60d13fd6e39ac1b53d1e.gif" group-title="CANAIS TV FAX",Galinha pintadinha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95737
+#EXTINF:-1 tvg-id="Game of Thrones" tvg-logo="https://i.pinimg.com/originals/eb/86/61/eb86610fb222db8fdab3d9caebff6103.gif" group-title="CANAIS TV FAX",Game of Thrones
+http://voz.one:80/alexfnt/vTFBGKdUYq/95682
+#EXTINF:-1 tvg-id="He-Man" tvg-logo="https://i.pinimg.com/originals/e4/a2/96/e4a296b1f39dc4a3829f953c5707b79b.gif" group-title="CANAIS TV FAX",He-Man
+http://voz.one:80/alexfnt/vTFBGKdUYq/95738
+#EXTINF:-1 tvg-id="Hercules" tvg-logo="https://i.pinimg.com/originals/a1/e3/4a/a1e34ab28febf82f66f2320828213f0a.gif" group-title="CANAIS TV FAX",Hercules
+http://voz.one:80/alexfnt/vTFBGKdUYq/95742
+#EXTINF:-1 tvg-id="Homem aranha" tvg-logo="https://super.abril.com.br/wp-content/uploads/2018/07/tumblr_mxtcw5qc791rjt9w2o1_500.gif?w=495" group-title="CANAIS TV FAX",Homem aranha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95740
+#EXTINF:-1 tvg-id="Jack Chan" tvg-logo="https://media.tenor.com/ffTkx4iTcIUAAAAM/jackie-chan-approve-ok.gif" group-title="CANAIS TV FAX",Jack Chan
+http://voz.one:80/alexfnt/vTFBGKdUYq/95743
+#EXTINF:-1 tvg-id="Jack Chan 2" tvg-logo="https://media.tenor.com/sL42nJpp8gUAAAAM/jackie-chan-dragons-forever.gif" group-title="CANAIS TV FAX",Jaclkie Chan 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95739
+#EXTINF:-1 tvg-id="Jaspion" tvg-logo="https://media.tenor.com/3_5hh_ZMnMAAAAAM/jaspion-transforms-to-robot.gif" group-title="CANAIS TV FAX",Jaspion
+http://voz.one:80/alexfnt/vTFBGKdUYq/95744
+#EXTINF:-1 tvg-id="Dragon Ball" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbortwbhRmfyvTB-EcPNAkiljkXIHfDPeux_gdiMkYLgd_ZS_1_paOdyWHrqT2EeWQKzo&usqp=CAU" group-title="CANAIS TV FAX",Dragon Ball
+http://voz.one:80/alexfnt/vTFBGKdUYq/95734
+#EXTINF:-1 tvg-id="Dragon Ball 1" tvg-logo="https://i.gifer.com/Hkv3.gif" group-title="CANAIS TV FAX",Dragon Ball 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95668
+#EXTINF:-1 tvg-id="Dragon Ball 2" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95669
+#EXTINF:-1 tvg-id="Dragon Ball Heroes" tvg-logo="https://i.pinimg.com/originals/ae/4c/22/ae4c2223ef945468f7b92b835c45b916.gif" group-title="CANAIS TV FAX",Dragon Ball Heroes
+http://voz.one:80/alexfnt/vTFBGKdUYq/95670
+#EXTINF:-1 tvg-id="Dragon Ball Super" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Super
+http://voz.one:80/alexfnt/vTFBGKdUYq/95735
+#EXTINF:-1 tvg-id="Dragon Ball Super 1" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Super 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95671
+#EXTINF:-1 tvg-id="Dragon Ball Super 2" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Super 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95672
+#EXTINF:-1 tvg-id="Dragon Ball Super 3" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Super 3
+http://voz.one:80/alexfnt/vTFBGKdUYq/95673
+#EXTINF:-1 tvg-id="Dragon Ball Z" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Z
+http://voz.one:80/alexfnt/vTFBGKdUYq/95736
+#EXTINF:-1 tvg-id="Dragon Ball Z 1" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Z 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95674
+#EXTINF:-1 tvg-id="Dragon Ball Z 2" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Z 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95675
+#EXTINF:-1 tvg-id="JIRAYA O Incrível Ninja" tvg-logo="https://i.makeagif.com/media/7-06-2017/KeokQY.gif" group-title="CANAIS TV FAX",JIRAYA O Incrível Ninja
+http://voz.one:80/alexfnt/vTFBGKdUYq/95745
+#EXTINF:-1 tvg-id="Kenan e Kel" tvg-logo="https://i.pinimg.com/originals/63/5f/fc/635ffc72627228c491363331f6c4ba0a.gif" group-title="CANAIS TV FAX", Kenan e Kel
+http://voz.one:80/alexfnt/vTFBGKdUYq/95746
+
 #EXTM3U url-tvg=" http://grade-de-Canal Brasil TV e Radio FAX.xml "
  ############## Canal Brasil TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanal Brasil TV e Radio FAX" group-title="
