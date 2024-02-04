@@ -2800,23 +2800,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de5
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS FAX 2024",Tokusato | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTM3U url-tvg="http://grade-de-CANAIS TV FAX RUMTIME.xml"
-############## CANAIS TV FAX RUMTIME ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS TV FAX RUMTIME" group-title="
-
-#EXTINF:-1 tvg-id="tvg-name="AÇAO"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp"group-title="CANAIS TV FAX RUMTIME",AÇAO
-https://stream.ads.ottera.tv/cl/240117cmji4n5am069ekndjtd0/1280x720_3071200_0_f.m3u8?i=728_6128
-#EXTINF:-1 tvg-id="tvg-name="FAMILIA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YrTJ0HvK0JReIs7_osZ3Io7Z3mQ1yra9oYNVmJkzmztWAioaNlyixzzyCoS5uretiIg&usqp=CAU"group-title="CANAIS TV FAX RUMTIME",FAMILIA
-https://stream.ads.ottera.tv/cl/240117cmji6qn6s3it5mvaoqm0/1280x720_3071200_0_f.m3u8?i=728_5589
-#EXTINF:-1 tvg-id="tvg-name="CINESPANTO"tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/RuntimeCinEspanto_b__circle.png"group-title="CANAIS TV FAX RUMTIME",CINESPANTO
-https://stream.ads.ottera.tv/cl/240117cmji7i0qmssav5p4pk50/1280x720_3071200_0_f.m3u8?i=728_4865
-#EXTINF:-1 tvg-id="tvg-name="CRIME"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp"group-title="CANAIS TV FAX RUMTIME",CRIME
-https://stream.ads.ottera.tv/cl/240117cmji8aovsaavnfqasbsg/1280x720_3071200_0_f.m3u8?i=728_4864
-#EXTINF:-1 tvg-id="tvg-name="COMEDIA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJ8LWuQRjr-DORHCFSPIbEwYLNeK0hUB6FSRFJ4zIHJf736aX97YPnwi5OULafvDBH64&usqp=CAU"group-title="CANAIS TV FAX RUMTIME",COMEDIA
-https://stream.ads.ottera.tv/cl/240117cmji8t8pc25k0skm1a50/1280x720_3071200_0_f.m3u8?i=728_2553
-#EXTINF:-1 tvg-id="tvg-name="ROMANCE"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp"group-title="CANAIS TV FAX RUMTIME",ROMANCE
-https://stream.ads.ottera.tv/cl/240117cmji9d69ldp7ibpa0mqg/1280x720_3071200_0_f.m3u8?i=728_6133
-
 #EXTM3U url-tvg=" http://grade-de-FILM & ART TV e Radio FAX.xml "
  ############## FILM & ART TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeFILM & ART TV e Radio FAX" group-title="
@@ -2962,119 +2945,14 @@ https://ia601209.us.archive.org/6/items/seven-os-sete-crimes-capitais-tv-fax/Sev
 #EXTINF:-1 tvg-id="" tvg-name="Som Da Liberdade Sound Of Freedom"tvg-logo="https://jpimg.com.br/uploads/2023/08/soundfreedom_hiperionblog-700x450.jpg"group-title="FILME TV e Radio FAX archive",Som Da Liberdade Sound Of Freedom
 https://ia601200.us.archive.org/24/items/som-da-liberdade-sound-of-freedom-tv-fax/Som%20da%20Liberdade%20-%20Sound%20of%20Freedom%20TV%20FAX.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILMES TV FAX RUMTIME.xml"
-############## FILMES TV FAX RUMTIME ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX RUMTIME" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Azumi"tvg-logo="https://www.japaoemfoco.com/wp-content/uploads/2008/05/azumi04.jpg"group-title="FILMES TV FAX RUMTIME",Azumi
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_8avc6ht0/v/1/pv/1/ev/10/flavorId/1_jkn4vjp1/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV84YXZjNmh0MC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3MDkyNTF9fX1dfQ__&Signature=cBlatmpFa0lJPs5uA18orhb8eH~ivteOspkibSV2drwxkWuCJr~PA9VFYmNh6RHClCLWKq9SuJQFtDN~vk0-tT0yoUfe7kwGdYCzPVjoHxSaw~wOdCUpP0VZ6GpOik~OKwdxB0TILN3Le8CwGVEpYmBLVjmx1kEIKrS0xtS72E5toNfsIOSlUBHiy3l6R5nDs6vj4gdf5c3Tgcj079BBFHUBcAkZcHqvfs-a6Qy6lbP4VSbOe6-pgUXTCWdVUe3HjHoO2FAzaMQ0ysuGEBGdIKLxzEI9yMdWEU243DR3l7s5NVFkmUFXq0dPpPzeZ24smnCaZL-nSRI0LSFFuBtPDA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:-1 tvg-id="" tvg-name="Azumi 2"tvg-logo="https://www.japaoemfoco.com/wp-content/uploads/2008/05/azumi04.jpg"group-title="FILMES TV FAX RUMTIME",Azumi 2
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_mcoildg8/v/1/pv/1/ev/10/flavorId/1_ihfgn01r/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9tY29pbGRnOC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3MDk0NzB9fX1dfQ__&Signature=QmgQAUzSuEgpqMcYEQXYO3839qXQAFWcGDI2XHwLtrhsn~RQDnzv-ODLe6ZlbawFetiKDrVyIuE-mZl~cPKLOTU9OkTWhg-X8dyPLJ1YWJNAQQ55L0L92k9wv66T6slLpZ5mYAEkm6jLNJFS4cKhiCeXETMOARtZyzDow5egipnF23AxaEYhojUnMtFGPhCPM64p8rDnkMUYHOLdj5H4EWEBT5XQqAS225i2I~CYm4AlDF2MUvRVQEFsIYE6jfooHK1OW-m7VJB6v6ZpoH5ILq9Xq0yeBSxbACs85HRp4S8K9AzDbRuvZqczd~HUp41kQr1vsA8TOptJ-eJUr-KyzQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:-1 tvg-id="" tvg-name="O Vigilante Mascarado"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/56d88fc497362f80b26fa4412dcba2e3afd214f69552457f0ff4d36b93b8574a._RI_TTW_SX1080_FMjpg_.jpg"group-title="FILMES TV FAX RUMTIME",O Vigilante Mascarado
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9j8p4ms8/v/1/pv/1/ev/12/flavorId/1_321cfsj4/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85ajhwNG1zOC92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3MDg4MjF9fX1dfQ__&Signature=CIjUPLvuoVyJRHqvywQbiHXXHISEhsDXqjJrJr~zT~ne5Ft5CG0RKNThn5O1mrpU~tLtxEa48fVdvKxmEsGMXfB~wybUnTORqR-OpCCFrh3NXYPrVZM9Zsx~7Wp2G-MfXKlSis2tQoNt4~PJZRg7ukI2iTA6vcqZsLkw~ViBgT2E2nXvAosQ2LfpW-Y8L~JmaYsZ8pxfjkSnhn4xJM00h4v8-TPjz0rPq-NMKBax3gyF91U6SCzR-Tt-YNdcMFQ6qv0DS4seSlSkLHlfi6i9igCa6iyGuqhpgGiYdk8ry9vGUrOQNu~-Z0RyHuOndvOz6OKaRF5RL2UEfsSetZKHEA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:-1 tvg-id="" tvg-name="Busca Desesperada"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYCyOlmOeJdkNtR-fHGaDqe_1eMnhFuLpwXuzvnk1dlYXyoYDM0h4jvGE-nKyWAF0TtxA&usqp=CAU"group-title="FILMES TV FAX RUMTIME",Busca Desesperada
-https://cfvod.kaltura.com/api_v3/index.php/service/caption_captionasset/action/serveWebVTT/captionAssetId/1_phe8wbng/segmentDuration/300/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Morrer ou Viver"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAr97ZZAr9qVB6375JJ-rA1Cgdrc6iwnmZsJeiv9_h-dapu06hd44X3AzHN8Cldnnzo4c&usqp=CAU"group-title="FILMES TV FAX RUMTIME",Morrer ou Viver
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_qtdhuso0/v/1/pv/1/ev/10/flavorId/1_0bb7ibvk/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9xdGRodXNvMC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3MDk1NzZ9fX1dfQ__&Signature=DFt4nBNcTOUroOCVLjqV7YSX8M1C1dIRrVIxmVkCYI1h6RFki~Obtg0aakFRX7Y8LM~uAa8CF3kXRyOA7Bo7gIK0b-gdqWXdtWeWpiptXT1RNvhyabmK7LLFovgzD9IxZS4lJg27VU0P6b~itKMfw9MPZvZo0ldBFiddb1jyttxJPXXV00Xgadrpv-1lyh1aVldKgMTqqiT4kaw2bGSMeHwu8AuVkcA-XKOtsDxmS7QHdxp0-VcjhKUPMclLUrxDpuLHr5CPEPS6~THAJKZH3NlMPnCxkL5IXcraefWJRaW2IcPy5CL1Htc0sJwMkWTpZ4IAqYtZJ-JPgLIiVmfs8g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:-1 tvg-id="" tvg-name="Morrer ou Viver 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAr97ZZAr9qVB6375JJ-rA1Cgdrc6iwnmZsJeiv9_h-dapu06hd44X3AzHN8Cldnnzo4c&usqp=CAU"group-title="FILMES TV FAX RUMTIME",Morrer ou Viver 2
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9nxcptd0/v/1/pv/1/ev/10/flavorId/1_i56ace53/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85bnhjcHRkMC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3MDkzNzJ9fX1dfQ__&Signature=Havbo30nLo~GDONF3L0mjnSorLTxkr~G28J7nTN7HLKgEQpz1Phww3JnOzRhG6BmmsWE-VZOBPIVY4uGCfox7rM5Vr8q29zf1yrKsPmAjCoIdlgQR-kcl9bu~UWpaYJnCpMX8CS-QOVWVLR0szPUJOHulvPu8Ldt8G1u5ZEzceNIxumBU61qGyRVg2XxzGqnIwT0F~U8APsGcZCb29xTf0leZ0n-27IevaeRFlK0OOKjRfkDQ-ziAVDOLim0Bc6ohykT3rg52S2K9VGdBAUwGiZrWoTglSaBxeLZz6VT-Ym9ezu1lQ1BpPcMSpihB-vrxvjr4Gv12OaVGnOVHv1ASw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX |  ONLINE.xml"
 ############## FILME TV FAX |  ONLINE ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  ONLINE" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino ( Filme ) 2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBFbbZfSRaCTk9cE3fi6XCyPMj-kNkGf8fjvn1D_Gnyr1e1QT4ubMMS7AHGvvSQe0e6o&usqp=CAU"group-title="FILME TV FAX |  ONLINE",O Assassino ( Filme ) 2023
-https://vod.cf.dmcdn.net/sec2(u19uDABVmeia_Riops8_dQ4uIw3JaWtONdydrRLe5aLAtxyPjvTHK1nDwC1H74LIOrj-16YQXPyGU8FEABkyJENPhvYT9hMwCnbl6aqgAjrRIy6H4LPH3FzmgB070HHCMTR3y6UgBNbZzjj1rkHzbg)/video/747/326/526623747_mp4_h264_aac_fhd_9.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="A Profissional ( Filme ) 2021 "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTg2Alb8wJ_a2lROzl3yqjzrz_sEMJ6vrWlzAxI8UHE0M1cTv_I_L4Z_obR74a5Js764&usqp=CAU"group-title="FILME TV FAX |  ONLINE",A Profissional ( Filme ) 2021 
-https://vod.cf.dmcdn.net/sec2(O8bSpvOSK4S9reCQoQudtWrdMX7L2_EDHYPJfiNF9S8TqDZVQNaT1EUA_H_78uNJORMHfiQIEr9tOSzszMMjPE6qKaOzFcptBhsfOGuExjR_nz-ODbU2ZdgYe_n4gc5dBoFVBlyxwpee2a6u6RtihA)/video/651/601/524106156_mp4_h264_aac_fhd_6.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name=Alta Velocidade"tvg-logo="https://media.fstatic.com/asWdTE36MWEyheG_3EIHp6d5YZs=/322x478/smart/filters:format(webp)/media/movies/covers/2021/02/3415_-_29x41-.jpg"group-title="FILME TV FAX |  ONLINE",Alta Velocidade
-https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Última Jornada"tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2020/11/a-ultima-jornada-poster.jpg"group-title="FILME TV FAX |  ONLINE",A Última Jornada
 https://play.prod.gcp.vix.services/last-boy_pt/last-boy_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Correndo Contra o Vento"tvg-logo="https://i.ytimg.com/vi/T1oH1y_J3pg/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",Correndo Contra o Vento
 https://play.prod.gcp.vix.services/running-against-wind_pt/running-against-wind_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Apimentadas  Entrar para Ganhar"tvg-logo="https://image.tmdb.org/t/p/w185/64BU3QqQEBtt5mJf1FjrCLBzzf5.jpg"group-title="FILME TV FAX |  ONLINE",As Apimentadas  Entrar para Ganhar
-https://seig.tv/19/1/f1fc04624212bae12f6375292862baaa/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Busca de Groot"tvg-logo="https://image.tmdb.org/t/p/w185/oV3mUWylNaRsBkbul7BGilaxE9k.jpg"group-title="FILME TV FAX |  ONLINE",A Busca de Groot
-https://seig.tv/16/1/007ddb883fd95bca3a9fb3d332d77894/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marmaduke"tvg-logo="https://image.tmdb.org/t/p/w185/cyNivzjzniErFkzq45ZEWOKQMgY.jpg"group-title="FILME TV FAX |  ONLINE",Marmaduke
-https://seig.tv/18/1/7d9ab2332e9579b52438c4a5e0f67edf/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Caras Malvados"tvg-logo="https://image.tmdb.org/t/p/w185/syKg3OmdtSYmkA7nNdtPUYdSFGL.jpg"group-title="FILME TV FAX |  ONLINE",Os Caras Malvados
-https://seig.tv/16/1/f9c010ad89c1a410e8ad36f70aab5d63/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Projeto Adam"tvg-logo="https://image.tmdb.org/t/p/w185/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg"group-title="FILME TV FAX |  ONLINE",O Projeto Adam
-https://seig.tv/16/1/fadfb9b8eb05c5cae5c14323604042e0/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Yaksha Operação Implacável"tvg-logo="https://image.tmdb.org/t/p/w185/zL8KPd8Rw6KXgdcgytMbzNNrHmc.jpg"group-title="FILME TV FAX |  ONLINE",Yaksha Operação Implacável
-https://seig.tv/11/1/bcf086cab69f796f5b6f22f39169f15e/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Snoopy Apresenta Sao as Pequenas Coisas Charlie Brown"tvg-logo="https://image.tmdb.org/t/p/w185/q5gVKsYkWmz1pklu4JBmac1wr2.jpg"group-title="FILME TV FAX |  ONLINE",Snoopy Apresenta Sao as Pequenas Coisas Charlie Brown
-https://seig.tv/12/1/d82cd5cd24bb27c39d5aac4afb5601c0/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ambulancia Um Dia de Crime"tvg-logo="https://image.tmdb.org/t/p/w185/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg"group-title="FILME TV FAX |  ONLINE",Ambulancia Um Dia de Crime
-https://seig.tv/17/1/2ce15b3cc176cd70b154feda05f5946b/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sonic 2 O Filme"tvg-logo="https://www.themoviedb.org/t/p/original/8E7mIpEpSATxX5JEuw55GYx9hfk.jpg"group-title="FILME TV FAX |  ONLINE",Sonic 2 O Filme
-https://seig.tv/14/1/8e279f070861d52941202684414fa9fb/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Acontecimento"tvg-logo="https://image.tmdb.org/t/p/w185/p4SEXbaIbQl9adB0qGlnEzLMahq.jpg"group-title="FILME TV FAX |  ONLINE",O Acontecimento
-https://seig.tv/17/1/2c0b1a651818e984c14bc698eb4548a9/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Verdadeira História do Roubo do Século"tvg-logo="https://image.tmdb.org/t/p/w185/xrYVZ5b0p0BKg6vZ3scU4iyOwC3.jpg"group-title="FILME TV FAX |  ONLINE",A Verdadeira História do Roubo do Século
-https://seig.tv/11/1/46382acfe475e803d9577240bfa5c7e3/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Top Gun Maverick"tvg-logo="https://image.tmdb.org/t/p/w185/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"group-title="FILME TV FAX |  ONLINE",Top Gun Maverick
-https://seig.tv/16/1/5881c5b2687ff5d6f72ccf032c56e4eb/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="De Férias da Família"tvg-logo="https://image.tmdb.org/t/p/w185/mGPFbEmWdaDVxO5V64xYwv6v8j.jpg"group-title="FILME TV FAX |  ONLINE",De Férias da Família
-https://seig.tv/14/1/9ffddca7cf55eb04b8efaca2d0ad40a3/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thor Amor e Trovão"tvg-logo="https://image.tmdb.org/t/p/w185/cOkx3uu5FVgC902Q6Y3MxLpBWbX.jpg"group-title="FILME TV FAX |  ONLINE",Thor Amor e Trovão
-https://seig.tv/11/1/3c967dd01776986fe3bcd8bb2a33df8e/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Obi Wan Kenobi O Retorno do Jedi"tvg-logo="https://image.tmdb.org/t/p/w185/gIFwT8iabcTrcufg8LwuX6aMf5m.jpg"group-title="FILME TV FAX |  ONLINE",Obi Wan Kenobi O Retorno do Jedi
-https://seig.tv/12/1/0385133e62b3bbecc4eb5ffbf15cdfdb/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Secreto"tvg-logo="https://image.tmdb.org/t/p/w185/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg"group-title="FILME TV FAX |  ONLINE",Esquadrão Secreto
-https://seig.tv/15/1/77ff5947544db7954df7f181011d521c/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2"tvg-logo="https://image.tmdb.org/t/p/w185/8G7EaPTocE0ok3YNxo972woo9EP.jpg"group-title="FILME TV FAX |  ONLINE",Abracadabra 2
-https://seig.tv/11/1/c763927396999a43dde7bdd4a1958625/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rainbow"tvg-logo="https://image.tmdb.org/t/p/w185/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg"group-title="FILME TV FAX |  ONLINE",Rainbow
-https://seig.tv/15/1/40464eae2d403b931cc3f69fa7f9259d/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Curtas dos Minions Volume 1"tvg-logo="https://image.tmdb.org/t/p/w185/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg"group-title="FILME TV FAX |  ONLINE",Curtas dos Minions Volume 1
-https://seig.tv/18/1/a231c43b7c1f103f11bec6051aaa653b/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conspiração Explosiva"tvg-logo="https://www.themoviedb.org/t/p/original/tuqYUmGpJTyu7pJzwz7pBpWfWR0.jpg"group-title="FILME TV FAX |  ONLINE",Conspiração Explosiva
-https://seig.tv/16/1/7862aad70e4542d4a5d1a51e3dfecf55/360p/360p7.png
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon As Crônicas de Arceus"tvg-logo="https://image.tmdb.org/t/p/w185/r9AxrlhBgmFfipnYZ3UNUpsM8JZ.jpg"group-title="FILME TV FAX |  ONLINE",Pokémon As Crônicas de Arceus
-https://seig.tv/17/1/3a7d36af40744937e48772558e7475d8/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Panama"tvg-logo="https://image.tmdb.org/t/p/w185/82I3tDsGDTMy7lHar84Gz0jUuyW.jpg"group-title="FILME TV FAX |  ONLINE",Panama
-https://seig.tv/16/1/2e03ae21069b08a9c336cddbf316d113/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Terra dos Sonhos"tvg-logo="https://image.tmdb.org/t/p/w185/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg"group-title="FILME TV FAX |  ONLINE",Terra dos Sonhos
-https://seig.tv/17/1/02e3c3408d1499e1177816875c426cc9/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hawa"tvg-logo="https://image.tmdb.org/t/p/w185/p6DhbsX1EuSJMtuOGsENkIOx1tt.jpg"group-title="FILME TV FAX |  ONLINE",Hawa
-https://seig.tv/16/1/8cde8c817449d0e2c94ff175df11292f/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Vingança"tvg-logo="https://image.tmdb.org/t/p/w185/tlZGDi8anF7Fcs5HGVaTEMnv1hp.jpg"group-title="FILME TV FAX |  ONLINE",Meu Nome é Vingança
-https://seig.tv/14/1/f02c36fb002cb2e93e40e5dc5a0f7014/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desencantada"tvg-logo="https://image.tmdb.org/t/p/w185/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg"group-title="FILME TV FAX |  ONLINE",Desencantada
-https://seig.tv/17/1/69c088bac41ab9553ea5ed62e897b1d4/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Menino a Toupeira a Raposa e o Cavalo"tvg-logo="https://image.tmdb.org/t/p/w185/765XUik0cbyWHITgE22FhpA8elG.jpg"group-title="FILME TV FAX |  ONLINE",O Menino a Toupeira a Raposa e o Cavalo
-https://seig.tv/15/1/b425911631fca6bc4bdf77c4d0587f40/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mundo Estranho"tvg-logo="https://image.tmdb.org/t/p/w185/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg"group-title="FILME TV FAX |  ONLINE",Mundo Estranho
-https://seig.tv/18/1/fc3c407880b162d4a8e1563703936d12/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Fabuloso Maurício"tvg-logo="https://image.tmdb.org/t/p/w185/qcCZnuFQv6faxbXUb9pa8Le5ujB.jpg"group-title="FILME TV FAX |  ONLINE",O Fabuloso Maurício
-https://seig.tv/19/1/cee9263b22e97d95812f07f1a0b9bc08/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight Independência"tvg-logo="https://image.tmdb.org/t/p/w185/wfFE22EpiBOtN4qpTpxRDTXNodb.jpg"group-title="FILME TV FAX |  ONLINE",Detetive Knight Independência
-https://seig.tv/19/1/80fac7c5f909b33fa2b907b74ffc69fb/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Som do Caos"tvg-logo="https://image.tmdb.org/t/p/w185/yka6u5dbx1vWoMrNIHHutluaepp.jpg"group-title="FILME TV FAX |  ONLINE",O Som do Caos
-https://seig.tv/19/1/6f30f3c43a3409b7ccfc1ab962f0f649/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Já Era Hora"tvg-logo="https://image.tmdb.org/t/p/w185/a8Sg7wHxquACYe4IIKyH0rORMp9.jpg"group-title="FILME TV FAX |  ONLINE",Já Era Hora
-https://seig.tv/19/1/538be4e19755fd846839eda0b58fa5dd/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Rei das Sombras"tvg-logo="https://image.tmdb.org/t/p/w185/o0UxfLtPJ7rN1lKyBMFwbw5ngNU.jpg"group-title="FILME TV FAX |  ONLINE",O Rei das Sombras
-https://seig.tv/19/1/1d7a006af80911ce7f655937e22e8a64/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Padre Johnny"tvg-logo="https://image.tmdb.org/t/p/w185/zbzkNNViy1dH2jCLMok2DmHX8e9.jpg"group-title="FILME TV FAX |  ONLINE",Padre Johnny
-https://seig.tv/19/1/c6cca2cb396cd3b1e9477ac90c473f2a/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desapega"tvg-logo="https://image.tmdb.org/t/p/w185/b0aRBdFnIi1MZbsW7QTZvRHcpo3.jpg"group-title="FILME TV FAX |  ONLINE",Desapega
-https://seig.tv/19/1/e983c14cfdeef3c6a5a7575ff5efcd6d/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Múmias e o Anel Perdido"tvg-logo="https://image.tmdb.org/t/p/w185/w5uM8SZKWN9CwpFvzTnEZSkO8Ow.jpg"group-title="FILME TV FAX |  ONLINE",As Múmias e o Anel Perdido
-https://seig.tv/19/1/cfee4175fe97870cc75f77cbf827be53/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Lutcha"tvg-logo="https://image.tmdb.org/t/p/w185/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg"group-title="FILME TV FAX |  ONLINE",Meu Amigo Lutcha
-https://seig.tv/19/1/47b56a8ebd0ecc5e1ffebf2889206501/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TicTac A Maternidade do Mal"tvg-logo="https://image.tmdb.org/t/p/w185/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg"group-title="FILME TV FAX |  ONLINE",TicTac A Maternidade do Mal
-https://seig.tv/19/1/2da30667f9dfee2c8dc5d78be0afb053/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Infiesto"tvg-logo="https://image.tmdb.org/t/p/w185/dmO2U0ckWkE6T5hyYY3rUtSH9X4.jpg"group-title="FILME TV FAX |  ONLINE",Infiesto
-https://seig.tv/19/1/f54405aa348cee5b40125e989bf8f9f6/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fanfic"tvg-logo="https://image.tmdb.org/t/p/w185/6qgkVtpVabAzjQaJTgx3Vmqnmyj.jpg"group-title="FILME TV FAX |  ONLINE",Fanfic
-https://seig.tv/19/1/1eede5057cbc4f8259e95cfc49b395c3/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abril Despedaçado"tvg-logo="https://image.tmdb.org/t/p/w185/9GVEX1VC4iEh5t5T7YNDU9P8zKQ.jpg"group-title="FILME TV FAX |  ONLINE",Abril Despedaçado 
-https://seig.tv/19/1/8af63f3f1acd16a92310f8b42a9ed54c/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Balas em Fúria"tvg-logo="https://i.ytimg.com/vi/KB4fVdzciV0/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",Balas em Fúria
 https://play.prod.gcp.vix.services/let-bullets-fly_pt/let-bullets-fly_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Semente do mal"tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/appurushido_pt/appurushido_pt_200x300.jpg"group-title="FILME TV FAX |  ONLINE",Semente do mal
@@ -3264,8 +3142,6 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/289
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/290
 #EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS HD" tvg-logo="" group-title="FILMES & SERIES",TBS HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/291
-#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" tvg-logo="" group-title="FILMES & SERIES",TCM HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/292
 #EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM UHD" tvg-logo="" group-title="FILMES & SERIES",TCM UHD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/293
 #EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES",TELECINE ACTION 4K
@@ -3308,162 +3184,6 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/783
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/320
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/319
-#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="FILMES & SERIES",AMC
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2047
-#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC Alternativo" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="FILMES & SERIES",AMC Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1176
-#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC Alternativo HD" tvg-logo="http://prinplay.com.br/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1329
-#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC FHD" tvg-logo="http://prinplay.com.br/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1807
-#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC HD" tvg-logo="http://prinplay.com.br/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2048
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="http://prinplay.com.br/server/AXN.png" group-title="FILMES & SERIES",AXN
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2053
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN Alternativo" tvg-logo="http://prinplay.com.br/server/AXN.png" group-title="FILMES & SERIES",AXN Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1119
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN Alternativo HD" tvg-logo="http://prinplay.com.br/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1308
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://prinplay.com.br/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1810
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://prinplay.com.br/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2054
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="FILMES & SERIES",Cinecanal
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/902337
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="FILMES & SERIES",Cinecanal FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/902335
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="FILMES & SERIES",Cinecanal HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/902336
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2073
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax Alternativo" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1185
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1816
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2074
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts" tvg-logo="http://prinplay.com.br/server/Film%26Arts.png" group-title="FILMES & SERIES",Film & Arts
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2280
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="http://prinplay.com.br/server/FX.png" group-title="FILMES & SERIES",FX
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2127
-#EXTINF:-1 tvg-id="fx.br" tvg-name="Fx Alternativo" tvg-logo="http://prinplay.com.br/server/FX.png" group-title="FILMES & SERIES",Fx Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1137
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX Alternativo HD" tvg-logo="http://prinplay.com.br/server/FX%20HD.png" group-title="FILMES & SERIES",FX Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1315
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="http://prinplay.com.br/server/FX%20HD.png" group-title="FILMES & SERIES",FX FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1835
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://prinplay.com.br/server/FX%20HD.png" group-title="FILMES & SERIES",FX HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2128
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Alternativo HD" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1300
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2184
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1859
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2185
-#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="Filmes & Series",Paramount Network
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/901883
-#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network FHD" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="Filmes & Series",Paramount Network FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/901881
-#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network HD" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="Filmes & Series",Paramount Network HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/901882
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2068
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel Alternativo" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1172
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel Alternativo HD" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1325
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel FHD" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1814
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel HD" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2069
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space" tvg-logo="http://prinplay.com.br/server/Space.png" group-title="Filmes & Series",Space
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2216
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space Alternativo" tvg-logo="http://prinplay.com.br/server/Space.png" group-title="Filmes & Series",Space Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1220
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space Alternativo HD" tvg-logo="http://prinplay.com.br/server/Space%20HD.png" group-title="Filmes & Series",Space Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1287
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="http://prinplay.com.br/server/Space%20HD.png" group-title="Filmes & Series",Space FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1862
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://prinplay.com.br/server/Space%20HD.png" group-title="Filmes & Series",Space HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2217
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="Filmes & Series",Star Channel
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2113
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel Alternativo" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="Filmes & Series",Star Channel Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1133
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel Alternativo HD" tvg-logo="http://prinplay.com.br/server/Fox%20HD.png" group-title="Filmes & Series",Star Channel Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1313
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel FHD" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="Filmes & Series",Star Channel FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1885
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel HD" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="Filmes & Series",Star Channel HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2114
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal" tvg-logo="http://prinplay.com.br/server/Studio%20Universal.png" group-title="Filmes & Series",Studio Universal
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2221
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal Alternativo" tvg-logo="http://prinplay.com.br/server/Studio%20Universal.png" group-title="Filmes & Series",Studio Universal Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1222
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal Alternativo HD" tvg-logo="http://prinplay.com.br/server/Studio%20Universal%20HD.png" group-title="Filmes & Series",Studio Universal Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1266
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="http://prinplay.com.br/server/Studio%20Universal%20HD.png" group-title="Filmes & Series",Studio Universal FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1863
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="http://prinplay.com.br/server/Studio%20Universal%20HD.png" group-title="Filmes & Series",Studio Universal HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2222
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="Filmes & Series",TBS
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2223
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS Alternativo" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="Filmes & Series",TBS Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1224
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS Alternativo HD" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="Filmes & Series",TBS Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1304
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="Filmes & Series",TBS FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1865
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="Filmes & Series",TBS HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2224
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Filmes & Series",TCM
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2225
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD " tvg-logo="http://prinplay.com.br/server/TCM.png" group-title="Filmes & Series",TCM FHD 
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/47726
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD " tvg-logo="http://prinplay.com.br/server/TCM.png" group-title="Filmes & Series",TCM HD 
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/47727
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="http://prinplay.com.br/server/TNT.png" group-title="Filmes & Series",TNT
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2241
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo" tvg-logo="http://prinplay.com.br/server/TNT.png" group-title="Filmes & Series",TNT Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1234
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo HD" tvg-logo="http://prinplay.com.br/server/TNT%20HD.png" group-title="Filmes & Series",TNT Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1283
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="http://prinplay.com.br/server/TNT%20HD.png" group-title="Filmes & Series",TNT FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1868
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://prinplay.com.br/server/TNT%20HD.png" group-title="Filmes & Series",TNT HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2242
-#EXTINF:-1 tvg-id="tvg-name="TNT Novelas " tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas 
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/908274
-#EXTINF:-1 tvg-id="tvg-name="TNT Novelas FHD " tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas FHD 
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/908272
-#EXTINF:-1 tvg-id="tvg-name="TNT Novelas HD" tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="Filmes & Series",TNT Novelas HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/908273
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries.png" group-title="Filmes & Series",TNT Series
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2243
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series Alternativo" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries.png" group-title="Filmes & Series",TNT Series Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1235
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series Alternativo HD" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries%20HD.png" group-title="Filmes & Series",TNT Series Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1305
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries%20HD.png" group-title="Filmes & Series",TNT Series FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1869
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries%20HD.png" group-title="Filmes & Series",TNT Series HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2244
-#EXTINF:-1 tvg-id="tvg-name="Urban Movies " tvg-logo="http://prinplay.com.br/server/Urban%20Movies.png" group-title="Filmes & Series",Urban Movies 
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/71264
-#EXTINF:-1 tvg-id="tvg-name="Urban Series" tvg-logo="http://prinplay.com.br/server/Urban%20Series.png" group-title="Filmes & Series",Urban Series
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/71266
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel" tvg-logo="http://prinplay.com.br/server/Warner%20Channel.png" group-title="Filmes & Series",Warner Channel
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2264
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel Alternativo" tvg-logo="http://prinplay.com.br/server/Warner%20Channel.png" group-title="Filmes & Series",Warner Channel Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1244
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel Alternativo HD" tvg-logo="http://prinplay.com.br/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1284
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel FHD" tvg-logo="http://prinplay.com.br/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1874
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="http://prinplay.com.br/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2265
 
 #EXTM3U url-tvg=" http://grade-de-FILMES TV FAX GOSPEL.xml "
  ############## FILMES TV FAX GOSPEL ############## ### 
@@ -3679,6 +3399,26 @@ https://ia601504.us.archive.org/32/items/luaAmor/luaAmor.MP4
 #EXTINF:-1 tvg-id="" tvg-name="Quatro Vidas de Um Cachorro (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReS_JFVzprrK2IRj5Zm0kYHbZeyjS630EIOc7W_i2rpmirrCbYf5TJepVQYT97XL7mHMI&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Quatro Vidas de Um Cachorro (2017)
 https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
 
+#EXTM3U url-tvg="http://grade-de-Patati Patata .xml"
+############## Patati Patata ################# 
+#EXTINF:-1 tvg-id=" iddocanaldePatati Patata" group-title="
+
+#EXTINF:-1 tvg-logo="https://bologuarana.com.br/wp-content/uploads/sites/3/2022/06/gif-patati-patata-festa-infantil.gif" group-title="Patati Patatá | Patati Patatá",Patatoons
+https://play.prod.gcp.vix.services/patatoons/patatoons_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs.gfycat.com/ClumsyTediousBlackbird-size_restricted.giff" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Carrossel
+https://play.prod.gcp.vix.services/pat-vida-carrossel_pt/pat-vida-carrossel_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/5-23-2018/z1UvD2.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Fantasia
+https://play.prod.gcp.vix.services/pat-vida-fantasia_pt/pat-vida-fantasia_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://media.tenor.com/W4LbQ_gZueMAAAAC/mara-maravilha-patati-patata.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Imaginação
+https://play.prod.gcp.vix.services/pat-vida-imaginacao_pt/pat-vida-imaginacao_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Tudo Que Eu Preciso
+https://play.prod.gcp.vix.services/pat-vida-preciso_pt/pat-vida-preciso_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Amigos do Peito
+https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Remexe
+https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
+
 #EXTM3U url-tvg="http://grade-de-Infantil Car City.xml"
 ############## Infantil Car City ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeInfantil Car City" group-title="
@@ -3760,26 +3500,6 @@ https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/wd0Yk9h2LYk/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 5x2
 https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-17/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-Patati Patata .xml"
-############## Patati Patata ################# 
-#EXTINF:-1 tvg-id=" iddocanaldePatati Patata" group-title="
-
-#EXTINF:-1 tvg-logo="https://bologuarana.com.br/wp-content/uploads/sites/3/2022/06/gif-patati-patata-festa-infantil.gif" group-title="Patati Patatá | Patati Patatá",Patatoons
-https://play.prod.gcp.vix.services/patatoons/patatoons_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.gfycat.com/ClumsyTediousBlackbird-size_restricted.giff" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Carrossel
-https://play.prod.gcp.vix.services/pat-vida-carrossel_pt/pat-vida-carrossel_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/5-23-2018/z1UvD2.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Fantasia
-https://play.prod.gcp.vix.services/pat-vida-fantasia_pt/pat-vida-fantasia_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/W4LbQ_gZueMAAAAC/mara-maravilha-patati-patata.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Imaginação
-https://play.prod.gcp.vix.services/pat-vida-imaginacao_pt/pat-vida-imaginacao_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Tudo Que Eu Preciso
-https://play.prod.gcp.vix.services/pat-vida-preciso_pt/pat-vida-preciso_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Amigos do Peito
-https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Remexe
-https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
-
 #EXTM3U url-tvg=" http://grade-de-INFANTIS.xml "
  ############## INFANTIS ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeINFANTIS" group-title="
@@ -3830,122 +3550,117 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/345
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/767
 #EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/342
-
-#EXTM3U url-tvg=" http://grade-de-Infantis.xml "
- ############## Infantis ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeInfantis" group-title="
-
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="Infantis",Cartoon Network FHD
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="INFANTIS",Cartoon Network FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1815
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Netowork HD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="Infantis",Cartoon Netowork HD
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Netowork HD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="INFANTIS",Cartoon Netowork HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2072
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Netowork" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network.png" group-title="Infantis",Cartoon Netowork
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Netowork" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network.png" group-title="INFANTIS",Cartoon Netowork
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2071
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network Alternativo HD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="Infantis",Cartoon Network Alternativo HD
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network Alternativo HD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="INFANTIS",Cartoon Network Alternativo HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1332
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network Alternativo" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network.png" group-title="Infantis",Cartoon Network Alternativo
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network Alternativo" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network.png" group-title="INFANTIS",Cartoon Network Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1124
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="Infantis",Discovery Kids FHD
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="INFANTIS",Discovery Kids FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1821
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="Infantis",Discovery Kids HD
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="INFANTIS",Discovery Kids HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2088
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids.png" group-title="Infantis",Discovery Kids
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids.png" group-title="INFANTIS",Discovery Kids
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2087
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids Alternativo HD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="Infantis",Discovery Kids Alternativo HD
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids Alternativo HD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="INFANTIS",Discovery Kids Alternativo HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1334
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids Alternativo" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids.png" group-title="Infantis",Discovery Kids Alternativo
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids Alternativo" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids.png" group-title="INFANTIS",Discovery Kids Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1128
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel FHD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="Infantis",Disney Channel FHD
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel FHD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="INFANTIS",Disney Channel FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1882
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="Infantis",Disney Channel HD
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="INFANTIS",Disney Channel HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2096
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel" tvg-logo="http://prinplay.com.br/server/Disney%20Channel.png" group-title="Infantis",Disney Channel
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel" tvg-logo="http://prinplay.com.br/server/Disney%20Channel.png" group-title="INFANTIS",Disney Channel
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2095
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel Alternativo HD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="Infantis",Disney Channel Alternativo HD
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel Alternativo HD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="INFANTIS",Disney Channel Alternativo HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1336
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel Alternativo" tvg-logo="http://prinplay.com.br/server/Disney%20Channel.png" group-title="Infantis",Disney Channel Alternativo
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel Alternativo" tvg-logo="http://prinplay.com.br/server/Disney%20Channel.png" group-title="INFANTIS",Disney Channel Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1189
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang  FHD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="Infantis",Boomerang  FHD
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang  FHD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="INFANTIS",Boomerang  FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1813
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="Infantis",Boomerang HD
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="INFANTIS",Boomerang  HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2065
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang" tvg-logo="http://prinplay.com.br/server/Boomerang.png" group-title="Infantis",Boomerang
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang" tvg-logo="http://prinplay.com.br/server/Boomerang.png" group-title="INFANTIS",Boomerang  
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2064
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang Alternativo HD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="Infantis",Boomerang Alternativo HD
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang Alternativo HD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="INFANTIS",Boomerang  Alternativo HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1330
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang Alternativo" tvg-logo="http://prinplay.com.br/server/Boomerang.png" group-title="Infantis",Boomerang Alternativo
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang Alternativo" tvg-logo="http://prinplay.com.br/server/Boomerang.png" group-title="INFANTIS",Boomerang  Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1182
-#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon FHD
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1857
-#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon HD
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2181
-#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2180
-#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon Alternativo HD
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon Alternativo HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1345
-#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon Alternativo
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1153
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="Infantis",Nick Jr FHD
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="INFANTIS",Nick Jr FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1856
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="Infantis",Nick Jr HD
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="INFANTIS",Nick Jr HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2179
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr" tvg-logo="http://prinplay.com.br/server/Nick%20Jr..png" group-title="Infantis",Nick Jr
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr" tvg-logo="http://prinplay.com.br/server/Nick%20Jr..png" group-title="INFANTIS",Nick Jr
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2178
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick JR Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="Infantis",Nick JR Alternativo HD
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick JR Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="INFANTIS",Nick JR Alternativo HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1346
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr Alternativo" tvg-logo="http://prinplay.com.br/server/Nick%20Jr..png" group-title="Infantis",Nick Jr Alternativo
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr Alternativo" tvg-logo="http://prinplay.com.br/server/Nick%20Jr..png" group-title="INFANTIS",Nick Jr Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1211
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="Infantis",Gloobinho FHD
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="INFANTIS",Gloobinho FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1836
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="Infantis",Gloobinho HD
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="INFANTIS",Gloobinho HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2133
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="Infantis",Gloobinho
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="INFANTIS",Gloobinho 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2134
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="Infantis",Gloob FHD
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="INFANTIS",Gloobinho FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1889
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="Infantis",Gloob HD
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="INFANTIS",Gloob HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2132
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="Infantis",Gloob
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="INFANTIS",Gloob 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2131
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob Alternativo HD" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="Infantis",Gloob Alternativo HD
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob Alternativo HD" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="INFANTIS",Gloob Alternativo HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1342
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob Alternativo" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="Infantis",Gloob Alternativo
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob Alternativo" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="INFANTIS",Gloob Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1139
-#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum FHD
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="INFANTIS",TV Ra Tim Bum FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1871
-#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum HD
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="INFANTIS",TV Ra Tim Bum HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2254
-#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="INFANTIS",TV Ra Tim Bum
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2253
-#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum Alternativo" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum Alternativo
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum Alternativo" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="INFANTIS",TV Ra Tim Bum Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1215
-#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV FHD " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="Infantis",Baby TV FHD 
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV FHD " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="INFANTIS",Baby TV FHD 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/45263
-#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV HD " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="Infantis",Baby TV HD 
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV HD " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="INFANTIS",Baby TV HD 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/45262
-#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="Infantis",Baby TV 
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="INFANTIS",Baby TV 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1120
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="Infantis",Cartoonito FHD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="INFANTIS",Cartoonito FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/901866
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="Infantis",Cartoonito HD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="INFANTIS",Cartoonito HD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/901867
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="Infantis",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="INFANTIS",Cartoonito 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/901868
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD " tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="Infantis",Tooncast HD 
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD " tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="INFANTIS",Tooncast HD 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/45261
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="Infantis",Tooncast
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="INFANTIS",Tooncast 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2245
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast Alternativo" tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="Infantis",Tooncast Alternativo
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast Alternativo" tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="INFANTIS",Tooncast Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1236
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo HD " tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="Infantis",Zoomoo HD 
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo HD " tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="INFANTIS",Zoomoo HD 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/45260
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="Infantis",Zoomoo
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="INFANTIS",Zoomoo 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/2293
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo Alternativo" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="Infantis",ZooMoo Alternativo
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo Alternativo" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="INFANTIS",Zoomoo Alternativo
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/1246
-#EXTINF:-1 tvg-id="" tvg-name="Urban Kids " tvg-logo="http://prinplay.com.br/server/Urban%20Kids.png" group-title="Infantis",Urban Kids 
+#EXTINF:-1 tvg-id="" tvg-name="Urban Kids " tvg-logo="http://prinplay.com.br/server/Urban%20Kids.png" group-title="INFANTIS",Urban Kids 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/71263
-#EXTINF:-1 tvg-id="" tvg-name="Box Kids TV" tvg-logo="https://i.postimg.cc/XJnkC3HQ/images-35.jpg" group-title="Infantis",Box Kids TV
+#EXTINF:-1 tvg-id="" tvg-name="Box Kids TV" tvg-logo="https://i.postimg.cc/XJnkC3HQ/images-35.jpg" group-title="INFANTIS",Box Kids TV
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/83810
 
 #EXTM3U url-tvg=" http://grade-de-Desenhos 24hs.xml "
@@ -4112,109 +3827,8 @@ https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p
 https://play.prod.gcp.vix.services/moranguinho_pt/moranguinho_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="car patrol"tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5OTkxN2EtOWU0MC00NjUzLWJjYWItYmY1MTFiYTIzZjU0XkEyXkFqcGdeQXVyODg1Njg2Njc@._V1_.jpg"group-title="FILMES | INFANTIL CINEMA",car patrol
 https://play.prod.gcp.vix.services/car-patrol_pt/car-patrol_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO KIDS SD"tvg-logo="https://media.tenor.com/ebDsb4OasR8AAAAM/mundokidsigarape.gif"group-title="FILMES | INFANTIL CINEMA",MUNDO KIDS SD
-https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O BICHO VAI PEGAR 3"tvg-logo="https://image.tmdb.org/t/p/w342/gxh80YqyRcxOnFsmsEOXhkO6Qwx.jpg"group-title="FILMES | INFANTIL CINEMA",O BICHO VAI PEGAR 3
 https://video.wixstatic.com/video/834009_a3ece7d11c0949689f53dda20d7bd8c8/720p/mp4/file.mp4
-
-#EXTM3U url-tvg=" http://grade-de-Brasil: maratona de ficção.xml "
- ############## Brasil: maratona de ficção ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeBrasil: maratona de ficção" group-title="
-
-#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="Brasil: maratona de ficção",A Feiticeira | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="Brasil: maratona de ficção",A Feiticeira - link 2 | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Arnold - Diff'rent Strokes | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Arnold - Diff'rent Strokes | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="648776bf536e0c0008b49aef" tvg-logo="https://images.pluto.tv/channels/648776bf536e0c0008b49aef/colorLogoPNG.png" group-title="Brasil: maratona de ficção",As Panteras | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="648776bf536e0c0008b49aef" tvg-logo="https://images.pluto.tv/channels/648776bf536e0c0008b49aef/colorLogoPNG.png" group-title="Brasil: maratona de ficção",As Panteras | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Barrados no Baile | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9cfbc111bc0008feda3b" tvg-logo="https://images.pluto.tv/channels/63eb9cfbc111bc0008feda3b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Barrados no Baile | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9cfbc111bc0008feda3b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Being Mary Jane | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Being Mary Jane | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",CSI Miami | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",CSI Miami | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Death Note | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Death Note | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Inferno Sobre Rodas | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Inferno Sobre Rodas | Pluto TV Brasil - link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Jeannie é um Gênio | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Jeannie é um Gênio | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Kenan e Kel | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Kenan e Kel | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="Brasil: maratona de ficção",La otra cara del Alma | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="Brasil: maratona de ficção",La otra cara del Alma | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Mad About You | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Mad About You | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção",NCIS | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção",NCIS | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Brasil: maratona de ficção",O homem que veio do céu | Pluto TV Brasil
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Brasil: maratona de ficção",O homem que veio do céu | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1eed3c29b39600073e2ec0" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Os Três Patetas | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f1eed3c29b39600073e2ec0" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Os Três Patetas | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Plantão Noturno - The Night Shift | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Plantão Noturno - The Night Shift | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Rookie Blue | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Rookie Blue | Pluto TV Brasil - link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Schitt's Creek | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Schitt's Creek | Pluto TV Brasil - link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Star Trek | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Star Trek | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6489c4a066e48500083ccf97" tvg-logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Starsky & Hutch: Justiça em Dobro | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6489c4a066e48500083ccf97" tvg-logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Starsky & Hutch: Justiça em Dobro | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/a505127c-angermanagement_runtime_channeltitle_1080x1080.jpg" group-title="Brasil: maratona de ficção",Tratamento de Choque | RunTime
-https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
-#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Younger | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Younger | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTM3U url-tvg="http://grade-de-FAX | CLIPS AO VIVO.xml"
 ############## FAX | CLIPS AO VIVO  ################# 
@@ -4877,42 +4491,42 @@ https://player.painelvox.com/player-ssl/8340/;
 ############## [Séries da Semana]  ################# 
 #EXTINF:-1 tvg-id=" iddocanalde[Séries da Semana]" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbovhZ4L3PD0KW0bm9ZHbrZFPgh.jpg" group-title="[Séries da Semana]",fubar: TVFAX S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX f01 b01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbovhZ4L3PD0KW0bm9ZHbrZFPgh.jpg" group-title="[Séries da Semana]",fubar: TVFAX f01 b01
 https://archive.org/details/fubar-1x6-dublado-www.encontrei.tv/fubar-1x1-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E02" tvg-logo="https://s2-techtudo.glbimg.com/VNomAPCg8JSt01Ay1Y-REaZWX9c=/0x0:1140x807/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/y/d/BW2OjpTwmX9jNrA6HRnA/fubar-netflix-techtudo-01.jpg" group-title="[Séries da Semana]",fubar: TVFAX S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX f01 b02" tvg-logo="https://s2-techtudo.glbimg.com/VNomAPCg8JSt01Ay1Y-REaZWX9c=/0x0:1140x807/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/y/d/BW2OjpTwmX9jNrA6HRnA/fubar-netflix-techtudo-01.jpg" group-title="[Séries da Semana]",fubar: TVFAX f01 b02
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x2-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E03" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/02/fubar-nova-serie-netflix-scaled.jpg" group-title="[Séries da Semana]",fubar: TVFAX S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX f01 b03" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/02/fubar-nova-serie-netflix-scaled.jpg" group-title="[Séries da Semana]",fubar: TVFAX f01 b03
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x3-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXRzsNDwd2HODFwTj0GxW17uBEmGa_M_Fk4CntYoOmRBsYl_Prw3gR3k3mOOxmKypV6U&usqp=CAU" group-title="[Séries da Semana]",fubar: TVFAX S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX f01 b04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXRzsNDwd2HODFwTj0GxW17uBEmGa_M_Fk4CntYoOmRBsYl_Prw3gR3k3mOOxmKypV6U&usqp=CAU" group-title="[Séries da Semana]",fubar: TVFAX f01 b04
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x4-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UGGbkO4fItY0YN3sja8FYvUM2gjode6wl1MJ4Km0UQF8ls7WL0bdOFprncsARMj_OsE&usqp=CAU" group-title="[Séries da Semana]",fubar: TVFAX S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX f01 b05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UGGbkO4fItY0YN3sja8FYvUM2gjode6wl1MJ4Km0UQF8ls7WL0bdOFprncsARMj_OsE&usqp=CAU" group-title="[Séries da Semana]",fubar: TVFAX f01 b05
 https://archive.org/details/fubar-1x6-dublado-www.encontrei.tv/fubar-1x5-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E06" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/02/fubar-nova-serie-netflix-scaled.jpg" group-title="[Séries da Semana]",fubar: TVFAX S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX f01 b06" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/02/fubar-nova-serie-netflix-scaled.jpg" group-title="[Séries da Semana]",fubar: TVFAX f01 b06
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x6-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_fzbnGURCVWD8tO6MUbOHeycbRJIKw1JW2T0ceONrd1egSL5kKDpuOC_LeVUbvvCz2I&usqp=CAU" group-title="[Séries da Semana]",fubar: TVFAX S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX f01 b07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_fzbnGURCVWD8tO6MUbOHeycbRJIKw1JW2T0ceONrd1egSL5kKDpuOC_LeVUbvvCz2I&usqp=CAU" group-title="[Séries da Semana]",fubar: TVFAX f01 b07
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x7-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiQYuv5VnN1KZf47g6QsYlF8ocz.jpg" group-title="[Séries da Semana]",fubar: TVFAX S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="fubar: TVFAX f01 b08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiQYuv5VnN1KZf47g6QsYlF8ocz.jpg" group-title="[Séries da Semana]",fubar: TVFAX f01 b08
 https://archive.org/download/fubar-1x6-dublado-www.encontrei.tv/fubar-1x8-dublado-www.encontrei.tv.mp4
 
 #EXTM3U url-tvg="http://grade-de-[Séries da Semana].xml"
 ############## [Séries da Semana]  ################# 
 #EXTINF:-1 tvg-id=" iddocanalde[Séries da Semana]" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E01" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/11/reacher-1.jpg.webp" group-title="[Séries da Semana]",reacher: TVFAX S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX r01 c01" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/11/reacher-1.jpg.webp" group-title="[Séries da Semana]",reacher: TVFAX r01 c01
 https://archive.org/serve/reacher-1x5-dublado-www.encontrei.tv/reacher-1x1-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VptQQtgWldaJ7POSlM2P1vqA7HOkZGPmjLsZWeDPzilELprzNMSP40Sm0ICQSDSbr_E&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX r01 c02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VptQQtgWldaJ7POSlM2P1vqA7HOkZGPmjLsZWeDPzilELprzNMSP40Sm0ICQSDSbr_E&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX r01 c02
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x2-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeKjpUegXMEBYNYm3gUA5rpvUzsHp5CuidZEMJu_9JZWxpj0TV6iUsbXMnWNQyyQL_h8&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX r01 c03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeKjpUegXMEBYNYm3gUA5rpvUzsHp5CuidZEMJu_9JZWxpj0TV6iUsbXMnWNQyyQL_h8&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX r01 c03
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x3-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeKjpUegXMEBYNYm3gUA5rpvUzsHp5CuidZEMJu_9JZWxpj0TV6iUsbXMnWNQyyQL_h8&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX r01 c04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeKjpUegXMEBYNYm3gUA5rpvUzsHp5CuidZEMJu_9JZWxpj0TV6iUsbXMnWNQyyQL_h8&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX r01 c04
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x4-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E05" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2024/01/Reacher-1-3.webp" group-title="[Séries da Semana]",reacher: TVFAX S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX r01 c05" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2024/01/Reacher-1-3.webp" group-title="[Séries da Semana]",reacher: TVFAX r01 c05
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x5-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E06" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2023/12/Reacher-2-temporada-serie-final.webp" group-title="[Séries da Semana]",reacher: TVFAX S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX r01 c06" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2023/12/Reacher-2-temporada-serie-final.webp" group-title="[Séries da Semana]",reacher: TVFAX r01 c06
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x6-dublado-www.encontrei.tv%281%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNuAdv_GOy2eO4RAuEYnafP0TXon_oryTpJ2xO-eXV02Bm0wSkhskQjR0ib-3LRuBfqcs&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX r01 c07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNuAdv_GOy2eO4RAuEYnafP0TXon_oryTpJ2xO-eXV02Bm0wSkhskQjR0ib-3LRuBfqcs&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX r01 c07
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x7-dublado-www.encontrei.tv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX S01 E08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTea92ZpyKvHmO9pBnVMuBA7LZO3_45rNNIFcdnFL-Wdjyfs8a68FjfzKaEu8cgWameyco&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="reacher: TVFAX r01 c08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTea92ZpyKvHmO9pBnVMuBA7LZO3_45rNNIFcdnFL-Wdjyfs8a68FjfzKaEu8cgWameyco&usqp=CAU" group-title="[Séries da Semana]",reacher: TVFAX r01 c08
 https://archive.org/download/reacher-1x5-dublado-www.encontrei.tv/reacher-1x8-dublado-www.encontrei.tv.mp4
 
 #EXTM3U url-tvg="http://grade-de-[Séries da Semana].xml"
@@ -4981,6 +4595,978 @@ http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914218.mp4
 http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914219.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kkUXAxBjSi42YRXYtwCz4eaRjJ.jpg" group-title="[Séries da Semana]",CSI: Vegas S02 E21
 http://dns.acaidopara.net:8080/series/Claudio6431/11987416431/914220.mp4
+
+#EXTM3U url-tvg="http://grade-de-SERIES | NETFLIX.xml"
+############## SERIES | NETFLIX  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIES | NETFLIX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Armas e Amores (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/llUUewrFJQdNSp6ElYfVuRmxmvf.jpg" group-title="SERIES | NETFLIX",Armas e Amores (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3510668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armas e Amores (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/9l4VqkuHn7OOORdhuHovH4F2Zez.jpg" group-title="SERIES | NETFLIX",Armas e Amores (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3510669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armas e Amores (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gvFuo33ZNfVkefJYxENMamzohFt.jpg" group-title="SERIES | NETFLIX",Armas e Amores (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3510670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armas e Amores (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/3FqpMDT7GoiidPsJw39rwI5Vl4J.jpg" group-title="SERIES | NETFLIX",Armas e Amores (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3510671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armas e Amores (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/3N9JxfcjUFkORcVxtgsLIFHMqDc.jpg" group-title="SERIES | NETFLIX",Armas e Amores (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3510672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armas e Amores (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bymyyEzg92qbuI19QFqc50Pf08P.jpg" group-title="SERIES | NETFLIX",Armas e Amores (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3510673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armas e Amores (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/327DFuyUCmFhSCXFOLrJADY7UCf.jpg" group-title="SERIES | NETFLIX",Armas e Amores (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3510674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Casa com Tyson Fury (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kORkYbc1l5DoNJu7fSprtTwwqFi.jpg" group-title="SERIES | NETFLIX",Em Casa com Tyson Fury (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3510624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Casa com Tyson Fury (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/V1QaSNditoqoJrUZYWExlfFudH.jpg" group-title="SERIES | NETFLIX",Em Casa com Tyson Fury (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3510625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Casa com Tyson Fury (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/90X6vfOOzaJMFdXQ5oVQnGn1EOt.jpg" group-title="SERIES | NETFLIX",Em Casa com Tyson Fury (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3510626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Casa com Tyson Fury (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/5AIfuhtOFg2JPX5dUUb88vnSvrP.jpg" group-title="SERIES | NETFLIX",Em Casa com Tyson Fury (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3510627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Casa com Tyson Fury (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/cJugqktvQLbhT90PVQEvwm9vqCE.jpg" group-title="SERIES | NETFLIX",Em Casa com Tyson Fury (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3510628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Casa com Tyson Fury (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jsSumsU3AeomBWMk0pOKJHWImLO.jpg" group-title="SERIES | NETFLIX",Em Casa com Tyson Fury (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3510629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Casa com Tyson Fury (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hx0WajvAdkkGRw3UWdhIVLCznFx.jpg" group-title="SERIES | NETFLIX",Em Casa com Tyson Fury (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3510630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Casa com Tyson Fury (2023) S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/c7F8C4Zf2OT6V1bmaH3wptAzhLB.jpg" group-title="SERIES | NETFLIX",Em Casa com Tyson Fury (2023) S01 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3510631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Casa com Tyson Fury (2023) S01 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gy52FXab5lJOQECcA798hhCcdRT.jpg" group-title="SERIES | NETFLIX",Em Casa com Tyson Fury (2023) S01 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3510632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cadetes Mech (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gajhxRliZwOfqucq57V5sVQacGR.jpg" group-title="SERIES | NETFLIX",Os Cadetes Mech (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3510074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cadetes Mech (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gajhxRliZwOfqucq57V5sVQacGR.jpg" group-title="SERIES | NETFLIX",Os Cadetes Mech (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3510075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cadetes Mech (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gajhxRliZwOfqucq57V5sVQacGR.jpg" group-title="SERIES | NETFLIX",Os Cadetes Mech (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3510076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cadetes Mech (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gajhxRliZwOfqucq57V5sVQacGR.jpg" group-title="SERIES | NETFLIX",Os Cadetes Mech (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3510077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cadetes Mech (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gajhxRliZwOfqucq57V5sVQacGR.jpg" group-title="SERIES | NETFLIX",Os Cadetes Mech (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3510078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cadetes Mech (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gajhxRliZwOfqucq57V5sVQacGR.jpg" group-title="SERIES | NETFLIX",Os Cadetes Mech (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3510079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cadetes Mech (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gajhxRliZwOfqucq57V5sVQacGR.jpg" group-title="SERIES | NETFLIX",Os Cadetes Mech (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3510080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cadetes Mech (2023) S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gajhxRliZwOfqucq57V5sVQacGR.jpg" group-title="SERIES | NETFLIX",Os Cadetes Mech (2023) S01 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3510081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cadetes Mech (2023) S01 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gajhxRliZwOfqucq57V5sVQacGR.jpg" group-title="SERIES | NETFLIX",Os Cadetes Mech (2023) S01 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3510082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cadetes Mech (2023) S01 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gajhxRliZwOfqucq57V5sVQacGR.jpg" group-title="SERIES | NETFLIX",Os Cadetes Mech (2023) S01 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3510083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primeiro as Damas: Mulheres no Hip-Hop (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dSZtuRvKrlKoJTQVSrNXDYiBcWT.jpg" group-title="SERIES | NETFLIX",Primeiro as Damas: Mulheres no Hip-Hop (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3509980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primeiro as Damas: Mulheres no Hip-Hop (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/h4VwcCoLotxP0WYLXwWokwEpKyE.jpg" group-title="SERIES | NETFLIX",Primeiro as Damas: Mulheres no Hip-Hop (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3509981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primeiro as Damas: Mulheres no Hip-Hop (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/fhkhBz43asRYCDuOaEowSU6Xe26.jpg" group-title="SERIES | NETFLIX",Primeiro as Damas: Mulheres no Hip-Hop (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3509982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primeiro as Damas: Mulheres no Hip-Hop (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/5lJs5HlNwMt4zZxKvziG75QpO1Q.jpg" group-title="SERIES | NETFLIX",Primeiro as Damas: Mulheres no Hip-Hop (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3509983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbiverso (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jsZXLNJxLkVNL5RL59vBbiG83fn.jpg" group-title="SERIES | NETFLIX",Zumbiverso (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3509940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbiverso (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gcCtVpy5xhCxT6R8KNfnUhArm6i.jpg" group-title="SERIES | NETFLIX",Zumbiverso (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3509941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbiverso (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dtqk0rHMtcqBK5x3Z3fVTK4ukgE.jpg" group-title="SERIES | NETFLIX",Zumbiverso (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3509942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbiverso (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jksjPiU4ifwJ7wBR6v961mFguDp.jpg" group-title="SERIES | NETFLIX",Zumbiverso (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3509943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbiverso (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/zNlqyPqdSkkrNNwY0Zhjk1LRb7C.jpg" group-title="SERIES | NETFLIX",Zumbiverso (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3509944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbiverso (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/wSJp469uR5nKuhDfMJgFWS58ATn.jpg" group-title="SERIES | NETFLIX",Zumbiverso (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3509945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbiverso (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/wSJp469uR5nKuhDfMJgFWS58ATn.jpg" group-title="SERIES | NETFLIX",Zumbiverso (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3509946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbiverso (2023) S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/wSJp469uR5nKuhDfMJgFWS58ATn.jpg" group-title="SERIES | NETFLIX",Zumbiverso (2023) S01 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3509947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandou Bem: Desafio dos Confeiteiros (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg" group-title="SERIES | NETFLIX",Mandou Bem: Desafio dos Confeiteiros (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3509901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandou Bem: Desafio dos Confeiteiros (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg" group-title="SERIES | NETFLIX",Mandou Bem: Desafio dos Confeiteiros (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3509902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandou Bem: Desafio dos Confeiteiros (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg" group-title="SERIES | NETFLIX",Mandou Bem: Desafio dos Confeiteiros (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3509903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandou Bem: Desafio dos Confeiteiros (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg" group-title="SERIES | NETFLIX",Mandou Bem: Desafio dos Confeiteiros (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3509904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandou Bem: Desafio dos Confeiteiros (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg" group-title="SERIES | NETFLIX",Mandou Bem: Desafio dos Confeiteiros (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3509905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandou Bem: Desafio dos Confeiteiros (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg" group-title="SERIES | NETFLIX",Mandou Bem: Desafio dos Confeiteiros (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3509906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandou Bem: Desafio dos Confeiteiros (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg" group-title="SERIES | NETFLIX",Mandou Bem: Desafio dos Confeiteiros (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3509907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandou Bem: Desafio dos Confeiteiros (2023) S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg" group-title="SERIES | NETFLIX",Mandou Bem: Desafio dos Confeiteiros (2023) S01 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3509908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandou Bem: Desafio dos Confeiteiros (2023) S01 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg" group-title="SERIES | NETFLIX",Mandou Bem: Desafio dos Confeiteiros (2023) S01 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3509909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandou Bem: Desafio dos Confeiteiros (2023) S01 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg" group-title="SERIES | NETFLIX",Mandou Bem: Desafio dos Confeiteiros (2023) S01 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3509910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condenados pela Mídia (2020) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ocD50T4GKmxBVFHkkiEHzfHJJuC.jpg" group-title="SERIES | NETFLIX",Condenados pela Mídia (2020) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3509330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condenados pela Mídia (2020) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ll2dAhNNeAT3n7w7fexIYGWrOj2.jpg" group-title="SERIES | NETFLIX",Condenados pela Mídia (2020) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3509331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condenados pela Mídia (2020) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/tUQ3FoqstmNO5xPBl0a8pI6QmA8.jpg" group-title="SERIES | NETFLIX",Condenados pela Mídia (2020) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3509332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condenados pela Mídia (2020) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/5MQkOShibcEnTsgVd1pHKayuFel.jpg" group-title="SERIES | NETFLIX",Condenados pela Mídia (2020) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3509333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condenados pela Mídia (2020) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/zgvrGKFagTEpOQ3o0dFGvY4pmyt.jpg" group-title="SERIES | NETFLIX",Condenados pela Mídia (2020) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3509334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condenados pela Mídia (2020) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dIvvnrrS2PzvgHBgPtVLmJf4gT9.jpg" group-title="SERIES | NETFLIX",Condenados pela Mídia (2020) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3509335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3509336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3509337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3509338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3509339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3509340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3509341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3509342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3509343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3509344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3509345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3509346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3509347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3509348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3509349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3509350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3509351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3509352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3509353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3509354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3509355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E21" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3509356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E22" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3509357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E23" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E23
+http://cdn.x91.live:80/series/01591926275/7528252826/3509358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E24" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E24
+http://cdn.x91.live:80/series/01591926275/7528252826/3509359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E25" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E25
+http://cdn.x91.live:80/series/01591926275/7528252826/3509360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E26" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E26
+http://cdn.x91.live:80/series/01591926275/7528252826/3509361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E27" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E27
+http://cdn.x91.live:80/series/01591926275/7528252826/3509362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário das Fadas (2023) S01 E28" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/d95JvETMEPJHyFysJQrKTg8MxIX.jpg" group-title="SERIES | NETFLIX",Diário das Fadas (2023) S01 E28
+http://cdn.x91.live:80/series/01591926275/7528252826/3509363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Conto de Fadas Perfeito (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7DFbDzQ6PwCdOetgqpXDFh1cjbQ.jpg" group-title="SERIES | NETFLIX",Um Conto de Fadas Perfeito (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3509285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Conto de Fadas Perfeito (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bu7zDQXA30pu7zzxDYI7jaDXX68.jpg" group-title="SERIES | NETFLIX",Um Conto de Fadas Perfeito (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3509286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Conto de Fadas Perfeito (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ketI1GgiGwnGcFgPjKe27AwobCv.jpg" group-title="SERIES | NETFLIX",Um Conto de Fadas Perfeito (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3509287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Conto de Fadas Perfeito (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6BjOaQxlCmqty6ZfGMT5zYaK5Vl.jpg" group-title="SERIES | NETFLIX",Um Conto de Fadas Perfeito (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3509288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Conto de Fadas Perfeito (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bOKyoNvnbNiDKbynnHZA1qRq2d2.jpg" group-title="SERIES | NETFLIX",Um Conto de Fadas Perfeito (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3509289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Tornar um Líder de Seita (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/qOGaQjm7bfGACiwBqzf7v5j1tyD.jpg" group-title="SERIES | NETFLIX",Como Se Tornar um Líder de Seita (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3509127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Tornar um Líder de Seita (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/AbCAhbj84hMOLalmBx5VxLHuyKv.jpg" group-title="SERIES | NETFLIX",Como Se Tornar um Líder de Seita (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3509128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Tornar um Líder de Seita (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/1fS2ATbKZe2LuBOoOEj46BDRzpC.jpg" group-title="SERIES | NETFLIX",Como Se Tornar um Líder de Seita (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3509129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Tornar um Líder de Seita (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/oDlzSkGkFTLCJcv72DyQoAzQs2C.jpg" group-title="SERIES | NETFLIX",Como Se Tornar um Líder de Seita (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3509130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Tornar um Líder de Seita (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/1ZgkcycTjtCg7CuATwVcglpL7Zq.jpg" group-title="SERIES | NETFLIX",Como Se Tornar um Líder de Seita (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3509131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Tornar um Líder de Seita (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/rl07OU71pofpCZ8TH1VyzJvKkF9.jpg" group-title="SERIES | NETFLIX",Como Se Tornar um Líder de Seita (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3509132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chef 5 Estrelas (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/cfJkQQpD9rsHwLXfecCpvUoLHkm.jpg" group-title="SERIES | NETFLIX",Chef 5 Estrelas (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3508773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chef 5 Estrelas (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/r3UvYHyV5ZJa4b8B3nCnCAJPh7b.jpg" group-title="SERIES | NETFLIX",Chef 5 Estrelas (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3508774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chef 5 Estrelas (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/r3UvYHyV5ZJa4b8B3nCnCAJPh7b.jpg" group-title="SERIES | NETFLIX",Chef 5 Estrelas (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3508775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chef 5 Estrelas (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/r3UvYHyV5ZJa4b8B3nCnCAJPh7b.jpg" group-title="SERIES | NETFLIX",Chef 5 Estrelas (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3508776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chef 5 Estrelas (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/r3UvYHyV5ZJa4b8B3nCnCAJPh7b.jpg" group-title="SERIES | NETFLIX",Chef 5 Estrelas (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3508777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chef 5 Estrelas (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/r3UvYHyV5ZJa4b8B3nCnCAJPh7b.jpg" group-title="SERIES | NETFLIX",Chef 5 Estrelas (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3508778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sugar Rush: The Baking Point (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | NETFLIX",Sugar Rush: The Baking Point (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3508758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sugar Rush: The Baking Point (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lPbGuALDkNBsC4X5pN0BvTHKc4F.jpg" group-title="SERIES | NETFLIX",Sugar Rush: The Baking Point (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3508759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sugar Rush: The Baking Point (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/1m4XL7hPZPRZy4w4fMmEVkDPsF.jpg" group-title="SERIES | NETFLIX",Sugar Rush: The Baking Point (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3508760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sugar Rush: The Baking Point (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/vav74mYbfEJtuWKYCjamzeL9ep8.jpg" group-title="SERIES | NETFLIX",Sugar Rush: The Baking Point (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3508761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sugar Rush: The Baking Point (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/sHG6R1P0k9nYT93Een5zF55npAY.jpg" group-title="SERIES | NETFLIX",Sugar Rush: The Baking Point (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3508762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Amor ou Falsidade? (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/nGZiB1vJmLOipAcZpfsoRab5K8t.jpg" group-title="SERIES | NETFLIX",É Amor ou Falsidade? (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3508662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Amor ou Falsidade? (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6vPIdTsnbOIdgk6cm7QSeDV6RW7.jpg" group-title="SERIES | NETFLIX",É Amor ou Falsidade? (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3508663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Amor ou Falsidade? (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/zrqvTGnyi40j5HDbaxW7ZinAoQt.jpg" group-title="SERIES | NETFLIX",É Amor ou Falsidade? (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3508664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Amor ou Falsidade? (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/8oCzVHl3zwiwM66bzcDfeADevhB.jpg" group-title="SERIES | NETFLIX",É Amor ou Falsidade? (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3508665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Amor ou Falsidade? (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/vGbB4pvwJxNOxEiiwVxgf53bl4f.jpg" group-title="SERIES | NETFLIX",É Amor ou Falsidade? (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3508666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Amor ou Falsidade? (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jbl3dbvdipCD6pUnEO2zZT8uesZ.jpg" group-title="SERIES | NETFLIX",É Amor ou Falsidade? (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3508667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Amor ou Falsidade? (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/rxx93VssszTvC3tt1yRKRSqQ9cI.jpg" group-title="SERIES | NETFLIX",É Amor ou Falsidade? (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3508668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Amor ou Falsidade? (2023) S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/8Z8oJNzh6kdzhZppHkOlNhzEUFe.jpg" group-title="SERIES | NETFLIX",É Amor ou Falsidade? (2023) S01 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3508669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delete (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pG0C68eEUKZRDZnma7i1bFTHLJa.jpg" group-title="SERIES | NETFLIX",Delete (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3508537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delete (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/tPYn9QT8st27EwpkI3cfnec7fr4.jpg" group-title="SERIES | NETFLIX",Delete (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3508538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delete (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7OZvpCJc5egtPgsSpAuw1Xwy0rl.jpg" group-title="SERIES | NETFLIX",Delete (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3508539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delete (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/k8NA2BaS9Kudrxnad69pxpXcKkF.jpg" group-title="SERIES | NETFLIX",Delete (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3508540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delete (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pbJEOa2LbwhHV57rr0zaLiBhSMG.jpg" group-title="SERIES | NETFLIX",Delete (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3508541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delete (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/vwgbH3rOMeNy1MUJFmMjIRgTx3e.jpg" group-title="SERIES | NETFLIX",Delete (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3508542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delete (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jwoSwcfFCV07rzy7ck0xISyU8Gp.jpg" group-title="SERIES | NETFLIX",Delete (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3508543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delete (2023) S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/zHSrbRM4SWU89n7r02Pr9m4y4Mk.jpg" group-title="SERIES | NETFLIX",Delete (2023) S01 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3508544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/cYDu2zog8rBlpBxgjrR4cB0uef2.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3508545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/fDlHwAP4CukzGXhATE4bZd6RBTT.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3508546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w1280/7AMJoTU5h8FQJACvzkeppVCCucT.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3508547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w1280/zK7PhusdP9OqvC7rdvFrFkb0Ylu.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3508548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w1280/ouJPhdE2IIVDRy0tUhQGKIvldZs.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3508549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w1280/A9fjZ5lheRHSQn4PoYAP5iLyitK.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3508550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w1280/zH7PKKmgr1KUtWQcGpPKf4tEl4L.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3508551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/ppptQgCXx71FgJMVTrkbkjTuWnW.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3508552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E09" tvg-logo="http://timg.bdta.pro/t/p/w1280/jmLZTp2NXL0WfAIcTriq8GBibdn.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3508553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E10" tvg-logo="http://timg.bdta.pro/t/p/w1280/4LAHTwN9bIA4bqpSluyPiUEP2Xc.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3508554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E11" tvg-logo="http://timg.bdta.pro/t/p/w1280/feLLG16t4PaxH3hq9OP6kaIwe9g.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3508555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vejo Você na Próxima Vida (2023) S01 E12" tvg-logo="http://timg.bdta.pro/t/p/w1280/mPagdfEEnQmjXu6iBUGaJ4V7qKe.jpg" group-title="SERIES | NETFLIX",Vejo Você na Próxima Vida (2023) S01 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3508556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimato: Queer Love (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/4rKQpTZVUnceqzpIN5VGAltXHcv.jpg" group-title="SERIES | NETFLIX",O Ultimato: Queer Love (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3508408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimato: Queer Love (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lzVrydvyYHmU9x9wNuBDn724BRJ.jpg" group-title="SERIES | NETFLIX",O Ultimato: Queer Love (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3508409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimato: Queer Love (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/h10nF7rvH4HTIu3x8pG0yCkn0wX.jpg" group-title="SERIES | NETFLIX",O Ultimato: Queer Love (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3508410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimato: Queer Love (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pMd7eV9JB9CSa3h0etliOlxsSMC.jpg" group-title="SERIES | NETFLIX",O Ultimato: Queer Love (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3508411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimato: Queer Love (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7vPQQlkIq0Jk3nbeVF15zVSPNsX.jpg" group-title="SERIES | NETFLIX",O Ultimato: Queer Love (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3508412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimato: Queer Love (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/uZ62xzCh1IIgyHEkY7rHPUTZ02X.jpg" group-title="SERIES | NETFLIX",O Ultimato: Queer Love (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3508413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimato: Queer Love (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/zyNbamGRvF0T5y8hU3LxAdZLdCu.jpg" group-title="SERIES | NETFLIX",O Ultimato: Queer Love (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3508414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimato: Queer Love (2023) S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ia0un5LBhpy6g73F7oARF1wPIFA.jpg" group-title="SERIES | NETFLIX",O Ultimato: Queer Love (2023) S01 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3508415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimato: Queer Love (2023) S01 E09" tvg-logo="http://timg.bdta.pro/t/p/w1280/1hSw9aQmp9JGWdSpsHUXXO1tqdT.jpg" group-title="SERIES | NETFLIX",O Ultimato: Queer Love (2023) S01 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3508416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimato: Queer Love (2023) S01 E10" tvg-logo="http://timg.bdta.pro/t/p/w1280/rbaE8fWWLcamTByA1Z6OTWSc8r9.jpg" group-title="SERIES | NETFLIX",O Ultimato: Queer Love (2023) S01 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3508417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mask Girl (2023) S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/5ykn8vX7sPOKywExfDrBgFr3Hul.jpg" group-title="SERIES | NETFLIX",Mask Girl (2023) S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3510683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mask Girl (2023) S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/t0peHehauuVdVu1IfYP5PEzT6NT.jpg" group-title="SERIES | NETFLIX",Mask Girl (2023) S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3510684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mask Girl (2023) S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/r7Dz048xl5eXx2s96mffE7m2BU0.jpg" group-title="SERIES | NETFLIX",Mask Girl (2023) S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3510685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mask Girl (2023) S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/crCdEFCl2xf0o1fP921FrX1Lhql.jpg" group-title="SERIES | NETFLIX",Mask Girl (2023) S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3510686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mask Girl (2023) S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/r2D0M4ZYG6JOrOP8bSwK20x9s4H.jpg" group-title="SERIES | NETFLIX",Mask Girl (2023) S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3510687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mask Girl (2023) S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aUyZNGtMkOcBBDZtmR4cDheS1QP.jpg" group-title="SERIES | NETFLIX",Mask Girl (2023) S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3510688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mask Girl (2023) S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/uBZUceQctbk3bBWYP9fUppaUfDj.jpg" group-title="SERIES | NETFLIX",Mask Girl (2023) S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3510689.mp4
+
+#EXTM3U url-tvg=" http://grade-de-DIVERSOS.xml "
+ ############## DIVERSOS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeDIVERSOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E01" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E02" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E03" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E04" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E05" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E06" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E07" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E08" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E09" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E10" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E11" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E12" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E13" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E14" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E15" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E16" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E17" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E18" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E19" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E20" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E21" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E22" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E23" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E23
+http://cdn.x91.live:80/series/01591926275/7528252826/3506674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E24" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E24
+http://cdn.x91.live:80/series/01591926275/7528252826/3506675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S01 E25" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S01 E25
+http://cdn.x91.live:80/series/01591926275/7528252826/3506676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E01" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E02" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E03" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E04" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E05" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E06" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E07" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E08" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E09" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E10" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E11" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E12" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E13" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E14" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E15" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E16" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E17" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E18" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E19" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E20" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E21" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S02 E22" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S02 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E01" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E02" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E03" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E04" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E05" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E06" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E07" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E08" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E09" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E10" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E11" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E12" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E13" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E14" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E15" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E16" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E17" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E18" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E19" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E20" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E21" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S03 E22" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S03 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E01" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E02" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E03" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E04" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E05" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E06" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E07" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E08" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E09" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E10" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E11" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E12" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E13" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E14" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E15" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E16" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E17" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E18" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E19" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E20" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E21" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S04 E22" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S04 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E01" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E02" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E03" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E04" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E05" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E06" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E07" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E08" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E09" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E10" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E11" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E12" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E13" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E14" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E15" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E16" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E17" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E18" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E19" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E20" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E21" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S05 E22" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S05 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/j87Mb6YDUdmUdNYxBsRO0ftMNYu.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jAYuiY52CCYIk3aJzdzPPsTeVbA.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pho3yqGD97mAy3kLdsGNzXPG24D.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/eCO9Gg13mzjyBOtUsp8URqsXsB1.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dcbWOptugcRhChVof7qxeKxSM2.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7EJ832x8UQ4r4iOAg5DpTRNI2vZ.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jPS3JSFtZmdpnhTCnv7bn1PaENV.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dlrq1imRRDR6aUHOuUb1nl3XU3Y.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ov0Ps1SyA6ThiTB7aJ2xLalK84t.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/4UdXSx0c3ZFftSqlGZXjsusqi7s.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/rRVcIHQ0WJ9P0XzI6odlJONckOd.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/yZi3dPzukQ62VgYhUMfzk6sbPIr.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/5wA8uocugbleuqytnL0QPB2eBth.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ytUJWd0fNWJU5dw8sRnmG5u0NOO.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/fFKu9pFj8Leb3FmkDB4pjQRang1.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/txOV9RvAQqJt2SpYBjMWHt5snM3.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6yPQbhSuJOzfaxxJ58c6QqLVa0v.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/oZCa2ZBBbbUs0w4BaeiO14M6IA8.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/xW25XtqR0NvXpfirzaP91P2Hejv.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/1KUpxwgF9bfpUu145Uj5m0Om071.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E21" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/qSdWijwnSL5WIBLP5KpkwlAG9TH.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S06 E22" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/5Kw4ErepxGEtREOl22c99aPC4WS.jpg" group-title="DIVERSOS",ER Plantão Médico S06 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hYKEXiXtw41GJFbC2oiQy7wYPsI.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/4eCRQF5o8aUw5G57vWg8BTe5Fyr.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6wbPgLkjNHd4ICfHQSpUJ9v7X5g.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/s9I2Mhi9B2UOu92pfIXP67z7e9T.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/qIWITa7GgVXsgLCO92oKiDwRIXs.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/vIYx0aqeQw1nrGWTpdnhMV9YsQy.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6pPtXsmJlVcXMF8xSc2bRLM3x1L.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pz3FdVRttV9RAdoISoQcHwGVm5O.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jGG19omBS9Walri7lixKOXMMudz.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/4TL7DZEHLfXHULaYnDV4FpGoZTb.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/nsqKFZLdcVydit0s13z8YILumxt.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pVPOJkKcUNrkDKAMzNazKUGYELP.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/iunAZJDlNuwAHKi1EiF69aAy5Jk.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/zYwDSrjLZIzJxWQxjh73CBNvfwP.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/qi8kOU5a7NqSqiqygBW1QUOIr6F.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/t2g8vvidpt3V5GKaxTLZRZ5TzPN.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/wBE1f6Y5lV5SeX7esD2Vivh9Qya.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jxfBlX2WKwzsGGTmT4l0Csm6Zij.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lavTkiVzjehGYgJ8k6Zw4ojW0SE.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/rkcQMzCudDJNTWzpxyKeA69ps5V.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E21" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/heZ1IBAPzD8wGJw2FD3BcABFcoH.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S07 E22" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ra4PNhZiytD0GrlwMqUOwVkfZky.jpg" group-title="DIVERSOS",ER Plantão Médico S07 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/djMDhDOi5ScSsxepvieuglWNrpr.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/df7btLWbMjIFSub1qm9KOk7p2vp.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/xRLxQZFh0j5Czcl5hd0ZPiLmp5T.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jnr7WrN7RHnOjzmunpXtc8iSKUr.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pqH9dMdHIwwYomLNOEZ5pmv7ECw.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/8PJNZb0tHuug3WCnfCEr1xk9LBq.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ecy0K6FdMP9b04Kjma8i1rfO2FF.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/m6ww3v3Tw53ljNNkKsqAwczZFUV.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/f88CMezHFqkBMw3sXDPmEgW1DED.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ApwKvtynsrDzc1MzTu0Lr93gdln.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/tysrFCERElOcG8Gcag3BBnniBhd.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7dEnsT38gyWl3DsQWMqbyRlXoqO.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/9LnyQVoAdjDzfAQZ816PDarE6oR.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/nQnUp9giVmvC9bX51g3Ad6VtaKW.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bc71dyas01Cg6oLz5DxStGWRBsX.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ulT8JbmrQdXcWWGzPcD1XX0LjH4.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/b3jSexaYyP3LGIfzEJEXGYXnA0p.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/2kRSP30dcwlYsG4m3my09M0VRrw.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/8vFcJ16omqQ5TuzxnCE6NPifP6H.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/riMwl9WQ3VKTT29okkVIhjP7a5I.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E21" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kiGUVxFPEoIhl2m9hM9ECfh7sFx.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S08 E22" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hSZELh389UzHam9qlfskE2hXWj7.jpg" group-title="DIVERSOS",ER Plantão Médico S08 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/8kaTulD273VIWjYZqjBuxsNG5GA.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/A173bciWRuQb4CHDQ1r6M0sb5VW.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/iw6P8thkW1GFLyclQmxWpo8qiAp.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6YKkh6kqhUqqTws5UgcO0xyBNmd.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hAohPGYo0PuVYaTn0oqf45tukfw.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/xi2LFt7V1N7grazQ9gEmvXXt4TU.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/x9Kr8FSMAgDh0BmPp7QXBFd9FPS.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/8y8ymlALTvL4QWPRNmfBeY7VkJl.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/e52BPk4Z1jGG7xk33hji9ktoEwl.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/nP5dE92qc4M1PPYz8SlZMWg34FU.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/vu0ALJHf9fU87bcA9DROB2CFfxy.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pqGHD5Lq4zOGFQIqbjcCCMERKcK.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/j6fU2WODtAHwuS1zTdw8AGD5M04.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/rKEvZhJwkRpwZjw1iByjfR5VVpx.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jVzIYkyefmOzGV7KQE3u4mGX9C6.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6V0niunpyM5S48NPb5bdFyaBKdJ.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bF5uprcOSHVn6LI37W9o25zcq15.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/3lSpeKw8LJ3GTAeShBwoRP2Xh4c.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dMrEsOjoCd4LiLa80k8IeDeAgEd.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6kCMxysgKqREoWfzvNJRmpzMZGr.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E21" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7TACJQJoejCx96yjjMCRAD1Ijmd.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S09 E22" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/m24I9lGNQ6BSPfkGx71IBsCksO7.jpg" group-title="DIVERSOS",ER Plantão Médico S09 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gQ97TGmpPgQ4lwE3674CkMT88g3.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/vd3ZGGzJkqeJxeDS6FtZwlV8TBf.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/3xbA0hQe5wj9twEsuJPINtiyCOR.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/9n0G99sWAE6LY5QPLyEsmBRrTGL.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6pZrwEKRax5R5DSAAw0GzRYzbox.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/w3Kdqx9M6psN7pMeSjdR6hxtW3J.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/eKzJSAYHK5UBOnHd722P15z6lOZ.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7Pkh0qBUw32WWvjhRXRsCAoDUfY.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ryHQBnVe2ZM7ttyvnT2ymmSPBSx.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/3sH1SwrwZlIo3UJ4Gv0pAuv8WYN.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jZNxBXLNh2Dk6M8aKzIPRnBbBCs.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/3XBj7tvzPmtAjr8cEnBwvkZgpuz.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/u4jbcVNV5i43hs5ELA9whrj159h.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/xHSH0FWzGeHKUrPqVAFti93M3V.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mIffAaOu06cKDxwhzKA1zB4mxQU.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/nUNgepmoN0pFhRIqjkrNoBWllvK.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/q6bYs0By3xaupognBoqJi8yDO5C.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/r0Ymqe7IqXe20cPDx1sfexORVDt.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jITqfejMRzEo9zKvXC5RvKboAys.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/miyctJ1byk2T0ftC0gP6UZ7EThW.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E21" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/zqC3xANYVIFgAZ3ZR8JigVaFv36.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S10 E22" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/qJOPzmC1msZo1Z2J0qz74U2BubK.jpg" group-title="DIVERSOS",ER Plantão Médico S10 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gy3Jcv5YODHLhwR9vow9FUm2NB7.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/zzBMqrUTjmedJVPv8yk6lMTFWvC.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7wtRdYcbPnkjQbZQcm00PncUeIQ.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/y1j6tUFxMxEF3XUeN0wUzgSKmbx.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/cfJlwX62HKtz41zARdZ7Te3gMdH.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/txLM4J3bQFiofQq4m3mvI1bv6uw.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/rkJjqh3yFg2AurYm5nr8DEyoG0A.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/A51KzxUa4tOR2pJut0AJXvpS8mu.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/2PPRUasYCgieFSfS8LHxDWkmiKX.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lxWtLVRHOPPPRH97U4XngtNvHFG.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/sPshp6NhJhzxJRKQysfu6WD4APT.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/p0I5iv0HGF9wvJfw4qqfDWARAXB.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hYwQPUJN2lseB00UsuRJlZRn3H4.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jsVU2q5j75fPD4mVmMu4JxFBYHf.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/nbNqfCs2QgwMOoCp57tuA9FQWbe.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/WALXfgd7BCsB2qVtU4FCn9vkkA.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/a6QLFk3XtNgBRkc2ri9CYkbG8LU.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gMIVZEEQoohkme0jPq2rTnQWJEm.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/1VqpCcLNjHNZ24YGKtfH4LcG1g.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/nYRV5SKxoB90OZrVvX2newy7p2U.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E21" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/p8GCXdyirVpEDMdEs03IUdikz2g.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S11 E22" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ji9a9cjjZi8gyvo9QVwlHSrtB40.jpg" group-title="DIVERSOS",ER Plantão Médico S11 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lfo24gUfkPZE9m2BIYTzFJ4CcaM.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gX7wTXMTTMzpmcpqKNse3RJmmhR.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/wUgz0Zw6LnoHx8vTPM7q0OS4oUK.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/xTA3KLLGhglXjXj07oZFLJfHkmM.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bs0A9252sNK45a88QholbbQf12D.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/40YcexXTxLnJOtNWlvvUXAxa5qn.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kg9FPyTWAfu9nlJyBZTVHVK86kn.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/iToisaThpbqKSGPnSkoVodC8SPT.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/j8kkOjvqETxctviMgwDjAGndo8.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/yzcp3iG4rPM2OnBDqb5vZcoGuVi.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/wnQ66pPKFR1N65mhy9AzG5NLLph.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7meXIKLv3jIjRwthXJlM71UoSX9.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/f6HAs0DaXzGYVXxqBRF8FThj0yj.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/iYt0A8u1qrYj4WPF0B3FcvqTMDw.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dEzK9QJhWiCS97SngXwjjNQ9MbG.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ydGGo35HrFvqAPEmynXf1rzix6u.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lTKIWL3uR8rjVuwwxllKHMjUOhv.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/5PaIQEocQHZ2yunVfoSKXXsQu3c.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ctziNejctFgbEHV3TKVqD4KFaCr.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6JMUlpITFkFIGtZgnxBMndKGzZP.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E21" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/qsql2r5z6A4c3Om8Br5PvaVLyvy.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S12 E22" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lCSW8rPdAMka447mnN0iLoux8Zd.jpg" group-title="DIVERSOS",ER Plantão Médico S12 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/DBOPyvw0fyRC1Fjhh5D2mpiYye.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/qh4tG5ltmJ6TVjhWERIf7BGFbFd.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/szhtQbxtsQQO17X3jX2wq85S5pt.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hL8KDz9VVEnwjyOstU3nelkgtsO.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/pVZ1Et8wU6pJQLiqHtpAcA8E9Pl.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/51KZpDwyj7NzIYLTYTpdiLa5GnX.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/u0rMShkEgLiKLaXWiZb981d4sHc.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dAH2KWz7UZgbtskfa0ENKKTo2Iv.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hoJktfnRqkZPqqZhqQ4vSbhEyzj.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/zOk3rQD06b5cBXuyV3rnkQn18vc.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E11" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E12" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E13" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/sYpzPmy9g9hAsAbW1R8EviW4tmY.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/htOITnJcSWEFNxUQLGqYM175Cpu.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7vPagDxuuJYFtewgYNQgJQwOkUV.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/KwKKGuejqk2QSpiAt7f0t2hfqJ.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/uiuDYVFDuyeIiTSjUZg3s1W6RZA.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/2CZvtAkLjyKNALDnBi2ebW4TURI.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/sxFgkJb77DXvr7D50gBedAGiQo9.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E21" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ceejBGTrkHRO2bpeTlK3h43mrud.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E22" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hUHGOZAHa4ksevIiOeUokg4szG7.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S13 E23" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/cmFkW9a4HBhCBNUb08A75YZheFI.jpg" group-title="DIVERSOS",ER Plantão Médico S13 E23
+http://cdn.x91.live:80/series/01591926275/7528252826/3506941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/uqDGg4pCqSO0d5i9OBkUhwviF0N.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/qAGxphXdyockmaeBBHjb6MqDycs.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/iYrVvJ18DG7juJ3GRRdK4hZh98x.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/UywctlhXen62Mnxsl70KvOaxRn.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/AtP5wzGhjgaPSOeTD2eKgEn7dqK.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kAG0TZkJnPO5efZ4XQT6ntbXcJ.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bwpJdy2E5m379g8Y00gyngvaiM4.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/oHLRuary8LFcK0ks8hlERg4Pqb1.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/vs4flGjpw6P4GaNDg16ToJOxVUs.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kQIajfcR8uPAYfEkHlB1envo0ZO.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/iEq0CrZXu9E1Wo0UupdbL0gLPUE.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ttt63qHbhGhL77atcIVYHwTKwDU.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/1BS4SbpS4xcindiWd51GAnVQiE9.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/fDBdrjU1sfbsyTJllCbVnLuo27Y.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/4Q007Iceb2U6C63yytQKjRldL6O.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/eUIuMgZnTrnOFv9VUdmFT97cX2k.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/a2ylT4jDTAQS4E40S6FLBNKK15u.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/2STJQwnBbqbeuZppu6BnHU7pq1A.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S14 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/f1n8Ye3i6605Pu669cr5SuJ53FQ.jpg" group-title="DIVERSOS",ER Plantão Médico S14 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7hIdQc700dCALZ3DPPqqhigkpzF.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E01
+http://cdn.x91.live:80/series/01591926275/7528252826/3506961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/usxXp9M9RvaAPaSel3wR3Dvg9U6.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E02
+http://cdn.x91.live:80/series/01591926275/7528252826/3506962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bXmTuenZWqfsbfIDMF55N9ZObJ0.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E03
+http://cdn.x91.live:80/series/01591926275/7528252826/3506963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ob5NnHcHFmLz21jRsCxn7yAv8VM.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E04
+http://cdn.x91.live:80/series/01591926275/7528252826/3506964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/uqQr43da0HfvmnygOZn5lzabw5V.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E05
+http://cdn.x91.live:80/series/01591926275/7528252826/3506965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/xEY68b9X1GTpE3NEgj2K0bNwzb2.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E06
+http://cdn.x91.live:80/series/01591926275/7528252826/3506966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6X6XkGYLI89COFsECLB0LxAHmQu.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E07
+http://cdn.x91.live:80/series/01591926275/7528252826/3506967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/xkVVBDjVXcHEHQPxzO8m5FXCWnM.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E08
+http://cdn.x91.live:80/series/01591926275/7528252826/3506968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dzCeKeRWxEKDQ4U613NZGqjE86n.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E09
+http://cdn.x91.live:80/series/01591926275/7528252826/3506969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/2K2vf8b5UAmMjKPMCwrrxDkaPKa.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E10
+http://cdn.x91.live:80/series/01591926275/7528252826/3506970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/unQ8Q1rkVlZ5g2qqYrRWOtDW0Ed.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E11
+http://cdn.x91.live:80/series/01591926275/7528252826/3506971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/nyRUnVFbRA4VCbDo3pbbZcXvPMB.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E12
+http://cdn.x91.live:80/series/01591926275/7528252826/3506972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jedfM7DGXPXv0TlspiXHaP1O3Lv.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E13
+http://cdn.x91.live:80/series/01591926275/7528252826/3506973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lOAfon1Ddulrwcw4HdzT44BWhHA.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E14
+http://cdn.x91.live:80/series/01591926275/7528252826/3506974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/rSYObqoPxYJgzUxXInyjRb1u5wX.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E15
+http://cdn.x91.live:80/series/01591926275/7528252826/3506975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/OFgUnsQUh0385EjJd4NXjRr1gx.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E16
+http://cdn.x91.live:80/series/01591926275/7528252826/3506976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/q6Z8tfvpRYleSCBFMFn2HFDThJw.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E17
+http://cdn.x91.live:80/series/01591926275/7528252826/3506977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E18" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/vfcXVrQGe8PPWrmgbBepT9bTUiS.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E18
+http://cdn.x91.live:80/series/01591926275/7528252826/3506978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E19" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/89ysgaLXbZUP2OVKDAi04Z5dz3P.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E19
+http://cdn.x91.live:80/series/01591926275/7528252826/3506979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E20" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hbVh2xwULfKhw6X8TgerrTzxxGY.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E20
+http://cdn.x91.live:80/series/01591926275/7528252826/3506980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E21" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/eLHa6fYBPPJPvU3CSM9CpsMqJyf.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E21
+http://cdn.x91.live:80/series/01591926275/7528252826/3506981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E22" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/biqWbfLUwqHR3I0czNZzmNT8eS8.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E22
+http://cdn.x91.live:80/series/01591926275/7528252826/3506982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ER Plantão Médico S15 E23" tvg-logo="http://timg.bdta.pro/images/dPj3iAXq0A5L5kwpHh32j0iccY6_big.jpg" group-title="DIVERSOS",ER Plantão Médico S15 E23
+http://cdn.x91.live:80/series/01591926275/7528252826/3506983.mp4
 
 #EXTM3U url-tvg=" http://grade-de-Dinho Santos Radio FAX.xml "
  ############## Dinho Santos Radio FAX ############## ### 
