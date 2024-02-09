@@ -48,9 +48,9 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1251
 #EXTINF:-1 tvg-id=" iddocanaldeMamonas assassinas 2024 TV FAX" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Mamonas assassinas 2024 TV FAX"tvg-logo="https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/421879031_345685115051539_139630611457746242_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGtADegqFDsG2xRBc-UU-vWQIypAwPE-nVAjKkDA8T6df52g5_fDY68PIAoKerljYRzTBQZ984LcCxYSdqWOIOO&_nc_ohc=9naX8GLEtI4AX9thtT0&_nc_ht=scontent-gru1-2.xx&oh=00_AfC_4tDTD9afFck-r2DvMgacGxiRSH-VsGCJuUpXr1WHvA&oe=65B9DE4B" group-title="Mamonas assassinas 2024 TV FAX",Mamonas assassinas 2024 TV FAX
-https://archive.org/serve/mamonas-assassinas-2024-tv-fax/Mamonas%20assassinas%202024%20TV%20FAX.mp4
+https://archive.org/download/filme-mamonas-assassinas-2024-tv-fax/Filme%20Mamonas%20Assassinas%202024%20tv%20fax.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mamonas assassinas 2024 TV FAX"tvg-logo="https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/421879031_345685115051539_139630611457746242_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGtADegqFDsG2xRBc-UU-vWQIypAwPE-nVAjKkDA8T6df52g5_fDY68PIAoKerljYRzTBQZ984LcCxYSdqWOIOO&_nc_ohc=9naX8GLEtI4AX9thtT0&_nc_ht=scontent-gru1-2.xx&oh=00_AfC_4tDTD9afFck-r2DvMgacGxiRSH-VsGCJuUpXr1WHvA&oe=65B9DE4B" group-title="Mamonas assassinas 2024 TV FAX",Mamonas assassinas 2024 TV FAX
-https://ia801309.us.archive.org/9/items/mamonas-assassinas-2024-tv-fax/Mamonas%20assassinas%202024%20TV%20FAX.mp4
+https://ia601305.us.archive.org/34/items/filme-mamonas-assassinas-2024-tv-fax/Filme%20Mamonas%20Assassinas%202024%20tv%20fax.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILME 2024 TV e Radio FAX.xml"
 ############## FILME 2024 TV e Radio FAX ################# 
@@ -2027,6 +2027,17 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95780
  ############## Fox Sports 2 TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeFox Sports 2 TV e Radio FAX" group-title="
 
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 FHD
+http://cdn.x91.live:80/live/01591926275/7528252826/623134.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="FOX Sports 2 FHD H.265" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX Sports 2 FHD H.265
+http://cdn.x91.live:80/live/01591926275/7528252826/1784717.m3u8
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 HD
+http://cdn.x91.live:80/live/01591926275/7528252826/622335.m3u8
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 SD
+http://cdn.x91.live:80/live/01591926275/7528252826/622783.m3u8
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 H265
+http://blacktv.syscdn.xyz:80/Rodrigoluz/4169916999/245
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="Fox Sports 2 TV e Radio FAX",Fox Sports 2 (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13883
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 FHD
@@ -3185,6 +3196,154 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/320
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/319
 
+#EXTM3U url-tvg="http://grade-de-FILMES & SERIES.xml"
+############## FILMES & SERIES ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES & SERIES" group-title="
+
+#EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/225
+#EXTINF:-1 tvg-id="993be6d07ddb5bc06f8837edf92cd47a" tvg-name="AMC 4K" tvg-logo="" group-title="FILMES & SERIES",AMC 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/228
+#EXTINF:-1 tvg-id="993be6d07ddb5bc06f8837edf92cd47a" tvg-name="AMC HD" tvg-logo="" group-title="FILMES & SERIES",AMC HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/229
+#EXTINF:-1 tvg-id="993be6d07ddb5bc06f8837edf92cd47a" tvg-name="AMC HDR+" tvg-logo="" group-title="FILMES & SERIES",AMC HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/1020
+#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="FILMES & SERIES",AXN 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/233
+#EXTINF:-1 tvg-id="f5be88c55044b822a9a2401490823359" tvg-name="CANAL BRASIL 4K" tvg-logo="" group-title="FILMES & SERIES",CANAL BRASIL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/236
+#EXTINF:-1 tvg-id="f5be88c55044b822a9a2401490823359" tvg-name="CANAL BRASIL HD" tvg-logo="" group-title="FILMES & SERIES",CANAL BRASIL HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/237
+#EXTINF:-1 tvg-id="24be76ef60ace55820dd2869bd893fe4" tvg-name="CINEMAX 4K" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/239
+#EXTINF:-1 tvg-id="a7859a4a1c7f67b8a96942487dbb3468" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/240
+#EXTINF:-1 tvg-id="066f0e1be4906c6984e4c6e3382244bb" tvg-name="HBO + 4K" tvg-logo="" group-title="FILMES & SERIES",HBO + 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/246
+#EXTINF:-1 tvg-id="066f0e1be4906c6984e4c6e3382244bb" tvg-name="HBO + HD" tvg-logo="" group-title="FILMES & SERIES",HBO + HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/245
+#EXTINF:-1 tvg-id="9c2c22927ac4f7f027da5ff624c74554" tvg-name="HBO 2 4K" tvg-logo="" group-title="FILMES & SERIES",HBO 2 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/247
+#EXTINF:-1 tvg-id="9c2c22927ac4f7f027da5ff624c74554" tvg-name="HBO 2 HD" tvg-logo="" group-title="FILMES & SERIES",HBO 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/248
+#EXTINF:-1 tvg-id="31f41c270936f35885ff2facfdc7b217" tvg-name="HBO 4K" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/251
+#EXTINF:-1 tvg-id="684ea49b6d0eeaf8d9c747b69a6ae808" tvg-name="HBO FAMILY 4K" tvg-logo="" group-title="FILMES & SERIES",HBO FAMILY 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/252
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="FILMES & SERIES",HBO FAMILY HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/253
+#EXTINF:-1 tvg-id="31f41c270936f35885ff2facfdc7b217" tvg-name="HBO HD" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/255
+#EXTINF:-1 tvg-id="31f41c270936f35885ff2facfdc7b217" tvg-name="HBO HDR+" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/1000
+#EXTINF:-1 tvg-id="262e5e6b2c784e7bfc6a21bf7adf8b2d" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/256
+#EXTINF:-1 tvg-id="262e5e6b2c784e7bfc6a21bf7adf8b2d" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/257
+#EXTINF:-1 tvg-id="066f0e1be4906c6984e4c6e3382244bb" tvg-name="HBO PLUS 4K" tvg-logo="" group-title="FILMES & SERIES",HBO PLUS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/258
+#EXTINF:-1 tvg-id="066f0e1be4906c6984e4c6e3382244bb" tvg-name="HBO PLUS HD" tvg-logo="" group-title="FILMES & SERIES",HBO PLUS HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/259
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/260
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/261
+#EXTINF:-1 tvg-id="06f8b7bd12705334f1635ff6dc7d8b00" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/264
+#EXTINF:-1 tvg-id="06f8b7bd12705334f1635ff6dc7d8b00" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/262
+#EXTINF:-1 tvg-id="7a385a7255816808e42b0ae2df09ea6e" tvg-name="HBO XTREME 4K" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES",HBO XTREME 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/266
+#EXTINF:-1 tvg-id="7a385a7255816808e42b0ae2df09ea6e" tvg-name="HBO XTREME HD" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES",HBO XTREME HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/267
+#EXTINF:-1 tvg-id="6ee3d8fe0b30a73b263616e23fa84703" tvg-name="LIFETIME HD" tvg-logo="" group-title="FILMES & SERIES",LIFETIME HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/269
+#EXTINF:-1 tvg-id="1a79436c8381b3bf36ade2e5de00dcfe" tvg-name="STAR CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES",STAR CHANNEL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/281
+#EXTINF:-1 tvg-id="1a79436c8381b3bf36ade2e5de00dcfe" tvg-name="STAR CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES",STAR CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/282
+#EXTINF:-1 tvg-id="e798a4701a07cc5640d81640503fd51a" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="" group-title="FILMES & SERIES",STUDIO UNIVERSAL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/289
+#EXTINF:-1 tvg-id="a02fd2ec8b151c1c51b60a90951b59b0" tvg-name="TBS 4K" tvg-logo="" group-title="FILMES & SERIES",TBS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/290
+#EXTINF:-1 tvg-id="a02fd2ec8b151c1c51b60a90951b59b0" tvg-name="TBS HD" tvg-logo="" group-title="FILMES & SERIES",TBS HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/291
+#EXTINF:-1 tvg-id="fa733512a69b76a458c85cadd3f3ef0e" tvg-name="TCM HD" tvg-logo="" group-title="FILMES & SERIES",TCM HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/292
+#EXTINF:-1 tvg-id="fa733512a69b76a458c85cadd3f3ef0e" tvg-name="TCM UHD" tvg-logo="" group-title="FILMES & SERIES",TCM UHD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/293
+#EXTINF:-1 tvg-id="4c780f2e8a696448b03dd596c0a198ae" tvg-name="TELECINE ACTION 4K" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES",TELECINE ACTION 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/294
+#EXTINF:-1 tvg-id="4c780f2e8a696448b03dd596c0a198ae" tvg-name="TELECINE ACTION HD" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES",TELECINE ACTION HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/295
+#EXTINF:-1 tvg-id="4c780f2e8a696448b03dd596c0a198ae" tvg-name="TELECINE ACTION HDR+" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES",TELECINE ACTION HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/1019
+#EXTINF:-1 tvg-id="d9d6fe300a7192711727213f93b089b7" tvg-name="TELECINE CULT 4K" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES & SERIES",TELECINE CULT 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/297
+#EXTINF:-1 tvg-id="d9d6fe300a7192711727213f93b089b7" tvg-name="TELECINE CULT HD" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES & SERIES",TELECINE CULT HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/298
+#EXTINF:-1 tvg-id="cac34b6a49fa04f58087c19b75ffbfc8" tvg-name="TELECINE FUN 4K" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES & SERIES",TELECINE FUN 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/300
+#EXTINF:-1 tvg-id="cac34b6a49fa04f58087c19b75ffbfc8" tvg-name="TELECINE FUN HD" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES & SERIES",TELECINE FUN HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/301
+#EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES",TELECINE PIPOCA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/303
+#EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES",TELECINE PIPOCA HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/304
+#EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA HDR+" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES",TELECINE PIPOCA HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/996
+#EXTINF:-1 tvg-id="c646e29415439235b264363c65da757d" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES",TELECINE PREMIUM 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/306
+#EXTINF:-1 tvg-id="c646e29415439235b264363c65da757d" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES",TELECINE PREMIUM HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/307
+#EXTINF:-1 tvg-id="c646e29415439235b264363c65da757d" tvg-name="TELECINE PREMIUM HDR+" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES",TELECINE PREMIUM HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/997
+#EXTINF:-1 tvg-id="2539372b0826839f0b58cef5c88a5277" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES & SERIES",TELECINE TOUCH 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/309
+#EXTINF:-1 tvg-id="2539372b0826839f0b58cef5c88a5277" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES & SERIES",TELECINE TOUCH HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/310
+#EXTINF:-1 tvg-id="bac99aba5efc834ed83e920cb25a7437" tvg-name="TRU TV HD" tvg-logo="" group-title="FILMES & SERIES",TRU TV HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/541
+#EXTINF:-1 tvg-id="c29ae6899686711fb061c1c0f901029f" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/319
+#EXTINF:-1 tvg-id="3118f151c9e260ec4878f428eaccdca2" tvg-name="WARNER CHANNEL 4K" tvg-logo="" group-title="FILMES & SERIES",WARNER CHANNEL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/783
+#EXTINF:-1 tvg-id="3118f151c9e260ec4878f428eaccdca2" tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="FILMES & SERIES",WARNER CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/320
+#EXTINF:-1 tvg-id="d71d42d9db208f95cdd26442572eb492" tvg-name="TNT 4K" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES",TNT 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/312
+#EXTINF:-1 tvg-id="d71d42d9db208f95cdd26442572eb492" tvg-name="TNT HD" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES",TNT HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/313
+#EXTINF:-1 tvg-id="d71d42d9db208f95cdd26442572eb492" tvg-name="TNT HDR+" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES",TNT HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/1004
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELA 4K" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/05/tnt-novelas.png" group-title="FILMES & SERIES",TNT NOVELA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/1170
+#EXTINF:-1 tvg-id="96c9ea589533196ac86092320e0f7499" tvg-name="TNT SERIES HD" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="FILMES & SERIES",TNT SERIES HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/315
+#EXTINF:-1 tvg-id="cdd6294bd95474d21adbe697b93e74f9" tvg-name="OFF 4K" tvg-logo="" group-title="FILMES & SERIES",OFF 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/273
+#EXTINF:-1 tvg-id="cdd6294bd95474d21adbe697b93e74f9" tvg-name="OFF HD" tvg-logo="" group-title="FILMES & SERIES",OFF HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/274
+#EXTINF:-1 tvg-id="430cd9c1793e523c2bd619f26c949d14" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="" group-title="FILMES & SERIES",PARAMOUNT CHANNEL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/275
+#EXTINF:-1 tvg-id="430cd9c1793e523c2bd619f26c949d14" tvg-name="PARAMOUNT HD" tvg-logo="" group-title="FILMES & SERIES",PARAMOUNT HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/276
+#EXTINF:-1 tvg-id="" tvg-name="POLICIA MILITAR" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="FILMES & SERIES",POLICIA MILITAR
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/669
+#EXTINF:-1 tvg-id="67d0e19a0797a5aef07648707e3d351d" tvg-name="MEGAPIX 4K" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/270
+#EXTINF:-1 tvg-id="67d0e19a0797a5aef07648707e3d351d" tvg-name="MEGAPIX HD" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/271
+#EXTINF:-1 tvg-id="67d0e19a0797a5aef07648707e3d351d" tvg-name="MEGAPIX HDR+" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/998
+#EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV HDR+" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="FILMES & SERIES",HGTV HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/1006
+#EXTINF:-1 tvg-id="399b9232cd96209983f2217e21db7700" tvg-name="FUTURA 4K" tvg-logo="" group-title="FILMES & SERIES",FUTURA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/243
+#EXTINF:-1 tvg-id="70cd62729420e4542acdb997fec60cc8" tvg-name="FX HD" tvg-logo="" group-title="FILMES & SERIES",FX HD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/244
+
+
 #EXTM3U url-tvg=" http://grade-de-FILMES TV FAX GOSPEL.xml "
  ############## FILMES TV FAX GOSPEL ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX GOSPEL" group-title="
@@ -3294,7 +3453,65 @@ https://play.prod.gcp.vix.services/howlers_pt/howlers_pt_1-1/play_v1_hls_1080p.m
 https://play.prod.gcp.vix.services/backcountry_pt/backcountry_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vingança"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/35/46/27/18394832.jpg"group-title="FILME TV FAX VIX",Vingança
 https://play.prod.gcp.vix.services/wake-of-death_pt/wake-of-death_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Assassina Perfeita "tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8de90cb0a94c5579a2b787bc0c456f9f243947d53f0baa47bb173064c1f1abaf.jpg"group-title="FILME TV FAX VIX",A Assassina Perfeita 
+
+#EXTM3U url-tvg="http://grade-de-Canais ||  Filmes 24:HRs.xml"
+############## Canais ||  Filmes 24:HRs ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais ||  Filmes 24:HRs" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: As Tartarugas ninjas - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: As Tartarugas ninjas - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3295535
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Bob Esponja - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Bob Esponja - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3295530
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Chapolin Colorado - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Chapolin Colorado - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3299870
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Chaves - teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Chaves - teste
+http://cdn.x91.live:80/588869204133/094654549310/3300407
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Elementos - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Elementos - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3295533
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Five Nights at Freddy's - O Pesadelo Sem Fim (2023) - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Five Nights at Freddy's - O Pesadelo Sem Fim (2023) - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3297172
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Freelance 2023 - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Freelance 2023 - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3302793
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Galinha Pintadinha - teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Galinha Pintadinha - teste
+http://cdn.x91.live:80/588869204133/094654549310/3298993
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Galinha Pintadinha Mini - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Galinha Pintadinha Mini - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3300406
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Gran Turismo  De Jogador a Corredor - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Gran Turismo  De Jogador a Corredor - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3295534
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Jogos Mortais 10 - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Jogos Mortais 10 - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3296295
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: John Wick 4 Baba Yaga - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: John Wick 4 Baba Yaga - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3295557
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Mega Tubarão 2 - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Mega Tubarão 2 - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3295532
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Midinho, O Pequeno Missionário - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Midinho, O Pequeno Missionário - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3302439
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Missão impossível acerto de contas - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Missão impossível acerto de contas - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3295531
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Mr Bean - teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Mr Bean - teste
+http://cdn.x91.live:80/588869204133/094654549310/3299061
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: O Protetor Capitulo Final - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: O Protetor Capitulo Final - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3296294
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Os Mercenarios 4 FHD ( 2023 ) Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Os Mercenarios 4 FHD ( 2023 ) Teste
+http://cdn.x91.live:80/588869204133/094654549310/3298992
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: Patrulha Canina o Filme Superpoderos (2023) - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: Patrulha Canina o Filme Superpoderos (2023) - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3297371
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Romance" tvg-logo="https://i.ibb.co/Vw0TNN6/702px-Logo-TVE-24h-svg.png" group-title="Canais ||  Filmes 24:HRs",24H Filmes Romance
+http://cdn.x91.live:80/588869204133/094654549310/2732155
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Suspense" tvg-logo="https://i.ibb.co/Vw0TNN6/702px-Logo-TVE-24h-svg.png" group-title="Canais ||  Filmes 24:HRs",24H Filmes Suspense
+http://cdn.x91.live:80/588869204133/094654549310/2732156
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: A Chamada 2023 - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: A Chamada 2023 - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3295574
+#EXTINF:-1 tvg-id="" tvg-name="24HRs: A Freira 2 - Teste" tvg-logo="https://i.ibb.co/61jzXW1/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f-screenteste.png" group-title="Canais ||  Filmes 24:HRs",24HRs: A Freira 2 - Teste
+http://cdn.x91.live:80/588869204133/094654549310/3295575
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Animação Infantil" tvg-logo="https://i.ibb.co/Vw0TNN6/702px-Logo-TVE-24h-svg.png" group-title="Canais ||  Filmes 24:HRs",24H Filmes Animação Infantil
+http://cdn.x91.live:80/588869204133/094654549310/2732153
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Ação" tvg-logo="https://i.ibb.co/Vw0TNN6/702px-Logo-TVE-24h-svg.png" group-title="Canais ||  Filmes 24:HRs",24H Filmes Ação
+http://cdn.x91.live:80/588869204133/094654549310/2732152
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Comédia" tvg-logo="https://i.ibb.co/Vw0TNN6/702px-Logo-TVE-24h-svg.png" group-title="Canais ||  Filmes 24:HRs",24H Filmes Comédia
+http://cdn.x91.live:80/588869204133/094654549310/2732151
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Drama" tvg-logo="https://i.ibb.co/Vw0TNN6/702px-Logo-TVE-24h-svg.png" group-title="Canais ||  Filmes 24:HRs",24H Filmes Drama
+http://cdn.x91.live:80/588869204133/094654549310/2732154
 
 #EXTM3U url-tvg="http://grade-de-O Gordo E O Magro.xml"
 ############## O Gordo E O Magro ################# 
@@ -3388,6 +3605,7 @@ https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi
 #EXTINF:-1 tvg-id="" tvg-name="Museu" tvg-logo="https://i.ytimg.com/vi/J6eGgQ_lBj8/maxresdefault.jpg" group-title="Mazzaropi TV FAX",Museu
 https://archive.org/download/assistir-treinamento-brutal-online-gratis/Museu%20Mazzaropi%20-%20.mp4
 
+
 #EXTM3U url-tvg="http://grade-de-Canais Filmes Desenhos Tv FAX.xml"
 ############## Canais Filmes Desenhos Tv FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais Filmes Desenhos Tv FAX" group-title="
@@ -3398,6 +3616,107 @@ https://ia601500.us.archive.org/35/items/luaSaara/luaSaara.MP4
 https://ia601504.us.archive.org/32/items/luaAmor/luaAmor.MP4
 #EXTINF:-1 tvg-id="" tvg-name="Quatro Vidas de Um Cachorro (2017)"tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReS_JFVzprrK2IRj5Zm0kYHbZeyjS630EIOc7W_i2rpmirrCbYf5TJepVQYT97XL7mHMI&usqp=CAU" group-title="Canais Filmes Desenhos Tv FAX",Quatro Vidas de Um Cachorro (2017)
 https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
+
+#EXTM3U url-tvg="http://grade-de-24HS INFANTIL .xml"
+############## 24HS INFANTIL  ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24HS INFANTIL " group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE EAST BLUE" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",ONE PIECE EAST BLUE
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/705
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINSTONES" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",OS FLINSTONES
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/706
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSON" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",OS JETSON
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/707
+#EXTINF:-1 tvg-id="" tvg-name="OS PADRINHOS MAGICOS" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",OS PADRINHOS MAGICOS
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/708
+#EXTINF:-1 tvg-id="" tvg-name="OS PATOS" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",OS PATOS
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/709
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",OS SIMPSONS
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/710
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",HOMEM ARANHA
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/695
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 2" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",HOMEM ARANHA 2
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/696
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",HOMEM DE FERRO
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/697
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 2" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",HOMEM DE FERRO 2
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/698
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇAO CRIMINAL" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS FILMES ",INVESTIGAÇAO CRIMINAL
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/668
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",HE-MAN
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/694
+#EXTINF:-1 tvg-id="" tvg-name="FREAKAZOID" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",FREAKAZOID
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/692
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",DRAGON BALL
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/684
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",DRAGON BALL SUPER
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/686
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",DRAGON BALL Z
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/687
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",BOB ESPONJA
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/679
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",BEN 10
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/678
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DO BATMAN" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",AS AVENTURAS DO BATMAN
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/677
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",A CASA DO MICKEY MOUSE
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/671
+#EXTINF:-1 tvg-id="" tvg-name="A MANSAO FOSTER" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",A MANSAO FOSTER
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/674
+#EXTINF:-1 tvg-id="" tvg-name="A RODA DO ONIBUS" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",A RODA DO ONIBUS
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/675
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",3 PALAVRINHAS
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/670
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",CAVALEIROS DO ZODIACO
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/680
+#EXTINF:-1 tvg-id="" tvg-name="EM BUSCA DO VALE ENCANTADO" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",EM BUSCA DO VALE ENCANTADO
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/688
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",JIRAYA
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/699
+#EXTINF:-1 tvg-id="" tvg-name="JOHNNY BRAVO" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",JOHNNY BRAVO
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/700
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",LIGA DA JUSTIÇA
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/701
+#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",MASHA E O URSO
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/702
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",NARUTO
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/704
+#EXTINF:-1 tvg-id="" tvg-name="PATO DONALD" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",PATO DONALD
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/712
+#EXTINF:-1 tvg-id="1481c6022bbd0c4f3a2e875b789ee7c4" tvg-name="PEPPA PIG" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",PEPPA PIG
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/713
+#EXTINF:-1 tvg-id="" tvg-name="PEQUENA SEREIA" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",PEQUENA SEREIA
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/714
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",PERNALONGA
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/715
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",PICA PAU
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/716
+#EXTINF:-1 tvg-id="" tvg-name="PINK E CEREBRO" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",PINK E CEREBRO
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/717
+#EXTINF:-1 tvg-id="" tvg-name="PINTINHO AMARELINHO" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",PINTINHO AMARELINHO
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/718
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",POPEYE
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/721
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",POKEMON
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/720
+#EXTINF:-1 tvg-id="" tvg-name="PJ MASKS" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",PJ MASKS
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/719
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",TIMAO E PUMBA
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/731
+#EXTINF:-1 tvg-id="" tvg-name="SHURATO" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",SHURATO
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/724
+#EXTINF:-1 tvg-id="" tvg-name="SIMON" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",SIMON
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/726
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGHTER" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",STREET FIGHTER
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/727
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MAN" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",SUPER MAN
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/728
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MAN 2" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",SUPER MAN 2
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/729
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",TOM & JERRY
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/733
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="http://46.165.222.67:2095/xplus/24H.png" group-title="24HS INFANTIL ",ALADDIN
+http://mn.appserv19.xyz:2095/Xplus-1-0GJkuCP0Jh/bGstXMlhW7/676
 
 #EXTM3U url-tvg="http://grade-de-Patati Patata .xml"
 ############## Patati Patata ################# 
