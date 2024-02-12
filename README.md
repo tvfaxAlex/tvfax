@@ -2094,7 +2094,6 @@ http://78.159.119.122:2082/live/xplus-2-jNWemboby6/KN9JVoLEKW/139.m3u8
 http://78.159.119.122:2082/live/xplus-2-jNWemboby6/KN9JVoLEKW/140.m3u8
 #EXTINF:-1 tvg-id="f59c512e2fe682c1b91167de085bc7aa" tvg-name="FOX SPORTS 2 HDR+" tvg-logo="" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 HDR+
 http://78.159.119.122:2082/live/xplus-2-jNWemboby6/KN9JVoLEKW/1008.m3u8
-
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 FHD
 http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/773.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 H265
@@ -2103,7 +2102,6 @@ http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/245.m3u8
 http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/32.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 SD
 http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/484.m3u8
-
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 FHD
 http://cdn.x91.live:80/live/01591926275/7528252826/623134.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="FOX Sports 2 FHD H.265" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX Sports 2 FHD H.265
@@ -2112,7 +2110,6 @@ http://cdn.x91.live:80/live/01591926275/7528252826/1784717.m3u8
 http://cdn.x91.live:80/live/01591926275/7528252826/622335.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 SD
 http://cdn.x91.live:80/live/01591926275/7528252826/622783.m3u8
-
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 H265
 http://blacktv.syscdn.xyz:80/Rodrigoluz/4169916999/245
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="Fox Sports 2 TV e Radio FAX",Fox Sports 2 (H265)
@@ -2612,6 +2609,656 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/822
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/823
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 4 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/824
+
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Wandinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctI52NGXwDluCmAY9kOLqGg9hb5.jpg" group-title="Series 24hs",[24h] Wandinha
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/895916
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="Infantis",Cartoon Network FHD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1815
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Netowork HD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="Infantis",Cartoon Netowork HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2072
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Netowork" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network.png" group-title="Infantis",Cartoon Netowork
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2071
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network Alternativo HD" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="Infantis",Cartoon Network Alternativo HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1332
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network Alternativo" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network.png" group-title="Infantis",Cartoon Network Alternativo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1124
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="Infantis",Discovery Kids FHD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1821
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="Infantis",Discovery Kids HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2088
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids.png" group-title="Infantis",Discovery Kids
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2087
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids Alternativo HD" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="Infantis",Discovery Kids Alternativo HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1334
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids Alternativo" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids.png" group-title="Infantis",Discovery Kids Alternativo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1128
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel FHD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="Infantis",Disney Channel FHD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1882
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="Infantis",Disney Channel HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2096
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel" tvg-logo="http://prinplay.com.br/server/Disney%20Channel.png" group-title="Infantis",Disney Channel
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2095
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel Alternativo HD" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="Infantis",Disney Channel Alternativo HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1336
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel Alternativo" tvg-logo="http://prinplay.com.br/server/Disney%20Channel.png" group-title="Infantis",Disney Channel Alternativo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1189
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang  FHD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="Infantis",Boomerang  FHD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1813
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="Infantis",Boomerang HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2065
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang" tvg-logo="http://prinplay.com.br/server/Boomerang.png" group-title="Infantis",Boomerang
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2064
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang Alternativo HD" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="Infantis",Boomerang Alternativo HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1330
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang Alternativo" tvg-logo="http://prinplay.com.br/server/Boomerang.png" group-title="Infantis",Boomerang Alternativo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1182
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon FHD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1857
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2181
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2180
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon Alternativo HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1345
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="Infantis",Nickelodeon Alternativo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1153
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="Infantis",Nick Jr FHD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1856
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="Infantis",Nick Jr HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2179
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr" tvg-logo="http://prinplay.com.br/server/Nick%20Jr..png" group-title="Infantis",Nick Jr
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2178
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick JR Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="Infantis",Nick JR Alternativo HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1346
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr Alternativo" tvg-logo="http://prinplay.com.br/server/Nick%20Jr..png" group-title="Infantis",Nick Jr Alternativo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1211
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum FHD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1871
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2254
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2253
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum Alternativo" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV Ra Tim Bum Alternativo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1215
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV FHD " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="Infantis",Baby TV FHD 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/45263
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV HD " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="Infantis",Baby TV HD 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/45262
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV " tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="Infantis",Baby TV 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1120
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="Infantis",Cartoonito FHD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/901866
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="Infantis",Cartoonito HD
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/901867
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="Infantis",Cartoonito
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/901868
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD " tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="Infantis",Tooncast HD 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/45261
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="Infantis",Tooncast
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2245
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast Alternativo" tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="Infantis",Tooncast Alternativo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1236
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo HD " tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="Infantis",Zoomoo HD 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/45260
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="Infantis",Zoomoo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/2293
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo Alternativo" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="Infantis",ZooMoo Alternativo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/1246
+#EXTINF:-1 tvg-id="" tvg-name="Urban Kids " tvg-logo="http://prinplay.com.br/server/Urban%20Kids.png" group-title="Infantis",Urban Kids 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/71263
+#EXTINF:-1 tvg-id="" tvg-name="Box Kids TV" tvg-logo="https://i.postimg.cc/XJnkC3HQ/images-35.jpg" group-title="Infantis",Box Kids TV
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/83810
+#EXTINF:-1 tvg-id="" tvg-name="[24h ]Animaniacs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYHu47S3yBPbWvlh4YbIYJ5e8X1.jpg" group-title="Desenhos 24hs",[24h ]Animaniacs
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/62798
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 1 Contra Todos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3o7f2Xjwl5hcoiioR9eGdD9ezHt.jpg" group-title="Series 24hs",[24h] 1 Contra Todos
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896626
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 220 Volts" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPX7V19ME8y6qjuu1Uj1txrhnSY.jpg" group-title="Especiais 24hs ",[24h] 220 Volts
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/56850
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 3 Palavrinhas" tvg-logo="https://imgur.com/8AHg0m5.jpg" group-title="Desenhos 24hs",[24h] 3 Palavrinhas
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/93444
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 44 Gatos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6UxiKbdcPJr15eTZWiEbldAzlS.jpg" group-title="Desenhos 24hs",[24h] 44 Gatos 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918120
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 9-1-1  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg" group-title="Series 24hs",[24H] 9-1-1  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918046
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa do Mickey S01" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa do Mickey S01
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82739
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa Do Mickey S02" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa Do Mickey S02
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82740
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa Do Mickey S03 S04 S05" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa Do Mickey S03 S04 S05
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82741
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Diarista" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oZBczD3fofoUlQZILHPz5FJ366L.jpg" group-title="Especiais 24hs ",[24h] A Diarista
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/56845
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Formiga Atômica" tvg-logo="https://imgur.com/J7mfM5G.jpg" group-title="Desenhos 24hs",[24h] A Formiga Atômica
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/12333
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Grande Família" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/draJzGrnfB8gEqCGJrPhNORu0nz.jpg" group-title="Especiais 24hs ",[24h] A Grande Família
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908690
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Lenda de Tarzan" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w5mGLHBT59nFilSPgd5TgJnZ1ix.jpg" group-title="Desenhos 24hs",[24H] A Lenda de Tarzan
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919381
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Mansão Foster para Amigos Imaginários" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aerZJVODYwji4BnyWrHFmF3JxhX.jpg" group-title="Desenhos 24hs",[24h] A Mansão Foster para Amigos Imaginários
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60294
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Pequena Sereia" tvg-logo="https://imgur.com/BMqQwBQ.jpg" group-title="Desenhos 24hs",[24H] A Pequena Sereia
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82964
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma do Charlie Brown e Snoopy " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3wAaBg4eIrMi8yeMf79tVXY8KfT.jpg" group-title="Desenhos 24hs",[24h] A Turma do Charlie Brown e Snoopy 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908691
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma do Charlie Brown e Snopy" tvg-logo="https://imgur.com/YkKUgZW.jpg" group-title="Desenhos 24hs",[24h] A Turma do Charlie Brown e Snopy
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915627
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma do Manda Chuva" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/749DnZBTmaLKf8BOm8Lq5W1LLgE.jpg" group-title="Desenhos 24hs",[24h] A Turma do Manda Chuva
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908692
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Vaca e o Frango  " tvg-logo="https://imgur.com/HaW86Y7.jpg" group-title="Desenhos 24hs",[24H] A Vaca e o Frango  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82782
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Vida Como Ela é" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wjoPxAbzidwPcuzJ4TTJVL7xo6N.jpg" group-title="Especiais 24hs ",[24h] A Vida Como Ela é
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918091
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Vida e As Aventuras de Juniper Lee" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tf5oQ2VTHS46ykMfFH6DeIjrfHp.jpg" group-title="Desenhos 24hs",[24h] A Vida e As Aventuras de Juniper Lee
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60302
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A.I.C.O.: Incarnation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kZKj6x6Wa8xyfj2VWoLDq0Or6OC.jpg" group-title="Animes 24hs",[24h] A.I.C.O.: Incarnation
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87564
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Acampamento De Verão" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63nHPbKbroWostjpq4WLjjmhma7.jpg" group-title="Desenhos 24hs",[24h] Acampamento De Verão
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60303
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Acorrentada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DD1WVGrjSEVDWpKaDBrVjLvCC8.jpg" group-title="Novelas 24hs",[24h] Acorrentada
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/897603
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Afro Samurai " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1wif9a57obZA5N1UujiluoUahkI.jpg" group-title="Animes 24hs",[24h] Afro Samurai 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87569
+#EXTINF:-1 tvg-id="" tvg-name="[24h] ALF, o ETeimoso " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg" group-title="Especiais 24hs ",[24h] ALF, o ETeimoso 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918070
+#EXTINF:-1 tvg-id="" tvg-name="[24h] American Dad!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC1q422YhQR7k82GB8gW4KoD91p.jpg" group-title="Desenhos 24hs",[24h] American Dad!
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/898166
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Amor Secreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNjOaIcJO9SzBpZTVz3cmtXP4Xt.jpg" group-title="Novelas 24hs",[24h] Amor Secreto
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/897604
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Amphibia" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bFCgv9iWZECWSDxNQYc9soqvwjx.jpg" group-title="Desenhos 24hs",[24h] Amphibia
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908477
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ana Pimentinha" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4WWdPyBI7EdpH873sV9voLdCFr9.jpg" group-title="Desenhos 24hs",[24h] Ana Pimentinha
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/916668
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Andy e seu Esquilo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xxRUjFtXxkeVFW66MOBDkBP56qP.jpg" group-title="Desenhos 24hs",[24h] Andy e seu Esquilo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60309
+
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Apenas um Show S01" tvg-logo="https://imgur.com/vG8SZv3.jpg" group-title="Desenhos 24hs",[24h] Apenas um Show S01
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82742
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Apenas um Show S02 " tvg-logo="https://imgur.com/vG8SZv3.jpg" group-title="Desenhos 24hs",[24h] Apenas um Show S02 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82743
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Arcanjo Renegado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK6kWXyzzdSDR8ag0laNihNMmrn.jpg" group-title="Series 24hs",[24h] Arcanjo Renegado
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896629
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Aventuras de Jackie Chan" tvg-logo="https://media.fstatic.com/XC0COApitHa1fRkhTnQlB9GCdVc=/fit-in/290x478/smart/media/movies/covers/2010/07/f1ab14b3c3125ccdd001bae4e3aedaa0.jpg" group-title="Desenhos 24hs",[24h] As Aventuras de Jackie Chan
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918308
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Aventuras de Tintim" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hnd61YaafVOfP0iYg9tZj3gYcaB.jpg" group-title="Desenhos 24hs",[24h] As Aventuras de Tintim
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82744
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Super Poderosas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftFTY3EZTTAP5RKfRijD8Q8PNQX.jpg" group-title="Desenhos 24hs",[24H] As Meninas Super Poderosas
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/897967
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Meninas Superpoderosas Geração Z" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eyma9skDvtn6drk7sFtfmbTV3Vb.jpg" group-title="Desenhos 24hs",[24h] As Meninas Superpoderosas Geração Z
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60312
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Tartarugas Ninja  " tvg-logo="https://media.fstatic.com/BjNcbc_mKW-CyX9aw_aaOZqwYgM=/fit-in/290x478/smart/media/movies/covers/2011/12/122154e9da4f8c31e5cc2ca9ec21f205.jpg" group-title="Desenhos 24hs",[24h] As Tartarugas Ninja  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918566
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Terríveis Aventuras de Billy e Mandy" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxdTn5UwvriN1EzDSNnWr5AAQN7.jpg" group-title="Desenhos 24hs",[24h] As Terríveis Aventuras de Billy e Mandy
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60310
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Trapalhadas de Flapjack" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n2nywQCi0SxyBjlNrYHKkI9tgod.jpg" group-title="Desenhos 24hs",[24h] As Trapalhadas de Flapjack
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60311
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bananas de Pijamas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uvFYKgkptVGLWkTcwC0feW8kPnc.jpg" group-title="Especiais 24hs ",[24h] Bananas de Pijamas
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919107
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bananas de Pijamas Desenho" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAOv5rXl74n70BteqYDVHFhMfSc.jpg" group-title="Desenhos 24hs",[24h] Bananas de Pijamas Desenho
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/84566
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bananas de Pijamas Desenho" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAOv5rXl74n70BteqYDVHFhMfSc.jpg" group-title="Desenhos 24hs",[24h] Bananas de Pijamas Desenho
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919106
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Barbie: It Takes Two " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4KFeoNVIAKKxETRrbika8mAbswl.jpg" group-title="Desenhos 24hs",[24h] Barbie: It Takes Two 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908744
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Batwheels" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2BY0gFzJfVMAJkYameynkOkHcA1.jpg" group-title="Desenhos 24hs",[24h] Batwheels
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915628
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10 " tvg-logo="https://imgur.com/PbAhK0I.jpg" group-title="Desenhos 24hs",[24h] Ben 10 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82783
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10 Reboot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4H0UR7aUkGZlT6Q9r9grBrjJWR.jpg" group-title="Desenhos 24hs",[24h] Ben 10 Reboot
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60315
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Força Alienígena " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Força Alienígena 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60313
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Omniverse" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Re9I5tauOspaJxYCIqRqavKT4F.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Omniverse
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60314
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Supremacia Alienígena" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YgXSWdHpRU3KzlK47tD6a3E6nY.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Supremacia Alienígena
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60316
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Beyblade Burst" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg" group-title="Desenhos 24hs",[24h] Beyblade Burst
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/60368
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Billy Dilley" tvg-logo="https://imgur.com/rJ4mSII.jpg" group-title="Desenhos 24hs",[24h] Billy Dilley
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82968
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Black Kamen Raider Rx" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCj0R6fIXz4cfFiydWbxQimTwaV.jpg" group-title="Especiais 24hs ",[24h] Black Kamen Raider Rx
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919379
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Blaze e os Monster Machines" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDTuk6TxOzjzHzrcOw0w27nwHa6.jpg" group-title="Desenhos 24hs",[24h] Blaze e os Monster Machines
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918567
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Blue Dragon" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kz1WUNjTUnjQCYvvpn4Jx0ZV22A.jpg" group-title="Animes 24hs",[24h] Blue Dragon
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87568
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918309
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja Kamp Koral" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/peZYB3aFOBoZbpFhOZogrTHVlqX.jpg" group-title="Desenhos 24hs",[24H] Bob Esponja Kamp Koral
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918310
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Zoom" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yr83vGcXQmSfzEEOVj44nOrS3oP.jpg" group-title="Desenhos 24hs",[24h] Bob Zoom
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908476
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bom Dia, Verônica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbyZ84DuLJGgxdMnC7bjHlcjJ3e.jpg" group-title="Series 24hs",[24h] Bom Dia, Verônica
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896441
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Boruto " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcwtmhDZTnOJSaXby61bQDBlAxJ.jpg" group-title="Animes 24hs",[24h] Boruto 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918041
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg" group-title="Series 24hs",[24H] Breaking Bad
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918049
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bubbles Guppies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxZOTFDGsvQ7YD2zxWrWVInqBxw.jpg" group-title="Desenhos 24hs",[24h] Bubbles Guppies
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/84568
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bubu e as Corujinhas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cse2j3KCUbaVRx2FxMuuqUeOCMY.jpg" group-title="Desenhos 24hs",[24H] Bubu e as Corujinhas
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919105
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Café com Aroma de Mulher" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztyJqTdS7RApGgl6ZXmFdGZX3g0.jpg" group-title="Novelas 24hs",[24h] Café com Aroma de Mulher
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/898939
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Caleidoscópio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruuqKu320BcKganFoOITKjyU6WH.jpg" group-title="Series 24hs",[24h] Caleidoscópio 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/895487
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Canela Telenovelas" tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Novelas 24hs",[24h] Canela Telenovelas
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915617
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Canções de Ninar" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cMEStlPEEK2IXPrlhaeGOSk2Uwg.jpg" group-title="Desenhos 24hs",[24H] Canções de Ninar
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919353
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Capitão Planeta" tvg-logo="https://imgur.com/K0X8RQ6.jpg" group-title="Desenhos 24hs",[24h] Capitão Planeta
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918292
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Carmem SanDiego Clássico" tvg-logo="https://imgur.com/ZVrPenj.jpg" group-title="Desenhos 24hs",[24H] Carmem SanDiego Clássico
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82904
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Carmen SanDiego Netflix  " tvg-logo="https://imgur.com/dLafeEM.jpg" group-title="Desenhos 24hs",[24H] Carmen SanDiego Netflix  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82813
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Casamento as Cegas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHbWlIb7ceeNJm7Qb2pNJVBsu8a.jpg" group-title="Especiais 24hs ",[24h] Casamento as Cegas
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896829
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Castlevania" tvg-logo="https://joystickterrivel.com.br/wp-content/uploads/2018/10/Ssposter2.jpg" group-title="Animes 24hs",[24h] Castlevania
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82771
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Cavaleiros do Zodiaco - 12 Casas" tvg-logo="https://imgur.com/71s3uYD.jpg" group-title="Animes 24hs",[24h] Cavaleiros do Zodiaco - 12 Casas
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82774
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Cavaleiros do Zodiaco - Asgard " tvg-logo="https://imgur.com/71s3uYD.jpg" group-title="Animes 24hs",[24h] Cavaleiros do Zodiaco - Asgard 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82775
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Cavaleiros do Zodiaco - Hades  " tvg-logo="https://imgur.com/71s3uYD.jpg" group-title="Animes 24hs",[24h] Cavaleiros do Zodiaco - Hades  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82777
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Cavaleiros do Zodiaco - Lost Canvas" tvg-logo="https://imgur.com/KUnCy3g.jpg" group-title="Animes 24hs",[24h] Cavaleiros do Zodiaco - Lost Canvas
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82772
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Cavaleiros do Zodiaco - Netflix" tvg-logo="https://imgur.com/wJABm21.jpg" group-title="Animes 24hs",[24h] Cavaleiros do Zodiaco - Netflix
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82778
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Cavaleiros do Zodiaco - Poseidon " tvg-logo="https://imgur.com/71s3uYD.jpg" group-title="Animes 24hs",[24h] Cavaleiros do Zodiaco - Poseidon 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82776
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Cavaleiros do Zodiaco - Santuário" tvg-logo="https://imgur.com/71s3uYD.jpg" group-title="Animes 24hs",[24h] Cavaleiros do Zodiaco - Santuário
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82773
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do  Dragão" tvg-logo="https://media.fstatic.com/uwCfbhAfwTTFZBqda9ZXmdqGbfE=/fit-in/290x478/smart/media/movies/covers/2011/06/a0dfee0e3936e98e8cd384f71d3a551f.jpg" group-title="Desenhos 24hs",[24H] Caverna do  Dragão
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/11518
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Caverna do Dragão" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="Desenhos 24hs",[24h] Caverna do Dragão
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/68881
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Changeman " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHC80SHVrlQLHjq88isra3r3GV3.jpg" group-title="Especiais 24hs ",[24h] Changeman 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919374
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S01 e S02" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chapolin S01 e S02
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82899
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S03 e S04" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chapolin S03 e S04
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82900
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S05, S06 e S07" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chapolin S05, S06 e S07
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82901
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Chaves +18" tvg-logo="https://imgur.com/JdaURYs.jpg" group-title="Especiais 24hs ",[24h] Chaves +18
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915949
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Chaves Desenho" tvg-logo="https://imgur.com/Zpfxf5W.jpg" group-title="Desenhos 24hs",[24h] Chaves Desenho
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/12553
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S01 e S02" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chaves S01 e S02
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82896
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S04 e S03" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chaves S04 e S03
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82897
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S05, S06 e S07" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chaves S05, S06 e S07
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82898
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Chicago Fire: Heróis Contra o Fogo	" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg" group-title="Series 24hs",[24h] Chicago Fire: Heróis Contra o Fogo	
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896635
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Chicago Med: Atendimento de Emergência" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu6RzHO4QahyICKJPkK7xYgUfzM.jpg" group-title="Series 24hs",[24h] Chicago Med: Atendimento de Emergência
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896637
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Chicago P.D.: Distrito 21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3k9YHHlENlcIT8g2BqeXsaDI2Hh.jpg" group-title="Series 24hs",[24h] Chicago P.D.: Distrito 21
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896636
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Chocolate com Pimenta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajjPiFS9F7fyKLhk45rptbGyHp7.jpg" group-title="Novelas 24hs",[24h] Chocolate com Pimenta
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/897605
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cine Holliúdy: A Série" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6JlBK89BrZOWMpzAFpd0JxrVbk5.jpg" group-title="Especiais 24hs ",[24H] Cine Holliúdy: A Série
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/902813
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Clarencio: O Otimista" tvg-logo="https://imgur.com/i155zwM.jpg" group-title="Desenhos 24hs",[24h] Clarencio: O Otimista
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/86270
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Code Geass" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8p3HXHOQXjMpU9gAkZVAqozhDzQ.jpg" group-title="Animes 24hs",[24h] Code Geass
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87562
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Contos Assustadores da Masha" tvg-logo="https://imgur.com/UjWDGIK.jpg" group-title="Desenhos 24hs",[24h] Contos Assustadores da Masha
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918563
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Contos da Masha" tvg-logo="https://imgur.com/eYYOa2i.jpg" group-title="Desenhos 24hs",[24h] Contos da Masha
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/909650
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde" tvg-logo="https://media.fstatic.com/82nFeQAuHxVGLaFS6lnyCETWCfs=/fit-in/290x478/smart/media/movies/covers/2017/01/CourageTheCowardlyDog_S4.jpg" group-title="Desenhos 24hs",[24H] Coragem o Cão Covarde
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/11523
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Corrida Maluca" tvg-logo="https://imgur.com/R8tgPki.jpg" group-title="Desenhos 24hs",[24h] Corrida Maluca
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/84988
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Criminal Minds  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLlH7zxGol0hn7LOkCWx9CdOvZ8.jpg" group-title="Series 24hs",[24H] Criminal Minds  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918047
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Curso Betzord" tvg-logo="https://imgur.com/W0QagjW.jpg" group-title="Especiais 24hs ",[24h] Curso Betzord
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/890040
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Curso Inglês - Prof.Kenny" tvg-logo="https://imgur.com/ykQkoYv.jpg" group-title="Especiais 24hs ",[24h] Curso Inglês - Prof.Kenny
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/90072
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Curso Inglês - Renato Baggio" tvg-logo="https://imgur.com/dEwEaJc.jpg" group-title="Especiais 24hs ",[24h] Curso Inglês - Renato Baggio
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/90075
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Cybercop: Os Policiais do Futuro" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/75vTJI945GYjRrIGz3sdqkfvFRo.jpg" group-title="Especiais 24hs ",[24h] Cybercop: Os Policiais do Futuro
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908475
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Cyberpunk: Mercenários" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWvAY8yHE873adMws83XqBPf7W2.jpg" group-title="Animes 24hs",[24h] Cyberpunk: Mercenários
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/892655
+#EXTINF:-1 tvg-id="" tvg-name="[24h] D.Gray-Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txCtE7ToSLuG8sy8tAIh9q5JAYS.jpg" group-title="Animes 24hs",[24h] D.Gray-Man
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87563
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Daniel o Tigre " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg" group-title="Desenhos 24hs",[24H] Daniel o Tigre 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918570
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Daniel Tigre Canções" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4xYEbqOm7AUF3Y6D8cY0jM2yXE9.jpg" group-title="Desenhos 24hs",[24h] Daniel Tigre Canções
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919354
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Daniel, o Caçador de Magia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83jBawRjY6YF8RjoopVZ92UvFYM.jpg" group-title="Desenhos 24hs",[24h] Daniel, o Caçador de Magia
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/892990
+#EXTINF:-1 tvg-id="" tvg-name="[24h] De Férias com o Ex Caribe " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oxKNB9SIALOtlBtinlCUzos9zPg.jpg" group-title="Especiais 24hs ",[24h] De Férias com o Ex Caribe 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/897970
+#EXTINF:-1 tvg-id="" tvg-name="[24H] De Volta pro Futuro" tvg-logo="https://imgur.com/Urghy0P.jpg" group-title="Desenhos 24hs",[24H] De Volta pro Futuro
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82905
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Death Note" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iigTJJskR1PcjjXqxdyJwVB3BoU.jpg" group-title="Animes 24hs",[24h] Death Note
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87565
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Denis O Pimentinha" tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/935/3204935.jpg" group-title="Desenhos 24hs",[24H] Denis O Pimentinha
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915835
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Desafio em Dose Dupla Brasil" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tJIzXY9xYS9lnqe1Vqfj7SU1HeP.jpg" group-title="Especiais 24hs ",[24H] Desafio em Dose Dupla Brasil
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919378
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Desafio Sob Fogo América Latina " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w7xtTnDNp9yeSuI2Rmn7dW2ETe7.jpg" group-title="Desenhos 24hs",[24H] Desafio Sob Fogo América Latina 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919382
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dick Vigarista E Muttley" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kq4RiiymUGPLkEQklmO7vvZ8Pi4.jpg" group-title="Desenhos 24hs",[24h] Dick Vigarista E Muttley
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908693
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Digimon Adventure Parte 1 " tvg-logo="https://imgur.com/L63QLeN.jpg" group-title="Animes 24hs",[24h] Digimon Adventure Parte 1 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82894
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Digimon Adventure Parte 2" tvg-logo="https://imgur.com/L63QLeN.jpg" group-title="Animes 24hs",[24h] Digimon Adventure Parte 2
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82895
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dois Homens e meio S01 a S04" tvg-logo="https://imgur.com/e8E8b6Q.jpg" group-title="Especiais 24hs ",[24h] Dois Homens e meio S01 a S04
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82749
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dois Homens e meio S05 a S08" tvg-logo="https://imgur.com/e8E8b6Q.jpg" group-title="Especiais 24hs ",[24h] Dois Homens e meio S05 a S08
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82750
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dois Homens e meio S09 a S12" tvg-logo="https://imgur.com/e8E8b6Q.jpg" group-title="Especiais 24hs ",[24h] Dois Homens e meio S09 a S12
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82751
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dora Aventureira" tvg-logo="https://imgur.com/748k0Mk.jpg" group-title="Desenhos 24hs",[24h] Dora Aventureira
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918024
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Doug Funnie" tvg-logo="https://imgur.com/bqOXETJ.jpg" group-title="Desenhos 24hs",[24h] Doug Funnie
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908473
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DR. House" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Series 24hs",[24H] DR. House
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918048
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dr. Stone" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/64DIVpWiGlvvJczMnyu8jojSYKm.jpg" group-title="Animes 24hs",[24h] Dr. Stone
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87567
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Age: Absolvição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg" group-title="Desenhos 24hs",[24h] Dragon Age: Absolvição
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/894019
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball  - Clássico" tvg-logo="https://imgur.com/sBsCaiZ.jpg" group-title="Desenhos 24hs",[24h] Dragon Ball  - Clássico
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918293
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball GT" tvg-logo="https://imgur.com/iZjQF6T.jpg" group-title="Animes 24hs",[24h] Dragon Ball GT
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918300
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball Kai" tvg-logo="https://i.pinimg.com/originals/62/d1/07/62d107a4857a8a1045fd91c4c0a6d3ed.jpg" group-title="Animes 24hs",[24h] Dragon Ball Kai
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918303
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Drake e Josh S01 e 02" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Especiais 24hs ",[24H] Drake e Josh S01 e 02
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82752
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Drake e Josh S03 e 04" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Especiais 24hs ",[24H] Drake e Josh S03 e 04
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82753
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Du, Dudu e Edu" tvg-logo="https://imgur.com/hvV48Io.jpg" group-title="Desenhos 24hs",[24H] Du, Dudu e Edu
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82906
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball Super" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w7McGJsGqDjKu4sq5jl0OI1nrqY.jpg" group-title="Animes 24hs",[24h] Dragon Ball Super
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918301
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragões: Equipe de Resgate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6M2LtECJgfLbJ5b4JTjSnBa794.jpg" group-title="Desenhos 24hs",[24h] Dragões: Equipe de Resgate
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/895257
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragoes Equipe de Resgate   Herois do Ceu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB4lfRiOgDHROOaKheKWpA0x41J.jpg" group-title="Desenhos 24hs",[24h] Dragoes: Equipe de Resgate  Herois do Cou
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/895256
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball - Androids" tvg-logo="https://imgur.com/zFHmfvn.jpg" group-title="Animes 24hs",[24h] Dragon Ball - Androids
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918297
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball - Cell" tvg-logo="https://imgur.com/vJx7rU2.jpg" group-title="Animes 24hs",[24h] Dragon Ball - Cell
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918298
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball - Freezer" tvg-logo="https://imgur.com/gmAS5En.jpg" group-title="Animes 24hs",[24h] Dragon Ball - Freezer
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918296
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball - Majin Boo" tvg-logo="https://imgur.com/4hJqz71.jpg" group-title="Animes 24hs",[24h] Dragon Ball - Majin Boo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918299
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball - Sayajins" tvg-logo="https://i.imgur.com/gmAS5En.jpg" group-title="Animes 24hs",[24h] Dragon Ball - Sayajins
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918295
+
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Edens Zero" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qYE9Lk9y3yO8GJSX25BsF7XOtD0.jpg" group-title="Animes 24hs",[24h] Edens Zero
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87574
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Escolinha do Professor Raimundo" tvg-logo="https://imgur.com/zAsnS7y.jpg" group-title="Especiais 24hs ",[24h] Escolinha do Professor Raimundo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919376
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S01" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S01
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82754
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S02" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S02
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82755
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S03" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S03
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82756
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S04" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S04
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82757
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu sou Groot" tvg-logo="https://imgur.com/SroGp0w.jpg" group-title="Desenhos 24hs",[24h] Eu sou Groot
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/88397
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Faisca e Fumaça " tvg-logo="http://d3ugyf2ht6aenh.cloudfront.net/stores/842/420/products/faisca-500x5001-822a9d19b543653ccf15376338970104-640-0.jpg" group-title="Desenhos 24hs",[24h] Faisca e Fumaça 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/84570
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Familia Adams" tvg-logo="https://imgur.com/7jqIP0m.jpg" group-title="Desenhos 24hs",[24h] Familia Adams
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82907
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Família Dinossauro " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="Especiais 24hs ",[24H] Família Dinossauro 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918045
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Fina Estampa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2FuHi0Tau1J0pGGzussdsuv0qm.jpg" group-title="Novelas 24hs",[24h] Fina Estampa
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/898165
+#EXTINF:-1 tvg-id="" tvg-name="[24h] FLY o Pequeno Guerreiro " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x4kiKGYvJ2trpzBVCgkeGwCJuUt.jpg" group-title="Animes 24hs",[24h] FLY o Pequeno Guerreiro 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919108
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Fora de Órbita" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLf2ZI9sPf8nLAJoSUIsz6scntM.jpg" group-title="Animes 24hs",[24h] Fora de Órbita
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87570
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Freakazoid " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ig0pc2AhY5d3GEghcxEWwo9AUtg.jpg" group-title="Desenhos 24hs",[24h] Freakazoid 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918119
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S01 e S02 " tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S01 e S02 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82758
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S03 e S04" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S03 e S04
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82759
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S05 e S06" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S05 e S06
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82760
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S07 e S08" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S07 e S08
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82761
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S09 e S10" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S09 e S10
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82769
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Fullmetal Alchemist: Brotherhood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czAcsWfKK3UOGxfo8djuFpnCx9I.jpg" group-title="Animes 24hs",[24h] Fullmetal Alchemist: Brotherhood
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/890144
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Futurama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k5e8kAq9jpaSmgvFM10su5LXGFR.jpg" group-title="Desenhos 24hs",[24h] Futurama
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82954
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Galinha Pintadinha" tvg-logo="https://imgur.com/czWxL79.jpg" group-title="Desenhos 24hs",[24h] Galinha Pintadinha
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918294
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha Mini " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qq4E9OZEMCST45IQnrkn0Atv6e.jpg" group-title="Desenhos 24hs",[24H] Galinha Pintadinha Mini 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/93540
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Game of Thrones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg" group-title="Series 24hs",[24h] Game of Thrones
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/895948
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Gasparzinhos e seus Amigos" tvg-logo="https://imgur.com/hMaV9RW.jpg" group-title="Desenhos 24hs",[24h] Gasparzinhos e seus Amigos
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915696
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ghost in the Shell: SAC_2045" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hLHPuObVB8zSIoJFfsAYP365c1L.jpg" group-title="Animes 24hs",[24h] Ghost in the Shell: SAC_2045
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87576
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Gigantes da Indústria " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kmxok1OGUFLd2psEMzZ7mU0MjQi.jpg" group-title="Especiais 24hs ",[24H] Gigantes da Indústria 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919375
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Godzilla Singular Point	" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/macY0UVe8ocAWq8WwYom25WC9Ps.jpg" group-title="Animes 24hs",[24h] Godzilla Singular Point	
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/56439
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Gravity Falls" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pLOWuYnhozZnXMpnCyT0aNfBMGa.jpg" group-title="Desenhos 24hs",[24H] Gravity Falls
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918050
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Grey's Anatomy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HAm7sxXu9eGVvs8BIAlkCKGaTd.jpg" group-title="Series 24hs",[24h] Grey's Anatomy
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896839
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Guardiões da Galáxias  " tvg-logo="https://imgur.com/S75GmEj.jpg" group-title="Desenhos 24hs",[24H] Guardiões da Galáxias  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82955
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Hannah Montana  " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuxo1MfRDCQP5tDI4PR6vXHd2jy.jpg" group-title="Especiais 24hs ",[24H] Hannah Montana  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918044
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Hawaii 5.0 (1º a 5º temporada)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGTE1SRuVB1xNfP63URLBQ7hwTd.jpg" group-title="Series 24hs",[24h] Hawaii 5.0 (1º a 5º temporada)
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87975
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Hawaii 5.0 (6º a 10º temporada)  " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGTE1SRuVB1xNfP63URLBQ7hwTd.jpg" group-title="Series 24hs",[24h] Hawaii 5.0 (6º a 10º temporada)  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87976
+#EXTINF:-1 tvg-id="" tvg-name="[24h] He-Man Clássico" tvg-logo="https://imgur.com/kwbHi70.jpg" group-title="Desenhos 24hs",[24h] He-Man Clássico
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919213
+#EXTINF:-1 tvg-id="" tvg-name="[24h] He-Man e os Mestres do Universo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gW4OSQbNLt6Fv2fuALAViqWslOa.jpg" group-title="Desenhos 24hs",[24h] He-Man e os Mestres do Universo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919214
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homens de Preto" tvg-logo="https://imgur.com/1FM00MQ.jpg" group-title="Desenhos 24hs",[24H] Homens de Preto
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82970
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Hospital New Amsterdam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixlNw73TP1TUBHqrsCjepAwnjAT.jpg" group-title="Series 24hs",[24h] Hospital New Amsterdam
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/895813
+#EXTINF:-1 tvg-id="" tvg-name="[24h] I Carly S01 e S02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ4qkTEBBzS0k7d5QX3tPdu8fwb.jpg" group-title="Especiais 24hs ",[24h] I Carly S01 e S02
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82763
+#EXTINF:-1 tvg-id="" tvg-name="[24h] I Carly S03 S04 S05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ4qkTEBBzS0k7d5QX3tPdu8fwb.jpg" group-title="Especiais 24hs ",[24h] I Carly S03 S04 S05
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82764
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ilha de Ferro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifXTyHmGWsIUWtxuGUu4posArTV.jpg" group-title="Series 24hs",[24h] Ilha de Ferro
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896628
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Impuros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff9R3HF0JhrbWYp5cQk8HsHiYK3.jpg" group-title="Series 24hs",[24h] Impuros
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896625
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Irmão do Jorel" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rH8SxdJrNRrdHGIvavZys6OrfrG.jpg" group-title="Desenhos 24hs",[24h] Irmão do Jorel
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/917768
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Iron Chef Brasil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXwZruNz8qFkDDVtMTpzswWMRuq.jpg" group-title="Especiais 24hs ",[24h] Iron Chef Brasil
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87559
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Jaspion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ab0CmiyA83TSZsMDzVNg7mZs3mm.jpg" group-title="Especiais 24hs ",[24h] Jaspion
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/68880
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Jiban" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxEsZ5MNqOYE0ZWjznKS6Gisqoc.jpg" group-title="Especiais 24hs ",[24h] Jiban
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/68882
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Jiraya" tvg-logo="https://imgur.com/pEB9OAo.jpg" group-title="Especiais 24hs ",[24h] Jiraya
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/12447
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Jonny Quest" tvg-logo="https://imgur.com/9bWsR2X.jpg" group-title="Desenhos 24hs",[24h] Jonny Quest
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908472
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Jornada nas Estrelas " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b3qZtvE3bS3LS1DIK8ANruXZD7.jpg" group-title="Desenhos 24hs",[24h] Jornada nas Estrelas 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919383
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Jujutsu Kaisen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGYaVtwWInTzAT6HOGyAj1BTqnB.jpg" group-title="Animes 24hs",[24h] Jujutsu Kaisen
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/890143
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Justiça Jovem" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7ZLVqaz3bS7zRwuXTwZwxZSFs7y.jpg" group-title="Desenhos 24hs",[24h] Justiça Jovem
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/914382
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Kakegurui" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg" group-title="Animes 24hs",[24h] Kakegurui
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87682
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Kelp: o Unicórnio-do-Mar " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ldlcEzhWtVIrX1YGmkQsWHC8FmY.jpg" group-title="Desenhos 24hs",[24h] Kelp: o Unicórnio-do-Mar 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918519
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Kenan e Kel S01 e S02" tvg-logo="https://imgur.com/U6wMar6.jpg" group-title="Especiais 24hs ",[24h] Kenan e Kel S01 e S02
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82765
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Kenan e Kel S03 e S04" tvg-logo="https://imgur.com/U6wMar6.jpg" group-title="Especiais 24hs ",[24h] Kenan e Kel S03 e S04
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82766
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Kimetsu no Yaiba " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg" group-title="Animes 24hs",[24h] Kimetsu no Yaiba 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87566
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Kuutei Dragons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b6VOhuHfcuRvAALmCr8wDeH7Cbh.jpg" group-title="Animes 24hs",[24h] Kuutei Dragons
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87575
+#EXTINF:-1 tvg-id="" tvg-name="[24h] La Casa de Papel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVUAfbrP5HDJugXraB7KQS0yz6Z.jpg" group-title="Series 24hs",[24h] La Casa de Papel
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/895947
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Lady Night" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1TlJc5z18YnCb1Rx1Y4Jh45uoN7.jpg" group-title="Especiais 24hs ",[24h] Lady Night
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/56848
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Larva Tuba" tvg-logo="https://imgur.com/LmNHhyZ.jpg" group-title="Desenhos 24hs",[24h] Larva Tuba
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82909
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Las Estrellas Latin America" tvg-logo="https://imgur.com/RJDQqhJ.png" group-title="Novelas 24hs",[24h] Las Estrellas Latin America
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915619
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Leo o Caminhão" tvg-logo="https://imgur.com/332ZWaK.jpg" group-title="Desenhos 24hs",[24h] Leo o Caminhão
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82962
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Liga da Justiça sem Limites " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zgFvSmYWs1Yn1u1GQnrwdpc88lT.jpg" group-title="Desenhos 24hs",[24h] Liga da Justiça sem Limites 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/56443
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Lion Man " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5lWatlZDjL4bnzeobs7b5FYl8gj.jpg" group-title="Especiais 24hs ",[24H] Lion Man 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919380
+#EXTINF:-1 tvg-id="" tvg-name="[24h] LOL: Se Rir, Já Era S01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag2xnUhbrRkStDshgrfifmAXgLK.jpg" group-title="Especiais 24hs ",[24h] LOL: Se Rir, Já Era S01
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/890142
+#EXTINF:-1 tvg-id="" tvg-name="[24h] LOL: Se Rir, Já Era S02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag2xnUhbrRkStDshgrfifmAXgLK.jpg" group-title="Especiais 24hs ",[24h] LOL: Se Rir, Já Era S02
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/893085
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Louie" tvg-logo="https://ottvsimg.ottvs.com.br/cov/mil.040006/0040006_335.jpg" group-title="Desenhos 24hs",[24h] Louie
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919109
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Love Death e Robots" tvg-logo="https://imgur.com/FX96pNI.jpg" group-title="Desenhos 24hs",[24h] Love Death e Robots
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82745
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MacGyver (2016)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2zAogx9dmSAu2HYxbWzHe4ZaNY5.jpg" group-title="Series 24hs",[24H] MacGyver (2016)
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/88543
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MacGyver - Profissão: Perigo  (1986)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wUzoG97JkYygNqRhrRxYmQfZ7UE.jpg" group-title="Series 24hs",[24H] MacGyver - Profissão: Perigo  (1986)
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/88818
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Magi: Aventuras de Sinbad" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmNFk9TeB8YoKEhrn2n8tWkBSVO.jpg" group-title="Animes 24hs",[24h] Magi: Aventuras de Sinbad
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87577
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Masha e o Urso" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ze2ocNwb3d2R3DLmzdL7kNFrx50.jpg" group-title="Desenhos 24hs",[24h] Masha e o Urso
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908700
+#EXTINF:-1 tvg-id="" tvg-name="[24h] MasterChef Júnior" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb8pXRmyNfOWQgJssz51bw9wATy.jpg" group-title="Especiais 24hs ",[24h] MasterChef Júnior
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/894699
+#EXTINF:-1 tvg-id="" tvg-name="[24h] MasterChef+ Brasil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edEpl7lvLOT0Nnxy0B90Xu3HfnD.jpg" group-title="Especiais 24hs ",[24h] MasterChef+ Brasil
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/893467
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Megaman Clássico " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lATtzpRx8MW1JisBb70s9N2y0wI.jpg" group-title="Desenhos 24hs",[24h] Megaman Clássico 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918568
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mestres do Universo: A Revolução" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg" group-title="Desenhos 24hs",[24h] Mestres do Universo: A Revolução
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919384
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mickey e Donald  " tvg-logo="https://imgur.com/n0eNtEN.jpg" group-title="Desenhos 24hs",[24h] Mickey e Donald  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/93448
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Miraculous - Lady Bug S01" tvg-logo="https://imgur.com/HleeRxa.jpg" group-title="Desenhos 24hs",[24h] Miraculous - Lady Bug S01
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/93445
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Miraculous - Lady Bug S02" tvg-logo="https://imgur.com/HleeRxa.jpg" group-title="Desenhos 24hs",[24h] Miraculous - Lady Bug S02
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/93446
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Miraculous - Lady Bug S03" tvg-logo="https://imgur.com/HleeRxa.jpg" group-title="Desenhos 24hs",[24h] Miraculous - Lady Bug S03
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/93447
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKsBjE0o9qfJkGTe2axlvprNmja.jpg" group-title="Series 24hs",[24h] Mom
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/896896
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Moranguinho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijYO5jx9BmJIR8oD9CjlopRZ56z.jpg" group-title="Desenhos 24hs",[24h] Moranguinho
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918320
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mundo Bita" tvg-logo="https://imgur.com/DI1f8Nq.jpg" group-title="Desenhos 24hs",[24h] Mundo Bita
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918571
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mundo Bita: Bita e os Animais  " tvg-logo="https://imgur.com/inZshfU.jpg" group-title="Desenhos 24hs",[24h] Mundo Bita: Bita e os Animais  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918572
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mãe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pvNFpOdhOQoIZVywgwDReJsCTc.jpg" group-title="Novelas 24hs",[24h] Mãe
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/899048
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d2/Naruto_vol._01.jpg" group-title="Animes 24hs",[24H] Naruto
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/11494
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto S01 S02 S03" tvg-logo="https://imgur.com/7gWbxb4.jpg" group-title="Animes 24hs",[24h] Naruto S01 S02 S03
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82785
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto S04 S05 S06" tvg-logo="https://imgur.com/7gWbxb4.jpg" group-title="Animes 24hs",[24h] Naruto S04 S05 S06
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82786
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto S07 S08 S09" tvg-logo="https://imgur.com/7gWbxb4.jpg" group-title="Animes 24hs",[24h] Naruto S07 S08 S09
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82787
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto Shippuden Parte 1" tvg-logo="https://imgur.com/ne0FIGz.jpg" group-title="Animes 24hs",[24h] Naruto Shippuden Parte 1
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82788
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto Shippuden Parte 2" tvg-logo="https://imgur.com/ne0FIGz.jpg" group-title="Animes 24hs",[24h] Naruto Shippuden Parte 2
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82789
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Novela Viva HD2" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Novelas 24hs",[24h] Novela Viva HD2
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915608
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Novelando" tvg-logo="https://imgur.com/p7tvqin.png" group-title="Novelas 24hs",[24h] Novelando
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915611
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Novelissima" tvg-logo="https://i.imgur.com/7MCMU3j.png" group-title="Novelas 24hs",[24h] Novelissima
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915623
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Chefinho: De Volta aos Negócios" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vbMwQXDGhdFdE4BT6FUhtLyEWSj.jpg" group-title="Desenhos 24hs",[24h] O Chefinho: De Volta aos Negócios
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908474
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Cravo e a Rosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMNNvkzoLIk8NjIegwq7mNI721O.jpg" group-title="Novelas 24hs",[24h] O Cravo e a Rosa
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/897606
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Dono do Lar" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3KH0UYkK6DdJEcXguvOLrfzvRls.jpg" group-title="Especiais 24hs ",[24h] O Dono do Lar
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/56782
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Maskara" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d5/O_mascara_desenho.jpg/200px-O_mascara_desenho.jpg" group-title="Desenhos 24hs",[24H] O Maskara
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918565
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Novo Pica Pau  " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg" group-title="Desenhos 24hs",[24h] O Novo Pica Pau  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918090
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Pequeno Principe  " tvg-logo="https://imgur.com/hmxIlBo.jpg" group-title="Desenhos 24hs",[24h] O Pequeno Principe  
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915832
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Príncipe Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toU4TDWAdP6PEkyozFgiFoVzb5U.jpg" group-title="Desenhos 24hs",[24h] O Príncipe Dragão
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/893002
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Rei do Gado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBgFMkmhrulE0snPlAXLn9k8GyQ.jpg" group-title="Novelas 24hs",[24h] O Rei do Gado
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/897607
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Show do Garfield" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oBoB8LuB7uKs7MPrA2FSPLezrAO.jpg" group-title="Desenhos 24hs",[24H] O Show do Garfield
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918561
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Show Do Scooby Doo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/geO8f6BdJ0E3OcJSzqyS3AakuEx.jpg" group-title="Desenhos 24hs",[24h] O Show Do Scooby Doo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82957
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Show dos Looney Tunes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xIQBufoTtoAaHLdiWzfubH8z8gy.jpg" group-title="Desenhos 24hs",[24H] O Show dos Looney Tunes
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918562
+#EXTINF:-1 tvg-id="" tvg-name="[24h] One Piece" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" group-title="Animes 24hs",[24h] One Piece
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87584
+#EXTINF:-1 tvg-id="" tvg-name="[24h] One Punch Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg" group-title="Animes 24hs",[24h] One Punch Man
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87587
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Onyx Equinox" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCPi4hXHjLQWv7j2TVsWoLE99Uw.jpg" group-title="Animes 24hs",[24h] Onyx Equinox
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87586
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Operação Big Hero" tvg-logo="https://imgur.com/PaUJ4jH.jpg" group-title="Desenhos 24hs",[24h] Operação Big Hero
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82963
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Operação de Risco " tvg-logo="https://imgur.com/6iITA3m.jpg" group-title="Especiais 24hs ",[24h] Operação de Risco 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919371
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Operação Policial " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTIGVEn29vLcXMGP5sKi3WVoluJ.jpg" group-title="Especiais 24hs ",[24h] Operação Policial 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919372
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Cavaleiros do Zodíaco: Saintia Shô" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nLypgWEWGpBUJ6EDfPEdixJprbg.jpg" group-title="Animes 24hs",[24h] Os Cavaleiros do Zodíaco: Saintia Shô
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87579
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Dez Mandamentos" tvg-logo="https://imgur.com/tzYimlq.png" group-title="Novelas 24hs",[24h] Os Dez Mandamentos
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915612
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Jetsons" tvg-logo="https://imgur.com/kiNfPyJ.jpg" group-title="Desenhos 24hs",[24h] Os Jetsons
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82967
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Normais" tvg-logo="https://imgur.com/4eM9vIx.jpg" group-title="Especiais 24hs ",[24h] Os Normais
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82902
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Roni" tvg-logo="https://imgur.com/uhNNzzs.jpg" group-title="Especiais 24hs ",[24H] Os Roni
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/11827
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons Clássico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ARIEA8fMTk8HLy8AyLbKyUjsqC.jpg" group-title="Desenhos 24hs",[24H] Os Simpsons Clássico
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918039
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons Novos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="Desenhos 24hs",[24H] Os Simpsons Novos
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918040
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Smurfs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cezQyM5cO454vUdLiLOkv78K64D.jpg" group-title="Desenhos 24hs",[24H] Os Smurfs
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/919351
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhoes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Trapalhoes.jpg/250px-Trapalhoes.jpg" group-title="Especiais 24hs ",[24H] Os Trapalhoes
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/11593
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Ursinhos Carinhosos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctrydGnRE3ZOk1ok5tSDbRSB8Ln.jpg" group-title="Desenhos 24hs",[24h] Os Ursinhos Carinhosos
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908698
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ouro Verde" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2hJN6OVo8FL0C9mXl3DJ3uM96Sj.jpg" group-title="Novelas 24hs",[24h] Ouro Verde
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915834
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Patrulha Canina - S01 e S02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="Desenhos 24hs",[24h] Patrulha Canina - S01 e S02
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/93522
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Patrulha Canina - S03 e S04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="Desenhos 24hs",[24h] Patrulha Canina - S03 e S04
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/93523
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Pegadinha do Edu Primitivo" tvg-logo="https://imgur.com/JfgxK0f.jpg" group-title="Especiais 24hs ",[24h] Pegadinha do Edu Primitivo
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/914574
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Pegadinha do John Kleber" tvg-logo="https://imgur.com/vdTGw5M.jpg" group-title="Especiais 24hs ",[24h] Pegadinha do John Kleber
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/914575
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg" group-title="Desenhos 24hs",[24H] Peppa Pig
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/82966
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Pequeno Príncipe e Seus Amigos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gzEPtTooxBfaABRvHptJZuibisT.jpg" group-title="Desenhos 24hs",[24h] Pequeno Príncipe e Seus Amigos
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/915651
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Piano no Mori " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3sN8KTZFC8ypxnIhjoiE8M6L2Pj.jpg" group-title="Animes 24hs",[24h] Piano no Mori 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87578
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau Clássico " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jn0QP45EMhthIX9WbDnfUFkDGP3.jpg" group-title="Desenhos 24hs",[24H] Pica Pau Clássico 
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918089
+#EXTINF:-1 tvg-id="" tvg-name="[24h] PJ Masks: Heróis de Pijama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hXHFx69vCEHgXD4mT1HcuOahgp.jpg" group-title="Desenhos 24hs",[24h] PJ Masks: Heróis de Pijama
+http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908694
+
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS FAX 2024.xml "
  ############## CANAIS FAX 2024 ############## ### 
