@@ -43,77 +43,6 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1252
 #EXTINF:-1 tvg-id="" tvg-name="MOSAICO HD" tvg-logo="" group-title="BBB 24",MOSAICO HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1251
 
-#EXTM3U url-tvg=" http://grade-de-Mamonas assassinas 2024 TV FAX.xml "
- ############## Mamonas assassinas 2024 TV FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeMamonas assassinas 2024 TV FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Mamonas assassinas 2024 TV FAX"tvg-logo="https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/421879031_345685115051539_139630611457746242_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGtADegqFDsG2xRBc-UU-vWQIypAwPE-nVAjKkDA8T6df52g5_fDY68PIAoKerljYRzTBQZ984LcCxYSdqWOIOO&_nc_ohc=9naX8GLEtI4AX9thtT0&_nc_ht=scontent-gru1-2.xx&oh=00_AfC_4tDTD9afFck-r2DvMgacGxiRSH-VsGCJuUpXr1WHvA&oe=65B9DE4B" group-title="Mamonas assassinas 2024 TV FAX",Mamonas assassinas 2024 TV FAX
-https://archive.org/download/filme-mamonas-assassinas-2024-tv-fax/Filme%20Mamonas%20Assassinas%202024%20tv%20fax.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mamonas assassinas 2024 TV FAX"tvg-logo="https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/421879031_345685115051539_139630611457746242_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGtADegqFDsG2xRBc-UU-vWQIypAwPE-nVAjKkDA8T6df52g5_fDY68PIAoKerljYRzTBQZ984LcCxYSdqWOIOO&_nc_ohc=9naX8GLEtI4AX9thtT0&_nc_ht=scontent-gru1-2.xx&oh=00_AfC_4tDTD9afFck-r2DvMgacGxiRSH-VsGCJuUpXr1WHvA&oe=65B9DE4B" group-title="Mamonas assassinas 2024 TV FAX",Mamonas assassinas 2024 TV FAX
-https://ia601305.us.archive.org/34/items/filme-mamonas-assassinas-2024-tv-fax/Filme%20Mamonas%20Assassinas%202024%20tv%20fax.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILME 2024 TV e Radio FAX.xml"
-############## FILME 2024 TV e Radio FAX ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILME 2024 TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Aquaman 2 O Reino Perdido TV FAX"tvg-logo="https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/49/1512676393-aquaman.gif?crop=0.75xw:1xh;center,top&resize=1200:*"group-title="FILME 2024 TV e Radio FAX",Aquaman 2 O Reino Perdido TV FAX
-https://archive.org/download/aquaman-2-o-reino-perdido-tv-fax/Aquaman%202%20O%20Reino%20Perdido%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Ruínas TV FAX"tvg-logo="https://i0.wp.com/flixlandia.com.br/wp-content/uploads/2024/01/Em-Ruinas-critica-do-filme-sul-coreano-Netflix-2024.jpg?fit=1024%2C576&ssl=1"group-title="FILME 2024 TV e Radio FAX",Em Ruínas TV FAX
-https://archive.org/download/em-ruinas-tv-fax/Em%20Ru%C3%ADnas%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Outback TV FAX"tvg-logo="https://cinepop.com.br/wp-content/uploads/2020/04/outback.jpg"group-title="FILME 2024 TV e Radio FAX",Outback TV FAX
-https://archive.org/download/outback-tv-fax/Outback%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Prisão Domiciliar TV FAX"tvg-logo="https://i.ytimg.com/vi/nM9-OsAt6xo/mqdefault.jpg"group-title="FILME 2024 TV e Radio FAX",Prisão Domiciliar TV FAX
-https://archive.org/download/prisao-domiciliar-tv-fax/Pris%C3%A3o%20Domiciliar%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bons Companheiros Jackie Chan TV FAX"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ACEJMQEy9DtVPGc383e1n35UTDusjLD8MoN3mmphcTr1jKJLPFul0uLEMvq7_mLq2c0&usqp=CAU"group-title="FILME 2024 TV e Radio FAX",Bons Companheiros Jackie Chan TV FAX
-https://archive.org/serve/bons-companheiros-jackie-chan-tv-fax/Bons%20Companheiros%20jackie%20chan%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sem Culpa TV FAX"tvg-logo="https://a2filmesblog.files.wordpress.com/2022/07/capablog675x1600-semculpa.jpg?w=1200"group-title="FILME 2024 TV e Radio FAX",Sem Culpa TV FAX
-https://archive.org/serve/sem-culpa-tv-fax/Sem%20Culpa%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Jogo Do Disfarce TV FAX"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1vENwVvErNOyxcYzQiaiK_cebULGF8MplYCzUTWKa2RninWbO5GP5YBHsNrsCHBxawg&usqp=CAU"group-title="FILME 2024 TV e Radio FAX",O Jogo Do Disfarce TV FAX
-https://archive.org/download/o-jogo-do-disfarce-tv-fax/O%20Jogo%20do%20Disfarce%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lift Roubo Nas Alturas TV FAX"tvg-logo="https://t.ctcdn.com.br/bV31N20_dpcLCRnGDXXW07Hj_yQ=/1200x675/smart/i844461.png"group-title="FILME 2024 TV e Radio FAX",Lift Roubo Nas Alturas TV FAX
-https://archive.org/download/lift-roubo-nas-alturas-tv-fax/Lift%20Roubo%20nas%20Alturas%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Águia E Jaguar Os Guerreiros Lendários TV FAX"tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/db3174135ee2141f9a52a3d15c760522b6601a205688e105d053bc3b01feaf71.jpg"group-title="FILME 2024 TV e Radio FAX",Águia E Jaguar Os Guerreiros Lendários TV FAX
-https://archive.org/download/aguia-e-jaguar-os-guerreiros-lendarios-tv-fax/%C3%81guia%20e%20Jaguar%20Os%20Guerreiros%20Lend%C3%A1rios%20TV%20FAX.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILME 2023 TV e Radio FAX.xml"
-############## FILME 2023 TV e Radio FAX ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILME 2023 TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Câmera Indiscreta TV FAX"tvg-logo="https://play-lh.googleusercontent.com/sF6Dq_Wxfatj3adSQx6vVjtLGKwnycz5w1HSc53zSGpj72kg72oL_U2nxBLYkpikksjQDtGe2a1xDyOu_5Fc"group-title="FILME 2023 TV e Radio FAX",Câmera Indiscreta TV FAX
-https://archive.org/download/camera-indiscreta-tv-fax/C%C3%A2mera%20Indiscreta%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Perdoado TV FAX"tvg-logo="https://s2-globo-play.glbimg.com/3vMBBUTk5yAgBcwoQntvEIDJDKA=/362x536/https://s2-globo-play.glbimg.com/Pq0IyxgvRyGDKoiWr04fScDlLZ8=/https://s2.glbimg.com/jW3D1Ulv00eQSYKOnvYSt8NXQvk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2023/V/F/DlA0KXQgeXHEP6BrUv2w/8824502-poster.jpg"group-title="FILME 2023 TV e Radio FAX",O Perdoado TV FAX
-https://archive.org/download/o-perdoado-tv-fax_202402/O%20Perdoado%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nina A Heroína Dos Sete Mares TV FAX"tvg-logo="https://i.ytimg.com/vi/3JjDSDXhdaU/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Nina A Heroína Dos Sete Mares TV FAX
-https://archive.org/download/nina-a-heroina-dos-sete-mares-tv-fax/Nina%20A%20Hero%C3%ADna%20dos%20Sete%20Mares%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Destemida  2023"tvg-logo="https://s2-techtudo.glbimg.com/s7OZdUaZv-MWdhouvcHSNngjR1E=/0x0:1200x700/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/b/k/D17jLRRlqB7FubhBcs6A/destemida-2.jpg"group-title="FILME 2023 TV e Radio FAX",Destemida  2023
-https://vod.cf.dmcdn.net/sec2(aTtRfsavh_ogEpDvVn1eY-mgBTROuG3l4q1YOIVbDVhplwZhWns8mhlV9DiHuTKSNTeuir2up3Wja-J_x3fnyGjwwqvONagZOAHEpEgEQNTQc3k-yoOEwlmtdx8Mwb1EuTYwdU639OK4jDeB_mh0BA)/video/712/785/524587217_mp4_h264_aac_fhd_6.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Nefarious  2023"tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkYWQ1ZGQtNmEyZC00N2VjLTgxNzQtNDI2MDBmZDlhZGRlXkEyXkFqcGdeQXVyNTg0MzE1MjQ@._V1_.jpg"group-title="FILME 2023 TV e Radio FAX",Nefarious  2023
-https://vod.cf.dmcdn.net/sec2(q0e3Sl1xXLFbs248kTch83vHISa-M3ziAmc_SSNUs6tSHZTDM-X9h48h6mHtgWpmYsNByaAQ9glP3WCaGVCFcyjP6NPqEyPYQRMvNHViaW9dE_NyCNKp6xMiTnIPdkI_1GYNwtMch1z7YSHd9y5vtw)/video/988/921/529129889_mp4_h264_aac_hq_5.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Tiozões 2023"tvg-logo="https://i.ytimg.com/vi/YFwp0dk-76w/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Tiozões 2023
-https://vod.cf.dmcdn.net/sec2(8ARz6AlHdIKgw5ug2Yy2heS1XHXHMLA1CH0jLW1KJ2euH1CbEBtUShzsHRGn79wKoPErAoUzJ-ZgDEhtdq4EJH2KxbHKRtIQ4hbBtbbn_6NEtxbUQwt39-Tcpgyv1wr9iNP4LoGSCpeY0jamTQjWLQ)/video/579/177/525771975_mp4_h264_aac_fhd_8.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="O Portal Secreto 2023"tvg-logo="https://i.ytimg.com/vi/XD2eUFVJFOQ/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",O Portal Secreto 2023
-https://vod.cf.dmcdn.net/sec2(h7t04TP6MtH7E9eONDEbKBJhxwG1B1XZA3oON0ilFq_gJOq-6cTW60jdfzPoYAM2_K1JQ1vYSCg7hvmDjIeC6Gws5w3KxZoF0V4mkxaXqSO-27GltPOIsksobbQMGXidlSDw10K-e_H3hMHQ-RsaqQ)/video/040/575/523575040_mp4_h264_aac_fhd_6.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Amor² Para Sempre  2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-6qOO7Y43JYfzWDWhGrufxp6AAuiwIQh8Qy9guE21EIvI25EqIqOjsPmuGyNDbuLJpI&usqp=CAU"group-title="FILME 2023 TV e Radio FAX",Amor² Para Sempre  2023
-https://vod.cf.dmcdn.net/sec2(cs24j-vvbY-DCXD1KVF8tUX_B-ipXG7i78rIpISnbtVkeNkHfJwiCxSDRtnIl8lFAQjbvg8CozzoZF19symTS6MO8OzLSX0sYj2l0wsTVD6awEgl-BYCPmoxvFgWdrSyCm31CW1YblHwIJvR12B3jg)/video/932/091/523190239_mp4_h264_aac_fhd_4.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Desejo Proibido 2023"tvg-logo="https://i.ytimg.com/vi/sCnXMyhW33E/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Desejo Proibido 2023
-https://vod.cf.dmcdn.net/sec2(J1aZzsYZpn23AUcJA_e2UztFWXVSD-wgii6BN8MMscN1X4Fh7su3OCg6KkDQNG5istpuMkn7zV_d4CWhM5bxteiltDNcef_71o7kBdelpHjZR11yvcg3Ap0CqML5FAnPqhdvcIoLzNJ_Y57kcIZqLw)/video/847/804/521408748_mp4_h264_aac_fhd_5.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Onde Está Deus"tvg-logo="https://i.ytimg.com/vi/ypwhqPTjem4/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Onde Está Deus
-https://vod.cf.dmcdn.net/sec2(qj9ga07Rjm8JdsARpNR3Ya70-G2JVJ9yUe_qYp8Da_KY9_u7r_e5TddrFrbSXy7olOYuza6iGvzWPtHAtlfYRVYYm6Jk7TPmqXhKwFsHljKKMZgT9_Io_ajWXFqf46T4NJktyOSTxzQ0lyMqgeYjlQ)/video/751/169/517961157_mp4_h264_aac_fhd_4.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Rumo à Conquista (2023)"tvg-logo="https://i.ytimg.com/vi/fqc-2zwWFkQ/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Rumo à Conquista (2023)
-https://vod.cf.dmcdn.net/sec2(pwKC_kmm-CtnoM6ZndTTcsmCRLgSmSffAw_WjTczM9OFB1AkFqM09UJuOKYmaFRhH-ssazxaP1rfipURJqlI1pf22EoABX2ZfTureQZaaynWHSXVZpXHDYwAdwbafhEe2TqlfQO7o0aDtSAetO6ckA)/video/001/610/523016100_mp4_h264_aac_fhd_1.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Oz"tvg-logo="https://i.ytimg.com/vi/ypwhqPTjem4/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",A Lenda de Oz
-https://vod.cf.dmcdn.net/sec2(89S-oBAUNcyySUiyCPhCX7bwR8NfdSk8K65WsRUisP4rdwWbf_HjOeodYmQJByxB3u6T7L-O2hAUCtb_DFbA_keoCMovzoAxAhtjmh5fLEbGYNnJRcjcqlVNJf8tGePjBv6Z4rh4iqxIX3FQzR3A-w)/video/247/560/517065742_mp4_h264_aac_fhd_4.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Os Três Cães Mosqueteiros"tvg-logo="https://cdn.fstatic.com/media/movies/covers/2023/02/121825_background.jpg"group-title="FILME 2023 TV e Radio FAX",Os Três Cães Mosqueteiros
-https://vod.cf.dmcdn.net/sec2(WtoAwdpjJeapwIIO0SVkl1pqSFL4aIqLfmMMSqW5Cet0MvCoDZAzZaG-R47WLSYBmiRVgYgLsI7JtYSTfLoBNE2RXrN3GmRMrXfETAbdQFT1HWyHC_qVS8fKApvt2gAD1QUxiDCu-hgR1S7VCqxFtw)/video/535/116/506611535_mp4_h264_aac_fhd.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Feitiçaria 2023"tvg-logo="https://i.ytimg.com/vi/9Sw08qfSAlo/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Feitiçaria 2023
-https://vod.cf.dmcdn.net/sec2(r1FH8KyQyX2QLT-TeBhyeC7jKHmgfsqVE37euDzjUaM1RPvkhT5P2HrRsHWqqT7qGAswtBDWEt6JAvJ3wsjR08l8qNC0Z9mM9-a_Fblqzw4ZxgVgzsoWPQumTexvNjgn-f7AyYGHLNY0Q8WE_Xmpew)/video/194/518/523815491_mp4_h264_aac_fhd_7.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="O Conde 2023"tvg-logo="https://br.web.img2.acsta.net/pictures/23/08/30/08/40/4987185.jpg"group-title="FILME 2023 TV e Radio FAX",O Conde 2023
-https://vod.cf.dmcdn.net/sec2(Va1OZgxqhz4-NRNuUxZ12G8071cyALBTuUUW-JKgks2hqH89WrK7vO3PD9P0MJS8jDfkQzTer4tarCbJbtEMAZvUQCfv6ynx3kJac5E47Ais1wLGx64stfZTuh_Q3Hw3UpseWMZtzy1vQuNG0lhMbQ)/video/930/082/524280039_mp4_h264_aac_fhd_6.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="Operação Arma Secreta  2023"tvg-logo="https://i.ytimg.com/vi/UmHsrVfogQI/maxresdefault.jpg"group-title="FILME 2023 TV e Radio FAX",Operação Arma Secreta  2023 
-https://vod.cf.dmcdn.net/sec2(N4oUhJI-SuuK6NBxLb7IHDaeuCqaorLQ7pHZaNAA7MI_g39fycfUr-E9JB2LUbnwlB1MtQoSq6xMFJ4IEP0dpa-YU6C1Y1cJX0pKlvzZbNU1C1xS3WtGjjFv0mCUh4YTluUxBBtrEGkZGLJbAoQezg)/video/332/055/522550233_mp4_h264_aac_fhd_4.m3u8#cell=cf
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino 2023"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGZumf79fQkEgyluAFdXHfPXbrXhUmL5hRiaACW5Gy6BphELFuCZu_0veg2FWXCDbU3U&usqp=CAU"group-title="FILME 2023 TV e Radio FAX",O Assassino 2023
-https://vod.cf.dmcdn.net/sec2(9cEpJucZYlV3dSZgWW4WPM4bALI7ymbwxyvsqk8UUvlsSNZXfOODJN0nCKE_HdZROAD6xgZNItsyAeyn_oabgCkItElIPCAJuYEIgTymL8mTeC8egvlV8syIHIdVAZnY46wHMCkWfJ0r02Wlw0yl2g)/video/747/326/526623747_mp4_h264_aac_fhd_9.m3u8#cell=cf
-
 #EXTM3U url-tvg=" http://grade-de-Record TV e Radio FAX.xml "
  ############## Record TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeRecord TV e Radio FAX" group-title="
@@ -395,30 +324,163 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/386
 #EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BandSports (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13853
 
-#EXTM3U url-tvg="http://grade-de-TV FAX Pelo Mundo.xml"
-############## TV FAX Pelo Mundo ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeTV FAX Pelo Mundo" group-title="
+#EXTM3U url-tvg="http://grade-de-AXS TV FAX Pelo Mundo.xml"
+############## AXS TV FAX Pelo Mundo ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeAXS TV FAX Pelo Mundo" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now 
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV Now"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="AXS TV FAX Pelo Mundo",AXS TV Now 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=455
-#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  EUA"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  EUA
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV Now  EUA"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="AXS TV FAX Pelo Mundo",AXS TV Now  EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=780
-#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  música"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  música
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV Now  música"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="AXS TV FAX Pelo Mundo",AXS TV Now  música
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=777
-#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  link 3"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  link 3
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV Now  link 3"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="AXS TV FAX Pelo Mundo",AXS TV Now  link 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=966
-#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  link 5"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  link 5
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV Now  link 5"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="AXS TV FAX Pelo Mundo",AXS TV Now  link 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=682
-#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  link 6 "tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  link 6 
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV Now  link 6 "tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="AXS TV FAX Pelo Mundo",AXS TV Now  link 6 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=830
-#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  link 7"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  link 7
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV Now  link 7"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="AXS TV FAX Pelo Mundo",AXS TV Now  link 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=856
-#EXTINF:-1 tvg-id="" tvg-name="Axs TV Now  link 8"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="TV FAX Pelo Mundo",Axs TV Now  link 8
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV Now  link 8"tvg-logo="https://i.ytimg.com/vi/WWy8BB05BeA/sddefault.jpg" group-title="AXS TV FAX Pelo Mundo",AXS TV Now  link 8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=922
-#EXTINF:-1 tvg-id="" tvg-name="Young Hollywood | EUA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS02rQ1G-VFTb26y8EGaZrG7net6nacvWQ9gjX2Jm_JsLqplHPomVzqdfooBqqieoX3nVk&usqp=CAU" group-title="TV FAX Pelo Mundo",Young Hollywood | EUA
-https://younghollywood-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canela Cinema"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYaNbpSzhP17QWKxHNRGKbzA_4I6mEzCw9ib0fdw70k0w7mEIRyEJeS15r0IVMAoQS490&usqp=CAU" group-title="TV FAX Pelo Mundo",Canela Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+
+#EXTM3U url-tvg=" http://grade-de-canais Especiais TV e Radio FAX.xml "
+ ############## canais Especiais TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldecanais Especiais TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="canais Especiais TV e Radio FAX",A&E FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/851.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="canais Especiais TV e Radio FAX",A&E FHD H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/210.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="canais Especiais TV e Radio FAX",A&E HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/1.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="canais Especiais TV e Radio FAX",A&E SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/444.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="canais Especiais TV e Radio FAX",AXN FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/835.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="canais Especiais TV e Radio FAX",AXN FHD H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/213.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="canais Especiais TV e Radio FAX",AXN HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/4.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="canais Especiais TV e Radio FAX",AXN SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/447.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="canais Especiais TV e Radio FAX",AMC FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/840.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="canais Especiais TV e Radio FAX",AMC FHD H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/211.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="canais Especiais TV e Radio FAX",AMC HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/2.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="canais Especiais TV e Radio FAX",AMC SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/445.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://imgur.com/1dKnSXj.png" group-title="canais Especiais TV e Radio FAX",ARTE 1 FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/876.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://imgur.com/1dKnSXj.png" group-title="canais Especiais TV e Radio FAX",ARTE 1 HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/130.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://imgur.com/1dKnSXj.png" group-title="canais Especiais TV e Radio FAX",ARTE 1 SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/2956.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="canais Especiais TV e Radio FAX",ANIMAL PLANET FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/804.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET H265" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="canais Especiais TV e Radio FAX",ANIMAL PLANET H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/212.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://ccdnblck.xyz:80/images/db8356a775d53e2a5d251cd48acaf23c.png" group-title="canais Especiais TV e Radio FAX",ANIMAL PLANET HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/3.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="canais Especiais TV e Radio FAX",ANIMAL PLANET SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/446.m3u8
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://imgur.com/i69zVaa.png" group-title="canais Especiais TV e Radio FAX",BABY TV HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/448.m3u8
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://imgur.com/i69zVaa.png" group-title="canais Especiais TV e Radio FAX",BABY TV SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/76674.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="canais Especiais TV e Radio FAX",CINEMAX FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/841.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="canais Especiais TV e Radio FAX",CINEMAX FHD H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/221.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="canais Especiais TV e Radio FAX",CINEMAX HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/9.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="canais Especiais TV e Radio FAX",CINEMAX SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/460.m3u8
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="canais Especiais TV e Radio FAX",CINE SKY 1
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/686.m3u8
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="canais Especiais TV e Radio FAX",CINE SKY 2
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/687.m3u8
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="canais Especiais TV e Radio FAX",CINE SKY 3
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/688.m3u8
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="canais Especiais TV e Radio FAX",CINE SKY 4
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/689.m3u8
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="canais Especiais TV e Radio FAX",CINE SKY 5
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/690.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY CHANNEL FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/808.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL H265" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY CHANNEL H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/224.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY CHANNEL HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/12.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY CHANNEL SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/464.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://imgur.com/EKPaDs6.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY H&H FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/807.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H H265" tvg-logo="https://imgur.com/EKPaDs6.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY H&H H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/226.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://imgur.com/EKPaDs6.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY H&H HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/14.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://imgur.com/EKPaDs6.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY H&H SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/465.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://imgur.com/Lp56sC5.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY KIDS FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/824.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS H265" tvg-logo="https://imgur.com/Lp56sC5.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY KIDS H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/227.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://imgur.com/Lp56sC5.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY KIDS HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/15.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://imgur.com/Lp56sC5.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY KIDS SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/466.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD " tvg-logo="https://imgur.com/5db7nmT.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY SCIENCE FHD 
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/820.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE H265" tvg-logo="https://imgur.com/5db7nmT.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY SCIENCE H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/228.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://imgur.com/5db7nmT.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY SCIENCE HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/16.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://imgur.com/5db7nmT.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY SCIENCE SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/76670.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://imgur.com/Adiw1CS.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY THEATER FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/821.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER H265" tvg-logo="https://imgur.com/Adiw1CS.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY THEATER H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/229.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://imgur.com/Adiw1CS.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY THEATER HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/17.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://imgur.com/Adiw1CS.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY THEATER SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/76671.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD " tvg-logo="https://imgur.com/tYWcfMx.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY TURBO FHD 
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/818.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO H265" tvg-logo="https://imgur.com/tYWcfMx.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY TURBO H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/230.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://imgur.com/tYWcfMx.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY TURBO HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/18.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://imgur.com/tYWcfMx.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY TURBO SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/467.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD " tvg-logo="https://imgur.com/w37PObs.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY WORLD FHD 
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/802.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD H265" tvg-logo="https://imgur.com/w37PObs.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY WORLD H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/231.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://imgur.com/w37PObs.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY WORLD HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/19.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://imgur.com/w37PObs.png" group-title="canais Especiais TV e Radio FAX",DISCOVERY WORLD SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/76672.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL FHD " tvg-logo="https://imgur.com/34NMPhF.png" group-title="canais Especiais TV e Radio FAX",DISNEY CHANNEL FHD 
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/825.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL H265" tvg-logo="https://imgur.com/34NMPhF.png" group-title="canais Especiais TV e Radio FAX",DISNEY CHANNEL H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/232.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://imgur.com/34NMPhF.png" group-title="canais Especiais TV e Radio FAX",DISNEY CHANNEL HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/20.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://imgur.com/34NMPhF.png" group-title="canais Especiais TV e Radio FAX",DISNEY CHANNEL SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/3906.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="canais Especiais TV e Radio FAX",CANAL SONY FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/219.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="canais Especiais TV e Radio FAX",CANAL SONY FHD H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/844.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="canais Especiais TV e Radio FAX",CANAL SONY HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/7.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="canais Especiais TV e Radio FAX",CANAL SONY SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/457.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS WEB TV FAX.xml "
  ############## CANAIS WEB TV FAX  ############## ### 
@@ -686,7 +748,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95692
 http://voz.one:80/alexfnt/vTFBGKdUYq/95693
 #EXTINF:-1 tvg-id="Os Simpsons 04" tvg-logo="https://metro.co.uk/wp-content/uploads/2019/11/simpsons_01_WEb-6102.gif?crop=0px%2C0px%2C1200px%2C630px&resize=1200%2C630" group-title="CANAIS TV FAX",Os Simpsons 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/95694
-
 #EXTINF:-1 tvg-id="Os Vingadores" tvg-logo="https://i.pinimg.com/originals/c7/6f/7f/c76f7f1b2f2dbb96a6bbb6076d2f4bd0.gif" group-title="CANAIS TV FAX",Os Vingadores
 http://voz.one:80/alexfnt/vTFBGKdUYq/95761
 #EXTINF:-1 tvg-id="Peeppa Pig" tvg-logo="https://media0.giphy.com/media/rINLIWmFxVZsXbD3CJ/source.gif" group-title="CANAIS TV FAX",Peeppa Pig
@@ -2027,6 +2088,22 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95780
  ############## Fox Sports 2 TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeFox Sports 2 TV e Radio FAX" group-title="
 
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 4K" tvg-logo="" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 4K
+http://78.159.119.122:2082/live/xplus-2-jNWemboby6/KN9JVoLEKW/139.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 HD
+http://78.159.119.122:2082/live/xplus-2-jNWemboby6/KN9JVoLEKW/140.m3u8
+#EXTINF:-1 tvg-id="f59c512e2fe682c1b91167de085bc7aa" tvg-name="FOX SPORTS 2 HDR+" tvg-logo="" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 HDR+
+http://78.159.119.122:2082/live/xplus-2-jNWemboby6/KN9JVoLEKW/1008.m3u8
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 FHD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/773.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 H265
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/245.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 HD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/32.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 SD
+http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/484.m3u8
+
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 FHD
 http://cdn.x91.live:80/live/01591926275/7528252826/623134.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="FOX Sports 2 FHD H.265" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX Sports 2 FHD H.265
@@ -2811,6 +2888,309 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de5
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS FAX 2024",Tokusato | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTM3U url-tvg=" http://grade-de-Ação/ Crime.xml "
+ ############## Ação/ Crime ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeAção/ Crime" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="007 - Casino Royale (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah4e2cnzGYvJWgdD3U6qSWQ94mm.jpg" group-title="Ação/ Crime",007 - Casino Royale (1967)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 - Permissão para Matar (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRpQXr9G4ecP8SskmPTMfsrvYaB.jpg" group-title="Ação/ Crime",007 - Permissão para Matar (1989)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 Contra a Chantagem Atômica (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot8pEGo9Mljwkz7Ak8hv4qjBmsu.jpg" group-title="Ação/ Crime",007 Contra a Chantagem Atômica (1965)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 Contra GoldenEye (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qc1Id3BLRoUk10uJGmvRqqAKvQL.jpg" group-title="Ação/ Crime",007 Contra GoldenEye (1995)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 Contra Goldfinger (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi8vxhCM1EzLvfF6VI7GYiGgMBH.jpg" group-title="Ação/ Crime",007 Contra Goldfinger (1964)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 Contra o Foguete da Morte (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLIklqHcFZzRKi2mJjRfiI50lzJ.jpg" group-title="Ação/ Crime",007 Contra o Foguete da Morte (1979)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 Contra o Homem com a Pistola de Ouro (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJCOA4ufiHoAxofGQ3AqExEOZv3.jpg" group-title="Ação/ Crime",007 Contra o Homem com a Pistola de Ouro (1974)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 Contra Octopussy (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jebWDEnGH2f4GnqZxSLfuON5KME.jpg" group-title="Ação/ Crime",007 Contra Octopussy (1983)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: A Serviço Secreto de Sua Majestade (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFIX4ZDjpcGwGvOSVrWxboBZAzb.jpg" group-title="Ação/ Crime",007: A Serviço Secreto de Sua Majestade (1969)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="Ação/ Crime",007: Cassino Royale (2006)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Contra o Satânico Dr. No (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UJTUYIyXqHMvcVa9YFj1aQiZTm.jpg" group-title="Ação/ Crime",007: Contra o Satânico Dr. No (1962)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Contra Spectre (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozwsRvKABRcF8VrNNvMkKt8KWyF.jpg" group-title="Ação/ Crime",007: Contra Spectre (2015)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Marcado para a Morte (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqKqy11rCxZ1JuIK8AALBzOUcOM.jpg" group-title="Ação/ Crime",007: Marcado para a Morte (1987)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Na Mira dos Assassinos (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbytkyUibUnksjBEpIwcMxQJTfJ.jpg" group-title="Ação/ Crime",007: Na Mira dos Assassinos (1985)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Nunca Mais Outra Vez (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uULahg7URW4DjPq0fANgHEw1uHC.jpg" group-title="Ação/ Crime",007: Nunca Mais Outra Vez (1983)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: O Amanhã Nunca Morre (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cURZ8FpxFzwZHCL07ABXJCVnORc.jpg" group-title="Ação/ Crime",007: O Amanhã Nunca Morre (1997)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: O Espião Que Me Amava (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZss61yM6uKT2KU1aGX7W8ElsPE.jpg" group-title="Ação/ Crime",007: O Espião Que Me Amava (1977)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: O Mundo Não é o Bastante (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1IqhHREKaWoyl11RVx7VGRj4SX.jpg" group-title="Ação/ Crime",007: O Mundo Não é o Bastante (1999)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Operação Skyfall (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waOFaJB4FRPyA2KylJncSG57mj0.jpg" group-title="Ação/ Crime",007: Operação Skyfall (2012)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Os Diamantes São Eternos (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0UhYapEWDcrgDgKvRKHZMyv4z6.jpg" group-title="Ação/ Crime",007: Os Diamantes São Eternos (1971)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Quantum of Solace (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg" group-title="Ação/ Crime",007: Quantum of Solace (2008)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Sem Tempo para Morrer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luE0KG1rWfUptbgNtlNtL5sihyd.jpg" group-title="Ação/ Crime",007: Sem Tempo para Morrer (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/67833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGv19gokQvgC7jgjWqapIachnxU.jpg" group-title="Ação/ Crime",300 (2006)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensão do Império (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg" group-title="Ação/ Crime",300: A Ascensão do Império (2014)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgiU6AvEoyuLMnt7KnoubXrKsC.jpg" group-title="Ação/ Crime",22 Milhas (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2019: O Ano da Extinção (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o6VLpFWRyYkjQVSWJY4hWBTzrs.jpg" group-title="Ação/ Crime",2019: O Ano da Extinção (2009)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58cFSEHxqSJcsyWN63vbSjA01vX.jpg" group-title="Ação/ Crime",211 - O Grande Assalto (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Rounds 3: Caçada Mortal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnM1lUghCDqAFZRCxpLxhCyNq55.jpg" group-title="Ação/ Crime",12 Rounds 3: Caçada Mortal (2015)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#Alive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7hWnjMdqTYYI78yeCD3moObbRK.jpg" group-title="Ação/ Crime",#Alive (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/34908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Somente Para Seus Olhos (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77KagJPFBmml6jos4yqzfjFp4hl.jpg" group-title="Ação/ Crime",007: Somente Para Seus Olhos (1981)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Um Novo Dia Para Morrer (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3Uub7CVKatqDOaNG9tsJs7ldYa.jpg" group-title="Ação/ Crime",007: Um Novo Dia Para Morrer (2002)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Justiceira (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXJek3Z6aOpT3c0ssPEmtnZhxLq.jpg" group-title="Ação/ Crime",A Justiceira (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg" group-title="Ação/ Crime",A Hora do Rush (1998)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/51996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Edv9ROuDKByN08R0JsbQ63p068.jpg" group-title="Ação/ Crime",A Hora do Rush 2 (2001)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/51994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 3 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="Ação/ Crime",A Hora do Rush 3 (2007)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/51995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Identidade Bourne (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avo7RiDxp9mBPJAwQ8YOFVSIZEO.jpg" group-title="Ação/ Crime",A Identidade Bourne (2002)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNJAQdWFNs59q5aikAaVJyKsoKw.jpg" group-title="Ação/ Crime",A Ilha (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/34315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gangue (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR6rang5RjOFjCYc1K497cY9Rlo.jpg" group-title="Ação/ Crime",A Gangue (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/65134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga de Akilla (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7F3zWqksCUYErdDRugVQOQgY8NJ.jpg" group-title="Ação/ Crime",A Fuga de Akilla (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/85766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSaAmitIfPZp08wpPXsadibUMEZ.jpg" group-title="Ação/ Crime",A Divisão (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/34314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cor de um Crime (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKZRDO5rhE5EQNw2JopZtsiEtAh.jpg" group-title="Ação/ Crime",A Cor de um Crime (2006)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/65828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caçada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg" group-title="Ação/ Crime",A Caçada (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/33784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cartada Final (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2ZDIB3zqeHckoI8j6cpviYxs3t.jpg" group-title="Ação/ Crime",A Cartada Final (2001)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfKnyehXOdFFKO1akcW7kdEKz82.jpg" group-title="Ação/ Crime",A Batalha de Riddick (2004)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Dias (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" group-title="Ação/ Crime",6 Dias (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lei das Ruas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wmE7rJ0YvGcDe5wBb3on7zludk.jpg" group-title="Ação/ Crime",A Lei das Ruas (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/21069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Tarzan (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg" group-title="Ação/ Crime",A Lenda de Tarzan (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abaixo de Zero (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rofFkTuMwwIJpWJVQaTRYqfQuoN.jpg" group-title="Ação/ Crime",Abaixo de Zero (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/44676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Fortaleza (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHx7GUXpycO2sBuG8rjXRpmz9Zy.jpg" group-title="Ação/ Crime",A Última Fortaleza (2001)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/61692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Viúva Negra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGkpjxJ96EV0T7HiFkEt7C5h3ds.jpg" group-title="Ação/ Crime",A Viúva Negra (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/85768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vilã (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek2oijLRkvQUHaG8BVjzbdx8RHG.jpg" group-title="Ação/ Crime",A Vilã (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra e o Sangue (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qje1KVE0ceIaAzo3KT3zRzR53f4.jpg" group-title="Ação/ Crime",A Terra e o Sangue (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/23368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Toda Prova (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg" group-title="Ação/ Crime",A Toda Prova (2011)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Supremacia Bourne (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzDwtFD4jQPh2YLmfzPQC4kDBdX.jpg" group-title="Ação/ Crime",A Supremacia Bourne (2004)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Suspeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCMljmR6qS0LdtUEyA8sdahCWmC.jpg" group-title="Ação/ Crime",A Suspeita (2022)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/86656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sentinela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg" group-title="Ação/ Crime",A Sentinela (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/45954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profissional (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0jGhri9AjtX3s9ldyyG6MGJfS0.jpg" group-title="Ação/ Crime",A Profissional (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/70330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg" group-title="Ação/ Crime",A Princesa da Yakuza (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/78080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Odisseia dos Tontos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoNcp56MfZdydVcxPRLEgsv9Mmy.jpg" group-title="Ação/ Crime",A Odisseia dos Tontos (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/23367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite nos Persegue (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AHS5LvHBKkUVDsfCkya93NGTd2.jpg" group-title="Ação/ Crime",A Noite nos Persegue (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg" group-title="Ação/ Crime",A Múmia (1999)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg" group-title="Ação/ Crime",A Múmia (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3TcImkrjRRlLNC7KndvV82iI74.jpg" group-title="Ação/ Crime",A Múmia - Tumba do Imperador Dragão (2008)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21JmPfjewhTLESYz8EOVVehdNrM.jpg" group-title="Ação/ Crime",A Máquina (2015)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Origem do Dragão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="Ação/ Crime",A Origem do Dragão (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Porteira (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lh9jmB0FVXjjs4z9ehX6O5wN915.jpg" group-title="Ação/ Crime",A Porteira (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/42595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Sicario (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRPSUmHGLrFRPK6v3BI1frAM1O.jpg" group-title="Ação/ Crime",American Sicario (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/84287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ameaça Profunda (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k56yNPnwRj2vLGV9os3h26Gii8P.jpg" group-title="Ação/ Crime",Ameaça Profunda (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/22969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="America: The Motion Picture (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0HnLa6FtGcslbqClKOIyvCXfpe.jpg" group-title="Ação/ Crime",America: The Motion Picture (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/60658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja 5: O Pequeno Ninja (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rpgZLSclQYO2CacduMlYajmbCg.jpg" group-title="Ação/ Crime",American Ninja 5: O Pequeno Ninja (1993)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvo Número Um (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLBW854UbuYqTx5CjlUr0FzkCKq.jpg" group-title="Ação/ Crime",Alvo Número Um (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/52626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altitude (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88174XWBUb6gAg72WR300BJnsAc.jpg" group-title="Ação/ Crime",Altitude (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Guerreiro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g20Xg263ckStqtHwvoQHfxb5UUt.jpg" group-title="Ação/ Crime",Alma de Guerreiro (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/41085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aliados (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57FDGagZiTxJdj56605UJM9cY4D.jpg" group-title="Ação/ Crime",Aliados (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente das Sombras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgW5iIe6QUn170omG6tdGS4BB9U.jpg" group-title="Ação/ Crime",Agente das Sombras (2022)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/79843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Asher (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lLGIi5aAwT3Pdp4m2YUARBkdG7.jpg" group-title="Ação/ Crime",Agente Asher (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/19909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Oculto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg" group-title="Ação/ Crime",Agente Oculto (2022)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/86283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMXRTTMiEsvSFqhRuoeZXKcl3QP.jpg" group-title="Ação/ Crime",Agentes Vanguard (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/42109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ajuste de Contas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azlbmSi6K8pVY2jGZmfCZxxlSQb.jpg" group-title="Ação/ Crime",Ajuste de Contas (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/22904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexandre (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JTsbi6Tw9ieR4stSKNGXgwFJnN.jpg" group-title="Ação/ Crime",Alexandre (2004)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anna - O Perigo Tem Nome (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg" group-title="Ação/ Crime",Anna - O Perigo Tem Nome (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/12766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anônimo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woPYFGKwVULILbO7q44HmsNY0kO.jpg" group-title="Ação/ Crime",Anônimo (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/56056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYi00SLc8v92h5i4MoluCvIwLG1.jpg" group-title="Ação/ Crime",A Fortaleza (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/68426.mp4
+
+#EXTM3U url-tvg=" http://grade-de-Guerra/ Policial.xml "
+ ############## Guerra/ Policial ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeGuerra/ Policial" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="15 Minutos de Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="Guerra/ Policial",15 Minutos de Guerra (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Horas: Os Soldados Secretos de Benghazi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="Guerra/ Policial",13 Horas: Os Soldados Secretos de Benghazi (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Heróis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiiyh02DvmfoIJYZFHE3CJren50.jpg" group-title="Guerra/ Policial",12 Heróis (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="71: Esquecido em Belfast (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asyYonjJkOn7Xl4hyfBMocD1i0K.jpg" group-title="Guerra/ Policial",71: Esquecido em Belfast (2014)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+Velozes +Furiosos (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="Guerra/ Policial",+Velozes +Furiosos (2003)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Beira do Abismo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7kxuu7tLVQJsLdZhhXRfGXpWBa.jpg" group-title="Guerra/ Policial",À Beira do Abismo (2012)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha Esquecida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg" group-title="Guerra/ Policial",A Batalha Esquecida (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/66201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Dias em Entebbe (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urv4UaKHVBSshmxmwTHXy2Qyyji.jpg" group-title="Guerra/ Policial",7 Dias em Entebbe (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1918 – A Batalha de Kruty (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg" group-title="Guerra/ Policial",1918 – A Batalha de Kruty (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/25475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1918 – A Batalha de Kruty (2019) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg" group-title="Guerra/ Policial",1918 – A Batalha de Kruty (2019) [DUAL]
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/25317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6lDTyJl7SEbv4jZkftVBPndZH2.jpg" group-title="Guerra/ Policial",1917 (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/23376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha das Ardenas - A Última Ofensiva de Hitler (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg" group-title="Guerra/ Policial",A Batalha das Ardenas - A Última Ofensiva de Hitler (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Beira do Abismo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7kxuu7tLVQJsLdZhhXRfGXpWBa.jpg" group-title="Guerra/ Policial",À Beira do Abismo (2012)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha Esquecida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg" group-title="Guerra/ Policial",A Batalha Esquecida (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/66201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Dias em Entebbe (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urv4UaKHVBSshmxmwTHXy2Qyyji.jpg" group-title="Guerra/ Policial",7 Dias em Entebbe (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1918 – A Batalha de Kruty (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg" group-title="Guerra/ Policial",1918 – A Batalha de Kruty (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/25475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6lDTyJl7SEbv4jZkftVBPndZH2.jpg" group-title="Guerra/ Policial",1917 (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/23376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha das Ardenas - A Última Ofensiva de Hitler (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg" group-title="Guerra/ Policial",A Batalha das Ardenas - A Última Ofensiva de Hitler (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10627.mp4
+
+#EXTM3U url-tvg=" http://grade-de-Romance.xml "
+ ############## Romance ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeRomance" group-title="
+
+#EXTINF:-1 tvg-id="500 Dias Com Ela  " tvg-name="(500) Dias com Ela (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5liQCSzRm7qg8B4JTLYVkkhI1h.jpg" group-title="Romance",(500) Dias com Ela (2009)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11966.mp4
+#EXTINF:-1 tvg-id="Des Encontro Perfeito  " tvg-name="(Des)encontro Perfeito (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMyCHKgaTDub1UgzQOZ6r60YdcO.jpg" group-title="Romance",(Des)encontro Perfeito (2015)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/12022.mp4
+#EXTINF:-1 tvg-id="A Culpa Nao e do Carma  " tvg-name="A Culpa Não É do Carma (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIoZVRHq45toPmrUqzJoBGw4gLB.jpg" group-title="Romance",A Culpa Não É do Carma (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11971.mp4
+#EXTINF:-1 tvg-id="A Culpa e das Estrelas  " tvg-name="A Culpa é das Estrelas (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEbSB6eCozhIZZORPAlNQLDDPDG.jpg" group-title="Romance",A Culpa é das Estrelas (2014)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Verão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" group-title="Romance",A Caminho do Verão (2022)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/80495.mp4
+#EXTINF:-1 tvg-id="A Cancao de Uma Vida  " tvg-name="A Canção de Uma Vida (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMCnWwrAYqF0wbDH1ZlR6lVX8Sb.jpg" group-title="Romance",A Canção de Uma Vida (2015)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batida Perfeita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WzL4Aqpzzxxsw9hDfb10ItGwX5.jpg" group-title="Romance",A Batida Perfeita (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/40931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg" group-title="Romance",14 Cartas de Amor (2022)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/84282.mp4
+#EXTINF:-1 tvg-id="3 Coracoes  " tvg-name="3 Corações (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13vkyx0RU8Pikdaow8Yjsb8J9aL.jpg" group-title="Romance",3 Corações (2014)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Histórias de Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B33UMfA8Yr79qP7g90eMSLggXm.jpg" group-title="Romance",3 Histórias de Amor (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/66010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUafkafJiFKkXuzROaAY8N9gGq.jpg" group-title="Romance",A Barraca do Beijo 2 (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/29443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eXhx1IN1nSWpeHehunvW9j2BSU.jpg" group-title="Romance",A Barraca do Beijo 3 (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/62069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXgDAfHX4eBFUZnOG4C6cn0pbuT.jpg" group-title="Romance",A Dama e o Vagabundo (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/21894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg" group-title="Romance",365 Dias (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/30524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg" group-title="Romance",365 Dias: Hoje (2022)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/79350.mp4
+#EXTINF:-1 tvg-id="A Barraca do Beijo  " tvg-name="A Barraca do Beijo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TbFTREtgpTOMpxQ5ZJjiZIlVS1.jpg" group-title="Romance",A Barraca do Beijo (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11967.mp4
+#EXTINF:-1 tvg-id="A Dama de Vermelho" tvg-name="A Dama de Vermelho (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipwqVVhzFMHW56L7PtafgJJJj1A.jpg" group-title="Romance",A Dama de Vermelho (1984)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11972.mp4
+#EXTINF:-1 tvg-id="A Escolha  " tvg-name="A Escolha (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waeKG2ZoXh2FcxP2JbyzlG7LQ0k.jpg" group-title="Romance",A Escolha (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fotografia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvYG779bmPFwZMqSQo4NmbFeqoG.jpg" group-title="Romance",A Fotografia (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/33791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Galeria dos Corações Partidos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44k9shYGerapzXDNi3wjoKuBjI5.jpg" group-title="Romance",A Galeria dos Corações Partidos (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/41246.mp4
+
+#EXTM3U url-tvg=" http://grade-de-Drama/ História.xml "
+ ############## Drama/ História ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeDrama/ História" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Força do Destino (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56OYnI0FKeaNbwBQy1ypzIxqMzn.jpg" group-title="Drama/ História",A Força do Destino (1982)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Forma da Água (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg" group-title="Drama/ História",A Forma da Água (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha Perdida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5ZyodD6md3mmPWO3nSPGXklxLk.jpg" group-title="Drama/ História",A Filha Perdida (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/69038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Favorita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg" group-title="Drama/ História",A Favorita (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face da Verdade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JAShb31Bbn03ZluMvbfmCHLZcR.jpg" group-title="Drama/ História",A Face da Verdade (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/42328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Esposa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cGJlTPOICAi4KfMmAVe6r7Oh1s.jpg" group-title="Drama/ História",A Esposa (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" group-title="Drama/ História",A Escavação (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/44675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Deusa dos Vagalumes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWiOWC7bg50ik1FPpcY2XuGLoQx.jpg" group-title="Drama/ História",A Deusa dos Vagalumes (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/86220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="40 Dias - O Milagre da Vida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyoSXlgV8OMGyAfBHwyDECp1m5f.jpg" group-title="Drama/ História",40 Dias - O Milagre da Vida (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/41396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="42 - A História de Uma Lenda (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ToC9fhyGkEdDgJBwJbWPMrt8vc.jpg" group-title="Drama/ História",42 - A História de Uma Lenda (2013)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3096 Dias de Cativeiro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cV5BPqLxe1BynyexKZar3KOnYV.jpg" group-title="Drama/ História",3096 Dias de Cativeiro (2013)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/84552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 de Julho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" group-title="Drama/ História",22 de Julho (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Órfãos Poderosos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg" group-title="Drama/ História",12 Órfãos Poderosos (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/63796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Anos de Escravidão (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RUTPOAB4rRlrRYFMGjvK6bm1x8.jpg" group-title="Drama/ História",12 Anos de Escravidão (2013)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Carga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdFkZyfMpj1AItzsiW5kML9oFbY.jpg" group-title="Drama/ História",A Carga (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colina Escarlate (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg" group-title="Drama/ História",A Colina Escarlate (2015)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Condenação (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEgU4Hw5VwUYTNF6182oKjpowgn.jpg" group-title="Drama/ História",A Condenação (2010)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10240.mp4
+
+#EXTM3U url-tvg=" http://grade-de-FILME TV e Radio FAX.xml "
+ ############## FILME TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="tvg-name="Leo"tvg-logo="https://filmesonlinex.blog/wp-content/uploads/2023/12/pD6sL4vntUOXHmuvJPPZAgvyfd9-185x278.jpg"group-title="FILME TV e Radio FAX",Leo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707754740/ei/lPDJZbvPGMSa1sQPiaqRsAI/ip/200.152.27.1/id/e3b8e0b5f792e129/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr1---sn-h0aup2apjjvh0cg-bg0e.googlevideo.com/mh/fp/mm/31%2C29/mn/sn-h0aup2apjjvh0cg-bg0e%2Csn-bg0s7n7l/ms/au%2Crdu/mv/m/mvi/1/pl/24/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/555000/vprv/1/go/1/mt/1707732796/fvip/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYSN7zaJ2dv6-Awo4Inf23-J1HiGAzMAmMPhVWfsOuS4CIQD3B3OM9rBoDIll9nQzBO7eWjQPYMzKoIzULfllTovr_w%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRQIgJLaac4AAEuuriAtrkCgszYUI_nBKjJjQ-uD6u58M5MMCIQDBiN2o-XxVOA5qqK7tUbTz4xTnJIIPphN3_NxTuNpqkw%3D%3D/file/index.m3u8
+
 #EXTM3U url-tvg=" http://grade-de-FILM & ART TV e Radio FAX.xml "
  ############## FILM & ART TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeFILM & ART TV e Radio FAX" group-title="
@@ -2875,86 +3255,15 @@ https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Ci
 #EXTINF:-1 tvg-id="" tvg-name="Legioes do Nilo 1959"tvg-logo="https://i.ytimg.com/vi/bNLWB8e8M-E/hqdefault.jpg"group-title="FILME Antigos TV e Radio FAX",Legioes do Nilo 1959
 https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/Legi%C3%B5es%20do%20Nilo%20-%201959%20%28Dublado%29.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILME TV e Radio FAX archive.xml"
-############## FILME TV e Radio FAX archive ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILME TV e Radio FAX archive" group-title="
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX vix.xml"
+############## FILME TV FAX vix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX vix" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="O Auto Da Compadecida TV FAX"tvg-logo="https://www.girocurimatau.com.br/wp-content/uploads/2023/03/1633787861972.gif"group-title="FILME TV e Radio FAX archive",O Auto Da Compadecida TV FAX
-https://archive.org/download/o-auto-da-compadecida-tv-fax/O%20Auto%20da%20Compadecida%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treinamento Prutal"tvg-logo="https://s01.video.glbimg.com/x216/11959656.jpg"group-title="FILME TV e Radio FAX archive",Treinamento Prutal
-https://ia801306.us.archive.org/32/items/assistir-treinamento-brutal-online-gratis/Assistir%20Treinamento%20Brutal%20Online%20Gr%C3%A1tis.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O CAMINHO DIFÍ CIL THE HARD WAY"tvg-logo="https://images.justwatch.com/poster/116903385/s592/the-hard-way-2019"group-title="FILME TV e Radio FAX archive",O CAMINHO DIFÍ CIL THE HARD WAY
-https://ia601209.us.archive.org/31/items/o-caminho-difi-cil-the-hard-way-tv-fax/O%20CAMINHO%20DIF%C3%8DCIL%20-%20THE%20HARD%20WAY%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Free Fire O Tiroteio"tvg-logo="https://i.pinimg.com/originals/35/f1/3b/35f13bd31495b8610bcb8349ad22bcb4.gif"group-title="FILME TV e Radio FAX archive",Free Fire O Tiroteio
-https://ia801300.us.archive.org/24/items/free-fire-o-tiroteio-tv-fax/Free%20Fire%20-%20O%20Tiroteio%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cegos Surdos E Loucos"tvg-logo="https://i.ytimg.com/vi/apScV-0CR10/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",Cegos Surdos E Loucos
-https://ia801201.us.archive.org/10/items/cegos-surdos-e-loucos-tv-fax/Cegos%20Surdos%20e%20LoucosTV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Believer 2 "tvg-logo="https://media1.giphy.com/media/fOSvp9TqbKqdtkhqDc/200w.gif"group-title="FILME TV e Radio FAX archive",Believer 2 
-https://ia801200.us.archive.org/24/items/believer-2-tv-fax/Believer%202%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coração De Campeão"tvg-logo="https://i.ytimg.com/vi/KwL0vRoCFjk/mqdefault.jpg"group-title="FILME TV e Radio FAX archive",Coração De Campeão
-https://ia601203.us.archive.org/19/items/coracao-de-campeao-tv-fax_202312/Cora%C3%A7%C3%A3o%20de%20Campe%C3%A3oTV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vigilante TV FAX"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/19f38bf9270a26e2fa6d1cbc18ad5721652d27cae569ff944542634d32e3762d._RI_TTW_.jpg"group-title="FILME TV e Radio FAX archive",A Vigilante TV FAX
-https://ia801204.us.archive.org/20/items/a-vigilante-tv-fax_202312/A%20Vigilante%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga De Akilla TV FAX"tvg-logo="https://i.ytimg.com/vi/lt9nuArQZKw/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",A Fuga De Akilla TV FAX
-https://ia801203.us.archive.org/32/items/a-fuga-de-akilla-tv-fax_202312/A%20Fuga%20de%20Akilla%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Modelo E O Fotógrafo TV FAX"tvg-logo="https://brazucafilmes.com.br/wp-content/uploads/2022/09/pexels-amar-preciado-8389883.jpg"group-title="FILME TV e Radio FAX archive",A Modelo E O Fotógrafo TV FAX
-https://ia601207.us.archive.org/27/items/a-modelo-e-o-fotografo-tv-fax/A%20Modelo%20e%20o%20Fot%C3%B3grafo%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Heróis Da Ferrovia"tvg-logo="https://i.gifer.com/origin/de/def108bfe9b76119855685f6534f8905_w200.webp"group-title="FILME TV e Radio FAX archive",Os Heróis Da Ferrovia
-https://ia600509.us.archive.org/18/items/os-herois-da-ferrovia-tv-fax/Os%20Her%C3%B3is%20Da%20Ferrovia%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operação Supletivo Agora Vai"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGYHrb2ZEAlITLcn3aqEX8Y5tO7vBr9SMNA_3l2mZCLqn-G2F2T_WoHqJXwgjG4-AmJTE&usqp=CAU"group-title="FILME TV e Radio FAX archive",Operação Supletivo Agora Vai
-https://ia902704.us.archive.org/32/items/operacao-supletivo-agora-vai-tv-fax_202311/Opera%C3%A7%C3%A3o%20Supletivo%20Agora%20Vai%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Meninos Que Enganavam Nazistas"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0V16Fc76mUtKM3fTMM_73QpV3_vOU0aYJ3VmdtrjvzQHmSE_YkBlK5V9rf7MOcSuFCE&usqp=CAU"group-title="FILME TV e Radio FAX archive",Os Meninos Que Enganavam Nazistas
-https://ia600508.us.archive.org/1/items/os-meninos-que-enganavam-nazistas-tv-fax_202311/Os%20Meninos%20Que%20Enganavam%20Nazistas%20%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs E A Vila Perdida"tvg-logo="https://play-lh.googleusercontent.com/SvrtMKYkiREyNHLcZHx5CXx8io_dl-cRxzPLsJ5hBmMNIH_NtfmnOT2bPO6PlJkfy0D44w"group-title="FILME TV e Radio FAX archive",Os Smurfs E A Vila Perdida
-https://ia600501.us.archive.org/2/items/os-smurfs-e-a-vila-perdida-tv-fax_202311/Os%20Smurfs%20e%20a%20Vila%20Perdida%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs 2"tvg-logo="https://musicart.xboxlive.com/7/59251500-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"group-title="FILME TV e Radio FAX archive",Os Smurfs 2
-https://ia800500.us.archive.org/6/items/os-smurfs-2-tv-fax/Os%20Smurfs%202%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Irmãos Sisters"tvg-logo="https://br.web.img2.acsta.net/pictures/18/08/31/12/39/3267223.jpg"group-title="FILME TV e Radio FAX archive",Os Irmãos Sisters
-https://ia601803.us.archive.org/10/items/os-irmaos-sisters-tv-fax/Os%20Irm%C3%A3os%20Sisters%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="42 A História De Uma Lenda"tvg-logo="https://www.planocritico.com/wp-content/uploads/2020/09/42_a_historia_de_uma_lenda_1_plano_critico.jpg"group-title="FILME TV e Radio FAX archive",42 A História De Uma Lenda
-https://ia601701.us.archive.org/30/items/42-a-historia-de-uma-lenda-tv-fax_202311/42%20A%20Hist%C3%B3ria%20de%20uma%20Lenda%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bravura De Molly"tvg-logo="https://img.youtube.com/vi/Ph34_UEOH5Q/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",A Bravura De Molly
-https://ia600504.us.archive.org/34/items/a-bravura-de-molly-tv-fax_202311/A%20Bravura%20de%20Molly%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Osso Duro"tvg-logo="https://i.ytimg.com/vi/829_mfKOhlk/sddefault.jpg"group-title="FILME TV e Radio FAX archive",Osso Duro
-https://ia800506.us.archive.org/5/items/osso-duro-tv-fax/Osso%20Duro%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Para Sempre"tvg-logo="https://play-lh.googleusercontent.com/pttzqtsXAYtZldyHkYPJz2MhiJqaB1PUGVYPxZT9oXUd9mcx5kMyf-o5k3N60oiQAWeX"group-title="FILME TV e Radio FAX archive",Para Sempre
-https://ia800501.us.archive.org/8/items/para-sempre-tv-fax/Para%20Sempre%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_871147-MLB70261734526_072023-O.webp"group-title="FILME TV e Radio FAX archive",A Queda
-https://ia802700.us.archive.org/32/items/a-queda-dublado-tv-fax_202311/A%20Queda%20DUBLADO%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Deus Vier Que Venha Armado"tvg-logo="https://i.ytimg.com/vi/IlOxKdrCuAw/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",Se Deus Vier Que Venha Armado
-https://ia601509.us.archive.org/21/items/se-deus-vier-que-venha-armado-tv-fax_202311/Se%20Deus%20Vier%20Que%20Venha%20Armado%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Silverton Cerco Fechado"tvg-logo="https://i.ytimg.com/vi/-0oVKblZjj0/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",Silverton Cerco Fechado
-https://ia902700.us.archive.org/35/items/silverton-cerco-fechado-tv-fax/Silverton%20Cerco%20Fechado%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Busca"tvg-logo="https://culturaoz.files.wordpress.com/2013/02/a-busca.jpg"group-title="FILME TV e Radio FAX archive",A Busca
-https://ia600506.us.archive.org/9/items/a-busca-tv-fax_202311/A%20Busca%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caça"tvg-logo="https://i.ytimg.com/vi/gwxYwb7NbDI/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",A Caça
-https://ia800500.us.archive.org/0/items/a-caca-tv-fax_202311/A%20Ca%C3%A7a%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espera De Liz"tvg-logo="https://www.camara.leg.br/midias/image/2022/03/foto-divulgacao-2-768x432.jpeg"group-title="FILME TV e Radio FAX archive",A Espera De Liz
-https://ia800509.us.archive.org/32/items/a-espera-de-liz-tv-fax_202311/A%20Espera%20de%20Liz%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita"tvg-logo="https://i0.wp.com/nanossaestante.com.br/wp-content/uploads/2022/05/A-familia-perfeita.png?resize=800%2C534&ssl=1"group-title="FILME TV e Radio FAX archive",A Família Perfeita
-https://ia601701.us.archive.org/34/items/a-familia-perfeita-tv-fax_202311/A%20Fam%C3%ADlia%20Perfeita%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hypnotic Ameaça Invisível"tvg-logo="https://br.web.img3.acsta.net/pictures/23/10/02/16/36/4870263.jpg"group-title="FILME TV e Radio FAX archive",Hypnotic Ameaça Invisível
-https://ia801304.us.archive.org/2/items/hypnotic-ameaca-invisivel-tv-fax/Hypnotic%20Amea%C3%A7a%20Invis%C3%ADvel%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crimes Em Hollywood"tvg-logo="https://media.fstatic.com/BYwxbAxWdzxzQG4J_MUP5sYUK50=/210x312/smart/filters:format(webp)/media/movies/covers/2021/12/MV5BNDc2MzFhYmQtM2NiZC00NjZhLTk3M2YtZjVmZjllMzYxNGZhXkEyXkFqcGdeQX_ydsWbe6.jpg"group-title="FILME TV e Radio FAX archive",Crimes Em Hollywood
-https://ia601300.us.archive.org/23/items/crimes-em-hollywood-tv-fax/Crimes%20em%20Hollywood%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Você Nunca Esteve Realmente Aqui"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPKBidOLBsdaGfYcp35b9xwDsN2DwvBMJVQ&usqp=CAU"group-title="FILME TV e Radio FAX archive",Você Nunca Esteve Realmente Aqui
-https://ia601304.us.archive.org/0/items/voce-nunca-esteve-realmente-aqui-tv-fax/Voc%C3%AA%20Nunca%20Esteve%20Realmente%20Aqui%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Prova De Fé 2 Voltando Para Casa "tvg-logo="https://s2-globo-play.glbimg.com/Ajv4_7bd97QdQBoEEwh_G03CkRk=/362x536/https://s2-globo-play.glbimg.com/mT-vKMBBtSYe-pV17haX75F3M4I=/https://s2.glbimg.com/l5UJViYgbpZuTvLppTj1rMslyDY=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/K/4/JBYE1yQXCToJTBvQ3P0g/6312716-poster.jpg" group-title="FILME TV e Radio FAX archive",Uma Prova De Fé 2 Voltando Para Casa 
-https://ia601301.us.archive.org/28/items/uma-prova-de-fe-2-voltando-para-casa-tv-fax/Uma%20Prova%20de%20F%C3%A9%202%20Voltando%20para%20Casa%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Verdades Dolorosas"tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/405ebfbef23437810ad54ef3b31db6a9db7b70146cc39229ef6873ec1fe967ac.jpg"group-title="FILME TV e Radio FAX archive",Verdades Dolorosas
-https://ia601301.us.archive.org/17/items/verdades-dolorosas-tv-fax/Verdades%20Dolorosas%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Vizinho Adolf"tvg-logo="https://midias.jb.com.br/_midias/jpg/2023/06/09/adolf-743536.jpg"group-title="FILME TV e Radio FAX archive",Meu Vizinho Adolf
-https://ia801206.us.archive.org/27/items/meu-vizinho-adolf-tv-fax/Meu%20Vizinho%20Adolf%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Falcon Rising Michael Jai White, Neal Mc Donough Action, Adventure"tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1OTkyMzUyN15BMl5BanBnXkFtZTgwNjI0MTUzMjE@._V1_FMjpg_UX1000_.jpg"group-title="FILME TV e Radio FAX archive",Falcon Rising Michael Jai White, Neal Mc Donough Action, Adventure
-https://ia804604.us.archive.org/23/items/falcon-rising-michael-jai-white-neal-mc-donough-action-adventure-crime-tv-fax/Falcon%20Rising%20Michael%20Jai%20White%2C%20Neal%20McDonough%20Action%2C%20Adventure%2C%20Crime%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treinamento Brutal"tvg-logo="https://i.ytimg.com/vi/ze8KFRBLvkw/mqdefault.jpg?days_since_epoch=19713"group-title="FILME TV e Radio FAX archive",Treinamento Brutal
-https://ia601300.us.archive.org/9/items/treinamento-brutal-tv-fax/Treinamento%20Brutal%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terra Das Oportunidades"tvg-logo="https://i.ytimg.com/vi/BGwjkgot1uA/sddefault.jpg"group-title="FILME TV e Radio FAX archive",Terra Das Oportunidades
-https://ia601207.us.archive.org/5/items/terra-das-oportunidades-tv-fax/Terra%20das%20Oportunidades%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Seven Os Sete Crimes Capitais "tvg-logo="https://cinepop.com.br/wp-content/uploads/2022/08/seven-5.jpg"group-title="FILME TV e Radio FAX archive",Seven Os Sete Crimes Capitais 
-https://ia601209.us.archive.org/6/items/seven-os-sete-crimes-capitais-tv-fax/Seven%20Os%20Sete%20Crimes%20Capitais%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Som Da Liberdade Sound Of Freedom"tvg-logo="https://jpimg.com.br/uploads/2023/08/soundfreedom_hiperionblog-700x450.jpg"group-title="FILME TV e Radio FAX archive",Som Da Liberdade Sound Of Freedom
-https://ia601200.us.archive.org/24/items/som-da-liberdade-sound-of-freedom-tv-fax/Som%20da%20Liberdade%20-%20Sound%20of%20Freedom%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Doutor da Felicidade"tvg-logo="https://br.web.img3.acsta.net/pictures/18/07/16/19/46/4127630.jpg"group-title="FILME TV FAX vix",O Doutor da Felicidade
+https://play.prod.gcp.vix.services/knock_pt/knock_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alta Velocidade "tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/driven_pt/driven_pt_200x300.jpg"group-title="FILME TV FAX vix",Alta Velocidade 
+https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
+
 
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX |  ONLINE.xml"
 ############## FILME TV FAX |  ONLINE ################# 
