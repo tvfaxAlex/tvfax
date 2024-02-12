@@ -2995,7 +2995,6 @@ http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918296
 http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918299
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball - Sayajins" tvg-logo="https://i.imgur.com/gmAS5En.jpg" group-title="Animes 24hs",[24h] Dragon Ball - Sayajins
 http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918295
-
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Edens Zero" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qYE9Lk9y3yO8GJSX25BsF7XOtD0.jpg" group-title="Animes 24hs",[24h] Edens Zero
 http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87574
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Escolinha do Professor Raimundo" tvg-logo="https://imgur.com/zAsnS7y.jpg" group-title="Especiais 24hs ",[24h] Escolinha do Professor Raimundo
@@ -3258,6 +3257,159 @@ http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/87578
 http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/918089
 #EXTINF:-1 tvg-id="" tvg-name="[24h] PJ Masks: Heróis de Pijama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hXHFx69vCEHgXD4mT1HcuOahgp.jpg" group-title="Desenhos 24hs",[24h] PJ Masks: Heróis de Pijama
 http://dns.clientetv.net:8080/765Aline6543/IrmaAline2022/908694
+
+#EXTINF:-1 tvg-id="" tvg-name="A Canção do Oceano (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6HmQtRPUOUrRLKdADyhYnezTv.jpg" group-title="Animação",A Canção do Oceano (2014)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Caiu: Um Cassino na Vizinhança (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wylaeJPrbD7o66cralfREtrfeZQ.jpg" group-title="Comédia",A Casa Caiu: Um Cassino na Vizinhança (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Colina (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTOXrdhDq8EYKAiMVcWbkiVfU9d.jpg" group-title="Suspense/ Mistério",A Casa da Colina (1999)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa de Hóspedes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kY8t4etF8y0S9TeJE0UdEowBUr0.jpg" group-title="Comédia",A Casa de Hóspedes (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/34918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa de Praia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9gMQxT2zqo7peZPmj3XswUEkpt.jpg" group-title="Família/ Aventura",A Casa de Praia (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/39380.mp4
+#EXTINF:-1 tvg-id="A Casa do Fim dos Tempos   " tvg-name="A Casa do Fim dos Tempos (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FH2kqhUVSJcQOiILOVbe2t6eSc.jpg" group-title="Terror",A Casa do Fim dos Tempos (2013)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/12116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Medo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV5kUiiazJ90KmPYcXyc6tyknku.jpg" group-title="Suspense/ Mistério",A Casa do Medo (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10986.mp4
+#EXTINF:-1 tvg-id="A Casa do Medo Incidente em Ghostland   " tvg-name="A Casa do Medo: Incidente em Ghostland (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7p3JKIAwysHpZsmdINLNeVjApg.jpg" group-title="Terror",A Casa do Medo: Incidente em Ghostland (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/12117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Terror (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRapSkoVtHeXDPfUP4883njzIJ3.jpg" group-title="Terror",A Casa do Terror (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/39381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Monstro (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eduzrwou4Lkr8Ybflr8Wmx5CNSZ.jpg" group-title="Animação",A Casa Monstro (2006)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa no Bayou (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OhsKXY8CV4uAdrc82sGgpGXUNc.jpg" group-title="Terror",A Casa no Bayou (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/73702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Sombria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qoBMPkhmbDeTH8SEkY3V2flewD.jpg" group-title="Suspense/ Mistério",A Casa Sombria (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/66897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caverna (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGfT6Edm2PSXDbGfwIJgCUzbHCl.jpg" group-title="Suspense/ Mistério",A Caverna (2005)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caverna (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jO2DM1VhAnCwkf9C7R0aBCQUXLH.jpg" group-title="Ficção Científica",A Caverna (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/34134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caverna: Perigo Subterrâneo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r5VRdSS84GesjVxvKR3JTk0W4x.jpg" group-title="Suspense/ Mistério",A Caverna: Perigo Subterrâneo (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chefinha (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxHtZ3HNvpbHw1cBqG48VavhEk1.jpg" group-title="Comédia",A Chefinha (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/66220.mp4
+#EXTINF:-1 tvg-id="A Chegada  " tvg-name="A Chegada  " tvg-logo="http://dns.clientetv.xyz:8000/images/nOH0MTJ0kkvax9YtfeczyqzLvHY8hwZW.jpg" group-title="Ficção Científica",A Chegada  
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cilada (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugRAtF6NVctEIJvleT91yKH5YmI.jpg" group-title="Suspense/ Mistério",A Cilada (2015)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10991.mp4
+#EXTINF:-1 tvg-id="A Cinco Passos de Voce  " tvg-name="A Cinco Passos de Você (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyySfv4kybDpVebZhyb0Bnk3dz.jpg" group-title="Romance",A Cinco Passos de Você (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Coleção Invisível" tvg-logo="http://dns.clientetv.xyz:8000/images/RtaJz8DLGyOJ4mucdM9HXAwupytBJCEu.jpg" group-title="Brasileiro",A Coleção Invisível
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/12570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colheita da Fé (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koUqIe8qSZHaRGTyE6Jgfy1lSXX.jpg" group-title="Religioso",A Colheita da Fé (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" group-title="Terror",A Cor Que Caiu do Espaço (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/42593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Creche do Papai 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pJZpezKjGq0F9fhZn6CSO344Y0.jpg" group-title="Comédia",A Creche do Papai 3 (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/21065.mp4
+#EXTINF:-1 tvg-id="A Criatura Sombria   " tvg-name="A Criatura Sombria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9Zyv8WO36xcSbLqAkBfKK4qlYU.jpg" group-title="Terror",A Criatura Sombria (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/12118.mp4
+#EXTINF:-1 tvg-id="A Descoberta  " tvg-name="A Descoberta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgLyPfWHkmt8v8ulz04NL2FFHQ4.jpg" group-title="Ficção Científica",A Descoberta (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Despedida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oenx30V5wzfMjxzTOOM1CD9YSq4.jpg" group-title="Drama/ História",A Despedida (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/51908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Difícil Vingança (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXc15iWmXoMf6bYIJfivljkjphq.jpg" group-title="Faroeste",A Difícil Vingança (2012)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/52644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Discussão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BOFJrBQ5YjYFCBG3wbRjNlme3o.jpg" group-title="Comédia",A Discussão (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/54457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Disputa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYFaFJPg79ngwBrxjQw4aThzen4.jpg" group-title="Faroeste",A Disputa (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/68424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Encruzilhada - 1986" tvg-logo="http://dns.clientetv.xyz:8000/images/3YdXKgHBg1JGry8xgb69Ftk0JiObrpmc.jpg" group-title="Família/ Aventura",A Encruzilhada - 1986
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10531.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k69nGBs0nw1L3ZnAibCl9u5eNvo.jpg" group-title="Animação",A Bela e a Fera (1991)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om96D2NF9w4UyrprQ882DrTFBol.jpg" group-title="Fantasia",A Bela e a Fera (2014)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg" group-title="Fantasia",A Bela e a Fera (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="Comédia",A Bolha (2022)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/76723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa da Casa ao Lado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auYgUlzat97qhDNPk2RjjU6cvnb.jpg" group-title="Terror",A Bruxa da Casa ao Lado (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/42850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuRS2V8LHF1aKJUUQdVzyCm9afs.jpg" group-title="Suspense/ Mistério",A Bruxa de Blair (1999)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/47449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair 2: O Livro das Sombras (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8UT6J9GedRoYhKLcbQVuXCZ9SS.jpg" group-title="Suspense/ Mistério",A Bruxa de Blair 2: O Livro das Sombras (2000)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/47452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bússola de Ouro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRTu6vaYNZgNtMmVyKTgtVJbCrK.jpg" group-title="Fantasia",A Bússola de Ouro (2007)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/8362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Religioso",A Cabana (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caixa (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVZFQ8V8XBiIgFpWGlG5qyW5z15.jpg" group-title="Suspense/ Mistério",A Caixa (2009)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caixa de Pandora (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jjXEF4loxfl6OnPeXhViCWTtim.jpg" group-title="Comédia",A Caixa de Pandora (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/45499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho da Fé (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTsZEzkvQZ1keK7V2EgbOurIlL9.jpg" group-title="Religioso",A Caminho da Fé (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho de Casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWUTDVedmpG4RTFZ8oTy5IyG1jh.jpg" group-title="Família/ Aventura",A Caminho de Casa (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Oeste (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9E0w4E3wazxx4qm70MJSTWHnBI.jpg" group-title="Faroeste",A Caminho do Oeste (1967)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/52643.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="8 Mile: Rua das Ilusões (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86CyysIw6WvboRPN8qrjCP0M0nS.jpg" group-title="Família/ Aventura",8 Mile: Rua das Ilusões (2002)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A 5ª Onda (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asPv5M6bUn270EcUXUnEnC8CkB7.jpg" group-title="Ficção Científica",A 5ª Onda (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Abelhinha Maya e O Ovo Dourado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nA6Jg8fLhJtabQYozYOUM3GzXs7.jpg" group-title="Animação",A Abelhinha Maya e O Ovo Dourado (2021)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/66377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Abelhinha Maya: O Filme (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68ot38BwgfZjkIYRiuvXCtKDxCL.jpg" group-title="Animação",A Abelhinha Maya: O Filme (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ameaça (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCuZp4QHcKsgVG8cAy8gsppJTgv.jpg" group-title="Suspense/ Mistério",A Ameaça (2013)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arte de Ser Adulto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IZ7QZzC41M7N7LDOcZSUwsNzCL.jpg" group-title="Comédia",A Arte de Ser Adulto (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/46999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Assistente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36R8qqx51WE7IkHcn4BohLzLqGY.jpg" group-title="Drama/ História",A Assistente (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/42592.mp4
+#EXTINF:-1 tvg-id="A Autopsia   " tvg-name="A Autópsia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFiOQDl037qYICAn4RExrwbgCEF.jpg" group-title="Terror",A Autópsia (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/12115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Babá: O Chamado das Sombras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnK2b8TgDq5dYXvFdKqrk2lvH4q.jpg" group-title="Terror",A Babá: O Chamado das Sombras (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/70328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Babá: Rainha da Morte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JnolYGDrhgo5y3rOb0S1VErF4f.jpg" group-title="Terror",A Babá: Rainha da Morte (2020)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/34907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bailarina (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKPMlQ3v6KJD3u6ik3urzGesh5g.jpg" group-title="Animação",A Bailarina (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Balada de Buster Scruggs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFvFyuIeCZfu94pZzzhTm991397.jpg" group-title="Faroeste",A Balada de Buster Scruggs (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Ano (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duPGelL3vYPltSd4fWEIj422IuW.jpg" group-title="Família/ Aventura",A Batalha do Ano (2013)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10529.mp4
+#EXTINF:-1 tvg-id="A Entidade 2   " tvg-name="A Entidade 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nKrDcCzDG5LLamYb3dWWenE92L.jpg" group-title="Terror",A Entidade 2 (2015)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/12119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A entrevista com Deus" tvg-logo="http://dns.clientetv.xyz:8000/images/nsm6deFnXXOFfy1iOs0xm2ddGQRMO57A.jpg" group-title="Religioso",A entrevista com Deus
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2NR4rJdD6bIVE61T7rhHxrrGvv.jpg" group-title="Animação",A Era do Gelo (2002)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo - A Grande Caçada aos Ovos de Páscoa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ElCrTKMsWVmt9WPgfxMQr0l8PG.jpg" group-title="Animação",A Era do Gelo - A Grande Caçada aos Ovos de Páscoa (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mC5gWMUHy21dUejFFgqYQei2LCm.jpg" group-title="Animação",A Era do Gelo 2 (2006)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 3 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWuzQumM85yoqhTsbLT4djFjhXd.jpg" group-title="Animação",A Era do Gelo 3 (2009)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 4 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWiHLqARtyAAOy0nLvXIxRYkfNA.jpg" group-title="Animação",A Era do Gelo 4 (2012)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="Animação",A Era do Gelo: As Aventuras de Buck (2022)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/70329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: O Big Bang (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh9LEW4bzN2nuDfyViLqWSV67sa.jpg" group-title="Animação",A Era do Gelo: O Big Bang (2016)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escalada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxmnYUawdlSUctpN1JJ9wvE47ZH.jpg" group-title="Comédia",A Escalada (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRpCQyiylNYcCzyyYHUCyf4yLm6.jpg" group-title="Música",A Escolha Perfeita (2012)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EOgcQMgfx2iwnvwyiOuSgthVa8.jpg" group-title="Música",A Escolha Perfeita 2 (2015)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PqsJb2h2Uu4ymo0yj130IxbF6S.jpg" group-title="Música",A Escolha Perfeita 3 (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espiã Que Sabia de Menos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bft6EuB96z0ureK832edqwAplDS.jpg" group-title="Comédia",A Espiã Que Sabia de Menos (2015)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espiã (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufIV7job8TNhl5pcX8D8wAwEXb8.jpg" group-title="Suspense/ Mistério",A Espiã (2019)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/40393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espiã Vermelha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/patzx6JSth70QKEUqZ1fU4Hatkd.jpg" group-title="Suspense/ Mistério",A Espiã Vermelha (2018)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estranha Vida de Timothy Green (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DzAiR21jQpuy832gIGCdUdnOvm.jpg" group-title="Família/ Aventura",A Estranha Vida de Timothy Green (2012)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/10535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB4jiGyDuMsq38sXbTCB1nsAWEE.jpg" group-title="Animação",A Estrela de Belém (2017)
+http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/9626.mp4
 
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS FAX 2024.xml "
