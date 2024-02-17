@@ -15,19 +15,6 @@ http://stream.zeno.fm/uhoa45pks0vvv.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="QUARTO FADA" tvg-logo="" group-title="BBB 24",1
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1257
-#EXTINF:-1 tvg-id="" tvg-name="QUARTO FADA" tvg-logo="" group-title="BBB 24",2
-http://voz.one:80/alexfnt/vTFBGKdUYq/254730
-#EXTINF:-1 tvg-id="" tvg-name="QUARTO FADA" tvg-logo="" group-title="BBB 24",3
-http://voz.one:80/alexfnt/vTFBGKdUYq/254731
-#EXTINF:-1 tvg-id="" tvg-name="QUARTO FADA" tvg-logo="" group-title="BBB 24",4
-http://voz.one:80/alexfnt/vTFBGKdUYq/254732
-#EXTINF:-1 tvg-id="" tvg-name="QUARTO FADA" tvg-logo="" group-title="BBB 24",5
-http://voz.one:80/alexfnt/vTFBGKdUYq/258180
-#EXTINF:-1 tvg-id="" tvg-name="QUARTO FADA" tvg-logo="" group-title="BBB 24",6
-http://voz.one:80/alexfnt/vTFBGKdUYq/258181
-#EXTINF:-1 tvg-id="" tvg-name="QUARTO FADA" tvg-logo="" group-title="BBB 24",7
-http://voz.one:80/alexfnt/vTFBGKdUYq/258182
-
 #EXTINF:-1 tvg-id="" tvg-name="QUARTO FADA" tvg-logo="" group-title="BBB 24",QUARTO FADA
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1257
 #EXTINF:-1 tvg-id="" tvg-name="QUARTO GNOMO" tvg-logo="" group-title="BBB 24",QUARTO GNOMO
@@ -48,31 +35,12 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1251
 #EXTINF:-1 tvg-id=" iddocanaldeRecord TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD SP INTERIOR HD" tvg-logo="" group-title="Record TV e Radio FAX ",RECORD SP INTERIOR HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/528
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/528.m3u8
 #EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP HD" tvg-logo="" group-title="Record TV e Radio FAX ",RECORD SP HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/529
-#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD SP FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/294
-#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD SP HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/295
-#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD SP SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/296
-#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",Record 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/219
-#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD BRASILIA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/273
-#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD CAMPINAS
-http://voz.one:80/alexfnt/vTFBGKdUYq/275
-#EXTINF:-1 tvg-id="" tvg-name="Record"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2_279T9oxc1OaErde8YB64fSfNOmfCJd3dQgYzke3F9RQl4H8JO1CZ5pmYfU-h_Fah4&usqp=CAU"group-title="Record TV e Radio FAX",RECORD CAMPINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/276
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/529.m3u8
 #EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="" group-title="Record TV e Radio FAX ",RECORD PARANA HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/526
-#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ 4K" tvg-logo="" group-title="Record TV e Radio FAX ",RECORD RJ 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/766
-#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ HD" tvg-logo="" group-title="Record TV e Radio FAX ",RECORD RJ HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/527
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ 4K"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="Record TV e Radio FAX ",RECORD RJ 4K
-https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=V5AKVJ_88YTjqT0kt7v1WQ&3U1G7qaTxrPbalZnEx=1705309616
+
 #EXTINF:-1 tvg-id="" tvg-name="RECORD News"tvg-logo="https://media1.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif"group-title="Record TV e Radio FAX ",RECORD News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w245748952.m3u8
 
@@ -80,26 +48,10 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w245748952.m3u8
  ############## SBT TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeSBT TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SD²
-http://voz.one:80/alexfnt/vTFBGKdUYq/65259
-#EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SP FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/315
-#EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SP HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/311
-#EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SP HD²
-http://voz.one:80/alexfnt/vTFBGKdUYq/65256
-#EXTINF:-1 tvg-id="" tvg-name="SBT"tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/06/Sbt-Interior.png"group-title="SBT TV e Radio FAX",SBT SP SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/310
 #EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="" group-title="SBT TV e Radio FAX",SBT 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/534
 #EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="" group-title="SBT TV e Radio FAX",SBT HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/540
-#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ UHD" tvg-logo="" group-title="SBT TV e Radio FAX",SBT RJ UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/537
-#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT SERRA DOURADA 4K" tvg-logo="" group-title="SBT TV e Radio FAX",SBT SERRA DOURADA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/538
-#EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="" group-title="SBT TV e Radio FAX",TV DIARIO HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/548
 #EXTINF:-1 tvg-id="" tvg-name="SBT Rede Massa (PR)"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="SBT TV e Radio FAX",SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT 4K"tvg-logo="https://media.tenor.com/vrFepvk1DJoAAAAM/mara-maravilha-sbt.gif"group-title="SBT TV e Radio FAX",SBT 4K
@@ -111,30 +63,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705300481/ei/o
  ############## TV GLOBO ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTV GLOBO" group-title="
 
-#EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV GLOBO",GLOBO BAHIA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/488
-#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV GLOBO",GLOBO BRASILIA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/490
-#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="" group-title="TV GLOBO",GLOBO EPTV CAMPINAS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/780
-#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="" group-title="TV GLOBO",GLOBO EPTV CAMPINAS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/491
-#EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/67/20210422110721%21EPTV.png" group-title="TV GLOBO",GLOBO EPTV SUL DE MINAS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1012
-#EXTINF:-1 tvg-id="8fce20fba553e998b00add259a9d5ca7" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-integrac-o-uberaba_m.png" group-title="TV GLOBO",GLOBO INTEGRAÇÃO JUIZ DE FORA
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/494
-#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV GLOBO",GLOBO RJ 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/504
-#EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="" group-title="TV GLOBO",GLOBO RPC CURITIBA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/505
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV GLOBO",GLOBO RPC FOZ DO IGUAÇU 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/506
-#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="" group-title="TV GLOBO",GLOBO RPC MARINGA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/507
-#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="" group-title="TV GLOBO",GLOBO RPC MARINGA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/817
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE 4K" tvg-logo="" group-title="TV GLOBO",GLOBO SERGIPE 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1160
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV GLOBO",GLOBO SP 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/511
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE 4K" tvg-logo="" group-title="TV GLOBO",GLOBO NORDESTE 4K
@@ -143,6 +71,7 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1248
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/563
 #EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="TV TEM SOROCABA HD" tvg-logo="" group-title="TV GLOBO",TV TEM SOROCABA HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/562
+
 
 #EXTM3U url-tvg=" http://grade-de-Rede Globosat .xml "
  ############## Rede Globosat  ############## ### 
@@ -265,64 +194,6 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/483
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/484
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="" group-title="BAND TV e Radio FAX",BAND SP HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/485
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND Band FM 99.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34013
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND Feliz FM 92.3
-http://voz.one:80/alexfnt/vTFBGKdUYq/34014
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND GFM 90.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34012
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND
-http://voz.one:80/alexfnt/vTFBGKdUYq/65271
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/218
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND BAHIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/93635
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND BRASILIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/96148
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND CAMPINAS
-http://voz.one:80/alexfnt/vTFBGKdUYq/96149
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND CAMPINAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/242
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND CAMPINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/241
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND CURITIBA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/244
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND GOIANIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/247
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND MG 
-http://voz.one:80/alexfnt/vTFBGKdUYq/95808
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND MG FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56237
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND MG HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56236
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",Band News (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13852
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND NEWS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/682
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND NEWS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/683
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND NEWS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/687
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND RJ
-http://voz.one:80/alexfnt/vTFBGKdUYq/249
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND RJ HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/248
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND RS
-http://voz.one:80/alexfnt/vTFBGKdUYq/96147
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND SP
-http://voz.one:80/alexfnt/vTFBGKdUYq/252
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND SP FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/250
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND SP HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/251
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND SPORTS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/385
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND SPORTS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/387
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BAND SPORTS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/386
-#EXTINF:-1 tvg-id="" tvg-name="BAND"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv1C0HzX_0GN2AWL_AJNRkNgWHKIRkOK3zImFBh9GowpNehTL3jWVCMZltYYfIsL8-f0&usqp=CAU"group-title="BAND TV e Radio FAX",BandSports (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13853
 
 #EXTM3U url-tvg="http://grade-de-AXS TV FAX Pelo Mundo.xml"
 ############## AXS TV FAX Pelo Mundo ################# 
@@ -714,292 +585,158 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/531
 #EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="" group-title="CANAIS ABERTOS TV FAX",REDE TV HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/532
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS TV FAX.xml "
- ############## CANAIS TV FAX  ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS TV FAX" group-title="
-
-#EXTINF:-1 tvg-id="X-MEN" tvg-logo="https://media1.tenor.com/m/CqvzeAIRN2kAAAAC/phoenix-xmen.gif" group-title="CANAIS TV FAX",X-MEN
-http://voz.one:80/alexfnt/vTFBGKdUYq/95780
-#EXTINF:-1 tvg-id="Vai que Cola 1" tvg-logo="https://i.makeagif.com/media/1-19-2016/Oe_qqy.gif" group-title="CANAIS TV FAX",Vai que Cola 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95708
-#EXTINF:-1 tvg-id="Vai que Cola 2" tvg-logo="https://64.media.tumblr.com/5a1f4f67549ba4db99a5f20ac406e5d7/tumblr_mx3932sD321s3gc3mo4_250.gif" group-title="CANAIS TV FAX",Vai que Cola 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95709
-#EXTINF:-1 tvg-id="Luluzinha" tvg-logo="https://pa1.aminoapps.com/7389/be4b4e7c45c55c6b024290489527385998c73355r1-400-274_hq.gif" group-title="CANAIS TV FAX",Luluzinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95749
-#EXTINF:-1 tvg-id="O Maskara" tvg-logo="https://i.gifer.com/pn6.gif" group-title="CANAIS TV FAX",O Maskara
-http://voz.one:80/alexfnt/vTFBGKdUYq/95756
-#EXTINF:-1 tvg-id="MASCARA" tvg-logo="https://i.pinimg.com/originals/a4/56/20/a45620b70941a4393bb421201c6b33ba.gif" group-title="CANAIS TV FAX",MASCARA
-http://voz.one:80/alexfnt/vTFBGKdUYq/95698
-#EXTINF:-1 tvg-id="Mortal Kombat" tvg-logo="https://giffiles.alphacoders.com/691/69164.gif" group-title="CANAIS TV FAX",Mortal Kombat
-http://voz.one:80/alexfnt/vTFBGKdUYq/95752
-#EXTINF:-1 tvg-id="Mr.Ben" tvg-logo="https://i.pinimg.com/originals/3d/a7/5d/3da75dc1fa1d365561869370243129d9.gif" group-title="CANAIS TV FAX",Mr.Ben
-http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTINF:-1 tvg-id="Naruto" tvg-logo="https://i.pinimg.com/originals/7a/3d/44/7a3d44bb12803b174dc135156e492125.gif" group-title="CANAIS TV FAX",Naruto
-http://voz.one:80/alexfnt/vTFBGKdUYq/95686
-#EXTINF:-1 tvg-id="Naruto" tvg-logo="https://i.pinimg.com/originals/7c/f9/f0/7cf9f0da534cdb3a8e11b91cf2fd97e8.gif" group-title="CANAIS TV FAX",Naruto
-http://voz.one:80/alexfnt/vTFBGKdUYq/95754
-#EXTINF:-1 tvg-id="Os Flintstones" tvg-logo="https://i.gifer.com/1zy.gif" group-title="CANAIS TV FAX",Os Flintstones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95688
-#EXTINF:-1 tvg-id="Os Simpsons 01" tvg-logo="https://i.pinimg.com/originals/3f/96/45/3f964588520342d696cee0cef4dd212a.gif" group-title="CANAIS TV FAX",Os Simpsons 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/95691
-#EXTINF:-1 tvg-id="Os Simpsons 02" tvg-logo="https://64.media.tumblr.com/6f14ffba86917337b488f189ab1c6cff/574dff299901b5d6-23/s640x960/a790e4ef346d2b0203a4eefce9c5fddc0efc3bce.gif" group-title="CANAIS TV FAX",Os Simpsons 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/95692
-#EXTINF:-1 tvg-id="Os Simpsons 03" tvg-logo="https://64.media.tumblr.com/9ac5a447780cf383a5797b90bbf9ff9f/e8eab754f1696c68-99/s2048x3072/2244a2fe1945d5268929b764582d7a35e9b40f29.gif" group-title="CANAIS TV FAX",Os Simpsons 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/95693
-#EXTINF:-1 tvg-id="Os Simpsons 04" tvg-logo="https://metro.co.uk/wp-content/uploads/2019/11/simpsons_01_WEb-6102.gif?crop=0px%2C0px%2C1200px%2C630px&resize=1200%2C630" group-title="CANAIS TV FAX",Os Simpsons 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/95694
-#EXTINF:-1 tvg-id="Os Vingadores" tvg-logo="https://i.pinimg.com/originals/c7/6f/7f/c76f7f1b2f2dbb96a6bbb6076d2f4bd0.gif" group-title="CANAIS TV FAX",Os Vingadores
-http://voz.one:80/alexfnt/vTFBGKdUYq/95761
-#EXTINF:-1 tvg-id="Peeppa Pig" tvg-logo="https://media0.giphy.com/media/rINLIWmFxVZsXbD3CJ/source.gif" group-title="CANAIS TV FAX",Peeppa Pig
-http://voz.one:80/alexfnt/vTFBGKdUYq/95717
-#EXTINF:-1 tvg-id="Peixonautas" tvg-logo="https://j.gifs.com/xk25X9.gif" group-title="CANAIS TV FAX",Peixonautas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95763
-#EXTINF:-1 tvg-id="Peeppa Pig" tvg-logo="https://media0.giphy.com/media/rINLIWmFxVZsXbD3CJ/source.gif" group-title="CANAIS TV FAX",Peppa Pig
-http://voz.one:80/alexfnt/vTFBGKdUYq/95715
-#EXTINF:-1 tvg-id="Pernalonga" tvg-logo="https://usagif.com/wp-content/uploads/2021/04/bugs-bunny-10.gif" group-title="CANAIS TV FAX",Pernalonga
-http://voz.one:80/alexfnt/vTFBGKdUYq/95764
-#EXTINF:-1 tvg-id="Pink-e-Cerebro" tvg-logo="https://i.pinimg.com/originals/97/47/a4/9747a492e5903b0b6face8761129cc4a.gif" group-title="CANAIS TV FAX",Pink-e-Cerebro
-http://voz.one:80/alexfnt/vTFBGKdUYq/95697
-#EXTINF:-1 tvg-id="Pinky e o Cérebro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjTHrDokzO7zahPuon-8rHPtXIUimShDIVmSwm40sx6ickXUED14NeyRgob0dy12eEbs&usqp=CAU" group-title="CANAIS TV FAX",Pinky e o Cérebro
-http://voz.one:80/alexfnt/vTFBGKdUYq/95765
-#EXTINF:-1 tvg-id="Scooby-Doo" tvg-logo="https://i.pinimg.com/originals/27/b0/0b/27b00b0a9f7472cae54ff8d99a20329f.gif" group-title="CANAIS TV FAX",Scooby-Doo
-http://voz.one:80/alexfnt/vTFBGKdUYq/95771
-#EXTINF:-1 tvg-id="South Park" tvg-logo="https://media3.giphy.com/media/l0HlCtvUayCgoNGog/source.gif" group-title="CANAIS TV FAX",South Park
-http://voz.one:80/alexfnt/vTFBGKdUYq/95701
-#EXTINF:-1 tvg-id="South Park" tvg-logo="https://media3.giphy.com/media/l0HlCtvUayCgoNGog/source.gif" group-title="CANAIS TV FAX",South Park
-http://voz.one:80/alexfnt/vTFBGKdUYq/95772
-#EXTINF:-1 tvg-id="Thundercats" tvg-logo="https://i.pinimg.com/originals/d9/c9/ce/d9c9ce4fdc47f2233b9cdb7b9d301497.gif" group-title="CANAIS TV FAX",Thundercats
-http://voz.one:80/alexfnt/vTFBGKdUYq/95774
-#EXTINF:-1 tvg-id="Thundercats" tvg-logo="https://i.gifer.com/H0HY.gif" group-title="CANAIS TV FAX",Thundercats
-http://voz.one:80/alexfnt/vTFBGKdUYq/95776
-#EXTINF:-1 tvg-id="Timao e Pumba" tvg-logo="https://i.pinimg.com/originals/a5/00/c1/a500c1d1a323a5bc9c283b0bb8822e81.gif" group-title="CANAIS TV FAX",Timao e Pumba
-http://voz.one:80/alexfnt/vTFBGKdUYq/95777
-#EXTINF:-1 tvg-id="Todo Mundo Odeia o Chris 1" tvg-logo="https://64.media.tumblr.com/tumblr_lkpki0i2qQ1qiebmoo1_500.gif" group-title="CANAIS TV FAX",Todo Mundo Odeia o Chris 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95702
-#EXTINF:-1 tvg-id="Todo Mundo Odeia o Chris 2" tvg-logo="https://pa1.aminoapps.com/6333/c4e9cb96892dd07187e9db942cae8d5c2e2d32c2_00.gif" group-title="CANAIS TV FAX",Todo Mundo Odeia o Chris 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95703
-#EXTINF:-1 tvg-id="Tom & Jerry" tvg-logo="https://i.pinimg.com/originals/cd/ee/9f/cdee9f6abcccb4807635621c1e16a509.gif" group-title="CANAIS TV FAX",Tom & Jerry
-http://voz.one:80/alexfnt/vTFBGKdUYq/95704
-#EXTINF:-1 tvg-id="Tres Espias Demais" tvg-logo="https://i.pinimg.com/originals/3f/c7/a3/3fc7a32267dc511c1f875c9c9555b0b4.gif" group-title="CANAIS TV FAX",Tres Espias Demais
-http://voz.one:80/alexfnt/vTFBGKdUYq/95778
-#EXTINF:-1 tvg-id="Um Maluco no Pedaço 1" tvg-logo="https://i.gifer.com/OLiR.gif" group-title="CANAIS TV FAX",Um Maluco no Pedaço 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95705
-#EXTINF:-1 tvg-id="Um Maluco no Pedaço 2" tvg-logo="https://i.gifer.com/TsDZ.gif" group-title="CANAIS TV FAX",Um Maluco no Pedaço 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95706
-#EXTINF:-1 tvg-id="Ursinhos Carinhos" tvg-logo="https://i.pinimg.com/originals/36/d5/11/36d5118f1462811461071b7a3e83961e.gif" group-title="CANAIS TV FAX",Ursinhos Carinhos
-http://voz.one:80/alexfnt/vTFBGKdUYq/95707
-#EXTINF:-1 tvg-id="Galinha Pintadinha" tvg-logo="https://i.pinimg.com/originals/be/55/61/be55617ebefc60d13fd6e39ac1b53d1e.gif" group-title="CANAIS TV FAX",Galinha Pintadinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95681
-#EXTINF:-1 tvg-id="Galinha Pintadinha" tvg-logo="https://i.pinimg.com/originals/be/55/61/be55617ebefc60d13fd6e39ac1b53d1e.gif" group-title="CANAIS TV FAX",Galinha pintadinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95737
-#EXTINF:-1 tvg-id="Game of Thrones" tvg-logo="https://i.pinimg.com/originals/eb/86/61/eb86610fb222db8fdab3d9caebff6103.gif" group-title="CANAIS TV FAX",Game of Thrones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95682
-#EXTINF:-1 tvg-id="He-Man" tvg-logo="https://i.pinimg.com/originals/e4/a2/96/e4a296b1f39dc4a3829f953c5707b79b.gif" group-title="CANAIS TV FAX",He-Man
-http://voz.one:80/alexfnt/vTFBGKdUYq/95738
-#EXTINF:-1 tvg-id="Hercules" tvg-logo="https://i.pinimg.com/originals/a1/e3/4a/a1e34ab28febf82f66f2320828213f0a.gif" group-title="CANAIS TV FAX",Hercules
-http://voz.one:80/alexfnt/vTFBGKdUYq/95742
-#EXTINF:-1 tvg-id="Homem aranha" tvg-logo="https://super.abril.com.br/wp-content/uploads/2018/07/tumblr_mxtcw5qc791rjt9w2o1_500.gif?w=495" group-title="CANAIS TV FAX",Homem aranha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95740
-#EXTINF:-1 tvg-id="Jack Chan" tvg-logo="https://media.tenor.com/ffTkx4iTcIUAAAAM/jackie-chan-approve-ok.gif" group-title="CANAIS TV FAX",Jack Chan
-http://voz.one:80/alexfnt/vTFBGKdUYq/95743
-#EXTINF:-1 tvg-id="Jack Chan 2" tvg-logo="https://media.tenor.com/sL42nJpp8gUAAAAM/jackie-chan-dragons-forever.gif" group-title="CANAIS TV FAX",Jaclkie Chan 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95739
-#EXTINF:-1 tvg-id="Jaspion" tvg-logo="https://media.tenor.com/3_5hh_ZMnMAAAAAM/jaspion-transforms-to-robot.gif" group-title="CANAIS TV FAX",Jaspion
-http://voz.one:80/alexfnt/vTFBGKdUYq/95744
-#EXTINF:-1 tvg-id="Dragon Ball" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbortwbhRmfyvTB-EcPNAkiljkXIHfDPeux_gdiMkYLgd_ZS_1_paOdyWHrqT2EeWQKzo&usqp=CAU" group-title="CANAIS TV FAX",Dragon Ball
-http://voz.one:80/alexfnt/vTFBGKdUYq/95734
-#EXTINF:-1 tvg-id="Dragon Ball 1" tvg-logo="https://i.gifer.com/Hkv3.gif" group-title="CANAIS TV FAX",Dragon Ball 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95668
-#EXTINF:-1 tvg-id="Dragon Ball 2" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95669
-#EXTINF:-1 tvg-id="Dragon Ball Heroes" tvg-logo="https://i.pinimg.com/originals/ae/4c/22/ae4c2223ef945468f7b92b835c45b916.gif" group-title="CANAIS TV FAX",Dragon Ball Heroes
-http://voz.one:80/alexfnt/vTFBGKdUYq/95670
-#EXTINF:-1 tvg-id="Dragon Ball Super" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Super
-http://voz.one:80/alexfnt/vTFBGKdUYq/95735
-#EXTINF:-1 tvg-id="Dragon Ball Super 1" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Super 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95671
-#EXTINF:-1 tvg-id="Dragon Ball Super 2" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Super 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95672
-#EXTINF:-1 tvg-id="Dragon Ball Super 3" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Super 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/95673
-#EXTINF:-1 tvg-id="Dragon Ball Z" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Z
-http://voz.one:80/alexfnt/vTFBGKdUYq/95736
-#EXTINF:-1 tvg-id="Dragon Ball Z 1" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Z 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95674
-#EXTINF:-1 tvg-id="Dragon Ball Z 2" tvg-logo="https://giffiles.alphacoders.com/480/48044.gif" group-title="CANAIS TV FAX",Dragon Ball Z 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95675
-#EXTINF:-1 tvg-id="JIRAYA O Incrível Ninja" tvg-logo="https://i.makeagif.com/media/7-06-2017/KeokQY.gif" group-title="CANAIS TV FAX",JIRAYA O Incrível Ninja
-http://voz.one:80/alexfnt/vTFBGKdUYq/95745
-#EXTINF:-1 tvg-id="Kenan e Kel" tvg-logo="https://i.pinimg.com/originals/63/5f/fc/635ffc72627228c491363331f6c4ba0a.gif" group-title="CANAIS TV FAX", Kenan e Kel
-http://voz.one:80/alexfnt/vTFBGKdUYq/95746
-
-#EXTM3U url-tvg=" http://grade-de-Canal Brasil TV e Radio FAX.xml "
- ############## Canal Brasil TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanal Brasil TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil"tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj"group-title="Canal Brasil TV e Radio FAX",Canal Brasil (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13856
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil"tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj"group-title="Canal Brasil TV e Radio FAX",CANAL BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45893
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil"tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj"group-title="Canal Brasil TV e Radio FAX",CANAL BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45880
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil"tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj"group-title="Canal Brasil TV e Radio FAX",CANAL BRASIL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/123637
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil"tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj"group-title="Canal Brasil TV e Radio FAX",CANAL DO BOI
-http://voz.one:80/alexfnt/vTFBGKdUYq/45887
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil"tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj"group-title="Canal Brasil TV e Radio FAX",CANAL RURAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/56166
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil"tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj"group-title="Canal Brasil TV e Radio FAX",Canal Sony (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13857
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil"tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj"group-title="Canal Brasil TV e Radio FAX",CANÇÃO NOVA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56241
-
 #EXTM3U url-tvg=" http://grade-de-A&E TV e Radio FAX.xml "
  ############## A&E TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeA&E TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="A&E TV e Radio FAX",A&E 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/13848
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/225.m3u8
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="A&E TV e Radio FAX",A&E 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/418
-#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="A&E TV e Radio FAX",A&E 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/419
-#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="A&E TV e Radio FAX",A&E 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/420
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/225
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="A&E TV e Radio FAX",A&E FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/851.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="A&E TV e Radio FAX",A&E FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/210.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="A&E TV e Radio FAX",A&E HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/1.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="A&E TV e Radio FAX",A&E SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/444.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-AMC TV e Radio FAX.xml "
  ############## AMC TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeAMC TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="AMC TV e Radio FAX",AMC (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13849
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/228.m3u8
 #EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="AMC TV e Radio FAX",AMC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/421
-#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="AMC TV e Radio FAX",AMC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/422
-#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="AMC TV e Radio FAX",AMC SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/423
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/228
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="" group-title="AMC TV e Radio FAX",AMC HD
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/229.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="AMC TV e Radio FAX",AMC FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/840.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="AMC TV e Radio FAX",AMC FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/211.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="AMC TV e Radio FAX",AMC HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/2.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="AMC TV e Radio FAX",AMC SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/445.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-AXN TV e Radio FAX.xml "
  ############## AXN TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeAXN TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="AXN TV e Radio FAX",AXN (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13851
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/233.m3u8
 #EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="AXN TV e Radio FAX",AXN 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89347
-#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="AXN TV e Radio FAX",AXN FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/424
-#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="AXN TV e Radio FAX",AXN HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/425
-#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="AXN TV e Radio FAX",AXN SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/426
-#EXTINF:-1 tvg-id="" tvg-name="AXN"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLMa6OCpOzg83vZtBao9yK1VaBG7P1iU7uYtRmTN-OHP7mXvAEVetQ6efzaY1ld2OyXig&usqp=CAU"group-title="AXN TV e Radio FAX",AXN (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13851
-#EXTINF:-1 tvg-id="" tvg-name="AXN"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLMa6OCpOzg83vZtBao9yK1VaBG7P1iU7uYtRmTN-OHP7mXvAEVetQ6efzaY1ld2OyXig&usqp=CAU"group-title="AXN TV e Radio FAX",AXN 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89347
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/233
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="AXN TV e Radio FAX",AXN FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/835.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="AXN TV e Radio FAX",AXN FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/213.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="AXN TV e Radio FAX",AXN HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/4.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="AXN TV e Radio FAX",AXN SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/447.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-ARTE 1 TV e Radio FAX.xml "
  ############## ARTE 1 TV e Radio FAX  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeARTE 1 TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="ARTE 1 TV e Radio FAX",ARTE 1 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/787
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="ARTE 1 TV e Radio FAX",ARTE 1 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/788
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="ARTE 1 TV e Radio FAX",ARTE 1 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/789
-
-#EXTM3U url-tvg=" http://grade-de-AMAZON PRIME TV e Radio FAX.xml "
- ############## AMAZON PRIME TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeAMAZON PRIME TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="AMAZON PRIME" tvg-logo="https://i.blogs.es/57e3e8/amazon-prime-video-1/1366_2000.jpeg" group-title="AMAZON PRIME TV e Radio FAX",AMAZON PRIME JOGO 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/84336
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="AMAZON PRIME" tvg-logo="https://i.blogs.es/57e3e8/amazon-prime-video-1/1366_2000.jpeg" group-title="AMAZON PRIME TV e Radio FAX",AMAZON PRIME JOGO 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/84337
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="AMAZON PRIME" tvg-logo="https://i.blogs.es/57e3e8/amazon-prime-video-1/1366_2000.jpeg" group-title="AMAZON PRIME TV e Radio FAX",AMAZON PRIME JOGO 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/84338
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="AMAZON PRIME" tvg-logo="https://i.blogs.es/57e3e8/amazon-prime-video-1/1366_2000.jpeg" group-title="AMAZON PRIME TV e Radio FAX",AMAZON PRIME JOGO 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/84339
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/232
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="ARTE 1 TV e Radio FAX",ARTE 1 FHD
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/231.m3u8
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="ARTE 1 TV e Radio FAX",ARTE 1 HD
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/232.m3u8
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="ARTE 1 TV e Radio FAX",ARTE 1 SD
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/231
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://imgur.com/1dKnSXj.png" group-title="ARTE 1 TV e Radio FAX",ARTE 1 FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/876.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://imgur.com/1dKnSXj.png" group-title="ARTE 1 TV e Radio FAX",ARTE 1 HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/130.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://imgur.com/1dKnSXj.png" group-title="ARTE 1 TV e Radio FAX",ARTE 1 SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/2956.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Animal Planet TV e Radio FAX.xml "
  ############## Animal Planet TV e Radio FAX  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeAnimal Planet TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="Animal Planet (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Animal Planet TV e Radio FAX",Animal Planet (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13850
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/61
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="Animal Planet (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Animal Planet TV e Radio FAX",Animal Planet (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/225
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Animal Planet TV e Radio FAX",ANIMAL PLANET FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/1
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Animal Planet TV e Radio FAX",ANIMAL PLANET HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/2
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ANIMAL PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Animal Planet TV e Radio FAX",ANIMAL PLANET SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/3
-
-#EXTM3U url-tvg=" http://grade-de-Apple TV e Radio FAX.xml "
- ############## Apple TV e Radio FAX  ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeApple TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="Apple TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRjZAA0wil-cZ6mpNl72wIrH98WEW6k4Lv34nhShiTe3dlkAdUVfX0yXUXPgyRJ7xG_yU&usqp=CAU" group-title="Apple TV e Radio FAX",Apple TV - LIVE
-http://voz.one:80/alexfnt/vTFBGKdUYq/250997
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="Apple TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRjZAA0wil-cZ6mpNl72wIrH98WEW6k4Lv34nhShiTe3dlkAdUVfX0yXUXPgyRJ7xG_yU&usqp=CAU" group-title="Apple TV e Radio FAX",Apple TV - LIVE 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/250998
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/61.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="Animal Planet TV e Radio FAX",ANIMAL PLANET FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/804.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET H265" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="Animal Planet TV e Radio FAX",ANIMAL PLANET H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/212.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://ccdnblck.xyz:80/images/db8356a775d53e2a5d251cd48acaf23c.png" group-title="Animal Planet TV e Radio FAX",ANIMAL PLANET HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/3.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="Animal Planet TV e Radio FAX",ANIMAL PLANET SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/446.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-BIS TV e Radio FAX.xml "
  ############## BIS TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeBIS TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="BIS"tvg-logo="https://pbs.twimg.com/media/DoxXzc3XkAAwpcK.jpg"group-title="BIS TV e Radio FAX",BIS (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13854
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/419.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIS"tvg-logo="https://pbs.twimg.com/media/DoxXzc3XkAAwpcK.jpg"group-title="BIS TV e Radio FAX",BIS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/754
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/420.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIS"tvg-logo="https://pbs.twimg.com/media/DoxXzc3XkAAwpcK.jpg"group-title="BIS TV e Radio FAX",BIS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/755
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/419
 #EXTINF:-1 tvg-id="" tvg-name="BIS"tvg-logo="https://pbs.twimg.com/media/DoxXzc3XkAAwpcK.jpg"group-title="BIS TV e Radio FAX",BIS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/756
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/420
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD " tvg-logo="https://imgur.com/3inGYNL.png" group-title="BIS TV e Radio FAX",BIS FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/881.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS H265" tvg-logo="https://imgur.com/3inGYNL.png" group-title="BIS TV e Radio FAX",BIS H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/216.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://ccdnblck.xyz:80/images/dcaa4f705e7d0cfb0df0e1c4f3937d68.png" group-title="BIS TV e Radio FAX",BIS HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/6.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="https://imgur.com/3inGYNL.png" group-title="BIS TV e Radio FAX",BIS SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/453.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CARTOON NETWORK TV e Radio FAX.xml "
  ############## CARTOON NETWORK TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCARTOON NETWORK TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="CARTOON NETWORK TV e Radio FAX",CARTOON NETWORK
-http://voz.one:80/alexfnt/vTFBGKdUYq/226
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/346
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="CARTOON NETWORK TV e Radio FAX",CARTOON NETWORK
-http://voz.one:80/alexfnt/vTFBGKdUYq/625
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/347
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="CARTOON NETWORK TV e Radio FAX",CARTOON NETWORK
-http://voz.one:80/alexfnt/vTFBGKdUYq/626
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/346.m3u8
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="CARTOON NETWORK TV e Radio FAX",CARTOON NETWORK
-http://voz.one:80/alexfnt/vTFBGKdUYq/627
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/347.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://imgur.com/qqxY8co.png" group-title="CARTOON NETWORK TV e Radio FAX",CARTOON NETWORK FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/823.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK H265" tvg-logo="https://imgur.com/qqxY8co.png" group-title="CARTOON NETWORK TV e Radio FAX",CARTOON NETWORK H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/220.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://imgur.com/qqxY8co.png" group-title="CARTOON NETWORK TV e Radio FAX",CARTOON NETWORK HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/8.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://imgur.com/qqxY8co.png" group-title="CARTOON NETWORK TV e Radio FAX",CARTOON NETWORK SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/459.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Cartoonito TV e Radio FAX.xml "
  ############## Cartoonito TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCartoonito TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="Cartoonito" tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg" group-title="Cartoonito TV e Radio FAX",Cartoonito
-http://voz.one:80/alexfnt/vTFBGKdUYq/13855
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/344.m3u8
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="Cartoonito" tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg" group-title="Cartoonito TV e Radio FAX",Cartoonito
-http://voz.one:80/alexfnt/vTFBGKdUYq/622
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/345.m3u8
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="Cartoonito" tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg" group-title="Cartoonito TV e Radio FAX",Cartoonito
-http://voz.one:80/alexfnt/vTFBGKdUYq/623
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/344
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="Cartoonito" tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg" group-title="Cartoonito TV e Radio FAX",Cartoonito
-http://voz.one:80/alexfnt/vTFBGKdUYq/624
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito"tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg"group-title="Cartoonito TV e Radio FAX",Cartoonito FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/622
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito"tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg"group-title="Cartoonito TV e Radio FAX",CartoonNetwork (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13858
-
-#EXTM3U url-tvg=" http://grade-de-CHEF TV e Radio FAX.xml "
- ############## CHEF TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCHEF TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CHEF"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/25ad4e60efe362bbbb94cce0bc5ffe65.webp"group-title="CHEF TV e Radio FAX",CHEF TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/796
-#EXTINF:-1 tvg-id="" tvg-name="CHEF"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/25ad4e60efe362bbbb94cce0bc5ffe65.webp"group-title="CHEF TV e Radio FAX",CHEF TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/746
-#EXTINF:-1 tvg-id="" tvg-name="CHEF"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/25ad4e60efe362bbbb94cce0bc5ffe65.webp"group-title="CHEF TV e Radio FAX",Chef TV SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65350
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/345
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="http://ccdnblck.xyz:80/images/910b1f4bc1addc338e1431b1bc94078c.png" group-title="Cartoonito TV e Radio FAX",CARTOONITO FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/822.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO H265" tvg-logo="http://ccdnblck.xyz:80/images/910b1f4bc1addc338e1431b1bc94078c.png" group-title="Cartoonito TV e Radio FAX",CARTOONITO H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/217.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO HD" tvg-logo="http://ccdnblck.xyz:80/images/910b1f4bc1addc338e1431b1bc94078c.png" group-title="Cartoonito TV e Radio FAX",CARTOONITO HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/122.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="http://ccdnblck.xyz:80/images/910b1f4bc1addc338e1431b1bc94078c.png" group-title="Cartoonito TV e Radio FAX",CARTOONITO SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/454.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CINE TV e Radio FAX.xml "
  ############## CINE TV e Radio FAX ############## ### 
@@ -1011,6 +748,16 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/432
 http://voz.one:80/alexfnt/vTFBGKdUYq/433
 #EXTINF:-1 tvg-id="" tvg-name="CINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuwE7UWrB-8A-GRAoDlZy_SDt32Iy98Qu4rkbxm3286en2nvItf7qLZ8sq3EPwrr9_EsA&usqp=CAU"group-title="CINE TV e Radio FAX",CINE CANAL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/434
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CINE TV e Radio FAX",CINE SKY 1
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/686.m3u8
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CINE TV e Radio FAX",CINE SKY 2
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/687.m3u8
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CINE TV e Radio FAX",CINE SKY 3
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/688.m3u8
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CINE TV e Radio FAX",CINE SKY 4
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/689.m3u8
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5" tvg-logo="https://imgur.com/Qos1pmG.png" group-title="CINE TV e Radio FAX",CINE SKY 5
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/690.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Cineflix 24hs.xml "
  ############## Cineflix 24hs  ############## ### 
@@ -1079,140 +826,202 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/896437
 #EXTINF:-1 tvg-id=" iddocanaldeCinemax TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnd5C1Xtmknlvzfglac-OPMoUxEq0ykI1WdCnsjyws2SX9waRFGr0RitelBEQ6jTKlzIs&usqp=CAU"group-title="Cinemax TV e Radio FAX",Cinemax (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13859
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/239.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnd5C1Xtmknlvzfglac-OPMoUxEq0ykI1WdCnsjyws2SX9waRFGr0RitelBEQ6jTKlzIs&usqp=CAU"group-title="Cinemax TV e Radio FAX",CINEMAX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/427
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/240.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnd5C1Xtmknlvzfglac-OPMoUxEq0ykI1WdCnsjyws2SX9waRFGr0RitelBEQ6jTKlzIs&usqp=CAU"group-title="Cinemax TV e Radio FAX",CINEMAX HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/428
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/239
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnd5C1Xtmknlvzfglac-OPMoUxEq0ykI1WdCnsjyws2SX9waRFGr0RitelBEQ6jTKlzIs&usqp=CAU"group-title="Cinemax TV e Radio FAX",CINEMAX SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/429
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/240
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="Cinemax TV e Radio FAX",CINEMAX FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/841.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="Cinemax TV e Radio FAX",CINEMAX FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/221.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="Cinemax TV e Radio FAX",CINEMAX HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/9.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/2BFeYon.png" group-title="Cinemax TV e Radio FAX",CINEMAX SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/460.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CNN Brasil TV e Radio FAX.xml "
  ############## CNN Brasil TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCNN Brasil TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3zygLlUYpbBZPNEPIDjgoq_UpN6oF0I9YH5lsVm7PDc7gaG2bD5RI-kmBHSUB7no0ds&usqp=CAU"group-title="CNN Brasil TV e Radio FAX",CNN Brasil 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89346
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/433
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3zygLlUYpbBZPNEPIDjgoq_UpN6oF0I9YH5lsVm7PDc7gaG2bD5RI-kmBHSUB7no0ds&usqp=CAU"group-title="CNN Brasil TV e Radio FAX",CNN BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/684
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3zygLlUYpbBZPNEPIDjgoq_UpN6oF0I9YH5lsVm7PDc7gaG2bD5RI-kmBHSUB7no0ds&usqp=CAU"group-title="CNN Brasil TV e Radio FAX",CNN BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/685
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3zygLlUYpbBZPNEPIDjgoq_UpN6oF0I9YH5lsVm7PDc7gaG2bD5RI-kmBHSUB7no0ds&usqp=CAU"group-title="CNN Brasil TV e Radio FAX",CNN BRASIL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/688
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3zygLlUYpbBZPNEPIDjgoq_UpN6oF0I9YH5lsVm7PDc7gaG2bD5RI-kmBHSUB7no0ds&usqp=CAU"group-title="CNN Brasil TV e Radio FAX",CNN ESPANHOL
-http://voz.one:80/alexfnt/vTFBGKdUYq/130688
-##EXTINF:-1 tvg-id="" tvg-name="CNN Brasil"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3zygLlUYpbBZPNEPIDjgoq_UpN6oF0I9YH5lsVm7PDc7gaG2bD5RI-kmBHSUB7no0ds&usqp=CAU"group-title="CNN Brasil TV e Radio FAX",CNN INTERNACIONAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/130690
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/433.m3u8
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CNN Brasil TV e Radio FAX",CNN BRASIL FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/306.m3u8
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CNN Brasil TV e Radio FAX",CNN BRASIL HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/102.m3u8
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CNN Brasil TV e Radio FAX",CNN BRASIL SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/588.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Comedy Central TV e Radio FAX.xml "
  ############## Comedy Central TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeComedy Central TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16qVqkuJ1vS8qSD7Sut69Gjp9ffaq9C18-1xRBA50KwofPUufmI6ZRBS1ZFedlMSTnYk&usqp=CAU"group-title="Comedy Central TV e Radio FAX",Comedy Central (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13861
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/98.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16qVqkuJ1vS8qSD7Sut69Gjp9ffaq9C18-1xRBA50KwofPUufmI6ZRBS1ZFedlMSTnYk&usqp=CAU"group-title="Comedy Central TV e Radio FAX",Comedy Central 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89348
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/99.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16qVqkuJ1vS8qSD7Sut69Gjp9ffaq9C18-1xRBA50KwofPUufmI6ZRBS1ZFedlMSTnYk&usqp=CAU"group-title="Comedy Central TV e Radio FAX",COMEDY CENTRAL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/757
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/99
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16qVqkuJ1vS8qSD7Sut69Gjp9ffaq9C18-1xRBA50KwofPUufmI6ZRBS1ZFedlMSTnYk&usqp=CAU"group-title="Comedy Central TV e Radio FAX",COMEDY CENTRAL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/758
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16qVqkuJ1vS8qSD7Sut69Gjp9ffaq9C18-1xRBA50KwofPUufmI6ZRBS1ZFedlMSTnYk&usqp=CAU"group-title="Comedy Central TV e Radio FAX",COMEDY CENTRAL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/759
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/98
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://imgur.com/VFUqLY2.png" group-title="Comedy Central TV e Radio FAX",COMEDY CENTRAL FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/858.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL H265" tvg-logo="http://ccdnblck.xyz:80/images/77624533c7c0864dc7e94f2eda900242.png" group-title="Comedy Central TV e Radio FAX",COMEDY CENTRAL H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/223.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://ccdnblck.xyz:80/images/77624533c7c0864dc7e94f2eda900242.png" group-title="Comedy Central TV e Radio FAX",COMEDY CENTRAL HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/11.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://imgur.com/VFUqLY2.png" group-title="Comedy Central TV e Radio FAX",COMEDY CENTRAL SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/462.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Discovery TV e Radio FAX.xml "
  ############## Discovery TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeDiscovery TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvcUzRTIiQ5F4Nvp466wmvH1zxwfOEBKnFNhd8QwDMcDghc5HS0qo4fmFqz_uso2gNLo&usqp=CAU"group-title="Discovery TV e Radio FAX",Discovery Channel (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13862
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvcUzRTIiQ5F4Nvp466wmvH1zxwfOEBKnFNhd8QwDMcDghc5HS0qo4fmFqz_uso2gNLo&usqp=CAU"group-title="Discovery TV e Radio FAX",Discovery Channel 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/228
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvcUzRTIiQ5F4Nvp466wmvH1zxwfOEBKnFNhd8QwDMcDghc5HS0qo4fmFqz_uso2gNLo&usqp=CAU"group-title="Discovery TV e Radio FAX",DISCOVERY CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/4
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvcUzRTIiQ5F4Nvp466wmvH1zxwfOEBKnFNhd8QwDMcDghc5HS0qo4fmFqz_uso2gNLo&usqp=CAU"group-title="Discovery TV e Radio FAX",DISCOVERY CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/5
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvcUzRTIiQ5F4Nvp466wmvH1zxwfOEBKnFNhd8QwDMcDghc5HS0qo4fmFqz_uso2gNLo&usqp=CAU"group-title="Discovery TV e Radio FAX",DISCOVERY CHANNEL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/6
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://yt3.googleusercontent.com/g2yWVS0d89CjIng4zx_-unQomxCVwsVreSvMk1fBkE_U4Tq9evplFFYfEUz2pb2CPCBd8B_-WQ=s176-c-k-c0x00ffffff-no-rj"group-title="Discovery TV e Radio FAX",Discovery Home & Health (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13864
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://yt3.googleusercontent.com/g2yWVS0d89CjIng4zx_-unQomxCVwsVreSvMk1fBkE_U4Tq9evplFFYfEUz2pb2CPCBd8B_-WQ=s176-c-k-c0x00ffffff-no-rj"group-title="Discovery TV e Radio FAX",DISCOVERY HOME & HEALTH FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/7
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://yt3.googleusercontent.com/g2yWVS0d89CjIng4zx_-unQomxCVwsVreSvMk1fBkE_U4Tq9evplFFYfEUz2pb2CPCBd8B_-WQ=s176-c-k-c0x00ffffff-no-rj"group-title="Discovery TV e Radio FAX",DISCOVERY HOME & HEALTH HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://yt3.googleusercontent.com/g2yWVS0d89CjIng4zx_-unQomxCVwsVreSvMk1fBkE_U4Tq9evplFFYfEUz2pb2CPCBd8B_-WQ=s176-c-k-c0x00ffffff-no-rj"group-title="Discovery TV e Radio FAX",DISCOVERY HOME & HEALTH SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/9
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyYnYRmt3DB0yGIIl9Sw5Rk_JuiT10ZatnCIEcPciu-P8o1FX0OsJ7gO81tQpDYpSiTk&usqp=CAU"group-title="Discovery TV e Radio FAX",Discovery Kids (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13865
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyYnYRmt3DB0yGIIl9Sw5Rk_JuiT10ZatnCIEcPciu-P8o1FX0OsJ7gO81tQpDYpSiTk&usqp=CAU"group-title="Discovery TV e Radio FAX",DISCOVERY KIDS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/628
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyYnYRmt3DB0yGIIl9Sw5Rk_JuiT10ZatnCIEcPciu-P8o1FX0OsJ7gO81tQpDYpSiTk&usqp=CAU"group-title="Discovery TV e Radio FAX",DISCOVERY KIDS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/629
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyYnYRmt3DB0yGIIl9Sw5Rk_JuiT10ZatnCIEcPciu-P8o1FX0OsJ7gO81tQpDYpSiTk&usqp=CAU"group-title="Discovery TV e Radio FAX",DISCOVERY KIDS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/662
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://i.ytimg.com/vi/D1_upDw-DFM/maxresdefault.jpg"group-title="Discovery TV e Radio FAX",Discovery Science (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13866
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://i.ytimg.com/vi/D1_upDw-DFM/maxresdefault.jpg"group-title="Discovery TV e Radio FAX",DISCOVERY SCIENCE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/10
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://i.ytimg.com/vi/D1_upDw-DFM/maxresdefault.jpg"group-title="Discovery TV e Radio FAX",DISCOVERY SCIENCE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/11
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://i.ytimg.com/vi/D1_upDw-DFM/maxresdefault.jpg"group-title="Discovery TV e Radio FAX",DISCOVERY SCIENCE SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/12
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png"group-title="Discovery TV e Radio FAX",Discovery Theater (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13867
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png"group-title="Discovery TV e Radio FAX",DISCOVERY THEATER FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/13
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png"group-title="Discovery TV e Radio FAX",DISCOVERY THEATER HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/14
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png"group-title="Discovery TV e Radio FAX",DISCOVERY THEATER SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/15
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png"group-title="Discovery TV e Radio FAX",DISCOVERY TLC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/16
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png"group-title="Discovery TV e Radio FAX",DISCOVERY TLC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/17
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png"group-title="Discovery TV e Radio FAX",DISCOVERY TLC SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/18
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"group-title="Discovery TV e Radio FAX",Discovery Turbo (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13868
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"group-title="Discovery TV e Radio FAX",Discovery Turbo 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89350
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"group-title="Discovery TV e Radio FAX",DISCOVERY TURBO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/19
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"group-title="Discovery TV e Radio FAX",DISCOVERY TURBO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/20
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"group-title="Discovery TV e Radio FAX",DISCOVERY TURBO SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/21
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtosBCbq9UW1llyDN0qmdNIHR3iMIUikg7Ru-pfY5FQDnW6jjJEx0rjFO7aEwvsrmblVg&usqp=CAU"group-title="Discovery TV e Radio FAX",Discovery World (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13869
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtosBCbq9UW1llyDN0qmdNIHR3iMIUikg7Ru-pfY5FQDnW6jjJEx0rjFO7aEwvsrmblVg&usqp=CAU"group-title="Discovery TV e Radio FAX",DISCOVERY WORLD FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/22
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtosBCbq9UW1llyDN0qmdNIHR3iMIUikg7Ru-pfY5FQDnW6jjJEx0rjFO7aEwvsrmblVg&usqp=CAU"group-title="Discovery TV e Radio FAX",DISCOVERY WORLD HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/23
-#EXTINF:-1 tvg-id="" tvg-name="Discovery"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtosBCbq9UW1llyDN0qmdNIHR3iMIUikg7Ru-pfY5FQDnW6jjJEx0rjFO7aEwvsrmblVg&usqp=CAU"group-title="Discovery TV e Radio FAX",DISCOVERY WORLD SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/24
+#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="Discovery TV e Radio FAX",DISCOVERY CHANNEL 4K
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/65.m3u8
+#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="Discovery TV e Radio FAX",DISCOVERY H&H 4K
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/67.m3u8
+#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H HD" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="Discovery TV e Radio FAX",DISCOVERY H&H HD
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/68.m3u8
+#EXTINF:-1 tvg-id="67fcc0ef70dbe00de1b3deb1f8df83a7" tvg-name="DISCOVERY ID 4K" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="Discovery TV e Radio FAX",DISCOVERY ID 4K
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/69.m3u8
+#EXTINF:-1 tvg-id="67fcc0ef70dbe00de1b3deb1f8df83a7" tvg-name="DISCOVERY ID HD" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="Discovery TV e Radio FAX",DISCOVERY ID HD
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/70.m3u8
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="Discovery TV e Radio FAX",DISCOVERY KIDS 4K
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/348.m3u8
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="Discovery TV e Radio FAX",DISCOVERY KIDS HD
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/349.m3u8
+#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="Discovery TV e Radio FAX",DISCOVERY SCIENCE 4k
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/71.m3u8
+#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="Discovery TV e Radio FAXS",DISCOVERY SCIENCE HD
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/72.m3u8
+#EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="Discovery TV e Radio FAX",DISCOVERY THEATER 4K
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/73.m3u8
+#EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="Discovery TV e Radio FAX",DISCOVERY THEATER HD
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/74.m3u8
+#EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="Discovery TV e Radio FAX",DISCOVERY TURBO 4K
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/75.m3u8
+#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="Discovery TV e Radio FAX",DISCOVERY WORLD 4K
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/77.m3u8
+#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="Discovery TV e Radio FAX",DISCOVERY WORLD HD
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/78.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-DISNEY CHANNEL TV e Radio FAX.xml "
  ############## DISNEY CHANNEL TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeDISNEY CHANNEL TV e Radio FAX" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg"group-title="DISNEY CHANNEL TV e Radio FAX",DISNEY CHANNEL (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13870
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/351
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg"group-title="DISNEY CHANNEL TV e Radio FAX",DISNEY CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/630
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/352
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg"group-title="DISNEY CHANNEL TV e Radio FAX",DISNEY CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/631
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/351.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg"group-title="DISNEY CHANNEL TV e Radio FAX",DISNEY CHANNEL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/632
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/352.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-DISNEY CHANNEL TV e Radio FAX.xml "
+ ############## DISNEY CHANNEL TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeDISNEY CHANNEL TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="CANAIS  | DISCOVERY",DISCOVERY CHANNEL FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/808.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL H265" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="CANAIS  | DISCOVERY",DISCOVERY CHANNEL H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/224.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="CANAIS  | DISCOVERY",DISCOVERY CHANNEL HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/12.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="CANAIS  | DISCOVERY",DISCOVERY CHANNEL SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/464.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://imgur.com/EKPaDs6.png" group-title="CANAIS  | DISCOVERY",DISCOVERY H&H FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/807.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H H265" tvg-logo="https://imgur.com/EKPaDs6.png" group-title="CANAIS  | DISCOVERY",DISCOVERY H&H H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/226.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://imgur.com/EKPaDs6.png" group-title="CANAIS  | DISCOVERY",DISCOVERY H&H HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/14.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://imgur.com/EKPaDs6.png" group-title="CANAIS  | DISCOVERY",DISCOVERY H&H SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/465.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS | INFANTIL.xml "
+ ############## CANAIS | INFANTIL ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | INFANTIL" group-title="
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL FHD " tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/825.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL H265" tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/232.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/20.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/3906.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://imgur.com/Lp56sC5.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/824.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS H265" tvg-logo="https://imgur.com/Lp56sC5.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/227.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://imgur.com/Lp56sC5.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/15.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://imgur.com/Lp56sC5.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/466.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS  | DISCOVERY.xml "
+ ############## CANAIS  | DISCOVERY ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  | DISCOVERY" group-title="
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD " tvg-logo="https://imgur.com/5db7nmT.png" group-title="CANAIS  | DISCOVERY",DISCOVERY SCIENCE FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/820.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE H265" tvg-logo="https://imgur.com/5db7nmT.png" group-title="CANAIS  | DISCOVERY",DISCOVERY SCIENCE H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/228.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://imgur.com/5db7nmT.png" group-title="CANAIS  | DISCOVERY",DISCOVERY SCIENCE HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/16.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://imgur.com/5db7nmT.png" group-title="CANAIS  | DISCOVERY",DISCOVERY SCIENCE SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76670.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://imgur.com/Adiw1CS.png" group-title="CANAIS  | DISCOVERY",DISCOVERY THEATER FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/821.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER H265" tvg-logo="https://imgur.com/Adiw1CS.png" group-title="CANAIS  | DISCOVERY",DISCOVERY THEATER H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/229.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://imgur.com/Adiw1CS.png" group-title="CANAIS  | DISCOVERY",DISCOVERY THEATER HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/17.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://imgur.com/Adiw1CS.png" group-title="CANAIS  | DISCOVERY",DISCOVERY THEATER SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76671.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD " tvg-logo="https://imgur.com/tYWcfMx.png" group-title="CANAIS  | DISCOVERY",DISCOVERY TURBO FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/818.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO H265" tvg-logo="https://imgur.com/tYWcfMx.png" group-title="CANAIS  | DISCOVERY",DISCOVERY TURBO H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/230.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://imgur.com/tYWcfMx.png" group-title="CANAIS  | DISCOVERY",DISCOVERY TURBO HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/18.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://imgur.com/tYWcfMx.png" group-title="CANAIS  | DISCOVERY",DISCOVERY TURBO SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/467.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD " tvg-logo="https://imgur.com/w37PObs.png" group-title="CANAIS  | DISCOVERY",DISCOVERY WORLD FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/802.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD H265" tvg-logo="https://imgur.com/w37PObs.png" group-title="CANAIS  | DISCOVERY",DISCOVERY WORLD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/231.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://imgur.com/w37PObs.png" group-title="CANAIS  | DISCOVERY",DISCOVERY WORLD HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/19.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://imgur.com/w37PObs.png" group-title="CANAIS  | DISCOVERY",DISCOVERY WORLD SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76672.m3u8
+
 
 #EXTM3U url-tvg=" http://grade-de-E TV e Radio FAX",.xml "
  ############## E TV e Radio FAX", ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeE TV e Radio FAX"," group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="E"tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/e-logo.jpg?quality=70&strip=all"group-title="E TV e Radio FAX",E (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13872
+http://78.159.119.122:2082/live/Tourobox1-uordQjtY3s/QvMRmCopZ6/101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E"tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/e-logo.jpg?quality=70&strip=all"group-title="E TV e Radio FAX",E FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/762
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/102
 #EXTINF:-1 tvg-id="" tvg-name="E"tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/e-logo.jpg?quality=70&strip=all"group-title="E TV e Radio FAX",E HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/763
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/103
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="https://imgur.com/qxfLv9r.png" group-title="E TV e Radio FAX",E! FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/864.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! H265 " tvg-logo="https://imgur.com/qxfLv9r.png" group-title="E TV e Radio FAX",E! H265 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/234.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://imgur.com/qxfLv9r.png" group-title="E TV e Radio FAX",E! HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/22.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://ccdnblck.xyz:80/images/9c27309f718dd9996942b9c34e65016c.png" group-title="E TV e Radio FAX",E! SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/471.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Especiais 24hs .xml "
  ############## Especiais 24hs  ############## ### 
@@ -1265,570 +1074,478 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/442
 http://voz.one:80/alexfnt/vTFBGKdUYq/443
 #EXTINF:-1 tvg-id="" tvg-name="FX"tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/logo1.png"group-title="FX TV e Radio FAX",FX SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/444
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="FX TV e Radio FAX",FX FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/842.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="FX TV e Radio FAX",FX FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/246.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="FX TV e Radio FAX",FX HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/34.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="FX TV e Radio FAX",FX SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/486.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-GNT TV e Radio FAX.xml "
  ############## GNT TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeGNT TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="GNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeYLcq2DZbJpQ2gZkp794IsSg_cx8eiDmX5dfAlrbn0cRpl24Ab05rElGbZUdtTj7MyE&usqp=CAU"group-title="GNT TV e Radio FAX",GNT (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13887
-#EXTINF:-1 tvg-id="" tvg-name="GNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeYLcq2DZbJpQ2gZkp794IsSg_cx8eiDmX5dfAlrbn0cRpl24Ab05rElGbZUdtTj7MyE&usqp=CAU"group-title="GNT TV e Radio FAX",GNT 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89353
-#EXTINF:-1 tvg-id="" tvg-name="GNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeYLcq2DZbJpQ2gZkp794IsSg_cx8eiDmX5dfAlrbn0cRpl24Ab05rElGbZUdtTj7MyE&usqp=CAU"group-title="GNT TV e Radio FAX",GNT FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/766
-#EXTINF:-1 tvg-id="" tvg-name="GNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeYLcq2DZbJpQ2gZkp794IsSg_cx8eiDmX5dfAlrbn0cRpl24Ab05rElGbZUdtTj7MyE&usqp=CAU"group-title="GNT TV e Radio FAX",GNT HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/765
-#EXTINF:-1 tvg-id="" tvg-name="GNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeYLcq2DZbJpQ2gZkp794IsSg_cx8eiDmX5dfAlrbn0cRpl24Ab05rElGbZUdtTj7MyE&usqp=CAU"group-title="GNT TV e Radio FAX",GNT SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/767
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="GNT TV e Radio FAX",GNT FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/862.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT H265 " tvg-logo="https://imgur.com/q7F7LPD.png" group-title="GNT TV e Radio FAX",GNT H265 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/249.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="GNT TV e Radio FAX",GNT HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/38.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="GNT TV e Radio FAX",GNT FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/862.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT H265 " tvg-logo="https://imgur.com/q7F7LPD.png" group-title="GNT TV e Radio FAX",GNT H265 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/249.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="GNT TV e Radio FAX",GNT HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/38.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://imgur.com/q7F7LPD.png" group-title="GNT TV e Radio FAX",GNT SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/494.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://imgur.com/q7F7LPD.png" group-title="GNT TV e Radio FAX",GNT SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/494.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-H2 TV e Radio FAX.xml "
- ############## H2 TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeH2 TV e Radio FAX" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS HBO tv fax.xml "
+ ############## CANAIS HBO tv fax ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO tv fax" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="H2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"group-title="H2 TV e Radio FAX",H2 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13894
-#EXTINF:-1 tvg-id="" tvg-name="H2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"group-title="H2 TV e Radio FAX",H2 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/29
-#EXTINF:-1 tvg-id="" tvg-name="H2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"group-title="H2 TV e Radio FAX",H2 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/30
-#EXTINF:-1 tvg-id="" tvg-name="H2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"group-title="H2 TV e Radio FAX",H2 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/31
-
-#EXTM3U url-tvg=" http://grade-de-HBO TV e Radio FAX.xml "
- ############## HBO TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeHBO TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lfBtqYW9LDlsQML3OprPQ7ju5lNkSNSpY2KS5cyqHy2P9yEOqHS1b6gLj0Q5NvaZstg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/611
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmb6M38TUdHVrXV2jufN1K5WHhpjVR7DLx-nzu0Zcjvcd1w8SRbmG0zJ4JVbSXiXwygU&usqp=CAU"group-title="HBO TV e Radio FAX",HBO SIGNATURE (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13891
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmb6M38TUdHVrXV2jufN1K5WHhpjVR7DLx-nzu0Zcjvcd1w8SRbmG0zJ4JVbSXiXwygU&usqp=CAU"group-title="HBO TV e Radio FAX",HBO SIGNATURE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/612
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmb6M38TUdHVrXV2jufN1K5WHhpjVR7DLx-nzu0Zcjvcd1w8SRbmG0zJ4JVbSXiXwygU&usqp=CAU"group-title="HBO TV e Radio FAX",HBO SIGNATURE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/613
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmb6M38TUdHVrXV2jufN1K5WHhpjVR7DLx-nzu0Zcjvcd1w8SRbmG0zJ4JVbSXiXwygU&usqp=CAU"group-title="HBO TV e Radio FAX",HBO SIGNATURE SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/614
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png"group-title="HBO TV e Radio FAX",HBO XTREME (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13899
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png"group-title="HBO TV e Radio FAX",HBO XTREME (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/615
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png"group-title="HBO TV e Radio FAX",HBO XTREME (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/616
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png"group-title="HBO TV e Radio FAX",HBO XTREME (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/617
-#EXTINF:-1 tvg-id="" tvg-name="HBO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lfBtqYW9LDlsQML3OprPQ7ju5lNkSNSpY2KS5cyqHy2P9yEOqHS1b6gLj0Q5NvaZstg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13889
-#EXTINF:-1 tvg-id="" tvg-name="HBO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lfBtqYW9LDlsQML3OprPQ7ju5lNkSNSpY2KS5cyqHy2P9yEOqHS1b6gLj0Q5NvaZstg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO 2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/594
-#EXTINF:-1 tvg-id="" tvg-name="HBO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lfBtqYW9LDlsQML3OprPQ7ju5lNkSNSpY2KS5cyqHy2P9yEOqHS1b6gLj0Q5NvaZstg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/595
-#EXTINF:-1 tvg-id="" tvg-name="HBO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lfBtqYW9LDlsQML3OprPQ7ju5lNkSNSpY2KS5cyqHy2P9yEOqHS1b6gLj0Q5NvaZstg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO 2 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/596
-#EXTINF:-1 tvg-id="" tvg-name="HBO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lfBtqYW9LDlsQML3OprPQ7ju5lNkSNSpY2KS5cyqHy2P9yEOqHS1b6gLj0Q5NvaZstg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/232
-#EXTINF:-1 tvg-id="" tvg-name="HBO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lfBtqYW9LDlsQML3OprPQ7ju5lNkSNSpY2KS5cyqHy2P9yEOqHS1b6gLj0Q5NvaZstg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/600
-#EXTINF:-1 tvg-id="" tvg-name="HBO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lfBtqYW9LDlsQML3OprPQ7ju5lNkSNSpY2KS5cyqHy2P9yEOqHS1b6gLj0Q5NvaZstg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/601
-#EXTINF:-1 tvg-id="" tvg-name="HBO Familly"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/800px-HBO_Family_Asia_logo.svg.png"group-title="HBO TV e Radio FAX",HBO Familly (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13888
-#EXTINF:-1 tvg-id="" tvg-name="HBO Familly"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/800px-HBO_Family_Asia_logo.svg.png"group-title="HBO TV e Radio FAX",HBO FAMILY FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/597
-#EXTINF:-1 tvg-id="" tvg-name="HBO Familly"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/800px-HBO_Family_Asia_logo.svg.png"group-title="HBO TV e Radio FAX",HBO FAMILY HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/598
-#EXTINF:-1 tvg-id="" tvg-name="HBO Familly"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/800px-HBO_Family_Asia_logo.svg.png"group-title="HBO TV e Radio FAX",HBO FAMILY SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/599
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6iljQgboWl8nyWATL8pIwk9URsWeTuqPWMiAs7qPgw_NHbAYZD88IZdEq86tw0Te4AdI&usqp=CAU"group-title="HBO TV e Radio FAX",HBO MAX 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/57702
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6iljQgboWl8nyWATL8pIwk9URsWeTuqPWMiAs7qPgw_NHbAYZD88IZdEq86tw0Te4AdI&usqp=CAU"group-title="HBO TV e Radio FAX",HBO MAX 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/57703
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6iljQgboWl8nyWATL8pIwk9URsWeTuqPWMiAs7qPgw_NHbAYZD88IZdEq86tw0Te4AdI&usqp=CAU"group-title="HBO TV e Radio FAX",HBO MAX 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/57704
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6iljQgboWl8nyWATL8pIwk9URsWeTuqPWMiAs7qPgw_NHbAYZD88IZdEq86tw0Te4AdI&usqp=CAU"group-title="HBO TV e Radio FAX",HBO MAX 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/66044
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6iljQgboWl8nyWATL8pIwk9URsWeTuqPWMiAs7qPgw_NHbAYZD88IZdEq86tw0Te4AdI&usqp=CAU"group-title="HBO TV e Radio FAX",HBO MAX 5
-http://voz.one:80/alexfnt/vTFBGKdUYq/124780
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9pmFC3jfusqeWu2GMyAB-7Cq_L2CmGlDTAmTpLV86ayGljdsN6vS2-IlpQyrcyVnFOw&usqp=CAU"group-title="HBO TV e Radio FAX",HBO MUNDI (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13898
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9pmFC3jfusqeWu2GMyAB-7Cq_L2CmGlDTAmTpLV86ayGljdsN6vS2-IlpQyrcyVnFOw&usqp=CAU"group-title="HBO TV e Radio FAX",HBO MUNDI FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/602
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9pmFC3jfusqeWu2GMyAB-7Cq_L2CmGlDTAmTpLV86ayGljdsN6vS2-IlpQyrcyVnFOw&usqp=CAU"group-title="HBO TV e Radio FAX",HBO MUNDI HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/603
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9pmFC3jfusqeWu2GMyAB-7Cq_L2CmGlDTAmTpLV86ayGljdsN6vS2-IlpQyrcyVnFOw&usqp=CAU"group-title="HBO TV e Radio FAX",HBO MUNDI SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/604
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFHb2ZHvvl6rdI-jQDtAQJwQ_y5n9mm5ms6sG8wPd7sXvfOxn823g1XInbNnuYaXUUTg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO PLUS (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13890
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFHb2ZHvvl6rdI-jQDtAQJwQ_y5n9mm5ms6sG8wPd7sXvfOxn823g1XInbNnuYaXUUTg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO PLUS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/605
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFHb2ZHvvl6rdI-jQDtAQJwQ_y5n9mm5ms6sG8wPd7sXvfOxn823g1XInbNnuYaXUUTg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO PLUS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/606
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFHb2ZHvvl6rdI-jQDtAQJwQ_y5n9mm5ms6sG8wPd7sXvfOxn823g1XInbNnuYaXUUTg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO PLUS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/607
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFHb2ZHvvl6rdI-jQDtAQJwQ_y5n9mm5ms6sG8wPd7sXvfOxn823g1XInbNnuYaXUUTg&usqp=CAU"group-title="HBO TV e Radio FAX",HBO POP (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13900
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeK7SQEf5qNvc7tc86MrZu4Sz_4IAdSgSM7u7bqWhhOhtj_CJF0dpos-2xyOxXjMArHQE&usqp=CAU"group-title="HBO TV e Radio FAX",HBO POP FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/608
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeK7SQEf5qNvc7tc86MrZu4Sz_4IAdSgSM7u7bqWhhOhtj_CJF0dpos-2xyOxXjMArHQE&usqp=CAU"group-title="HBO TV e Radio FAX",HBO POP HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/609
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeK7SQEf5qNvc7tc86MrZu4Sz_4IAdSgSM7u7bqWhhOhtj_CJF0dpos-2xyOxXjMArHQE&usqp=CAU"group-title="HBO TV e Radio FAX",HBO POP SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/610
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="HBO TV e Radio FAX",HBO FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1891
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="HBO TV e Radio FAX",HBO HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2144
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="HBO TV e Radio FAX",HBO
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2139
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20HD.png" group-title="HBO TV e Radio FAX",HBO Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1271
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO Alternativo" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="HBO TV e Radio FAX",HBO Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1140
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="http://prinplay.com.br/server/HBO%202%20HD.png" group-title="HBO TV e Radio FAX",HBO 2 FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1890
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://prinplay.com.br/server/HBO%202%20HD.png" group-title="HBO TV e Radio FAX",HBO 2 HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2141
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2" tvg-logo="http://prinplay.com.br/server/HBO%202.png" group-title="HBO TV e Radio FAX",HBO 2
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2140
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%202%20HD.png" group-title="HBO TV e Radio FAX",HBO 2 Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1405
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%202.png" group-title="HBO TV e Radio FAX",HBO 2 Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1141
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="HBO TV e Radio FAX",HBO Plus FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1840
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus HD" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="HBO TV e Radio FAX",HBO Plus HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2146
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="HBO TV e Radio FAX",HBO Plus
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2145
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="HBO TV e Radio FAX",HBO Plus Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1318
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="HBO TV e Radio FAX",HBO Plus Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1142
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Family%20HD.png" group-title="HBO TV e Radio FAX",HBO Family FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1839
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family HD" tvg-logo="http://prinplay.com.br/server/HBO%20Family%20HD.png" group-title="HBO TV e Radio FAX",HBO Family HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2143
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family" tvg-logo="http://prinplay.com.br/server/HBO%20Family.png" group-title="HBO TV e Radio FAX",HBO Family
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2142
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Family%20HD.png" group-title="HBO TV e Radio FAX",HBO Family Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1317
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Family.png" group-title="HBO TV e Radio FAX",HBO Family Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1198
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Signature%20HD.png" group-title="HBO TV e Radio FAX",HBO Signature FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1841
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature HD" tvg-logo="http://prinplay.com.br/server/HBO%20Signature%20HD.png" group-title="HBO TV e Radio FAX",HBO Signature HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2148
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature" tvg-logo="http://prinplay.com.br/server/HBO%20Signature.png" group-title="HBO TV e Radio FAX",HBO Signature
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2147
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Signature%20HD.png" group-title="HBO TV e Radio FAX",HBO Signature Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1319
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Signature.png" group-title="HBO TV e Radio FAX",HBO Signature Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1143
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="HBO TV e Radio FAX",HBO Mundi FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1845
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="HBO TV e Radio FAX",HBO Mundi HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2158
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="HBO TV e Radio FAX",HBO Mundi
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2157
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="HBO TV e Radio FAX",HBO Mundi Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1477
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="HBO TV e Radio FAX",HBO Mundi
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1202
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="HBO TV e Radio FAX",HBO POP FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1847
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="HBO TV e Radio FAX",HBO POP HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2162
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="HBO TV e Radio FAX",HBO POP
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2161
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="HBO TV e Radio FAX",HBO POP Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1478
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="HBO TV e Radio FAX",HBO POP Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1149
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO TV e Radio FAX",HBO Xtreme FHD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1846
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO TV e Radio FAX",HBO Xtreme HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2160
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO TV e Radio FAX",HBO Xtreme
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/2159
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme Alternativo HD" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO TV e Radio FAX",HBO Xtreme Alternativo HD
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1265
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme Alternativo" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="HBO TV e Radio FAX",HBO Xtreme Alternativo
-http://dns.acaidopara.net:8080/Claudio6431/11987416431/1203
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD " tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS HBO tv fax",HBO 2 FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/793.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 H265" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS HBO tv fax",HBO 2 H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/254.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS HBO tv fax",HBO 2 HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/39.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS HBO tv fax",HBO 2 SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/499.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD " tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS HBO tv fax",HBO FAMILY FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/795.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS HBO tv fax",HBO FAMILY HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/40.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS HBO tv fax",HBO FAMILY SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/496.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS HBO tv fax",HBO FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/792.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO H265" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS HBO tv fax",HBO H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/251.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS HBO tv fax",HBO HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/41.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS HBO tv fax",HBO SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/495.m3u8
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 02" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS HBO tv fax",HBO MAX 02
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS HBO tv fax",HBO MAX 03
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS HBO tv fax",HBO MAX 04
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS HBO tv fax",HBO MAX 05
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS HBO tv fax",HBO MAX 06
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 07" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS HBO tv fax",HBO MAX 07
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 08" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS HBO tv fax",HBO MAX 08
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76699.m3u8
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 09" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS HBO tv fax",HBO MAX 09
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76700.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD " tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS HBO tv fax",HBO MUNDI FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/797.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI H265" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS HBO tv fax",HBO MUNDI H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/260.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS HBO tv fax",HBO MUNDI HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/48.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS HBO tv fax",HBO PLUS FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/794.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS H265" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS HBO tv fax",HBO PLUS H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/252.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS HBO tv fax",HBO PLUS HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/42.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS HBO tv fax",HBO PLUS SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/497.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD " tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS HBO tv fax",HBO POP FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/799.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP H265" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS HBO tv fax",HBO POP H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/262.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS HBO tv fax",HBO POP HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/50.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS HBO tv fax",HBO SIGNATURE FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/796.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE H265 " tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS HBO tv fax",HBO SIGNATURE H265 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/253.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS HBO tv fax",HBO SIGNATURE HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/43.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS HBO tv fax",HBO SIGNATURE SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/498.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS HBO tv fax",HBO XTREME FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/798.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265 :" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS HBO tv fax",HBO XTREME FHD H265 :
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/261.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS HBO tv fax",HBO XTREME HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/49.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS HBO tv fax",HBO XTREME SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76662.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD " tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS HBO tv fax",HBO 2 FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/793.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 H265" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS HBO tv fax",HBO 2 H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/254.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS HBO tv fax",HBO 2 HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/39.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS HBO tv fax",HBO 2 SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/499.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD " tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS HBO tv fax",HBO FAMILY FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/795.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS HBO tv fax",HBO FAMILY HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/40.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS HBO tv faxO",HBO FAMILY SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/496.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS HBO tv fax",HBO FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/792.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO H265" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS HBO tv fax",HBO H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/251.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS HBO tv fax",HBO HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/41.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS HBO tv fax",HBO SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/495.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD " tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS HBO tv fax",HBO MUNDI FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/797.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI H265" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS HBO tv fax",HBO MUNDI H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/260.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS HBO tv fax",HBO MUNDI HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/48.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS HBO tv fax",HBO PLUS FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/794.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS H265" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS HBO tv fax",HBO PLUS H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/252.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS HBO tv fax",HBO PLUS HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/42.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS HBO tv fax",HBO PLUS SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/497.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD " tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS HBO tv fax",HBO POP FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/799.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP H265" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS HBO tv fax",HBO POP H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/262.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS HBO tv fax",HBO POP HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/50.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS HBO tv fax",HBO SIGNATURE FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/796.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE H265 " tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS HBO tv fax",HBO SIGNATURE H265 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/253.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS HBO tv fax",HBO SIGNATURE HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/43.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS HBO tv fax",HBO SIGNATURE SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/498.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS HBO tv fax",HBO XTREME FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/798.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265 :" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS HBO tv fax",HBO XTREME FHD H265 :
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/261.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS HBO tv fax",HBO XTREME HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/49.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS HBO tv fax",HBO XTREME SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76662.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-HGTV TV e Radio FAX.xml "
  ############## HGTV TV e Radio FAX  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeHGTV TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV  SD"tvg-logo="https://deadline.com/wp-content/uploads/2021/06/HGTV-logo-featured.jpg"group-title="HGTV TV e Radio FAX",HGTV  SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/768
-#EXTINF:-1 tvg-id="" tvg-name="HGTV (H265)"tvg-logo="https://deadline.com/wp-content/uploads/2021/06/HGTV-logo-featured.jpg"group-title="HGTV TV e Radio FAX",HGTV (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13863
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD"tvg-logo="https://deadline.com/wp-content/uploads/2021/06/HGTV-logo-featured.jpg"group-title="HGTV TV e Radio FAX",HGTV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/769
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD"tvg-logo="https://deadline.com/wp-content/uploads/2021/06/HGTV-logo-featured.jpg"group-title="HGTV TV e Radio FAX",HGTV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/770
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD " tvg-logo="https://imgur.com/oRZnRI0.png" group-title="HGTV TV e Radio FAX",HGTV FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/861.m3u8
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV H265 " tvg-logo="https://imgur.com/oRZnRI0.png" group-title="HGTV TV e Radio FAX",HGTV H265 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/225.m3u8
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://imgur.com/oRZnRI0.png" group-title="HGTV TV e Radio FAX",HGTV HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/13.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-NatGeo TV e Radio FAX.xml "
  ############## NatGeo TV e Radio FAX  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeNatGeo TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4MtlcwTw8K072SsHMiY_D6rYLTUN1K3t-N-xCs8iAr2srx3mu32FRnoQH54nccod3UE&usqp=CAU"group-title="NatGeo TV e Radio FAX",NatGeo (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13904
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4MtlcwTw8K072SsHMiY_D6rYLTUN1K3t-N-xCs8iAr2srx3mu32FRnoQH54nccod3UE&usqp=CAU"group-title="NatGeo TV e Radio FAX",NATGEO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/39
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4MtlcwTw8K072SsHMiY_D6rYLTUN1K3t-N-xCs8iAr2srx3mu32FRnoQH54nccod3UE&usqp=CAU"group-title="NatGeo TV e Radio FAX",NatGeo Wild (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13905
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4MtlcwTw8K072SsHMiY_D6rYLTUN1K3t-N-xCs8iAr2srx3mu32FRnoQH54nccod3UE&usqp=CAU"group-title="NatGeo TV e Radio FAX",NatGeo
-http://voz.one:80/alexfnt/vTFBGKdUYq/41
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4MtlcwTw8K072SsHMiY_D6rYLTUN1K3t-N-xCs8iAr2srx3mu32FRnoQH54nccod3UE&usqp=CAU"group-title="NatGeo TV e Radio FAX",NatGeo
-http://voz.one:80/alexfnt/vTFBGKdUYq/42
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4MtlcwTw8K072SsHMiY_D6rYLTUN1K3t-N-xCs8iAr2srx3mu32FRnoQH54nccod3UE&usqp=CAU"group-title="NatGeo TV e Radio FAX",NatGeo
-http://voz.one:80/alexfnt/vTFBGKdUYq/43
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD" tvg-logo="https://imgur.com/acAruWG.png" group-title="NatGeo TV e Radio FAX",NATGEO FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/805.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO H265" tvg-logo="https://imgur.com/acAruWG.png" group-title="NatGeo TV e Radio FAX",NATGEO H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/266.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://imgur.com/acAruWG.png" group-title="NatGeo TV e Radio FAX",NATGEO HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/54.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="https://imgur.com/acAruWG.png" group-title="NatGeo TV e Radio FAX",NATGEO SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/514.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Paramount TV e Radio FAX.xml "
  ############## Paramount TV e Radio FAX  ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeParamount TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zkNORh6vTXnNvOJxzYAReWdsLnzcEFnwugnCZQr6KozGec6oXVaiLwFPjWBQcJQE76s&usqp=CAU"group-title="Paramount TV e Radio FAX",Paramount (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13910
-#EXTINF:-1 tvg-id="" tvg-name="Paramount"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zkNORh6vTXnNvOJxzYAReWdsLnzcEFnwugnCZQr6KozGec6oXVaiLwFPjWBQcJQE76s&usqp=CAU"group-title="Paramount TV e Radio FAX",PARAMOUNT CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/451
-#EXTINF:-1 tvg-id="" tvg-name="Paramount"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zkNORh6vTXnNvOJxzYAReWdsLnzcEFnwugnCZQr6KozGec6oXVaiLwFPjWBQcJQE76s&usqp=CAU"group-title="Paramount TV e Radio FAX",PARAMOUNT CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/452
-#EXTINF:-1 tvg-id="" tvg-name="Paramount"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zkNORh6vTXnNvOJxzYAReWdsLnzcEFnwugnCZQr6KozGec6oXVaiLwFPjWBQcJQE76s&usqp=CAU"group-title="Paramount TV e Radio FAX",PARAMOUNT CHANNEL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/453
-#EXTINF:-1 tvg-id="" tvg-name="Paramount"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zkNORh6vTXnNvOJxzYAReWdsLnzcEFnwugnCZQr6KozGec6oXVaiLwFPjWBQcJQE76s&usqp=CAU"group-title="Paramount TV e Radio FAX",Paramount+ 1 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84448
-#EXTINF:-1 tvg-id="" tvg-name="Paramount"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zkNORh6vTXnNvOJxzYAReWdsLnzcEFnwugnCZQr6KozGec6oXVaiLwFPjWBQcJQE76s&usqp=CAU"group-title="Paramount TV e Radio FAX",Paramount+ 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84449
-#EXTINF:-1 tvg-id="" tvg-name="Paramount"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zkNORh6vTXnNvOJxzYAReWdsLnzcEFnwugnCZQr6KozGec6oXVaiLwFPjWBQcJQE76s&usqp=CAU"group-title="Paramount TV e Radio FAX",Paramount+ 3 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84450
-#EXTINF:-1 tvg-id="" tvg-name="Paramount"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zkNORh6vTXnNvOJxzYAReWdsLnzcEFnwugnCZQr6KozGec6oXVaiLwFPjWBQcJQE76s&usqp=CAU"group-title="Paramount TV e Radio FAX",Paramount+ 4 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84451
-
-#EXTM3U url-tvg=" http://grade-de-DISCOVERY INVESTIGAÇÃO DISCOVERY TV e Radio FAX.xml "
- ############## DISCOVERY INVESTIGAÇÃO DISCOVERY TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeDISCOVERY INVESTIGAÇÃO DISCOVERY TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",DISCOVERY INVESTIGAÇÃO DISCOVERY (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13895
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",DISCOVERY INVESTIGAÇÃO DISCOVERY FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/35
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",DISCOVERY INVESTIGAÇÃO DISCOVERY HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/37
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGAÇÃO DISCOVERY"tvg-logo="https://i.ytimg.com/vi/9Vq6zmsd8VY/maxresdefault.jpg"group-title="ID - INVESTIGAÇÃO DISCOVERY TV e Radio FAX",DISCOVERY INVESTIGAÇÃO DISCOVERY SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/36
-
-#EXTM3U url-tvg=" http://grade-de-HGTV TV e Radio FAX.xml "
- ############## HGTV TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeHGTV TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="HGTV"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdV_hJ3ivMTz8HeOiHVi2FR6K8FPGOJJ1gB97mrGPpO5m6x5YtDZt8Gwd8fjuyq7KRDQ&usqp=CAU"group-title="HGTV TV e Radio FAX",HGTV  SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/768
-#EXTINF:-1 tvg-id="" tvg-name="HGTV"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdV_hJ3ivMTz8HeOiHVi2FR6K8FPGOJJ1gB97mrGPpO5m6x5YtDZt8Gwd8fjuyq7KRDQ&usqp=CAU"group-title="HGTV TV e Radio FAX",HGTV (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13863
-#EXTINF:-1 tvg-id="" tvg-name="HGTV"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdV_hJ3ivMTz8HeOiHVi2FR6K8FPGOJJ1gB97mrGPpO5m6x5YtDZt8Gwd8fjuyq7KRDQ&usqp=CAU"group-title="HGTV TV e Radio FAX",HGTV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/769
-#EXTINF:-1 tvg-id="" tvg-name="HGTV"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdV_hJ3ivMTz8HeOiHVi2FR6K8FPGOJJ1gB97mrGPpO5m6x5YtDZt8Gwd8fjuyq7KRDQ&usqp=CAU"group-title="HGTV TV e Radio FAX",HGTV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/770
-
-#EXTM3U url-tvg=" http://grade-de-LIFETIME TV e Radio FAX.xml "
- ############## LIFETIME TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeLIFETIME TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime (H265)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg"group-title="LIFETIME TV e Radio FAX",Lifetime (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13896
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg"group-title="LIFETIME TV e Radio FAX",LIFETIME FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/445
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg"group-title="LIFETIME TV e Radio FAX",LIFETIME HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/446
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg"group-title="LIFETIME TV e Radio FAX",LIFETIME SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/447
-
-#EXTM3U url-tvg=" http://grade-de-FX TV e Radio FAX.xml "
- ############## FX TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeFX TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="FX"tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj"group-title="FX TV e Radio FAX",FX (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13884
-#EXTINF:-1 tvg-id="" tvg-name="FX"tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj"group-title="FX TV e Radio FAX",FX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/442
-#EXTINF:-1 tvg-id="" tvg-name="FX"tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj"group-title="FX TV e Radio FAX",FX HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/443
-#EXTINF:-1 tvg-id="" tvg-name="FX"tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj"group-title="FX TV e Radio FAX",FX SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/444
-
-#EXTM3U url-tvg=" http://grade-de-SKY PLAY TV e Radio FAX.xml "
- ############## SKY PLAY TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeSKY PLAY TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/343
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/344
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/345
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/346
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 05
-http://voz.one:80/alexfnt/vTFBGKdUYq/324
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 06
-http://voz.one:80/alexfnt/vTFBGKdUYq/338
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 07
-http://voz.one:80/alexfnt/vTFBGKdUYq/333
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 08
-http://voz.one:80/alexfnt/vTFBGKdUYq/339
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 09
-http://voz.one:80/alexfnt/vTFBGKdUYq/342
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 10
-http://voz.one:80/alexfnt/vTFBGKdUYq/335
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATYhN00NvHVe-vuKpxksmtta8CEsCvDcAdCAskCzIsGivELkGumM29ixCy8VzGM_0dw&usqp=CAU"group-title="SKY PLAY TV e Radio FAX",SKY PLAY 11
-http://voz.one:80/alexfnt/vTFBGKdUYq/340
-
-#EXTM3U url-tvg=" http://grade-de-SONY TV e Radio FAX.xml "
- ############## SONY TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeSONY TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="SONY"tvg-logo="https://yt3.googleusercontent.com/qHj9hpnL0dnqxWOsMzQ8bAQ2RZ540O-esDOeoV4VN1O6gOTuG2Eoo1RBvsb0x-5j9rBj5GMp6Q=s900-c-k-c0x00ffffff-no-rj"group-title="SONY TV e Radio FAX",SONY FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/454
-#EXTINF:-1 tvg-id="" tvg-name="SONY"tvg-logo="https://yt3.googleusercontent.com/qHj9hpnL0dnqxWOsMzQ8bAQ2RZ540O-esDOeoV4VN1O6gOTuG2Eoo1RBvsb0x-5j9rBj5GMp6Q=s900-c-k-c0x00ffffff-no-rj"group-title="SONY TV e Radio FAX",SONY HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/455
-#EXTINF:-1 tvg-id="" tvg-name="SONY"tvg-logo="https://yt3.googleusercontent.com/qHj9hpnL0dnqxWOsMzQ8bAQ2RZ540O-esDOeoV4VN1O6gOTuG2Eoo1RBvsb0x-5j9rBj5GMp6Q=s900-c-k-c0x00ffffff-no-rj"group-title="SONY TV e Radio FAX",SONY SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/456
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="Paramount TV e Radio FAX",PARAMOUNT FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/845.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="Paramount TV e Radio FAX",PARAMOUNT FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/272.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="Paramount TV e Radio FAX",PARAMOUNT HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/60.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="Paramount TV e Radio FAX",PARAMOUNT SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/519.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Space TV e Radio FAX.xml "
  ############## Space TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeSpace TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Space"tvg-logo="https://i.ytimg.com/vi/rUYzTTjOQyk/maxresdefault.jpg"group-title="Space TV e Radio FAX",Space (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13920
-#EXTINF:-1 tvg-id="" tvg-name="Space"tvg-logo="https://i.ytimg.com/vi/rUYzTTjOQyk/maxresdefault.jpg"group-title="Space TV e Radio FAX",SPACE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/457
-#EXTINF:-1 tvg-id="" tvg-name="Space"tvg-logo="https://i.ytimg.com/vi/rUYzTTjOQyk/maxresdefault.jpg"group-title="Space TV e Radio FAX",SPACE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/458
-#EXTINF:-1 tvg-id="" tvg-name="Space"tvg-logo="https://i.ytimg.com/vi/rUYzTTjOQyk/maxresdefault.jpg"group-title="Space TV e Radio FAX",SPACE SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/459
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4K" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="Space TV e Radio FAX",SPACE 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80568.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="Space TV e Radio FAX",SPACE FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/846.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="Space TV e Radio FAX",SPACE FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/282.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="Space TV e Radio FAX",SPACE HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/70.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="Space TV e Radio FAX",SPACE SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/543.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Star Channel TV e Radio FAX.xml "
  ############## Star Channel TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeStar Channel TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",Star Channel (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13879
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",Star Channel 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/229
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",STAR CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/430
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",STAR CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/431
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",STAR CHANNEL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/441
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",STAR+ 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/57676
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",STAR+ 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/57706
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",STAR+ 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/57707
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",STAR+ 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/65302
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",STAR+ 5
-http://voz.one:80/alexfnt/vTFBGKdUYq/65303
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",STAR+ 6
-http://voz.one:80/alexfnt/vTFBGKdUYq/65304
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhJZ91EQVYW8kptDsb6QCTvSiHS_Pr4tEEmeZkQQpgyPYzYDMzJT-kD4RTiBZiCjg7nA&usqp=CAU"group-title="Star Channel TV e Radio FAX",STAR+ 7
-http://voz.one:80/alexfnt/vTFBGKdUYq/65305
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL 4K" tvg-logo="https://imgur.com/O9w4VCR.png" group-title="Star Channel TV e Radio FAX",STAR CHANNEL 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80561.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Studio Universal TV e Radio FAX.xml "
  ############## Studio Universal TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeStudio Universal TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5No459iS15D-rZ_9Ao6DajPvhDH81VosVQq63xP--Ud601t_zunuY7_cbzL17RTyoIJQ&usqp=CAU"group-title="Studio Universal TV e Radio FAX",Studio Universal (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13924
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5No459iS15D-rZ_9Ao6DajPvhDH81VosVQq63xP--Ud601t_zunuY7_cbzL17RTyoIJQ&usqp=CAU"group-title="Studio Universal TV e Radio FAX",STUDIO UNIVERSAL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/460
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5No459iS15D-rZ_9Ao6DajPvhDH81VosVQq63xP--Ud601t_zunuY7_cbzL17RTyoIJQ&usqp=CAU"group-title="Studio Universal TV e Radio FAX",STUDIO UNIVERSAL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/461
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5No459iS15D-rZ_9Ao6DajPvhDH81VosVQq63xP--Ud601t_zunuY7_cbzL17RTyoIJQ&usqp=CAU"group-title="Studio Universal TV e Radio FAX",STUDIO UNIVERSAL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/462
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Studio Universal TV e Radio FAX",Universal Channel 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89355
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Studio Universal TV e Radio FAX",UNIVERSAL TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/475
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Studio Universal TV e Radio FAX",UNIVERSAL TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/476
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/220px-Universal_Channel_2013.png"group-title="Studio Universal TV e Radio FAX",UNIVERSAL TV SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/477
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="Studio Universal TV e Radio FAX",STUDIO UNIVERSAL FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/847.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="Studio Universal TV e Radio FAX",STUDIO UNIVERSAL FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/286.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="Studio Universal TV e Radio FAX",STUDIO UNIVERSAL HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/74.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="Studio Universal TV e Radio FAX",STUDIO UNIVERSAL SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/547.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-UNIVERSAL TV e Radio FAX.xml "
+ ############## UNIVERSAL TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeUNIVERSAL TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="UNIVERSAL TV e Radio FAX",UNIVERSAL CHANNEL FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/301.m3u8
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="UNIVERSAL TV e Radio FAX",UNIVERSAL CHANNEL HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/90.m3u8
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="UNIVERSAL TV e Radio FAX",UNIVERSAL CHANNEL SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/585.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-TLC TV e Radio FAX.xml "
+ ############## TLC TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTLC TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD " tvg-logo="https://imgur.com/S37uvno.png" group-title="TLC TV e Radio FAX",TLC FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/809.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC H265" tvg-logo="https://imgur.com/S37uvno.png" group-title="TLC TV e Radio FAX",TLC H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/295.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://imgur.com/S37uvno.png" group-title="TLC TV e Radio FAX",TLC HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/83.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://imgur.com/S37uvno.png" group-title="TLC TV e Radio FAX",TLC SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/558.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-STAR CHANNEL TV e Radio FAX.xml "
+ ############## STAR CHANNEL TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeSTAR CHANNEL TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://imgur.com/O9w4VCR.png" group-title="STAR CHANNEL TV e Radio FAX",STAR CHANNEL FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/836.m3u8
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL H265 " tvg-logo="http://ccdnblck.xyz:80/images/3b13cbd847e51e5512e1e26ca5df033d.png" group-title="STAR CHANNEL TV e Radio FAX",STAR CHANNEL H265 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/241.m3u8
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://imgur.com/O9w4VCR.png" group-title=STAR CHANNEL TV e Radio FAX",STAR CHANNEL HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/28.m3u8
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://imgur.com/O9w4VCR.png" group-title="STAR CHANNEL TV e Radio FAX",STAR CHANNEL SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/481.m3u8
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINECANAL FHD " tvg-logo="https://i.imgur.com/ToaD0MQ.png" group-title="STAR CHANNEL TV e Radio FAX",CINECANAL FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/837.m3u8
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINECANAL HD" tvg-logo="https://i.imgur.com/ToaD0MQ.png" group-title="STAR CHANNEL TV e Radio FAX",CINECANAL HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/29.m3u8
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINECANAL SD" tvg-logo="https://i.imgur.com/ToaD0MQ.png" group-title="STAR CHANNEL TV e Radio FAX",CINECANAL SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/482.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-SYFY TV e Radio FAX.xml "
  ############## SYFY TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeSYFY TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13925
-#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/463
-#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/464
-#EXTINF:-1 tvg-id="" tvg-name="SYFY"tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQKJLuR2LJMcDUgqJA0tFfT8l1ZsD225H-Izzi_MQ=s900-c-k-c0x00ffffff-no-rj"group-title="SYFY TV e Radio FAX",SYFY SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/465
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="SYFY TV e Radio FAX",SYFY FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/857.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="SYFY TV e Radio FAX",SYFY FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/287.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="SYFY TV e Radio FAX",SYFY HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/75.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="SYFY TV e Radio FAX",SYFY SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/548.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-TCM TV e Radio FAX.xml "
  ############## TCM TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTCM TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="TCM"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxZGh8IokeH5NO_qfHAN9UYH9u4h4OqOuKXNDwaAwmI14VKXinQXSbf_VB4RxPVnVMds&usqp=CAU"group-title="TCM TV e Radio FAX",TCM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/467
-#EXTINF:-1 tvg-id="" tvg-name="TCM"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxZGh8IokeH5NO_qfHAN9UYH9u4h4OqOuKXNDwaAwmI14VKXinQXSbf_VB4RxPVnVMds&usqp=CAU"group-title="TCM TV e Radio FAX",TCM SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/468
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="TCM TV e Radio FAX",TCM FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/877.m3u8
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="TCM TV e Radio FAX",TCM HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/131.m3u8
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="TCM TV e Radio FAX",TCM SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/550.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-TELECINE TV e Radio FAX.xml "
  ############## TELECINE TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTELECINE TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE Action (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13927
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE Action 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89354
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE ACTION FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/798
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE ACTION HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/799
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE ACTION SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/800
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Cult (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13928
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE CULT FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/801
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE CULT HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/802
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE CULT SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/803
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Fun (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13929
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE FUN FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/804
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE FUN HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/805
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE FUN SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/797
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Pipoca (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13930
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Pipoca 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/238
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/806
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/807
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/808
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Premium (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13931
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Premium 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/221
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/809
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/810
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/811
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",Telecine Touch (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13932
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE TOUCH FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/812
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE TOUCH HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/813
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazc2q6TlbGv3zj8MKO4r6PnOTtN0yI5_Gy5z3Bur2FkQcxyPTwyT08A0ynvc4B3cb4MY&usqp=CAU"group-title="TELECINE TV e Radio FAX",TELECINE TOUCH SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/814
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://imgur.com/Xdl0FU1.png" group-title="TELECINE TV e Radio FAX",TELECINE ACTION FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/787.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION H265" tvg-logo="https://imgur.com/Xdl0FU1.png" group-title="TELECINE TV e Radio FAX",TELECINE ACTION H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/289.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://imgur.com/Xdl0FU1.png" group-title="TELECINE TV e Radio FAX",TELECINE ACTION HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/77.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://imgur.com/Xdl0FU1.png" group-title="TELECINE TV e Radio FAX",TELECINE ACTION SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/551.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD " tvg-logo="https://imgur.com/UI5Z3cf.png" group-title="TELECINE TV e Radio FAX",TELECINE CULT FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/791.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT H265" tvg-logo="https://imgur.com/UI5Z3cf.png" group-title="TELECINE TV e Radio FAX",TELECINE CULT H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/290.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://imgur.com/UI5Z3cf.png" group-title="TELECINE TV e Radio FAX",TELECINE CULT HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/78.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://imgur.com/UI5Z3cf.png" group-title="TELECINE TV e Radio FAX",TELECINE CULT SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/552.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://imgur.com/9uzg3hN.png" group-title="TELECINE TV e Radio FAX",TELECINE FUN FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/790.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN H265 " tvg-logo="https://imgur.com/9uzg3hN.png" group-title="TELECINE TV e Radio FAX",TELECINE FUN H265 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/291.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://imgur.com/9uzg3hN.png" group-title="TELECINE TV e Radio FAX",TELECINE FUN HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/79.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://imgur.com/9uzg3hN.png" group-title="TELECINE TV e Radio FAX",TELECINE FUN SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/553.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD " tvg-logo="https://imgur.com/uLUN3d9.png" group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/789.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA H265" tvg-logo="https://imgur.com/uLUN3d9.png" group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/292.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://imgur.com/uLUN3d9.png" group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://imgur.com/uLUN3d9.png" group-title="TELECINE TV e Radio FAX",TELECINE PIPOCA SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/554.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://imgur.com/VjdttBW.png" group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/786.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM H265" tvg-logo="https://imgur.com/VjdttBW.png" group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/293.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://imgur.com/VjdttBW.png" group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/81.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://imgur.com/VjdttBW.png" group-title="TELECINE TV e Radio FAX",TELECINE PREMIUM SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/555.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD " tvg-logo="https://imgur.com/f5TPZe4.png" group-title="TELECINE TV e Radio FAX",TELECINE TOUCH FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/788.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH H265" tvg-logo="https://imgur.com/f5TPZe4.png" group-title="TELECINE TV e Radio FAX",TELECINE TOUCH H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/294.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://imgur.com/f5TPZe4.png" group-title="TELECINE TV e Radio FAX",TELECINE TOUCH HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/82.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://imgur.com/f5TPZe4.png" group-title="TELECINE TV e Radio FAX",TELECINE TOUCH SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/556.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Warner  TV e Radio FAX.xml "
  ############## Warner  TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeWarner  TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",Warner (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13941
-#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",WARNER CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/478
-#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",WARNER CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/479
-#EXTINF:-1 tvg-id="" tvg-name="Warner "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTur-qLCWtUAkzRgyIWUZC7HZSN0np0lMC2p8TrSbvlab0Yb_oIWfaz_dDp3R-AH_yNSZY&usqp=CAU"group-title="Warner  TV e Radio FAX",WARNER CHANNEL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/480
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://i.imgur.com/M6YFOLU.png" group-title="Warner  TV e Radio FAX",WARNER CHANNEL FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/850.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="https://i.imgur.com/M6YFOLU.png" group-title="Warner  TV e Radio FAX",WARNER CHANNEL FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/303.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.imgur.com/M6YFOLU.png" group-title="Warner  TV e Radio FAX",WARNER CHANNEL HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/93.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://i.imgur.com/M6YFOLU.png" group-title="Warner  TV e Radio FAX",WARNER CHANNEL SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/581.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-TNT TV e Radio FAX.xml "
  ############## TNT TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTNT TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13934
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/223
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/469
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/470
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT NOVELAS (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13926
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT NOVELAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/487
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT NOVELAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/466
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/471
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT Series 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/224
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SERIES FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/472
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SERIES HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/473
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLle5jMPtzV0GUJUiiY-sGBqfwmX8jTSI4q8yPf46wb12RRIDResFBYsBJ2NrCfzw3PU&usqp=CAU"group-title="TNT TV e Radio FAX",TNT SERIES SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/474
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="TNT TV e Radio FAX",TNT FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/785.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="TNT TV e Radio FAX",TNT FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/296.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="TNT TV e Radio FAX",TNT HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/84.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="TNT TV e Radio FAX",TNT SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/559.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="https://i.imgur.com/139b1zs.png" group-title="TNT TV e Radio FAX",TNT SERIES FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/849.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="https://i.imgur.com/139b1zs.png" group-title="TNT TV e Radio FAX",TNT SERIES FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/297.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/139b1zs.png" group-title="TNT TV e Radio FAX",TNT SERIES HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/85.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/139b1zs.png" group-title="TNT TV e Radio FAX",TNT SERIES SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/560.m3u8
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS FHD" tvg-logo="https://i.imgur.com/Mqc0BOR.png" group-title="TNT TV e Radio FAX",TNT NOVELAS FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/856.m3u8
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS FHD H265" tvg-logo="https://i.imgur.com/Mqc0BOR.png" group-title="TNT TV e Radio FAX",TNT NOVELAS FHD H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/288.m3u8
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.imgur.com/Mqc0BOR.png" group-title="TNT TV e Radio FAX",TNT NOVELAS HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76.m3u8
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS SD" tvg-logo="https://i.imgur.com/Mqc0BOR.png" group-title="TNT TV e Radio FAX",TNT NOVELAS SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/549.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-TOONCAST TV e Radio FAX.xml "
- ############## TOONCAST TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeTOONCAST TV e Radio FAX" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS | 4K.xml "
+ ############## CANAIS | 4K ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | 4K" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtXK0LWHX0TsXRzGG7L0-ItUq0yFaapNa3WnGUEnYTPLLng6JG8tS1yvqDkTTYqiJdy0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",TOONCAST FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/653
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtXK0LWHX0TsXRzGG7L0-ItUq0yFaapNa3WnGUEnYTPLLng6JG8tS1yvqDkTTYqiJdy0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",TOONCAST HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/664
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtXK0LWHX0TsXRzGG7L0-ItUq0yFaapNa3WnGUEnYTPLLng6JG8tS1yvqDkTTYqiJdy0&usqp=CAU"group-title="TOONCAST TV e Radio FAX",TOONCAST SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/654
+#EXTINF:-1 tvg-id="" tvg-name="BONS TEMPOS TV" tvg-logo="https://i.imgur.com/CDUhqE9.png" group-title="CANAIS | 4K",BONS TEMPOS TV
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80161.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND 4K" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title=" CANAIS | 4K",BAND 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80551.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD 4K" tvg-logo="http://ccdnblck.xyz:80/images/b23c658b46fae6ef8e694cd4983d8e3e.png" group-title=" CANAIS | 4K",RECORD 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80552.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png" group-title=" CANAIS | 4K",PREMIERE CLUBES 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80553.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://imgur.com/VjdttBW.png" group-title=" CANAIS | 4K",TELECINE PREMIUM 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80554.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title=" CANAIS | 4K",TNT 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80555.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES 4K" tvg-logo="https://i.imgur.com/139b1zs.png" group-title=" CANAIS | 4K",TNT SERIES 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80556.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title=" CANAIS | 4K",ANIMAL PLANET 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80557.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://imgur.com/qqxY8co.png" group-title=" CANAIS | 4K",CARTOON NETWORK 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80558.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE 4K" tvg-logo="https://imgur.com/mYkXWsu.png" group-title=" CANAIS | 4K",COMBATE 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80559.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://imgur.com/W26d4Fq.png" group-title=" CANAIS | 4K",DISCOVERY CHANNEL 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80560.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO 4K" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title=" CANAIS | 4K",GLOBO 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80563.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title=" CANAIS | 4K",HBO 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80564.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title=" CANAIS | 4K",MEGAPIX 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80565.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title=" CANAIS | 4K",MULTISHOW 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80566.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title=" CANAIS | 4K",SBT 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80567.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title=" CANAIS | 4K",SPORTV 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80569.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME 4K" tvg-logo="https://imgur.com/zvcpVnD.png" group-title=" CANAIS | 4K",HBO XTREME 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80570.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO 4K" tvg-logo="https://imgur.com/acAruWG.png" group-title=" CANAIS | 4K",NATGEO 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80572.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://imgur.com/uvjIrfv.png" group-title=" CANAIS | 4K",FOX SPORTS 2 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80573.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV 4K" tvg-logo="https://imgur.com/YNn2B3g.png" group-title=" CANAIS | 4K",REDE TV 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80574.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://imgur.com/uLUN3d9.png" group-title=" CANAIS | 4K",TELECINE PIPOCA 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/80575.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title=" CANAIS | 4K",JOVEM PAN NEWS 4K
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/81009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLN TV" tvg-logo="https://i.imgur.com/1Hbk7bn.png" group-title=" CANAIS | 4K",GLN TV
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/82855.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-Woohoo TV e Radio FAX.xml "
- ############## Woohoo TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeWoohoo TV e Radio FAX" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS | VARIEDADES.xml "
+ ############## CANAIS | VARIEDADES ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | VARIEDADES" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",Woohoo (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13942
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",WOOHOO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/656
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",WOOHOO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/657
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys5Jh4Kg4ltQsMVTrKeHEMctqQyy9OhWeGgkpzRRdSoKPDMpN6CgukQwf5T5nMVGuEw&usqp=CAU"group-title="TOONCAST TV e Radio FAX",WOOHOO SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/658
-
-#EXTM3U url-tvg=" http://grade-de-ZOOMO TV e Radio FAX.xml "
- ############## ZOOMO TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeZOOMO TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCx3pzV4uDgGnpNkhvVA8MnwwLesa_JmGp5A8ge2zsKawXfLkGV6yW5J9evrabfNIo8g&usqp=CAU"group-title="ZOOMO  TV e Radio FAX",ZOOMO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/659
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCx3pzV4uDgGnpNkhvVA8MnwwLesa_JmGp5A8ge2zsKawXfLkGV6yW5J9evrabfNIo8g&usqp=CAU"group-title="ZOOMO  TV e Radio FAX",ZOOMOO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/660
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCx3pzV4uDgGnpNkhvVA8MnwwLesa_JmGp5A8ge2zsKawXfLkGV6yW5J9evrabfNIo8g&usqp=CAU"group-title="ZOOMO  TV e Radio FAX",ZOOMOO SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/661
-
-#EXTM3U url-tvg=" http://grade-de-Megapix TV e Radio FAX.xml "
- ############## Megapix TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeMegapix TV e Radio FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Megapix"tvg-logo="https://t2.tudocdn.net/520760?w=1920"group-title="Megapix TV e Radio FAX",Megapix (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13901
-#EXTINF:-1 tvg-id="" tvg-name="Megapix"tvg-logo="https://t2.tudocdn.net/520760?w=1920"group-title="Megapix TV e Radio FAX",Megapix 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/233
-#EXTINF:-1 tvg-id="" tvg-name="Megapix"tvg-logo="https://t2.tudocdn.net/520760?w=1920"group-title="Megapix TV e Radio FAX",MEGAPIX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/448
-#EXTINF:-1 tvg-id="" tvg-name="Megapix"tvg-logo="https://t2.tudocdn.net/520760?w=1920"group-title="Megapix TV e Radio FAX",MEGAPIX HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/449
-#EXTINF:-1 tvg-id="" tvg-name="Megapix"tvg-logo="https://t2.tudocdn.net/520760?w=1920"group-title="Megapix TV e Radio FAX",MEGAPIX SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/450
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV FHD" tvg-logo="https://imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/875.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV H265" tvg-logo="https://imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/304.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV HD" tvg-logo="https://imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/129.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV SD" tvg-logo="https://imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/582.m3u8
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO FHD " tvg-logo="https://imgur.com/hB8pCu1.png" group-title="CANAIS | INFANTIL",ZOOMOO FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/832.m3u8
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://imgur.com/hB8pCu1.png" group-title="CANAIS | INFANTIL",ZOOMOO HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/833.m3u8
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://imgur.com/hB8pCu1.png" group-title="CANAIS | INFANTIL",ZOOMOO SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/583.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Star & HBO Max.xml "
  ############## Star & HBO Max ############## ### 
@@ -1915,179 +1632,33 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/66580
 #EXTINF:-1 tvg-id="" tvg-name="Star+ 5 " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="Star & HBO Max",Star+ 5 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/66581
 
-#EXTM3U url-tvg=" http://grade-de-24H TV e Radio FAX.xml "
- ############## 24H TV e Radio FAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanalde24H TV e Radio FAX" group-title="
+#EXTM3U url-tvg=" http://grade-de-TOONCAST TV e Radio FAX.xml "
+ ############## TOONCAST TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTOONCAST TV e Radio FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H 3 Palavrinhas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95650
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Alladin
-http://voz.one:80/alexfnt/vTFBGKdUYq/95718
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H As Meninas Super poderosas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95653
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H As Meninas Superpoderosas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95719
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Ben 10
-http://voz.one:80/alexfnt/vTFBGKdUYq/95720
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H BOB
-http://voz.one:80/alexfnt/vTFBGKdUYq/95748
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Bob esponja
-http://voz.one:80/alexfnt/vTFBGKdUYq/95721
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Capitão Caverna
-http://voz.one:80/alexfnt/vTFBGKdUYq/95712
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Caverna do Dragão
-http://voz.one:80/alexfnt/vTFBGKdUYq/95660
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Caverna do dragão
-http://voz.one:80/alexfnt/vTFBGKdUYq/95723
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Central Kids
-http://voz.one:80/alexfnt/vTFBGKdUYq/95724
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chapolin colorado
-http://voz.one:80/alexfnt/vTFBGKdUYq/95725
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chapolin Colorado 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/126146
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chaves
-http://voz.one:80/alexfnt/vTFBGKdUYq/95662
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Chaves Cartoon
-http://voz.one:80/alexfnt/vTFBGKdUYq/95726
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Cine kids
-http://voz.one:80/alexfnt/vTFBGKdUYq/95727
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Desenhos disney
-http://voz.one:80/alexfnt/vTFBGKdUYq/95731
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon
-http://voz.one:80/alexfnt/vTFBGKdUYq/95665
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon
-http://voz.one:80/alexfnt/vTFBGKdUYq/95732
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Digimon 15º Aniversário
-http://voz.one:80/alexfnt/vTFBGKdUYq/95666
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball
-http://voz.one:80/alexfnt/vTFBGKdUYq/95734
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95668
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95669
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Heroes
-http://voz.one:80/alexfnt/vTFBGKdUYq/95670
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super
-http://voz.one:80/alexfnt/vTFBGKdUYq/95735
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95671
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95672
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Super 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/95673
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z
-http://voz.one:80/alexfnt/vTFBGKdUYq/95736
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95674
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Dragon Ball Z 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95675
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Eu a Patroa e as Crianças 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95676
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Eu a Patroa e as Crianças 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95677
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Flinstones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95759
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Galinha Pintadinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95681
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Galinha pintadinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95737
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Game of Thrones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95682
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H He-Man
-http://voz.one:80/alexfnt/vTFBGKdUYq/95738
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Hercules
-http://voz.one:80/alexfnt/vTFBGKdUYq/95742
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Homem aranha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95740
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Igreja Universal
-http://voz.one:80/alexfnt/vTFBGKdUYq/95730
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jack Chan
-http://voz.one:80/alexfnt/vTFBGKdUYq/95743
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jaclkie Chan 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95739
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Jaspion
-http://voz.one:80/alexfnt/vTFBGKdUYq/95744
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H JIRAYA O Incrível Ninja
-http://voz.one:80/alexfnt/vTFBGKdUYq/95745
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Kenan e Kel
-http://voz.one:80/alexfnt/vTFBGKdUYq/95746
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H KPOP TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/95747
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Luluzinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95749
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H MASCARA
-http://voz.one:80/alexfnt/vTFBGKdUYq/95698
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Mortal Kombat
-http://voz.one:80/alexfnt/vTFBGKdUYq/95752
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Mr.Ben
-http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Naruto
-http://voz.one:80/alexfnt/vTFBGKdUYq/95686
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Naruto
-http://voz.one:80/alexfnt/vTFBGKdUYq/95754
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H O Maskara
-http://voz.one:80/alexfnt/vTFBGKdUYq/95756
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Flinstones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95688
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/95691
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/95692
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/95693
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Simpsons 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/95694
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Os Vingadores
-http://voz.one:80/alexfnt/vTFBGKdUYq/95761
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peeppa Pig
-http://voz.one:80/alexfnt/vTFBGKdUYq/95717
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peixonautas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95763
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Peppa Pig
-http://voz.one:80/alexfnt/vTFBGKdUYq/95715
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pernalonga
-http://voz.one:80/alexfnt/vTFBGKdUYq/95764
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pink-e-Cerebro
-http://voz.one:80/alexfnt/vTFBGKdUYq/95697
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Pinky e o Cérebro
-http://voz.one:80/alexfnt/vTFBGKdUYq/95765
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Scooby-Doo
-http://voz.one:80/alexfnt/vTFBGKdUYq/95771
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H South Park
-http://voz.one:80/alexfnt/vTFBGKdUYq/95701
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H South Park
-http://voz.one:80/alexfnt/vTFBGKdUYq/95772
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Thundercats
-http://voz.one:80/alexfnt/vTFBGKdUYq/95774
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Thundercats
-http://voz.one:80/alexfnt/vTFBGKdUYq/95776
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Timao e Pumba
-http://voz.one:80/alexfnt/vTFBGKdUYq/95777
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Todo Mundo Odeia o Chris 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95702
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Todo Mundo Odeia o Chris 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95703
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Tom & Jerry
-http://voz.one:80/alexfnt/vTFBGKdUYq/95704
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Tres Espias Demais
-http://voz.one:80/alexfnt/vTFBGKdUYq/95778
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Um Maluco no Pedaço 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95705
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Um Maluco no Pedaço 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95706
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Ursinhos Carinhos
-http://voz.one:80/alexfnt/vTFBGKdUYq/95707
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Vai que Cola 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95708
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H Vai que Cola 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95709
-#EXTINF:-1 tvg-id="" tvg-name="24H"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxH0OxK1sPUwGO0nhWo0RYw4SSG_O7xw18EWtUTaU22GQIRGXbIXOWp_y684dYmBxNr0&usqp=CAU"group-title="24H  TV e Radio FAX",24H X-MEN
-http://voz.one:80/alexfnt/vTFBGKdUYq/95780
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD " tvg-logo="https://imgur.com/kzBwVLm.png" group-title="TOONCAST TV e Radio FAX",TOONCAST FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/834.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://imgur.com/kzBwVLm.png" group-title="TOONCAST TV e Radio FAX",TOONCAST HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/124.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://imgur.com/kzBwVLm.png" group-title="TOONCAST TV e Radio FAX",TOONCAST SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/561.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-SONY TV e Radio FAX.xml "
+ ############## SONY TV e Radio FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeSONY TV e Radio FAX" group-title="
+
+#EXTINF:-1 tvg-id="sony.movies.us" tvg-name="SONY MOVIES SD" tvg-logo="https://i.imgur.com/0VtHEaj.png" group-title="SONY TV e Radio FAX",SONY MOVIES SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/93697.m3u8
+#EXTINF:-1 tvg-id="sony.movies.us" tvg-name="SONY MOVIES HD" tvg-logo="https://i.imgur.com/0VtHEaj.png" group-title="SONY TV e Radio FAX",SONY MOVIES HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/93696.m3u8
 
 #EXTM3U url-tvg=" http://grade-Fox Sports 2 TV e Radio FAX.xml "
  ############## Fox Sports 2 TV e Radio FAX ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeFox Sports 2 TV e Radio FAX" group-title="
 
+
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 4K" tvg-logo="" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 4K
+http://78.159.119.122:2082/live/Tourobox1-28Ki1tIyGu/XJeY9Ii8GE/139.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 4K" tvg-logo="" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 4K
 http://78.159.119.122:2082/live/xplus-2-jNWemboby6/KN9JVoLEKW/139.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 HD
@@ -2096,33 +1667,14 @@ http://78.159.119.122:2082/live/xplus-2-jNWemboby6/KN9JVoLEKW/140.m3u8
 http://78.159.119.122:2082/live/xplus-2-jNWemboby6/KN9JVoLEKW/1008.m3u8
 
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 FHD
-http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/773.m3u8
+http://78.159.119.122:2082/live/Tourobox1-28Ki1tIyGu/XJeY9Ii8GE/140.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 H265
-http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/245.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 HD
-http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/32.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 SD
-http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/484.m3u8
 
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 FHD
-http://cdn.x91.live:80/live/01591926275/7528252826/623134.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="FOX Sports 2 FHD H.265" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX Sports 2 FHD H.265
-http://cdn.x91.live:80/live/01591926275/7528252826/1784717.m3u8
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 HD
-http://cdn.x91.live:80/live/01591926275/7528252826/622335.m3u8
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://xx.tigeruhd.xyz:80/images/de3ed808038b399b122e00ace1791afa.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 SD
-http://cdn.x91.live:80/live/01591926275/7528252826/622783.m3u8
-
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 H265
-http://blacktv.syscdn.xyz:80/Rodrigoluz/4169916999/245
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="Fox Sports 2 TV e Radio FAX",Fox Sports 2 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13883
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/139
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/371
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/372
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="Fox Sports 2 TV e Radio FAX",FOX SPORTS 2 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/373
+http://main.xplus2-main.xyz:2082/Tourobox1-Mf5beYndy8/ymG5UPFlcC/140
+
 
 #EXTM3U url-tvg=" http://grade-Premiere TV e Radio FAX.xml "
  ############## Premiere TV e Radio FAX ############## ### 
@@ -2295,7 +1847,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/156037
 http://voz.one:80/alexfnt/vTFBGKdUYq/156052
 #EXTINF:-1 tvg-id="" tvg-name="Campeonato Brasileiro Série C"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/Campeonato_Brasileiro_de_Futebol_de_2022_-_S%C3%A9rie_C.png/200px-Campeonato_Brasileiro_de_Futebol_de_2022_-_S%C3%A9rie_C.png"group-title="Campeonato Brasileiro Série C TV e Radio FAX",Campeonato Brasileiro Série C (JOGO 1)
 http://voz.one:80/alexfnt/vTFBGKdUYq/156050
-#EXTINF:-1,#EXTINF:-1 tvg-id="" tvg-name="Campeonato Brasileiro Série C"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/Campeonato_Brasileiro_de_Futebol_de_2022_-_S%C3%A9rie_C.png/200px-Campeonato_Brasileiro_de_Futebol_de_2022_-_S%C3%A9rie_C.png"group-title="Campeonato Brasileiro Série C TV e Radio FAX",http://voz.one:80/alexfnt/vTFBGKdUYq/156051
 
 #EXTM3U url-tvg=" http://grade-de-BEIN SPORTS.xml "
  ############## BEIN SPORTS ############## ### 
@@ -2425,9 +1976,46 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/165
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="ESPORTES",PREMIERE CLUBES HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/164
 
-#EXTM3U url-tvg=" http://grade-de-Esportes.xml "
- ############## Esportes ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeEsportes" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS | ESPORTES.xml "
+ ############## CANAIS | ESPORTES ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | ESPORTES" group-title="
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/776.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD*" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV FHD*
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/88556.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV H265" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/285.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV H265*" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV H265*
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/88558.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/73.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD*" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV HD*
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/87150.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/544.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD*" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV SD*
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/88557.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.imgur.com/0sBb7aJ.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/777.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 H265" tvg-logo="https://i.imgur.com/0sBb7aJ.png" group-title="CANAIS | ESPORTES",SPORTV 2 H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/283.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/0sBb7aJ.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/71.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/0sBb7aJ.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/545.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD " tvg-logo="https://i.imgur.com/Cm90k6d.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD 
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/778.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 H265" tvg-logo="https://i.imgur.com/Cm90k6d.png" group-title="CANAIS | ESPORTES",SPORTV 3 H265
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/284.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/Cm90k6d.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/72.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/Cm90k6d.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
+http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/546.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-Esportes PPV.xml "
+ ############## Esportes PPV ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeEsportes PPV" group-title="
 
 #EXTINF:-1 tvg-id="tvg-name="UFC Fight Pass 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes PPV",UFC Fight Pass 1 FHD
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/902438
@@ -2445,6 +2033,11 @@ http://dns.acaidopara.net:8080/Claudio6431/11987416431/897944
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/899771
 #EXTINF:-1 tvg-id="tvg-name="CazeTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzY3zZ5p0NUAUZhB3-Az1po9k9CFoQSyQfwg&usqp=CAU" group-title="Esportes PPV",CazeTV 
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/899770
+
+#EXTM3U url-tvg=" http://grade-de-Esportes.xml "
+ ############## Esportes ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeEsportes" group-title="
+
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHDR" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="Esportes",SporTV FHDR
 http://dns.acaidopara.net:8080/Claudio6431/11987416431/901869
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="Esportes",SporTV FHD
@@ -3144,6 +2737,83 @@ http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/11973.mp4
 http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/33791.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Galeria dos Corações Partidos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44k9shYGerapzXDNi3wjoKuBjI5.jpg" group-title="Romance",A Galeria dos Corações Partidos (2020)
 http://dns.clientetv.net:8080/movie/765Aline6543/IrmaAline2022/41246.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Ele Não Está Tão a Fim de Você (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bLCot0IQA9ORCC9U5Cw1r3AXHtB.jpg" group-title="FILMES ROMANCE",Ele Não Está Tão a Fim de Você (2009)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91271.mp4
+
+#EXTM3U url-tvg=" http://grade-de-LANÇAMENTOS - 2023.xml "
+ ############## LANÇAMENTOS - 2023 ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeLANÇAMENTOS - 2023" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Uma Chance para Vencer (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jM9HhujEVbKAG0gaUXVzuCinrLC.jpg" group-title="LANÇAMENTOS - 2023",Uma Chance para Vencer (2022)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calça Quadrada apresenta: Zona das Marés (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rozwpOPiTEYnXygWGvUPST4lVQa.jpg" group-title="LANÇAMENTOS - 2023",Bob Esponja Calça Quadrada apresenta: Zona das Marés (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabaré Eldorado: O Alvo dos Nazistas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8acQ699CU6hNzH3Quxc6C2CaD6.jpg" group-title="LANÇAMENTOS - 2023",Cabaré Eldorado: O Alvo dos Nazistas (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cassandro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg" group-title="LANÇAMENTOS - 2023",Cassandro (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ehrengard: A Ninfa do Lago (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eZwkqc75XDMy35keKJkk2rh3Jhf.jpg" group-title="LANÇAMENTOS - 2023",Ehrengard: A Ninfa do Lago (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Milhões de Quilômetros (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gve64tTbxgo5NErRkwKeMdlHt5o.jpg" group-title="LANÇAMENTOS - 2023",A Milhões de Quilômetros (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guiado pelo Luar (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6FDQWH4n3CbdXy6okehSVVenX02.jpg" group-title="LANÇAMENTOS - 2023",Guiado pelo Luar (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Superar um Coração em Pedaços (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1fI9VlE7pK0xZ7KtpG65vTG5c0p.jpg" group-title="LANÇAMENTOS - 2023",Como Superar um Coração em Pedaços (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brilho Eterno de uma Mente sem Lembranças (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fQS6DsbA0T465kW2gz2WGmHXIh3.jpg" group-title="RECÉM CHEGADOS",Brilho Eterno de uma Mente sem Lembranças (2004)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Espreita (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qfglisVh5Nmo1nGYCoMzqyZUWcz.jpg" group-title="LANÇAMENTOS - 2023",À Espreita (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdida (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yYVLZgee1MpLGAB4YMneCdWLpEq.jpg" group-title="LANÇAMENTOS - 2023",Perdida (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninguém Vai te Salvar LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg" group-title="LANÇAMENTOS - 2023",Ninguém Vai te Salvar LEG (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones e A Relíquia do Destino (LEG) 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ohyBuxe8peJQSdoS5hw31VmKCZ4.jpg" group-title="LANÇAMENTOS - 2023",Indiana Jones e A Relíquia do Destino (LEG) 2023
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Besouro Azul (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg" group-title="LANÇAMENTOS - 2023",Besouro Azul (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gran Turismo – De Jogador a Corredor (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg" group-title="LANÇAMENTOS - 2023",Gran Turismo – De Jogador a Corredor (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Incrível História de Henry Sugar (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/azRL9bmByicPRzP0ljDNzFCwyUX.jpg" group-title="LANÇAMENTOS - 2023",A Incrível História de Henry Sugar (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khun Pan 3 LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t8ZPFl6HjRoDzxtGlfmbbSwSt9Z.jpg" group-title="LANÇAMENTOS - 2023",Khun Pan 3 LEG (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista da Vingança (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r8vVQ0blfRsRth1rCjNt45pY293.jpg" group-title="LANÇAMENTOS - 2023",A Lista da Vingança (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escândalos na Igreja A Luz Do Mundo (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k7qyALu6MlC7DZVtDopWTvtoLN6.jpg" group-title="LANÇAMENTOS - 2023",Escândalos na Igreja A Luz Do Mundo (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91284.mp4
+
+#EXTM3U url-tvg=" http://grade-de-FILMES FICÇÃO E FANTASIA.xml "
+ ############## FILMES FICÇÃO E FANTASIA ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES FICÇÃO E FANTASIA" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Experiência 3: (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eH7pQTCwenRToalvPAreFjdHDmG.jpg" group-title="FILMES FICÇÃO E FANTASIA",A Experiência 3: (2004)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Experiência 4: O Despertar (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v6liMsPS8l0P10gtkLcpC128Cdm.jpg" group-title="FILMES FICÇÃO E FANTASIA",A Experiência 4: O Despertar (2007)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91246.mp4
+
+#EXTM3U url-tvg=" http://grade-de-RECÉM CHEGADOS.xml "
+ ############## RECÉM CHEGADOS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeRECÉM CHEGADOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Na Linha de Frente (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/flMRy43ua8UQOkp555xZAQ9fYQn.jpg" group-title="RECÉM CHEGADOS",Na Linha de Frente (2021)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Drones (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="RECÉM CHEGADOS",Batalha dos Drones (2018)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cor da Vingança (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w65phx3T8pvrdtuOQFniNElssNr.jpg" group-title="RECÉM CHEGADOS",A Cor da Vingança (2020)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais X - CINEMA (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8s2gd1BZbWLSKEnvYsM8xusbjMl.jpg" group-title="FILMES CINEMA (Q-INF)",Jogos Mortais X - CINEMA (2023)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Geração do Mal (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcHUuWAUHT7aAoV6IddtgD0qUVI.jpg" group-title="RECÉM CHEGADOS",A Geração do Mal (2022)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desvio de Conduta (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1dJuX3YlWxfK54r6GbTaxoEwgGA.jpg" group-title="RECÉM CHEGADOS",Desvio de Conduta (2021)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Histórias de Meninas (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aGeud4Kor6RKhx2jXWyDo7Dyryy.jpg" group-title="RECÉM CHEGADOS",Histórias de Meninas (2020)
+http://blacktv.syscdn.xyz:80/movie/746910889141/641466243900/91240.mp4
+
+
+
 
 #EXTM3U url-tvg=" http://grade-de-Drama/ História.xml "
  ############## Drama/ História ############## ### 
@@ -7360,33 +7030,6 @@ https://ia801905.us.archive.org/17/items/o-gordo-e-o-magro-marinheiros-de-agua-d
 https://ia903203.us.archive.org/25/items/o-gordo-e-o-magro-o-capitao-e-seu-marujo-colorido-1932/O%20Gordo%20e%20o%20Magro%20-%20O%20Capit%C3%A3o%20e%20seu%20Marujo%20%5BColorido%281932%29%5D.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma boa ação nem sempre dá bom resultado"tvg-logo="https://i.ytimg.com/vi/UMOYzCalGwE/mqdefault.jpg"group-title="O Gordo E O Magro",Uma boa ação nem sempre dá bom resultado
 https://ia903202.us.archive.org/30/items/o-gordo-e-o-magro-uma-boa-acao-nem-sempre-da-bom-resultado-colorido-1931/O%20Gordo%20e%20o%20Magro%20-%20Uma%20boa%20a%C3%A7%C3%A3o%20nem%20sempre%20d%C3%A1%20bom%20resultado%21%20%5BColorido%281931%29%5D.ia.mp4
-
-#EXTM3U url-tvg="http://grade-de-Mazzaropi TV FAX.xml"
-############## Mazzaropi TV FAX  ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeMazzaropi TV FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="O Jeca Herdou uma fortuna" tvg-logo="https://i.ytimg.com/vi/DaaRM9Mlyuw/maxresdefault.jpg" group-title="Mazzaropi TV FAX",O Jeca Herdou uma fortuna
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Cenas%20Mazzaropi%20-%20O%20Jeca%20Herdou%20uma%20Fortuna%21%20%281974%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Julgamento do jeca" tvg-logo="https://i.ytimg.com/vi/3oOrRY16nuI/maxresdefault.jpg" group-title="Mazzaropi TV FAX",O Julgamento do jeca
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Cenas%20Mazzaropi%20-%20O%20Julgamento%20do%20JECA%F0%9F%91%A8_%E2%9A%96%20%F0%9F%A4%A0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="a casinha pequenina" tvg-logo="https://i.ytimg.com/vi/vigoO7v5Lto/maxresdefault.jpg" group-title="Mazzaropi TV FAX",a casinha pequenina
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20Casinha%20Pequenina%20-%20Filme%20Completo%20-%20Filme%20de%20Com%C3%A9dia%20Cine%20Cl%C3%A1ssico.mp4
-#EXTINF:-1 tvg-id="" tvg-name="chofer de praça" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dcd8e92270232b0443b8ad4b70972892158623a57cc8a3c42c70c21a733afbb6.jpg" group-title="Mazzaropi TV FAX",chofer de praça
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20Chofer%20de%20Pra%C3%A7a%20-%20Filme%20de%20Com%C3%A9dia%20-%20Filme%20Completo%20Bang%20Bang.mp4
-#EXTINF:-1 tvg-id="" tvg-name="jeca tatu" tvg-logo="https://i.ytimg.com/vi/gyPSrwKPJl4/maxresdefault.jpg" group-title="Mazzaropi TV FAX",jeca tatu
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20Jeca%20Tatu%20-%20Filme%20de%20Com%C3%A9dia%20-%20Filme%20Completo%20Bang%20Bang.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jeca e seu Filho Preto" tvg-logo="https://i.ytimg.com/vi/pUTYtd7cWcg/maxresdefault.jpg" group-title="Mazzaropi TV FAX",Jeca e seu Filho Preto
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20Jeca%20e%20Seu%20Filho%20Preto%20-%20Filme%20Completo%20-%20Filme%20de%20Com%C3%A9dia%20Cine%20Cl%C3%A1ssico.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Fofoqueiro no ceu" tvg-logo="https://i1.sndcdn.com/artworks-000186940895-gmyjl9-t500x500.jpg" group-title="Mazzaropi TV FAX",Um Fofoqueiro no ceu
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20Jec%C3%A3o...%20Um%20Fofoqueiro%20no%20C%C3%A9u%20-%20Filme%20Completo%20-%20Filme%20de%20Com%C3%A9dia%20Museu%20Mazzaropi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corintiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfXOu2aFgv_OPD3GZvRoYzoxX9hcoIZSygWhw2RdmGVrgDF4IuPF3yT2OC6Cidct8Gy0&usqp=CAU" group-title="Mazzaropi TV FAX",Corintiano
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20O%20Corintiano%20-%20Filme%20Completo%20-%20Filme%20de%20Com%C3%A9dia%20Museu%20Mazzaropi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Xerife" tvg-logo="https://ottvsimg.ottvs.com.br/cov/pro.175592/0175592_335.jpg" group-title="Mazzaropi TV FAX",O Grande Xerife
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20O%20Grande%20Xerife%20-%20Filme%20Completo%20-%20Filme%20de%20Com%C3%A9dia%20Tela%20Nacional.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vendedor de Linguiça" tvg-logo="https://www.museumazzaropi.org.br/wp-content/uploads/2020/09/OVendedorDeLinguica-scaled.jpg" group-title="Mazzaropi TV FAX",Vendedor de Linguiça
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Mazzaropi%20-%20O%20Vendedor%20de%20Lingui%C3%A7a%20-%20Filme%20de%20Com%C3%A9dia%20-%20Filme%20Completo%20Bang%20Bang.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Museu" tvg-logo="https://i.ytimg.com/vi/J6eGgQ_lBj8/maxresdefault.jpg" group-title="Mazzaropi TV FAX",Museu
-https://archive.org/download/assistir-treinamento-brutal-online-gratis/Museu%20Mazzaropi%20-%20.mp4
 
 
 #EXTM3U url-tvg="http://grade-de-Canais Filmes Desenhos Tv FAX.xml"
