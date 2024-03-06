@@ -125,7 +125,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705300481/ei/o
  ############## TV GLOBO ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTV GLOBO" group-title="
 
-
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="TV GLOBO",GLOBO SP FHD
 http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/715.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="TV GLOBO",GLOBO SP FHD H265
@@ -142,7 +141,6 @@ http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/76688.m3u8
 http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/575.m3u8
 #EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="TV TEM SOROCABA HD" tvg-logo="" group-title="TV GLOBO",TV TEM SOROCABA HD
 http://blacktv.syscdn.xyz:80/live/luiz9702/pepplow0171/412.m3u8
-
 
 #EXTM3U url-tvg=" http://grade-de-Rede Globosat .xml "
  ############## Rede Globosat  ############## ### 
@@ -999,7 +997,6 @@ http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/19.m3u8
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://imgur.com/w37PObs.png" group-title="CANAIS  | DISCOVERY",DISCOVERY WORLD SD
 http://blacktv.syscdn.xyz:80/live/746910889141/641466243900/76672.m3u8
 
-
 #EXTM3U url-tvg=" http://grade-de-E TV e Radio FAX",.xml "
  ############## E TV e Radio FAX", ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeE TV e Radio FAX"," group-title="
@@ -1769,8 +1766,6 @@ http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1148
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1149
 #EXTINF:-1 tvg-id="tvg-name="STAR+ 8 HD" tvg-logo="" group-title="ESPORTES ONLINE",STAR+ 8 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/1150
-
-
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="" group-title="ESPORTES",BAND SPORTS 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-k9jV78DeYU/FrBT8r6xsK/120
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="ESPORTES",BAND SPORTS HD
